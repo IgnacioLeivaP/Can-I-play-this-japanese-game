@@ -1,10 +1,10 @@
 import React from 'react';
-import { Moon, Sun } from 'lucide-react';
+import { Moon } from 'lucide-react';
 import { Button } from './ui/Button';
 import { useTheme } from '@/contexts/ThemeContext';
 
 export function ThemeToggle() {
-  const { theme, toggleTheme } = useTheme();
+  const { toggleTheme } = useTheme();
 
   return (
     <Button
@@ -13,17 +13,8 @@ export function ThemeToggle() {
       onClick={toggleTheme}
       className="flex items-center gap-2"
     >
-      {theme === 'light' ? (
-        <>
-          <Moon className="h-4 w-4" />
-          <span className="sr-only">Dark mode</span>
-        </>
-      ) : (
-        <>
-          <Sun className="h-4 w-4" />
-          <span className="sr-only">Light mode</span>
-        </>
-      )}
+      <Moon className="h-4 w-4" />
+      <span className="sr-only">Dark mode</span>
     </Button>
   );
 }

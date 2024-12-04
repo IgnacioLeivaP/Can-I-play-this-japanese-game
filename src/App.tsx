@@ -12,7 +12,7 @@ export default function App() {
     <LanguageProvider>
       <ThemeProvider>
         <Router>
-          <div className="flex min-h-screen flex-col bg-gray-50 text-gray-900 transition-colors dark:bg-gray-900 dark:text-gray-100">
+          <div className="flex min-h-screen flex-col bg-gray-900 text-gray-100">
             <main className="flex-1">
               <Routes>
                 <Route path="/" element={<Home />} />
