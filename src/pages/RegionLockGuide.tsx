@@ -1,10 +1,8 @@
 import React from 'react';
-import { useNavigate } from 'react-router-dom';
-import { ArrowLeft, Monitor, Smartphone, Gamepad } from 'lucide-react';
+import { Monitor, Smartphone, Gamepad } from 'lucide-react';
 import { consoles } from '@/data/consoles';
 import { Console, ConsoleType, RegionLockStatus } from '@/types';
 import { useLanguage } from '@/contexts/LanguageContext';
-import { Button } from '@/components/ui/Button';
 
 const typeIcons: Record<ConsoleType, React.ReactNode> = {
   home: <Monitor className="h-5 w-5" />,
@@ -13,7 +11,6 @@ const typeIcons: Record<ConsoleType, React.ReactNode> = {
 };
 
 export function RegionLockGuide() {
-  const navigate = useNavigate();
   const { t } = useLanguage();
 
   const consolesByManufacturer = consoles.reduce((acc, console) => {
@@ -42,15 +39,6 @@ export function RegionLockGuide() {
   return (
     <div className="min-h-screen px-4 py-8">
       <div className="mx-auto max-w-4xl">
-        <Button
-          variant="outline"
-          className="mb-8 flex items-center gap-2"
-          onClick={() => navigate('/')}
-        >
-          <ArrowLeft className="h-4 w-4" />
-          {t('navigation.back')}
-        </Button>
-
         <div className="mb-8">
           <h1 className="mb-4 text-3xl font-bold">{t('regionLock.title')}</h1>
           <p className="text-gray-600 dark:text-gray-300">{t('regionLock.description')}</p>
