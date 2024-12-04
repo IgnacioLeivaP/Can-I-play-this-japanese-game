@@ -56,7 +56,7 @@ export function SettingsPage() {
               onClick={handleFeedback}
             >
               <Mail className="h-4 w-4" />
-              {t('settings.sendFeedback')}
+              {t('feedback.send')}
             </Button>
           </div>
         </div>

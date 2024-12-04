@@ -70,7 +70,8 @@ export const translations = {
     'settings.supportDescription': 'Help keep this project alive',
     'settings.feedback': 'Send Feedback',
     'settings.feedbackDescription': 'Help us improve',
-    'settings.developmentMessage': 'This application is in constant development and expansion. As a one-person team, updates may take some time, but we\'re committed to improving your experience.'
+    'settings.developmentMessage': 'This application is in constant development and expansion. As a one-person team, updates may take some time, but we\'re committed to improving your experience.',
+    'feedback.send': 'Send Feedback'
   },
   es: {
     'app.title': '¿Puedo jugar este juego japonés?',
@@ -143,6 +144,7 @@ export const translations = {
     'settings.supportDescription': 'Ayuda a mantener vivo este proyecto',
     'settings.feedback': 'Enviar Comentarios',
     'settings.feedbackDescription': 'Ayúdanos a mejorar',
-    'settings.developmentMessage': 'Esta aplicación está en constante desarrollo y expansión. Como un equipo de una sola persona, las actualizaciones pueden tomar algo de tiempo, pero estamos comprometidos a mejorar tu experiencia.'
+    'settings.developmentMessage': 'Esta aplicación está en constante desarrollo y expansión. Como un equipo de una sola persona, las actualizaciones pueden tomar algo de tiempo, pero estamos comprometidos a mejorar tu experiencia.',
+    'feedback.send': 'Enviar Comentarios'
   }
 };
