@@ -1,17 +1,12 @@
 import React, { useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
-import { ArrowLeft, Shield, Sword, Skull } from 'lucide-react';
+import { ArrowLeft } from 'lucide-react';
 import { Game, GameDifficulty } from '@/types';
 import { useLanguage } from '@/contexts/LanguageContext';
 import { Button } from '@/components/ui/Button';
 import { VotingSection } from '@/components/VotingSection';
+import { DifficultyBanner } from '@/components/DifficultyBanner';
 import { games } from '@/data/games';
-
-const difficultyIcons = {
-  playable: <Shield className="h-12 w-12 text-green-500" />,
-  caution: <Sword className="h-12 w-12 text-yellow-500" />,
-  'not-recommended': <Skull className="h-12 w-12 text-red-500" />,
-};
 
 export function GameDetails() {
   const { id } = useParams();
@@ -36,7 +31,6 @@ export function GameDetails() {
             [difficulty]: g.votes[difficulty] + 1,
           };
 
-          // Check if any difficulty has reached the threshold
           const maxVotes = Math.max(...Object.values(updatedVotes));
           const maxDifficulty = Object.entries(updatedVotes).find(
             ([, votes]) => votes === maxVotes
@@ -66,28 +60,23 @@ export function GameDetails() {
         </Link>
         
         <div className="overflow-hidden rounded-lg bg-white shadow-lg transition-colors dark:bg-gray-800">
+          <DifficultyBanner difficulty={game.difficulty} />
           <img
             src={game.coverUrl}
             alt={game.name}
             className="h-64 w-full object-cover"
           />
           <div className="p-6">
-            <div className="mb-6 flex items-start justify-between">
-              <div>
-                <h1 className="mb-2 text-3xl font-bold">{game.name}</h1>
-                {game.japaneseTitle && (
-                  <p className="mb-2 text-lg text-gray-600 dark:text-gray-300">
-                    {t('game.knownAs')}: {game.japaneseTitle.kanji} ({game.japaneseTitle.romaji})
-                  </p>
-                )}
-                <p className="text-gray-600 dark:text-gray-300">
-                  {game.platforms.join(' • ')}
+            <div className="mb-6">
+              <h1 className="mb-2 text-3xl font-bold">{game.name}</h1>
+              {game.japaneseTitle && (
+                <p className="mb-2 text-lg text-gray-600 dark:text-gray-300">
+                  {t('game.knownAs')}: {game.japaneseTitle.kanji} ({game.japaneseTitle.romaji})
                 </p>
-              </div>
-              <div className="text-center">
-                {difficultyIcons[game.difficulty]}
-                <p className="mt-2 font-medium">{t(`difficulty.${game.difficulty}`)}</p>
-              </div>
+              )}
+              <p className="text-gray-600 dark:text-gray-300">
+                {game.platforms.join(' • ')}
+              </p>
             </div>
 
             <div className="mb-6 grid grid-cols-2 gap-4">

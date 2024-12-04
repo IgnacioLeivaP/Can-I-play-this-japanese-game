@@ -1,9 +1,12 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { Home } from './pages/Home';
+import { GamesPage } from './pages/GamesPage';
+import { SettingsPage } from './pages/SettingsPage';
+import { HelpPage } from './pages/HelpPage';
 import { GameDetails } from './pages/GameDetails';
 import { RegionLockGuide } from './pages/RegionLockGuide';
-import { Footer } from './components/Footer';
+import { MainLayout } from './components/layout/MainLayout';
 import { LanguageProvider } from './contexts/LanguageContext';
 import { ThemeProvider } from './contexts/ThemeContext';
 
@@ -12,16 +15,16 @@ export default function App() {
     <LanguageProvider>
       <ThemeProvider>
         <Router>
-          <div className="flex min-h-screen flex-col bg-gray-900 text-gray-100">
-            <main className="flex-1">
-              <Routes>
-                <Route path="/" element={<Home />} />
-                <Route path="/game/:id" element={<GameDetails />} />
-                <Route path="/region-lock" element={<RegionLockGuide />} />
-              </Routes>
-            </main>
-            <Footer />
-          </div>
+          <MainLayout>
+            <Routes>
+              <Route path="/" element={<Home />} />
+              <Route path="/games" element={<GamesPage />} />
+              <Route path="/settings" element={<SettingsPage />} />
+              <Route path="/help" element={<HelpPage />} />
+              <Route path="/game/:id" element={<GameDetails />} />
+              <Route path="/region-lock" element={<RegionLockGuide />} />
+            </Routes>
+          </MainLayout>
         </Router>
       </ThemeProvider>
     </LanguageProvider>
