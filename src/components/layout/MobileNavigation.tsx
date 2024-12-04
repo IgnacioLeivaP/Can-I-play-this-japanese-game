@@ -24,7 +24,7 @@ export function MobileNavigation() {
             to={path}
             className={({ isActive }) =>
               cn(
-                'flex flex-col items-center gap-1 px-4 py-3 text-xs text-gray-400 transition-colors',
+                'flex flex-col items-center gap-1 px-4 py-3 text-xxs text-gray-400 transition-colors',
                 isActive && 'text-blue-400'
               )
             }

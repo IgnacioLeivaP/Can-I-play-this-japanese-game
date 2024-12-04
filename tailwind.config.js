@@ -41,6 +41,9 @@ export default {
           foreground: "hsl(var(--card-foreground))",
         },
       },
+      fontSize: {
+        'xxs': '0.625rem', // 10px
+      },
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
       },
