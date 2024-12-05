@@ -35,7 +35,7 @@ export function SearchBar({ onSearch, onImageSearch }: SearchBarProps) {
         <span className="text-lg font-medium text-white">{t('search.image')}</span>
       </Button>
       
-      <div className="hidden md:block">
+      <div className="hidden md:flex md:justify-center md:w-full">
         <ImageSearchButton onImageSelect={onImageSearch} />
       </div>
     </div>
