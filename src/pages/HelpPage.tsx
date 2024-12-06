@@ -1,5 +1,5 @@
 import React from 'react';
-import { Search, Smartphone, AppWindow, Download, Shield, AlertTriangle, XOctagon, Info } from 'lucide-react';
+import { Search, Smartphone, AppWindow, Download, Shield, Sword, Skull, Info } from 'lucide-react';
 import { useLanguage } from '@/contexts/LanguageContext';
 
 export function HelpPage() {
@@ -23,7 +23,7 @@ export function HelpPage() {
             </div>
 
             <div className="flex gap-4">
-              <AlertTriangle className="h-6 w-6 flex-shrink-0 text-yellow-400" />
+              <Sword className="h-6 w-6 flex-shrink-0 text-yellow-400" />
               <div>
                 <h3 className="mb-2 font-medium text-white">{t('difficulty.caution')}</h3>
                 <p className="text-sm text-gray-300">{t('help.difficulty.caution')}</p>
@@ -31,7 +31,7 @@ export function HelpPage() {
             </div>
 
             <div className="flex gap-4">
-              <XOctagon className="h-6 w-6 flex-shrink-0 text-red-400" />
+              <Skull className="h-6 w-6 flex-shrink-0 text-red-400" />
               <div>
                 <h3 className="mb-2 font-medium text-white">{t('difficulty.not-recommended')}</h3>
                 <p className="text-sm text-gray-300">{t('help.difficulty.notRecommended')}</p>
