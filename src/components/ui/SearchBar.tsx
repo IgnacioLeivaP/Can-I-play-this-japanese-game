@@ -1,6 +1,8 @@
-// components/ui/SearchBar.tsx
-import React, { useRef } from 'react';
-import { Camera } from 'lucide-react';
+import React from 'react';
+import { Search, Camera } from 'lucide-react';
+import { ImageSearchButton } from './ImageSearchButton';
+import { useLanguage } from '@/contexts/LanguageContext';
+import { Button } from './Button';
 
 interface SearchBarProps {
   onSearch: (query: string) => void;
@@ -8,34 +10,34 @@ interface SearchBarProps {
 }
 
 export function SearchBar({ onSearch, onImageSearch }: SearchBarProps) {
-  const fileInputRef = useRef<HTMLInputElement>(null);
-
-  const handleFileChange = (event: React.ChangeEvent<HTMLInputElement>) => {
-    const file = event.target.files?.[0];
-    if (file) {
-      onImageSearch(file);
-    }
-  };
+  const { t } = useLanguage();
 
   return (
-    <div className="relative w-full max-w-xl">
-      <input
-        type="text"
-        onChange={(e) => onSearch(e.target.value)}
-        className="w-full rounded-lg bg-gray-800 px-4 py-2 pr-12 text-white"
-        placeholder="Buscar juego..."
-      />
-      <label className="absolute right-2 top-1/2 -translate-y-1/2 cursor-pointer">
-        <Camera className="h-6 w-6 text-gray-400" />
+    <div className="flex w-full max-w-2xl flex-col gap-4">
+      <div className="relative w-full">
         <input
-          ref={fileInputRef}
-          type="file"
-          accept="image/*"
-          capture="environment" // Esto es clave para móviles
-          className="hidden"
-          onChange={handleFileChange}
+          type="text"
+          placeholder={t('search.placeholder')}
+          className="w-full rounded-xl border border-white/10 bg-white/5 py-3 pl-12 pr-4 text-white placeholder-gray-400 backdrop-blur-sm transition-colors focus:border-blue-500/50 focus:outline-none focus:ring-1 focus:ring-blue-500/50"
+          onChange={(e) => onSearch(e.target.value)}
         />
-      </label>
+        <Search className="absolute left-4 top-1/2 h-5 w-5 -translate-y-1/2 text-gray-400" />
+      </div>
+      
+      <Button
+        variant="outline"
+        size="lg"
+        className="group relative flex w-full items-center justify-center gap-3 overflow-hidden border-white/20 bg-white/5 py-6 backdrop-blur-sm transition-all hover:border-blue-500/50 hover:bg-blue-500/10 md:hidden"
+        onClick={() => document.getElementById('image-search-input')?.click()}
+      >
+        <div className="absolute inset-0 bg-gradient-to-r from-blue-500/20 to-violet-500/20 opacity-0 transition-opacity group-hover:opacity-100" />
+        <Camera className="h-8 w-8 text-blue-400 transition-transform group-hover:scale-110" />
+        <span className="text-lg font-medium text-white">{t('search.image')}</span>
+      </Button>
+      
+      <div className="hidden md:flex md:justify-center md:w-full">
+        <ImageSearchButton onImageSelect={onImageSearch} />
+      </div>
     </div>
   );
 }
