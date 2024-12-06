@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
-import { useParams, useNavigate } from 'react-router-dom';
+import { useParams, Link } from 'react-router-dom';
 import { ArrowLeft } from 'lucide-react';
-import { useSwipeable } from 'react-swipeable';
 import { Game, GameDifficulty } from '@/types';
 import { useLanguage } from '@/contexts/LanguageContext';
 import { Button } from '@/components/ui/Button';
@@ -12,24 +11,8 @@ import { games } from '@/data/games';
 export function GameDetails() {
   const { id } = useParams();
   const { t } = useLanguage();
-  const navigate = useNavigate();
   const [gamesData, setGamesData] = useState(games);
   const game = gamesData.find((g) => g.id === id);
-
-  const handleGoBack = () => {
-    if (window.history.length > 2) {
-      navigate(-1);
-    } else {
-      navigate('/games');
-    }
-  };
-
-  const swipeHandlers = useSwipeable({
-    onSwipedRight: handleGoBack,
-    trackMouse: true,
-    preventScrollOnSwipe: true,
-    delta: 50
-  });
 
   if (!game) {
     return (
@@ -67,16 +50,14 @@ export function GameDetails() {
   };
 
   return (
-    <div {...swipeHandlers} className="px-4 py-8">
+    <div className="px-4 py-8">
       <div className="mx-auto max-w-4xl">
-        <Button 
-          variant="outline" 
-          className="mb-6 flex items-center gap-2"
-          onClick={handleGoBack}
-        >
-          <ArrowLeft className="h-4 w-4" />
-          {t('game.back')}
-        </Button>
+        <Link to="/" className="mb-6 inline-block">
+          <Button variant="outline" className="flex items-center gap-2">
+            <ArrowLeft className="h-4 w-4" />
+            {t('game.back')}
+          </Button>
+        </Link>
         
         <div className="overflow-hidden rounded-lg bg-white shadow-lg transition-colors dark:bg-gray-800">
           <DifficultyBanner difficulty={game.difficulty} />
@@ -134,15 +115,6 @@ export function GameDetails() {
             <VotingSection game={game} onVote={handleVote} />
           </div>
         </div>
-
-        <Button 
-          variant="ghost" 
-          className="mt-6 flex w-full items-center justify-center gap-2 text-gray-400 hover:text-gray-300"
-          onClick={handleGoBack}
-        >
-          <ArrowLeft className="h-4 w-4" />
-          {t('game.back')}
-        </Button>
       </div>
     </div>
   );

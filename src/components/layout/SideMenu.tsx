@@ -19,24 +19,9 @@ export function SideMenu() {
   return (
     <div className="glass-panel fixed left-4 top-4 flex h-[calc(100vh-2rem)] w-64 flex-col gap-2 p-4">
       <div className="mb-6">
-        {location.pathname === '/' ? (
-          <div className="flex justify-center">
-            <img 
-              src="/icons/icon-96x96.png" 
-              alt="Logo" 
-              className="h-12 w-12 rounded-xl"
-            />
-          </div>
-        ) : (
-          <div className="flex items-center gap-3">
-            <img 
-              src="/icons/icon-72x72.png" 
-              alt="Logo" 
-              className="h-10 w-10 rounded-lg"
-            />
-            <h2 className="text-xl font-bold text-white">{t('app.title')}</h2>
-          </div>
-        )}
+        <h2 className="text-xl font-bold text-white">
+          {location.pathname === '/' ? t('app.menu') : t('app.title')}
+        </h2>
       </div>
       <nav className="flex flex-col gap-2">
         {menuItems.map(({ icon: Icon, label, path }) => (
