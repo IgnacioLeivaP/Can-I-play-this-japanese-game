@@ -8,7 +8,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -34,7 +34,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -60,7 +60,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -86,7 +86,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -112,7 +112,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -138,7 +138,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -164,7 +164,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Seiken_Densetsu_3.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -190,7 +190,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -216,7 +216,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -242,7 +242,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -268,7 +268,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -294,7 +294,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -320,7 +320,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -346,7 +346,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -372,7 +372,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -398,7 +398,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -424,7 +424,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -450,7 +450,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -476,7 +476,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Magic_Knight_Rayearth.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -502,7 +502,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -528,7 +528,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -554,7 +554,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -580,7 +580,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -606,7 +606,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -632,7 +632,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Dragon_Ball_Z__Super_Butōden_3.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -658,7 +658,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -684,7 +684,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -710,7 +710,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Monstania.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -736,7 +736,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Dragon_Quest_V__Tenkū_no_Hanayome.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -762,7 +762,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -788,7 +788,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -814,7 +814,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -840,7 +840,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -866,7 +866,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -892,7 +892,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -918,7 +918,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -944,7 +944,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -970,7 +970,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -996,7 +996,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -1022,7 +1022,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -1048,7 +1048,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -1074,7 +1074,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -1100,7 +1100,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -1126,7 +1126,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -1152,7 +1152,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -1178,7 +1178,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -1204,7 +1204,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -1230,7 +1230,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -1256,7 +1256,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -1282,7 +1282,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Dragon_Ball_Z__Super_Butōden.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -1308,7 +1308,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -1334,7 +1334,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -1360,7 +1360,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -1386,7 +1386,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -1412,7 +1412,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -1438,7 +1438,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Libble_Rabble.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -1464,7 +1464,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -1490,7 +1490,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Samurai_Shodown.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -1516,7 +1516,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -1542,7 +1542,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -1568,7 +1568,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -1594,7 +1594,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -1620,7 +1620,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Kirby's_Dream_Course.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -1646,7 +1646,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -1672,7 +1672,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -1698,7 +1698,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -1724,7 +1724,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -1750,7 +1750,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -1776,7 +1776,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -1802,7 +1802,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Torneko_no_Daibōken__Fushigi_no_Dungeon.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -1828,7 +1828,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Mega_Man_&_Bass.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -1854,7 +1854,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -1880,7 +1880,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -1906,7 +1906,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -1932,7 +1932,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -1958,7 +1958,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Operation_Logic_Bomb.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -1984,7 +1984,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -2010,7 +2010,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -2036,7 +2036,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -2062,7 +2062,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -2088,7 +2088,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -2114,7 +2114,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -2140,7 +2140,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -2166,7 +2166,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -2192,7 +2192,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -2218,7 +2218,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -2244,7 +2244,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -2270,7 +2270,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -2296,7 +2296,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Tactical_Soccer.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -2322,7 +2322,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -2348,7 +2348,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Final_Fantasy_V.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -2374,7 +2374,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -2400,7 +2400,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -2426,7 +2426,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -2452,7 +2452,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -2478,7 +2478,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -2504,7 +2504,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -2530,7 +2530,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -2556,7 +2556,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -2582,7 +2582,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Yume_Meikyū__Kigurumi_Daibōken.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -2608,7 +2608,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -2634,7 +2634,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -2660,7 +2660,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -2686,7 +2686,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -2712,7 +2712,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -2738,7 +2738,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -2764,7 +2764,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -2790,7 +2790,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -2816,7 +2816,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -2842,7 +2842,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -2868,7 +2868,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -2894,7 +2894,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Tiny_Toon_Adventures__Wacky_Sports_Challenge.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -2920,7 +2920,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -2946,7 +2946,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -2972,7 +2972,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -2998,7 +2998,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -3024,7 +3024,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -3050,7 +3050,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -3076,7 +3076,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -3102,7 +3102,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -3128,7 +3128,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -3154,7 +3154,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -3180,7 +3180,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -3206,7 +3206,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -3232,7 +3232,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -3258,7 +3258,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -3284,7 +3284,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -3310,7 +3310,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -3336,7 +3336,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -3362,7 +3362,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -3388,7 +3388,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -3414,7 +3414,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -3440,7 +3440,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -3466,7 +3466,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -3492,7 +3492,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -3518,7 +3518,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -3544,7 +3544,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -3570,7 +3570,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Mario's_Super_Picross.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -3596,7 +3596,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -3622,7 +3622,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/True_Golf_Classics__Waialae_Country_Club.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -3648,7 +3648,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -3674,7 +3674,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -3700,7 +3700,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -3726,7 +3726,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -3752,7 +3752,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -3778,7 +3778,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -3804,7 +3804,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -3830,7 +3830,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -3856,7 +3856,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -3882,7 +3882,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -3908,7 +3908,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -3934,7 +3934,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -3960,7 +3960,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -3986,7 +3986,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -4012,7 +4012,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -4038,7 +4038,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -4064,7 +4064,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -4090,7 +4090,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -4116,7 +4116,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -4142,7 +4142,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -4168,7 +4168,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -4194,7 +4194,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Mr._Nutz.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -4220,7 +4220,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Nosferatu.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -4246,7 +4246,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -4272,7 +4272,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -4298,7 +4298,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -4324,7 +4324,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -4350,7 +4350,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -4376,7 +4376,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Super_Ghouls_'N_Ghosts.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -4402,7 +4402,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Super_Castlevania_IV.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -4428,7 +4428,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Cyber_Knight.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -4454,7 +4454,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Shin_Megami_Tensei.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -4480,7 +4480,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -4506,7 +4506,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -4532,7 +4532,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -4558,7 +4558,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -4584,7 +4584,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -4610,7 +4610,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -4636,7 +4636,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -4662,7 +4662,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -4688,7 +4688,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Chō_Jikū_Yōsai_Macross__Scrambled_Valkyrie.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -4714,7 +4714,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -4740,7 +4740,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -4766,7 +4766,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Cosmo_Gang__The_Video.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -4792,7 +4792,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -4818,7 +4818,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -4844,7 +4844,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -4870,7 +4870,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/FEDA__The_Emblem_of_Justice.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -4896,7 +4896,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -4922,7 +4922,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -4948,7 +4948,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -4974,7 +4974,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -5000,7 +5000,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -5026,7 +5026,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Shin_Megami_Tensei_If.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -5052,7 +5052,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -5078,7 +5078,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -5104,7 +5104,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -5130,7 +5130,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -5156,7 +5156,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Crystal_Beans_from_Dungeon_Explorer.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -5182,7 +5182,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -5208,7 +5208,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -5234,7 +5234,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -5260,7 +5260,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -5286,7 +5286,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -5312,7 +5312,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -5338,7 +5338,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Terranigma.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -5364,7 +5364,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -5390,7 +5390,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -5416,7 +5416,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -5442,7 +5442,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -5468,7 +5468,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -5494,7 +5494,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -5520,7 +5520,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Jikkyō_Oshaberi_Parodius.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -5546,7 +5546,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -5572,7 +5572,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -5598,7 +5598,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Tetris_Battle_Gaiden.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -5624,7 +5624,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Wizardry__Bane_of_the_Cosmic_Forge.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -5650,7 +5650,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Yoshi's_Safari.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -5676,7 +5676,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Zen-Nihon_Pro_Wrestling.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -5702,7 +5702,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -5728,7 +5728,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -5754,7 +5754,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -5780,7 +5780,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Dragon_Ball_Z__Super_Butōden_3.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -5806,7 +5806,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -5832,7 +5832,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -5858,7 +5858,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Super_Bomberman_4.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -5884,7 +5884,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -5910,7 +5910,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -5936,7 +5936,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -5962,7 +5962,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -5988,7 +5988,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -6014,7 +6014,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -6040,7 +6040,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Kidō_Senshi_V_Gundam.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -6066,7 +6066,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -6092,7 +6092,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -6118,7 +6118,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -6144,7 +6144,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -6170,7 +6170,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -6196,7 +6196,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -6222,7 +6222,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Ys_IV__Mask_of_the_Sun.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -6248,7 +6248,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -6274,7 +6274,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -6300,7 +6300,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -6326,7 +6326,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -6352,7 +6352,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -6378,7 +6378,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -6404,7 +6404,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -6430,7 +6430,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -6456,7 +6456,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -6482,7 +6482,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -6508,7 +6508,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -6534,7 +6534,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -6560,7 +6560,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -6586,7 +6586,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -6612,7 +6612,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -6638,7 +6638,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -6664,7 +6664,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -6690,7 +6690,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -6716,7 +6716,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -6742,7 +6742,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -6768,7 +6768,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -6794,7 +6794,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -6820,7 +6820,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -6846,7 +6846,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -6872,7 +6872,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -6898,7 +6898,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -6924,7 +6924,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -6950,7 +6950,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -6976,7 +6976,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -7002,7 +7002,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -7028,7 +7028,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -7054,7 +7054,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -7080,7 +7080,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Out_of_This_World.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -7106,7 +7106,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -7132,7 +7132,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -7158,7 +7158,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -7184,7 +7184,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -7210,7 +7210,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/King_Arthur's_World.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -7236,7 +7236,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -7262,7 +7262,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -7288,7 +7288,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Donkey_Kong_Country.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -7314,7 +7314,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -7340,7 +7340,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Accele_Brid.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -7366,7 +7366,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -7392,7 +7392,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -7418,7 +7418,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -7444,7 +7444,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Fatal_Fury_2.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -7470,7 +7470,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -7496,7 +7496,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -7522,7 +7522,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -7548,7 +7548,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -7574,7 +7574,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Super_Strike_Eagle.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -7600,7 +7600,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Tecmo_Super_Bowl.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -7626,7 +7626,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -7652,7 +7652,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -7678,7 +7678,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Zero4_Champ__RR.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -7704,7 +7704,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -7730,7 +7730,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -7756,7 +7756,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -7782,7 +7782,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -7808,7 +7808,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -7834,7 +7834,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -7860,7 +7860,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -7886,7 +7886,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Hagane__The_Final_Conflict.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -7912,7 +7912,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -7938,7 +7938,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Magna_Braban__Henreki_no_Yūsha.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -7964,7 +7964,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -7990,7 +7990,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -8016,7 +8016,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Super_Bomberman_2.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -8042,7 +8042,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -8068,7 +8068,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -8094,7 +8094,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -8120,7 +8120,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -8146,7 +8146,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -8172,7 +8172,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -8198,7 +8198,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -8224,7 +8224,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -8250,7 +8250,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -8276,7 +8276,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -8302,7 +8302,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Kirby's_Dream_Land_3.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -8328,7 +8328,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -8354,7 +8354,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -8380,7 +8380,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -8406,7 +8406,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -8432,7 +8432,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -8458,7 +8458,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -8484,7 +8484,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Dragon_Ball_Z__Super_Butōden_2.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -8510,7 +8510,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -8536,7 +8536,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -8562,7 +8562,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -8588,7 +8588,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Mega_Man_X2.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -8614,7 +8614,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Shin_Megami_Tensei_II.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -8640,7 +8640,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Super_Adventure_Island_II.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -8666,7 +8666,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -8692,7 +8692,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -8718,7 +8718,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -8744,7 +8744,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -8770,7 +8770,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Paladin's_Quest.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -8796,7 +8796,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -8822,7 +8822,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Equinox.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -8848,7 +8848,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -8874,7 +8874,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -8900,7 +8900,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -8926,7 +8926,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Romancing_SaGa_3.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -8952,7 +8952,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Gon.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -8978,7 +8978,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/The_Great_Circus_Mystery_starring_Mickey_&_Minnie.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -9004,7 +9004,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -9030,7 +9030,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -9056,7 +9056,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -9082,7 +9082,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -9108,7 +9108,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -9134,7 +9134,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/The_Ignition_Factor.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -9160,7 +9160,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Dark_Half.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -9186,7 +9186,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -9212,7 +9212,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -9238,7 +9238,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -9264,7 +9264,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -9290,7 +9290,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Magic_Sword.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -9316,7 +9316,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -9342,7 +9342,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -9368,7 +9368,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -9394,7 +9394,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Gdleen.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -9420,7 +9420,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -9446,7 +9446,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -9472,7 +9472,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -9498,7 +9498,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -9524,7 +9524,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -9550,7 +9550,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -9576,7 +9576,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -9602,7 +9602,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -9628,7 +9628,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -9654,7 +9654,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -9680,7 +9680,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -9706,7 +9706,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -9732,7 +9732,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/SimCity_2000.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -9758,7 +9758,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -9784,7 +9784,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -9810,7 +9810,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Super_Nazo_Puyo__Rulue_no_Roux.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -9836,7 +9836,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -9862,7 +9862,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -9888,7 +9888,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -9914,7 +9914,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Drakkhen.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -9940,7 +9940,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -9966,7 +9966,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -9992,7 +9992,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Wrecking_Crew_'98.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -10018,7 +10018,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Kōryu_Densetsu_Villgust__Kieta_Shōjo.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -10044,7 +10044,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Final_Fight_2.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -10070,7 +10070,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -10096,7 +10096,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -10122,7 +10122,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -10148,7 +10148,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -10174,7 +10174,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -10200,7 +10200,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -10226,7 +10226,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -10252,7 +10252,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -10278,7 +10278,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Super_Mario_World_2__Yoshi's_Island.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -10304,7 +10304,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -10330,7 +10330,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -10356,7 +10356,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -10382,7 +10382,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -10408,7 +10408,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -10434,7 +10434,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -10460,7 +10460,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -10486,7 +10486,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -10512,7 +10512,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Romance_of_the_Three_Kingdoms_IV__Wall_of_Fire.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -10538,7 +10538,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Space_Invaders.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -10564,7 +10564,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -10590,7 +10590,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Soul_Blazer.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -10616,7 +10616,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -10642,7 +10642,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -10668,7 +10668,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -10694,7 +10694,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -10720,7 +10720,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -10746,7 +10746,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -10772,7 +10772,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -10798,7 +10798,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Fatal_Fury_Special.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -10824,7 +10824,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Donkey_Kong_Country_2__Diddy's_Kong_Quest.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -10850,7 +10850,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -10876,7 +10876,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -10902,7 +10902,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -10928,7 +10928,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -10954,7 +10954,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -10980,7 +10980,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -11006,7 +11006,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -11032,7 +11032,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -11058,7 +11058,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -11084,7 +11084,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -11110,7 +11110,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -11136,7 +11136,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -11162,7 +11162,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -11188,7 +11188,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -11214,7 +11214,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -11240,7 +11240,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -11266,7 +11266,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -11292,7 +11292,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -11318,7 +11318,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -11344,7 +11344,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -11370,7 +11370,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -11396,7 +11396,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Super_Bomberman_3.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -11422,7 +11422,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -11448,7 +11448,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -11474,7 +11474,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -11500,7 +11500,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -11526,7 +11526,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -11552,7 +11552,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -11578,7 +11578,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Mickey_Mania.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -11604,7 +11604,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -11630,7 +11630,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -11656,7 +11656,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Shijō_Saikyō_League_Serie_A__Ace_Striker.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -11682,7 +11682,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Super_Formation_Soccer_95__della_Serie_A.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -11708,7 +11708,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -11734,7 +11734,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -11760,7 +11760,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -11786,7 +11786,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -11812,7 +11812,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -11838,7 +11838,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -11864,7 +11864,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -11890,7 +11890,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -11916,7 +11916,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -11942,7 +11942,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -11968,7 +11968,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -11994,7 +11994,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -12020,7 +12020,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -12046,7 +12046,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Darius_Twin.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -12072,7 +12072,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Dark_Law__Meaning_of_Death.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -12098,7 +12098,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -12124,7 +12124,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -12150,7 +12150,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -12176,7 +12176,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Arcana.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -12202,7 +12202,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Battle_Grand_Prix.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -12228,7 +12228,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -12254,7 +12254,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Rival_Turf.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -12280,7 +12280,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -12306,7 +12306,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -12332,7 +12332,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -12358,7 +12358,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Smash_T.V.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -12384,7 +12384,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -12410,7 +12410,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Super_Valis_IV.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -12436,7 +12436,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -12462,7 +12462,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -12488,7 +12488,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -12514,7 +12514,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -12540,7 +12540,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -12566,7 +12566,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -12592,7 +12592,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -12618,7 +12618,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -12644,7 +12644,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/PowerMonger.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -12670,7 +12670,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -12696,7 +12696,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -12722,7 +12722,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -12748,7 +12748,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -12774,7 +12774,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -12800,7 +12800,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -12826,7 +12826,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -12852,7 +12852,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -12878,7 +12878,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -12904,7 +12904,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -12930,7 +12930,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -12956,7 +12956,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -12982,7 +12982,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -13008,7 +13008,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -13034,7 +13034,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -13060,7 +13060,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -13086,7 +13086,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -13112,7 +13112,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -13138,7 +13138,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -13164,7 +13164,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -13190,7 +13190,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -13216,7 +13216,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -13242,7 +13242,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -13268,7 +13268,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -13294,7 +13294,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -13320,7 +13320,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Mega_Man_7.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -13346,7 +13346,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -13372,7 +13372,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -13398,7 +13398,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -13424,7 +13424,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -13450,7 +13450,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -13476,7 +13476,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -13502,7 +13502,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -13528,7 +13528,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -13554,7 +13554,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -13580,7 +13580,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Kirby_Super_Star.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -13606,7 +13606,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -13632,7 +13632,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -13658,7 +13658,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -13684,7 +13684,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -13710,7 +13710,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -13736,7 +13736,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -13762,7 +13762,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -13788,7 +13788,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -13814,7 +13814,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Zero4_Champ__RR.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -13840,7 +13840,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -13866,7 +13866,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -13892,7 +13892,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -13918,7 +13918,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -13944,7 +13944,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -13970,7 +13970,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Tiny_Toon_Adventures__Buster_Busts_Loose!.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -13996,7 +13996,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -14022,7 +14022,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Torneko_no_Daibōken__Fushigi_no_Dungeon.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -14048,7 +14048,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -14074,7 +14074,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -14100,7 +14100,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -14126,7 +14126,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -14152,7 +14152,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -14178,7 +14178,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -14204,7 +14204,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Uncharted_Waters.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -14230,7 +14230,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -14256,7 +14256,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -14282,7 +14282,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -14308,7 +14308,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -14334,7 +14334,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -14360,7 +14360,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Cyber_Spin.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -14386,7 +14386,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Inindo__Way_of_the_Ninja.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -14412,7 +14412,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -14438,7 +14438,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -14464,7 +14464,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -14490,7 +14490,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Eye_of_the_Beholder.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -14516,7 +14516,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -14542,7 +14542,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -14568,7 +14568,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -14594,7 +14594,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Liberty_or_Death.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -14620,7 +14620,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -14646,7 +14646,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -14672,7 +14672,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -14698,7 +14698,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -14724,7 +14724,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Virtual_Soccer.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -14750,7 +14750,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -14776,7 +14776,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -14802,7 +14802,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -14828,7 +14828,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -14854,7 +14854,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -14880,7 +14880,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Love_Quest.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -14906,7 +14906,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -14932,7 +14932,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Nekketsu_Tairiku__Burning_Heroes.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -14958,7 +14958,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -14984,7 +14984,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -15010,7 +15010,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -15036,7 +15036,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -15062,7 +15062,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -15088,7 +15088,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Brandish_2__The_Planet_Buster.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -15114,7 +15114,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -15140,7 +15140,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -15166,7 +15166,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -15192,7 +15192,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -15218,7 +15218,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -15244,7 +15244,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -15270,7 +15270,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -15296,7 +15296,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -15322,7 +15322,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -15348,7 +15348,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -15374,7 +15374,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -15400,7 +15400,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/First_Queen__Ornic_Senki.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -15426,7 +15426,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -15452,7 +15452,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -15478,7 +15478,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -15504,7 +15504,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -15530,7 +15530,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -15556,7 +15556,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -15582,7 +15582,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Doom.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -15608,7 +15608,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -15634,7 +15634,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -15660,7 +15660,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -15686,7 +15686,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -15712,7 +15712,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -15738,7 +15738,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Super_Bomberman__Panic_Bomber_W.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -15764,7 +15764,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -15790,7 +15790,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -15816,7 +15816,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -15842,7 +15842,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -15868,7 +15868,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -15894,7 +15894,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Der_Langrisser.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -15920,7 +15920,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -15946,7 +15946,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -15972,7 +15972,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -15998,7 +15998,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -16024,7 +16024,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -16050,7 +16050,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -16076,7 +16076,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -16102,7 +16102,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -16128,7 +16128,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -16154,7 +16154,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -16180,7 +16180,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -16206,7 +16206,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -16232,7 +16232,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -16258,7 +16258,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -16284,7 +16284,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Taekwon-Do.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -16310,7 +16310,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Kūsō_Kagaku_Sekai_Gulliver_Boy.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -16336,7 +16336,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -16362,7 +16362,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -16388,7 +16388,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -16414,7 +16414,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -16440,7 +16440,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -16466,7 +16466,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -16492,7 +16492,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Brandish.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -16518,7 +16518,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -16544,7 +16544,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Super_Street_Fighter_II.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -16570,7 +16570,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -16596,7 +16596,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -16622,7 +16622,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -16648,7 +16648,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -16674,7 +16674,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Metal_Max_2.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -16700,7 +16700,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -16726,7 +16726,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -16752,7 +16752,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Super_Tetris_2_+_Bombliss.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -16778,7 +16778,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Smash_Tennis.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -16804,7 +16804,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -16830,7 +16830,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -16856,7 +16856,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -16882,7 +16882,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -16908,7 +16908,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Slayers.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -16934,7 +16934,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -16960,7 +16960,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -16986,7 +16986,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -17012,7 +17012,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -17038,7 +17038,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -17064,7 +17064,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -17090,7 +17090,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -17116,7 +17116,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Princess_Minerva.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -17142,7 +17142,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Ruin_Arm.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -17168,7 +17168,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -17194,7 +17194,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -17220,7 +17220,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -17246,7 +17246,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Ys_III__Wanderers_from_Ys.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -17272,7 +17272,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -17298,7 +17298,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -17324,7 +17324,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -17350,7 +17350,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -17376,7 +17376,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -17402,7 +17402,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -17428,7 +17428,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -17454,7 +17454,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -17480,7 +17480,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -17506,7 +17506,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -17532,7 +17532,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -17558,7 +17558,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Ultima__Runes_of_Virtue_II.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -17584,7 +17584,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -17610,7 +17610,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -17636,7 +17636,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Arabian_Nights__Sabaku_no_Seirei-ō.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -17662,7 +17662,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -17688,7 +17688,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -17714,7 +17714,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -17740,7 +17740,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -17766,7 +17766,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -17792,7 +17792,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -17818,7 +17818,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -17844,7 +17844,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Street_Fighter_II.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -17870,7 +17870,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -17896,7 +17896,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -17922,7 +17922,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -17948,7 +17948,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -17974,7 +17974,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -18000,7 +18000,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -18026,7 +18026,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -18052,7 +18052,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -18078,7 +18078,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -18104,7 +18104,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -18130,7 +18130,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Yoshi's_Cookie.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -18156,7 +18156,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -18182,7 +18182,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -18208,7 +18208,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Robotrek.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -18234,7 +18234,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -18260,7 +18260,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -18286,7 +18286,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -18312,7 +18312,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -18338,7 +18338,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -18364,7 +18364,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -18390,7 +18390,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -18416,7 +18416,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -18442,7 +18442,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Kikou_Keisatsu_Metal_Jack.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -18468,7 +18468,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -18494,7 +18494,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -18520,7 +18520,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Aero_Fighters.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -18546,7 +18546,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -18572,7 +18572,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -18598,7 +18598,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -18624,7 +18624,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -18650,7 +18650,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -18676,7 +18676,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -18702,7 +18702,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -18728,7 +18728,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/PGA_Tour_Golf.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -18754,7 +18754,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Prince_of_Persia.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -18780,7 +18780,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -18806,7 +18806,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -18832,7 +18832,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -18858,7 +18858,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -18884,7 +18884,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -18910,7 +18910,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -18936,7 +18936,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -18962,7 +18962,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -18988,7 +18988,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -19014,7 +19014,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -19040,7 +19040,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Bishōjo_Senshi_Sailor_Moon_S__Kondo_wa_Puzzle_de_Oshioki_yo!!.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -19066,7 +19066,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Emerald_Dragon.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -19092,7 +19092,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -19118,7 +19118,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -19144,7 +19144,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Tactics_Ogre.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -19170,7 +19170,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -19196,7 +19196,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -19222,7 +19222,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -19248,7 +19248,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -19274,7 +19274,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -19300,7 +19300,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Bishōjo_Senshi_Sailor_Moon.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -19326,7 +19326,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Dragon_Ball_Z__Super_Butōden.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -19352,7 +19352,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -19378,7 +19378,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -19404,7 +19404,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -19430,7 +19430,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -19456,7 +19456,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -19482,7 +19482,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -19508,7 +19508,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -19534,7 +19534,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -19560,7 +19560,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/3x3_Eyes__Seima_Kōrinden.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -19586,7 +19586,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -19612,7 +19612,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -19638,7 +19638,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -19664,7 +19664,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -19690,7 +19690,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -19716,7 +19716,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -19742,7 +19742,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/U.N._Squadron.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -19768,7 +19768,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -19794,7 +19794,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -19820,7 +19820,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -19846,7 +19846,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -19872,7 +19872,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -19898,7 +19898,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Teenage_Mutant_Ninja_Turtles__Turtles_in_Time.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -19924,7 +19924,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -19950,7 +19950,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -19976,7 +19976,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -20002,7 +20002,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -20028,7 +20028,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -20054,7 +20054,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -20080,7 +20080,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -20106,7 +20106,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Wing_Commander.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -20132,7 +20132,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -20158,7 +20158,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Whirlo.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -20184,7 +20184,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -20210,7 +20210,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -20236,7 +20236,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -20262,7 +20262,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -20288,7 +20288,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -20314,7 +20314,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Zero4_Champ__RR.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -20340,7 +20340,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -20366,7 +20366,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Castlevania__Dracula_X.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -20392,7 +20392,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -20418,7 +20418,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Go_Go_Ackman_2.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -20444,7 +20444,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -20470,7 +20470,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -20496,7 +20496,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -20522,7 +20522,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -20548,7 +20548,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -20574,7 +20574,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -20600,7 +20600,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -20626,7 +20626,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -20652,7 +20652,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Star_Ocean.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -20678,7 +20678,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -20704,7 +20704,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -20730,7 +20730,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -20756,7 +20756,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -20782,7 +20782,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -20808,7 +20808,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -20834,7 +20834,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Hook.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -20860,7 +20860,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -20886,7 +20886,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -20912,7 +20912,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Lock_On.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -20938,7 +20938,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -20964,7 +20964,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -20990,7 +20990,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -21016,7 +21016,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -21042,7 +21042,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -21068,7 +21068,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Bishōjo_Senshi_Sailor_Moon_S__Kondo_wa_Puzzle_de_Oshioki_yo!!.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -21094,7 +21094,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Disney's_The_Jungle_Book.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -21120,7 +21120,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -21146,7 +21146,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -21172,7 +21172,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -21198,7 +21198,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Sansara_Naga_2.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -21224,7 +21224,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -21250,7 +21250,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -21276,7 +21276,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -21302,7 +21302,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -21328,7 +21328,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -21354,7 +21354,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Kōshien_4.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -21380,7 +21380,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Laplace_no_Ma.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -21406,7 +21406,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Mystic_Ark.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -21432,7 +21432,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -21458,7 +21458,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -21484,7 +21484,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -21510,7 +21510,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Super_Mario_All-Stars.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -21536,7 +21536,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Mario_Paint.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -21562,7 +21562,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -21588,7 +21588,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Super_R-Type.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -21614,7 +21614,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -21640,7 +21640,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Street_Fighter_II_Turbo.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -21666,7 +21666,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -21692,7 +21692,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -21718,7 +21718,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -21744,7 +21744,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -21770,7 +21770,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -21796,7 +21796,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -21822,7 +21822,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -21848,7 +21848,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -21874,7 +21874,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -21900,7 +21900,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -21926,7 +21926,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -21952,7 +21952,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -21978,7 +21978,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -22004,7 +22004,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -22030,7 +22030,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -22056,7 +22056,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -22082,7 +22082,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -22108,7 +22108,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -22134,7 +22134,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -22160,7 +22160,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Rock_n'_Roll_Racing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -22186,7 +22186,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -22212,7 +22212,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Brain_Lord.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -22238,7 +22238,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -22264,7 +22264,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -22290,7 +22290,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -22316,7 +22316,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Q_bert_3.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -22342,7 +22342,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -22368,7 +22368,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -22394,7 +22394,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -22420,7 +22420,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -22446,7 +22446,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -22472,7 +22472,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -22498,7 +22498,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -22524,7 +22524,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Majin_Tensei.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -22550,7 +22550,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/The_Ninja_Warriors.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -22576,7 +22576,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Romancing_SaGa.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -22602,7 +22602,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -22628,7 +22628,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -22654,7 +22654,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -22680,7 +22680,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -22706,7 +22706,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -22732,7 +22732,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -22758,7 +22758,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -22784,7 +22784,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -22810,7 +22810,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -22836,7 +22836,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -22862,7 +22862,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -22888,7 +22888,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -22914,7 +22914,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -22940,7 +22940,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -22966,7 +22966,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -22992,7 +22992,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -23018,7 +23018,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -23044,7 +23044,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -23070,7 +23070,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -23096,7 +23096,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -23122,7 +23122,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -23148,7 +23148,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Michael_Andretti's_Indy_Car_Challenge.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -23174,7 +23174,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -23200,7 +23200,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -23226,7 +23226,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -23252,7 +23252,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Bushi_Seiryūden__Futari_no_Yūsha.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -23278,7 +23278,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -23304,7 +23304,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -23330,7 +23330,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -23356,7 +23356,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Arkanoid__Doh_It_Again.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -23382,7 +23382,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -23408,7 +23408,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -23434,7 +23434,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -23460,7 +23460,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Galaxy_Wars.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -23486,7 +23486,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -23512,7 +23512,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -23538,7 +23538,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/WakuWaku_Ski_Wonder_Spur.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -23564,7 +23564,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -23590,7 +23590,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -23616,7 +23616,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Super_Adventure_Island.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -23642,7 +23642,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -23668,7 +23668,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -23694,7 +23694,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Bahamut_Lagoon.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -23720,7 +23720,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -23746,7 +23746,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Tokimeki_Memorial__Densetsu_no_Ki_no_Shita_de.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -23772,7 +23772,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -23798,7 +23798,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -23824,7 +23824,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -23850,7 +23850,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -23876,7 +23876,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -23902,7 +23902,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -23928,7 +23928,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -23954,7 +23954,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Super_Bomberman_5.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -23980,7 +23980,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -24006,7 +24006,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Contra_III__The_Alien_Wars.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -24032,7 +24032,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -24058,7 +24058,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -24084,7 +24084,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Batman_Returns.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -24110,7 +24110,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -24136,7 +24136,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -24162,7 +24162,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -24188,7 +24188,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -24214,7 +24214,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -24240,7 +24240,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -24266,7 +24266,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -24292,7 +24292,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -24318,7 +24318,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -24344,7 +24344,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -24370,7 +24370,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -24396,7 +24396,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Farland_Story.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -24422,7 +24422,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -24448,7 +24448,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -24474,7 +24474,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -24500,7 +24500,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Lufia_II__Rise_of_the_Sinistrals.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -24526,7 +24526,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -24552,7 +24552,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -24578,7 +24578,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -24604,7 +24604,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -24630,7 +24630,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -24656,7 +24656,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -24682,7 +24682,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -24708,7 +24708,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Front_Mission__Gun_Hazard.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -24734,7 +24734,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -24760,7 +24760,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -24786,7 +24786,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Front_Mission.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -24812,7 +24812,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -24838,7 +24838,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -24864,7 +24864,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Star_Fox.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -24890,7 +24890,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -24916,7 +24916,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Bakumatsu_Kōrinden__Oni.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -24942,7 +24942,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -24968,7 +24968,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Doraemon__Nobita_to_Yōsei_no_Kuni.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -24994,7 +24994,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -25020,7 +25020,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -25046,7 +25046,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -25072,7 +25072,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -25098,7 +25098,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -25124,7 +25124,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -25150,7 +25150,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -25176,7 +25176,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -25202,7 +25202,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -25228,7 +25228,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -25254,7 +25254,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -25280,7 +25280,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -25306,7 +25306,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -25332,7 +25332,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -25358,7 +25358,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Mega_Man_Soccer.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -25384,7 +25384,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -25410,7 +25410,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -25436,7 +25436,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -25462,7 +25462,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -25488,7 +25488,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -25514,7 +25514,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/X-Kaliber_2097.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -25540,7 +25540,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -25566,7 +25566,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -25592,7 +25592,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -25618,7 +25618,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -25644,7 +25644,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -25670,7 +25670,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -25696,7 +25696,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -25722,7 +25722,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -25748,7 +25748,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Dragon_Quest_VI__Maboroshi_no_Daichi.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -25774,7 +25774,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -25800,7 +25800,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -25826,7 +25826,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -25852,7 +25852,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -25878,7 +25878,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -25904,7 +25904,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -25930,7 +25930,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -25956,7 +25956,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Vortex.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -25982,7 +25982,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Wonder_Project_J__Kikai_no_Shōnen_Pino.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -26008,7 +26008,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -26034,7 +26034,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -26060,7 +26060,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -26086,7 +26086,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -26112,7 +26112,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -26138,7 +26138,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Harukanaru_Augusta_3__Masters_-_New.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -26164,7 +26164,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -26190,7 +26190,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -26216,7 +26216,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Puyo_Puyo_2.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -26242,7 +26242,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -26268,7 +26268,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -26294,7 +26294,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Final_Fantasy_V.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -26320,7 +26320,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -26346,7 +26346,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -26372,7 +26372,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -26398,7 +26398,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -26424,7 +26424,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -26450,7 +26450,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -26476,7 +26476,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -26502,7 +26502,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -26528,7 +26528,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/NBA_Showdown.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -26554,7 +26554,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -26580,7 +26580,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Teenage_Mutant_Ninja_Turtles__Tournament_Fighters.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -26606,7 +26606,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -26632,7 +26632,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -26658,7 +26658,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -26684,7 +26684,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -26710,7 +26710,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -26736,7 +26736,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -26762,7 +26762,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -26788,7 +26788,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -26814,7 +26814,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Dual_Orb_II.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -26840,7 +26840,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -26866,7 +26866,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -26892,7 +26892,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -26918,7 +26918,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -26944,7 +26944,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -26970,7 +26970,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -26996,7 +26996,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -27022,7 +27022,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -27048,7 +27048,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -27074,7 +27074,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -27100,7 +27100,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -27126,7 +27126,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Super_Ninja_Boy.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -27152,7 +27152,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -27178,7 +27178,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/The_Mask.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -27204,7 +27204,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -27230,7 +27230,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -27256,7 +27256,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -27282,7 +27282,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -27308,7 +27308,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -27334,7 +27334,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -27360,7 +27360,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -27386,7 +27386,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -27412,7 +27412,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -27438,7 +27438,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -27464,7 +27464,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -27490,7 +27490,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Tecmo_Super_NBA_Basketball.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -27516,7 +27516,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/F1_Pole_Position_2.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -27542,7 +27542,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -27568,7 +27568,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -27594,7 +27594,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -27620,7 +27620,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -27646,7 +27646,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -27672,7 +27672,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -27698,7 +27698,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Go_Go_Ackman.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -27724,7 +27724,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -27750,7 +27750,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -27776,7 +27776,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -27802,7 +27802,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -27828,7 +27828,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -27854,7 +27854,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -27880,7 +27880,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Farland_Story_2.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -27906,7 +27906,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -27932,7 +27932,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -27958,7 +27958,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -27984,7 +27984,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -28010,7 +28010,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Record_of_Lodoss_War.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -28036,7 +28036,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -28062,7 +28062,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -28088,7 +28088,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -28114,7 +28114,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Tecmo_Super_Bowl_III__Final_Edition.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -28140,7 +28140,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Tengai_Makyō_Zero.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -28166,7 +28166,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -28192,7 +28192,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -28218,7 +28218,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -28244,7 +28244,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -28270,7 +28270,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Daikaijū_Monogatari.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -28296,7 +28296,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -28322,7 +28322,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Haō_Taikei_Ryū_Knight__Lord_of_Paladin.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -28348,7 +28348,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -28374,7 +28374,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -28400,7 +28400,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -28426,7 +28426,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -28452,7 +28452,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -28478,7 +28478,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -28504,7 +28504,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -28530,7 +28530,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -28556,7 +28556,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -28582,7 +28582,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -28608,7 +28608,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -28634,7 +28634,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -28660,7 +28660,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -28686,7 +28686,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -28712,7 +28712,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -28738,7 +28738,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -28764,7 +28764,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -28790,7 +28790,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -28816,7 +28816,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -28842,7 +28842,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -28868,7 +28868,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -28894,7 +28894,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -28920,7 +28920,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -28946,7 +28946,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Road_Runner's_Death_Valley_Rally.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -28972,7 +28972,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -28998,7 +28998,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -29024,7 +29024,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -29050,7 +29050,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -29076,7 +29076,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -29102,7 +29102,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -29128,7 +29128,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Final_Fight.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -29154,7 +29154,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Gradius_III.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -29180,7 +29180,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Pilotwings.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -29206,7 +29206,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Bomberman__B-Daman.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -29232,7 +29232,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -29258,7 +29258,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -29284,7 +29284,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -29310,7 +29310,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -29336,7 +29336,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -29362,7 +29362,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -29388,7 +29388,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Street_Fighter_Alpha_2.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -29414,7 +29414,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -29440,7 +29440,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Dungeon_Master.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -29466,7 +29466,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -29492,7 +29492,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Breath_of_Fire_II.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -29518,7 +29518,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -29544,7 +29544,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/The_Last_Battle.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -29570,7 +29570,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Seifuku_Densetsu__Pretty_Fighter.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -29596,7 +29596,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -29622,7 +29622,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -29648,7 +29648,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -29674,7 +29674,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -29700,7 +29700,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -29726,7 +29726,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -29752,7 +29752,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -29778,7 +29778,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -29804,7 +29804,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Cybernator.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -29830,7 +29830,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -29856,7 +29856,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -29882,7 +29882,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -29908,7 +29908,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -29934,7 +29934,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -29960,7 +29960,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -29986,7 +29986,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -30012,7 +30012,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -30038,7 +30038,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -30064,7 +30064,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -30090,7 +30090,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -30116,7 +30116,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -30142,7 +30142,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -30168,7 +30168,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -30194,7 +30194,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -30220,7 +30220,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Dragon_Ball_Z__Super_Butōden_2.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -30246,7 +30246,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -30272,7 +30272,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Mega_Man_X.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -30298,7 +30298,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -30324,7 +30324,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -30350,7 +30350,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -30376,7 +30376,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -30402,7 +30402,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -30428,7 +30428,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -30454,7 +30454,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -30480,7 +30480,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -30506,7 +30506,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -30532,7 +30532,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Full_Throttle__All-American_Racing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -30558,7 +30558,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -30584,7 +30584,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -30610,7 +30610,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -30636,7 +30636,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -30662,7 +30662,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Mickey_no_Tokyo_Disneyland_Daibōken.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -30688,7 +30688,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -30714,7 +30714,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -30740,7 +30740,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -30766,7 +30766,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -30792,7 +30792,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -30818,7 +30818,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Tommy_Moe's_Winter_Extreme__Skiing_&_Snowboarding.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -30844,7 +30844,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -30870,7 +30870,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -30896,7 +30896,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/ActRaiser.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -30922,7 +30922,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -30948,7 +30948,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -30974,7 +30974,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -31000,7 +31000,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -31026,7 +31026,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -31052,7 +31052,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -31078,7 +31078,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -31104,7 +31104,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -31130,7 +31130,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -31156,7 +31156,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -31182,7 +31182,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -31208,7 +31208,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -31234,7 +31234,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Chibi_Maruko-chan__Mezase!_Minami_no_Island!!.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -31260,7 +31260,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Super_Soccer.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -31286,7 +31286,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Super_Wagan_Land.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -31312,7 +31312,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -31338,7 +31338,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -31364,7 +31364,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -31390,7 +31390,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -31416,7 +31416,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -31442,7 +31442,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -31468,7 +31468,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -31494,7 +31494,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Cool_Spot.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -31520,7 +31520,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -31546,7 +31546,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -31572,7 +31572,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -31598,7 +31598,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -31624,7 +31624,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Romancing_SaGa_2.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -31650,7 +31650,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -31676,7 +31676,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -31702,7 +31702,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -31728,7 +31728,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -31754,7 +31754,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -31780,7 +31780,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -31806,7 +31806,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Mega_Man_X3.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -31832,7 +31832,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -31858,7 +31858,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -31884,7 +31884,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -31910,7 +31910,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -31936,7 +31936,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Harvest_Moon.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -31962,7 +31962,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -31988,7 +31988,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -32014,7 +32014,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Phalanx.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -32040,7 +32040,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Pipe_Dream.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -32066,7 +32066,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Shodai__Nekketsu_Kōha_Kunio-kun.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -32092,7 +32092,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Spindizzy_Worlds.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -32118,7 +32118,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Super_Buster_Bros.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -32144,7 +32144,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -32170,7 +32170,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -32196,7 +32196,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -32222,7 +32222,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -32248,7 +32248,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -32274,7 +32274,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -32300,7 +32300,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Sword_World_SFC.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -32326,7 +32326,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -32352,7 +32352,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -32378,7 +32378,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -32404,7 +32404,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -32430,7 +32430,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -32456,7 +32456,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -32482,7 +32482,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -32508,7 +32508,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -32534,7 +32534,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -32560,7 +32560,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -32586,7 +32586,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Chō_Mahō_Tairiku_Wozz.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -32612,7 +32612,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Gakkō_de_atta_Kowai_Hanashi.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -32638,7 +32638,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -32664,7 +32664,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -32690,7 +32690,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -32716,7 +32716,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -32742,7 +32742,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -32768,7 +32768,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -32794,7 +32794,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -32820,7 +32820,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -32846,7 +32846,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -32872,7 +32872,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -32898,7 +32898,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -32924,7 +32924,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -32950,7 +32950,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/EarthBound.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -32976,7 +32976,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -33002,7 +33002,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -33028,7 +33028,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -33054,7 +33054,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -33080,7 +33080,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -33106,7 +33106,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -33132,7 +33132,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/X-Zone.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -33158,7 +33158,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Super_Mario_Kart.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -33184,7 +33184,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -33210,7 +33210,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Dragon_View.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -33236,7 +33236,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -33262,7 +33262,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -33288,7 +33288,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -33314,7 +33314,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -33340,7 +33340,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -33366,7 +33366,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -33392,7 +33392,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Jimmy_Houston's_Bass_Tournament_U.S.A.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -33418,7 +33418,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -33444,7 +33444,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -33470,7 +33470,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -33496,7 +33496,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -33522,7 +33522,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -33548,7 +33548,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -33574,7 +33574,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -33600,7 +33600,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -33626,7 +33626,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -33652,7 +33652,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -33678,7 +33678,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Super_Mario_World_2__Yoshi's_Island.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -33704,7 +33704,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -33730,7 +33730,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -33756,7 +33756,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -33782,7 +33782,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -33808,7 +33808,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -33834,7 +33834,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -33860,7 +33860,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Super_Final_Match_Tennis.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -33886,7 +33886,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -33912,7 +33912,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -33938,7 +33938,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Wild_Guns.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -33964,7 +33964,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -33990,7 +33990,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -34016,7 +34016,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -34042,7 +34042,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -34068,7 +34068,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -34094,7 +34094,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -34120,7 +34120,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -34146,7 +34146,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -34172,7 +34172,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -34198,7 +34198,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -34224,7 +34224,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -34250,7 +34250,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -34276,7 +34276,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -34302,7 +34302,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -34328,7 +34328,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -34354,7 +34354,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -34380,7 +34380,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -34406,7 +34406,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Shien's_Revenge.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -34432,7 +34432,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -34458,7 +34458,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Taikō_Risshiden.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -34484,7 +34484,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -34510,7 +34510,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -34536,7 +34536,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Rudra_no_Hihō.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -34562,7 +34562,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -34588,7 +34588,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -34614,7 +34614,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Harukanaru_Augusta.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -34640,7 +34640,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Breath_of_Fire.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -34666,7 +34666,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -34692,7 +34692,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -34718,7 +34718,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Dark_Kingdom.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -34744,7 +34744,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -34770,7 +34770,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -34796,7 +34796,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Shodai__Nekketsu_Kōha_Kunio-kun.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -34822,7 +34822,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -34848,7 +34848,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -34874,7 +34874,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -34900,7 +34900,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Kawa_no_Nushi_Tsuri_2.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -34926,7 +34926,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -34952,7 +34952,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -34978,7 +34978,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -35004,7 +35004,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -35030,7 +35030,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -35056,7 +35056,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -35082,7 +35082,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -35108,7 +35108,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -35134,7 +35134,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -35160,7 +35160,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -35186,7 +35186,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -35212,7 +35212,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -35238,7 +35238,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -35264,7 +35264,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Super_Bomberman.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -35290,7 +35290,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -35316,7 +35316,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -35342,7 +35342,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -35368,7 +35368,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Space_Megaforce.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -35394,7 +35394,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -35420,7 +35420,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -35446,7 +35446,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -35472,7 +35472,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -35498,7 +35498,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -35524,7 +35524,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -35550,7 +35550,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/Disney's_Toy_Story.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -35576,7 +35576,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/SimCity.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -35602,7 +35602,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -35628,7 +35628,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -35654,7 +35654,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -35680,7 +35680,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -35706,7 +35706,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -35732,7 +35732,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -35758,7 +35758,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -35784,7 +35784,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
@@ -35810,7 +35810,7 @@ export const games: Game[] = [
       "kanji": "",
       "romaji": ""
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
