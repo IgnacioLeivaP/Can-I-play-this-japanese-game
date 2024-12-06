@@ -1,19 +1,18 @@
 import React, { useState, useMemo } from 'react';
-import { useNavigate } from 'react-router-dom';
+import { useNavigate, Link } from 'react-router-dom';
 import { SearchBar } from '@/components/ui/SearchBar';
-import { DifficultyFilter } from '@/components/DifficultyFilter';
 import { GameCard } from '@/components/GameCard';
+import { GameCardDay } from '@/components/GameCardDay';
 import { processImage } from '@/services/imageProcessing';
 import { useLanguage } from '@/contexts/LanguageContext';
 import { Button } from '@/components/ui/Button';
-import { Gamepad, Sparkles, XCircle } from 'lucide-react';
+import { Gamepad, Sparkles, XCircle, ArrowRight } from 'lucide-react';
 import { games } from '@/data/games';
 
 export function Home() {
   const navigate = useNavigate();
   const { t } = useLanguage();
   const [searchQuery, setSearchQuery] = useState('');
-  const [selectedDifficulty, setSelectedDifficulty] = useState<string | null>(null);
   const [isSearching, setIsSearching] = useState(false);
   const [error, setError] = useState<string | null>(null);
 
@@ -44,15 +43,17 @@ export function Home() {
   };
 
   const filteredGames = games.filter((game) => {
-    const matchesSearch = game.name.toLowerCase().includes(searchQuery.toLowerCase()) ||
-                         game.japaneseTitle?.kanji.includes(searchQuery) ||
-                         game.japaneseTitle?.romaji.toLowerCase().includes(searchQuery.toLowerCase());
-    const matchesDifficulty = !selectedDifficulty || game.difficulty === selectedDifficulty;
-    return matchesSearch && matchesDifficulty;
+    return game.name.toLowerCase().includes(searchQuery.toLowerCase()) ||
+           game.japaneseTitle?.kanji.includes(searchQuery) ||
+           game.japaneseTitle?.romaji.toLowerCase().includes(searchQuery.toLowerCase());
   });
 
-  const isSearchActive = searchQuery || selectedDifficulty;
-  const hasNoResults = isSearchActive && filteredGames.length === 0;
+  const handleViewMore = () => {
+    navigate(`/games?search=${encodeURIComponent(searchQuery)}`);
+  };
+
+  const isSearchActive = searchQuery.length > 0;
+  const hasResults = filteredGames.length > 0;
 
   return (
     <div className="relative px-4 py-8">
@@ -80,8 +81,8 @@ export function Home() {
             <h2 className="text-2xl font-bold text-white">{t('home.gameOfTheDay')}</h2>
             <Sparkles className="h-6 w-6 text-blue-400" />
           </div>
-          <div className="mx-auto max-w-md">
-            <GameCard game={gameOfTheDay} />
+          <div className="mx-auto max-w-4xl">
+            <GameCardDay game={gameOfTheDay} />
           </div>
         </div>
         
@@ -98,10 +99,6 @@ export function Home() {
               </div>
             </div>
           )}
-          <DifficultyFilter
-            onSelect={setSelectedDifficulty}
-            selected={selectedDifficulty}
-          />
         </div>
 
         {isSearching ? (
@@ -111,17 +108,26 @@ export function Home() {
               {t('search.processing')}
             </div>
           </div>
-        ) : hasNoResults ? (
+        ) : isSearchActive && !hasResults ? (
           <div className="glass-panel flex flex-col items-center justify-center gap-2 p-8 text-center">
             <XCircle className="h-12 w-12 text-gray-400" />
             <h3 className="text-lg font-semibold text-white">{t('search.noResults')}</h3>
             <p className="text-gray-400">{t('search.tryAgain')}</p>
           </div>
-        ) : isSearchActive ? (
-          <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
-            {filteredGames.map((game) => (
-              <GameCard key={game.id} game={game} />
-            ))}
+        ) : isSearchActive && hasResults ? (
+          <div className="flex flex-col items-center gap-6">
+            <div className="w-full max-w-4xl">
+              <GameCard game={filteredGames[0]} />
+            </div>
+            {filteredGames.length > 1 && (
+              <Button
+                onClick={handleViewMore}
+                className="group flex items-center gap-2 text-blue-400 hover:text-blue-300"
+              >
+                {t('search.viewMoreResults')}
+                <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-1" />
+              </Button>
+            )}
           </div>
         ) : null}
       </div>

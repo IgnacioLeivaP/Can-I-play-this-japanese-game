@@ -1,5 +1,6 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { Search } from 'lucide-react';
+import { useSearchParams } from 'react-router-dom';
 import { GameCard } from '@/components/GameCard';
 import { GameFilters } from '@/components/GameFilters';
 import { games } from '@/data/games';
@@ -7,14 +8,33 @@ import { useLanguage } from '@/contexts/LanguageContext';
 import { Button } from '@/components/ui/Button';
 import { GameDifficulty } from '@/types';
 
-const ITEMS_PER_PAGE = 20;
+const ITEMS_PER_PAGE = 21;
 
 export function GamesPage() {
   const { t } = useLanguage();
-  const [searchQuery, setSearchQuery] = useState('');
+  const [searchParams, setSearchParams] = useSearchParams();
+  const [searchQuery, setSearchQuery] = useState(searchParams.get('search') || '');
   const [currentPage, setCurrentPage] = useState(1);
   const [selectedConsole, setSelectedConsole] = useState<string | null>(null);
   const [selectedDifficulty, setSelectedDifficulty] = useState<GameDifficulty | null>(null);
+
+  // Efecto para manejar el scroll y la búsqueda inicial
+  useEffect(() => {
+    window.scrollTo(0, 0);
+    const initialSearch = searchParams.get('search');
+    if (initialSearch) {
+      setSearchQuery(initialSearch);
+    }
+  }, []);
+
+  // Actualizar searchParams cuando cambie la búsqueda
+  useEffect(() => {
+    if (searchQuery) {
+      setSearchParams({ search: searchQuery });
+    } else {
+      setSearchParams({});
+    }
+  }, [searchQuery, setSearchParams]);
 
   const filteredGames = games.filter((game) => {
     const matchesSearch = 
