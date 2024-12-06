@@ -6,6 +6,7 @@ import { useLanguage } from '@/contexts/LanguageContext';
 import { Button } from '@/components/ui/Button';
 import { VotingSection } from '@/components/VotingSection';
 import { DifficultyBanner } from '@/components/DifficultyBanner';
+import { useSwipeNavigation } from '@/hooks/useSwipeNavigation';
 import { games } from '@/data/games';
 
 export function GameDetails() {
@@ -13,6 +14,9 @@ export function GameDetails() {
   const { t } = useLanguage();
   const [gamesData, setGamesData] = useState(games);
   const game = gamesData.find((g) => g.id === id);
+
+  // Initialize swipe navigation
+  useSwipeNavigation();
 
   if (!game) {
     return (
@@ -49,15 +53,21 @@ export function GameDetails() {
     });
   };
 
+  const BackButton = () => (
+    <Link to="/">
+      <Button variant="outline" className="flex items-center gap-2">
+        <ArrowLeft className="h-4 w-4" />
+        {t('game.back')}
+      </Button>
+    </Link>
+  );
+
   return (
     <div className="px-4 py-8">
       <div className="mx-auto max-w-4xl">
-        <Link to="/" className="mb-6 inline-block">
-          <Button variant="outline" className="flex items-center gap-2">
-            <ArrowLeft className="h-4 w-4" />
-            {t('game.back')}
-          </Button>
-        </Link>
+        <div className="mb-6">
+          <BackButton />
+        </div>
         
         <div className="overflow-hidden rounded-lg bg-white shadow-lg transition-colors dark:bg-gray-800">
           <DifficultyBanner difficulty={game.difficulty} />
@@ -113,9 +123,14 @@ export function GameDetails() {
             </div>
 
             <VotingSection game={game} onVote={handleVote} />
-          </div>
+
+            <div className="mt-8">
+              
+            </div>
+          </div> 
         </div>
       </div>
+     <div class="py-6"><BackButton /></div> 
     </div>
   );
 }
