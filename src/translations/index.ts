@@ -71,31 +71,7 @@ export const translations = {
     'settings.feedback': 'Send Feedback',
     'settings.feedbackDescription': 'Help us improve',
     'settings.developmentMessage': 'This application is in constant development and expansion. As a one-person team, updates may take some time, but we\'re committed to improving your experience.',
-    'feedback.send': 'Send Feedback',
-    'help.install.title': 'Use as App',
-    'help.install.android': 'Install on Android',
-    'help.install.android.steps': {
-      '1': 'Open Chrome and visit this website',
-      '2': 'Tap the menu button (three dots) in the top right',
-      '3': 'Tap "Add to Home Screen" and follow the prompts'
-    },
-    'help.install.ios': 'Install on iOS',
-    'help.install.ios.steps': {
-      '1': 'Open Safari and visit this website',
-      '2': 'Tap the Share button at the bottom',
-      '3': 'Scroll down and tap "Add to Home Screen"'
-    },
-    'feedback.send': 'Send Feedback', // Añadir coma aquí
-    'help.install.title': 'Use as App',
-    'help.install.android': 'Install on Android',
-    'help.install.android.steps.1': 'Open Chrome and visit this website',
-    'help.install.android.steps.2': 'Tap the menu button (three dots) in the top right',
-    'help.install.android.steps.3': 'Tap "Add to Home Screen" and follow the prompts',
-    'help.install.ios': 'Install on iOS',
-    'help.install.ios.steps.1': 'Open Safari and visit this website',
-    'help.install.ios.steps.2': 'Tap the Share button at the bottom',
-    'help.install.ios.steps.3': 'Scroll down and tap "Add to Home Screen"',
-    'help.install.benefits': 'Installing as an app gives you faster access, offline support, and a better fullscreen experience.'
+    'feedback.send': 'Send Feedback'
   },
   es: {
     'app.title': '¿Puedo jugar este juego japonés?',
@@ -168,20 +144,7 @@ export const translations = {
     'settings.supportDescription': 'Ayuda a mantener vivo este proyecto',
     'settings.feedback': 'Enviar Comentarios',
     'settings.feedbackDescription': 'Ayúdanos a mejorar',
-    'settings.developmentMessage': 'Esta aplicación está en constante desarrollo y expansión. Como un equipo de una sola persona, las actualizaciones pueden tomar algo de tiempo, pero estamos comprometidos a mejorar tu experiencia.',
-    'feedback.send': 'Enviar Comentarios',
-
-    'help.install.title': 'Usar como Aplicación',
-    'help.install.android': 'Instalar en Android',
-    'help.install.android.steps.1': 'Abre Chrome y visita este sitio web',
-    'help.install.android.steps.2': 'Toca el botón de menú (tres puntos) en la parte superior derecha',
-    'help.install.android.steps.3': 'Toca "Añadir a pantalla de inicio" y sigue las instrucciones',
-    'help.install.ios': 'Instalar en iOS',
-    'help.install.ios.steps.1': 'Abre Safari y visita este sitio web',
-    'help.install.ios.steps.2': 'Toca el botón Compartir en la parte inferior',
-    'help.install.ios.steps.3': 'Desplázate hacia abajo y toca "Añadir a pantalla de inicio"',
-    
- 
-    'help.install.benefits': 'Instalar como aplicación te da acceso más rápido, soporte sin conexión y una mejor experiencia a pantalla completa.'
+    'settings.developmentMessage': 'Esta aplicación está en constante desarrollo y expansión. Como un equipo de una sola persona, las actualizaciones pueden tomar algo de tiempo, pero estamos comprometidos a mejorar tu experiencia. Con tiempo y paciencia estaremos incorporando plataformas nuevas. Por ahora, solo está disponible Super Nintendo (Super Famicom).',
+    'feedback.send': 'Enviar Comentarios'
   }
 };
