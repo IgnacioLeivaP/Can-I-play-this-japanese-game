@@ -41,6 +41,17 @@ export function HelpPage() {
         </div>
 
         <div className="glass-panel space-y-6 p-6 mb-6">
+          <div className="flex items-center gap-3">
+            <AppWindow className="h-6 w-6 text-blue-400" />
+            <h2 className="text-xl font-semibold text-white">{t('help.onlySnes.title')}</h2>
+          </div>
+          
+          <div className="space-y-4">
+            <p className="text-sm text-gray-300">{t('help.onlySnes.description')}</p>
+          </div>
+        </div>
+
+        <div className="glass-panel space-y-6 p-6 mb-6">
           <h2 className="text-xl font-semibold text-white">{t('help.notFound.title')}</h2>
           
           <div className="space-y-4">

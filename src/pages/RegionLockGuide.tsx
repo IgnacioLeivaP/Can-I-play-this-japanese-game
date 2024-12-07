@@ -40,23 +40,23 @@ export function RegionLockGuide() {
     <div className="min-h-screen px-4 py-8">
       <div className="mx-auto max-w-4xl">
         <div className="mb-8">
-          <h1 className="mb-4 text-3xl font-bold">{t('regionLock.title')}</h1>
-          <p className="text-gray-600 dark:text-gray-300">{t('regionLock.description')}</p>
+          <h1 className="mb-4 text-3xl font-bold text-white">{t('regionLock.title')}</h1>
+          <p className="text-gray-300">{t('regionLock.description')}</p>
         </div>
 
         <div className="space-y-8">
           {Object.entries(consolesByManufacturer).map(([manufacturer, consoles]) => (
-            <div key={manufacturer} className="rounded-lg bg-white p-6 shadow-md dark:bg-gray-800">
-              <h2 className="mb-4 text-xl font-semibold">{manufacturer}</h2>
-              <div className="divide-y divide-gray-200 dark:divide-gray-700">
+            <div key={manufacturer} className="glass-panel p-6">
+              <h2 className="mb-4 text-xl font-semibold text-white">{manufacturer}</h2>
+              <div className="divide-y divide-gray-700">
                 {consoles.map((console) => (
                   <div key={console.id} className="py-4">
                     <div className="flex items-center justify-between">
                       <div className="flex items-center gap-3">
                         {typeIcons[console.type]}
                         <div>
-                          <h3 className="font-medium">{console.name}</h3>
-                          <p className="text-sm text-gray-500 dark:text-gray-400">
+                          <h3 className="font-medium text-white">{console.name}</h3>
+                          <p className="text-sm text-gray-400">
                             {t('regionLock.releaseYear')}: {console.releaseYear}
                           </p>
                         </div>
@@ -68,7 +68,7 @@ export function RegionLockGuide() {
                       </div>
                     </div>
                     {console.notes && (
-                      <p className="mt-2 text-sm text-gray-600 dark:text-gray-400">
+                      <p className="mt-2 text-sm text-gray-400">
                         {console.notes}
                       </p>
                     )}

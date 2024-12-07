@@ -1,5 +1,5 @@
 import React from 'react';
-import { Mail, Coffee, Info } from 'lucide-react';
+import { Mail, Coffee, Info, Shield, Sword, Skull } from 'lucide-react';
 import { useLanguage } from '@/contexts/LanguageContext';
 import { Button } from '@/components/ui/Button';
 
@@ -62,10 +62,31 @@ export function SettingsPage() {
         </div>
 
         <div className="glass-panel p-6">
-          <div className="flex gap-4">
-            <Info className="h-6 w-6 flex-shrink-0 text-blue-400" />
-            <p className="text-sm text-gray-300">
-              {t('settings.developmentMessage')}
+          <div className="flex gap-4 flex-col">
+            <div className="flex gap-4">
+              <Info className="h-6 w-6 flex-shrink-0 text-blue-400" />
+              <div className="space-y-4 text-sm text-gray-300">
+                <p>
+                  {t('settings.developmentMessage')}
+                </p>
+                <p>
+                  {t('settings.imageSearchMessage')}
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div className="glass-panel p-6">
+          <h2 className="text-xl font-semibold text-white mb-6">{t('settings.credits')}</h2>
+          <div className="flex flex-col items-center space-y-6">
+            <div className="flex gap-8">
+              <Shield className="h-16 w-16 text-green-400" />
+              <Sword className="h-16 w-16 text-yellow-400" />
+              <Skull className="h-16 w-16 text-red-400" />
+            </div>
+            <p className="text-lg text-gray-300 font-medium">
+              {t('settings.madeBy')}
             </p>
           </div>
         </div>

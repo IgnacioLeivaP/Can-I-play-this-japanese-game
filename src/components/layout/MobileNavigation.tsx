@@ -1,6 +1,6 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
-import { Search, Gamepad2, Settings, Lock, HelpCircle } from 'lucide-react';
+import { Joystick, Gamepad2, Settings, Lock, HelpCircle } from 'lucide-react';
 import { useLanguage } from '@/contexts/LanguageContext';
 import { cn } from '@/lib/utils';
 
@@ -8,7 +8,7 @@ export function MobileNavigation() {
   const { t } = useLanguage();
 
   const menuItems = [
-    { icon: Search, label: t('menu.search'), path: '/' },
+    { icon: Joystick, label: t('menu.home'), path: '/' },
     { icon: Gamepad2, label: t('menu.games'), path: '/games' },
     { icon: Lock, label: t('regionLock.title'), path: '/region-lock' },
     { icon: HelpCircle, label: t('help.title'), path: '/help' },
