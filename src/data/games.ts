@@ -8,13 +8,13 @@ export const games: Game[] = [
       "kanji": "チョップリフターIII",
       "romaji": "Chopurifutā Surī"
     },
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "09-09-1994",
+    "releaseDate": "1994-09-09",
     "developer": "Beam Software",
     "publisher": "Victor Interactive Software",
     "difficulty": "playable",
@@ -34,13 +34,13 @@ export const games: Game[] = [
       "kanji": "バークレーのシャットアップアンドジャム！",
       "romaji": "Bākurē no Shatto Appu ando Jamu!"
     },
-    "coverUrl": "https://images.unsplash.com/photo-1546519638-68e109498ffc",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "30-09-1994",
+    "releaseDate": "1994-09-30",
     "developer": "Accolade",
     "publisher": "Accolade",
     "difficulty": "playable",
@@ -60,13 +60,13 @@ export const games: Game[] = [
       "kanji": "ライブ・ア・ライブ",
       "romaji": "Raibu A Raibu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "02-09-1994",
+    "releaseDate": "1994-09-02",
     "developer": "Square",
     "publisher": "Square",
     "difficulty": "not-recommended",
@@ -86,13 +86,13 @@ export const games: Game[] = [
       "kanji": "ザ・ファイヤーメン",
       "romaji": "Za Faiāmen"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "09-09-1994",
+    "releaseDate": "1994-09-09",
     "developer": "Human Entertainment",
     "publisher": "Human Entertainment",
     "difficulty": "playable",
@@ -112,13 +112,13 @@ export const games: Game[] = [
       "kanji": "バウンティ ソード",
       "romaji": "Baunti Sōdo"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "08-09-1995",
+    "releaseDate": "1995-09-08",
     "developer": "ITL",
     "publisher": "Pioneer LDC",
     "difficulty": "not-recommended",
@@ -138,13 +138,13 @@ export const games: Game[] = [
       "kanji": "スーパー人生ゲーム2",
       "romaji": "Sūpā Jinsei Gēmu 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "08-09-1995",
+    "releaseDate": "1995-09-08",
     "developer": "Takara",
     "publisher": "Takara",
     "difficulty": "not-recommended",
@@ -164,13 +164,13 @@ export const games: Game[] = [
       "kanji": "聖剣伝説3",
       "romaji": "Seiken Densetsu Surī"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Seiken_Densetsu_3.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "30-09-1995",
+    "releaseDate": "1995-09-30",
     "developer": "Square",
     "publisher": "Square",
     "difficulty": "not-recommended",
@@ -190,13 +190,13 @@ export const games: Game[] = [
       "kanji": "バイク大好き! 走り屋魂",
       "romaji": "Baiku Daisuki! Hashiriya Kon"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": true,
-    "releaseDate": "30-09-1994",
+    "releaseDate": "1994-09-30",
     "developer": "Genki",
     "publisher": "Masaya",
     "difficulty": "caution",
@@ -216,13 +216,13 @@ export const games: Game[] = [
       "kanji": "ダウン・ザ・ワールド",
       "romaji": "Daun za Wārudo"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "30-09-1994",
+    "releaseDate": "1994-09-30",
     "developer": "ASCII Entertainment",
     "publisher": "ASCII Entertainment",
     "difficulty": "not-recommended",
@@ -242,13 +242,13 @@ export const games: Game[] = [
       "kanji": "ハンマーロックレスリング",
       "romaji": "Hanmārokku Resuringu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "30-09-1994",
+    "releaseDate": "1994-09-30",
     "developer": "Jaleco",
     "publisher": "Jaleco",
     "difficulty": "playable",
@@ -268,13 +268,13 @@ export const games: Game[] = [
       "kanji": "ヒューマングランプリIII",
       "romaji": "Hyūman Guran Puri Surī"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": true,
-    "releaseDate": "30-09-1994",
+    "releaseDate": "1994-09-30",
     "developer": "Human Entertainment",
     "publisher": "Human Entertainment",
     "difficulty": "playable",
@@ -294,13 +294,13 @@ export const games: Game[] = [
       "kanji": "クラッシュダミーズ",
       "romaji": "Kurasshu Damīzu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "30-09-1994",
+    "releaseDate": "1994-09-30",
     "developer": "Gray Matter",
     "publisher": "Acclaim Entertainment",
     "difficulty": "playable",
@@ -320,13 +320,13 @@ export const games: Game[] = [
       "kanji": "競馬エイトスペシャル2",
       "romaji": "Keiba Eito Supesharu 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "30-09-1994",
+    "releaseDate": "1994-09-30",
     "developer": "C-Lab",
     "publisher": "Imagineer",
     "difficulty": "not-recommended",
@@ -346,13 +346,13 @@ export const games: Game[] = [
       "kanji": "麻雀大会II",
       "romaji": "Mājan Taikai II"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "30-09-1994",
+    "releaseDate": "1994-09-30",
     "developer": "Unknown",
     "publisher": "Koei",
     "difficulty": "not-recommended",
@@ -372,13 +372,13 @@ export const games: Game[] = [
       "kanji": "バーチャルバート",
       "romaji": "Bācharu Bāto"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "30-09-1994",
+    "releaseDate": "1994-09-30",
     "developer": "Sculptured Software",
     "publisher": "Acclaim Entertainment",
     "difficulty": "playable",
@@ -398,13 +398,13 @@ export const games: Game[] = [
       "kanji": "スーパーターリカン",
       "romaji": "Sūpā Tārikan"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "03-09-1993",
+    "releaseDate": "1993-09-03",
     "developer": "Factor 5",
     "publisher": "Tonkin House",
     "difficulty": "playable",
@@ -424,13 +424,13 @@ export const games: Game[] = [
       "kanji": "A列車で行こう3",
       "romaji": "Ē Ressha de Ikō Surī"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "29-09-1995",
+    "releaseDate": "1995-09-29",
     "developer": "Pack-In-Video",
     "publisher": "Artdink",
     "difficulty": "not-recommended",
@@ -450,13 +450,13 @@ export const games: Game[] = [
       "kanji": "ダービージョッキー2",
       "romaji": "Dābī Jokkī 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "29-09-1995",
+    "releaseDate": "1995-09-29",
     "developer": "Graphic Research",
     "publisher": "Asmik Ace Entertainment",
     "difficulty": "not-recommended",
@@ -476,13 +476,13 @@ export const games: Game[] = [
       "kanji": "魔法騎士レイアース",
       "romaji": "Mahō Kishi Reiāsu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Magic_Knight_Rayearth.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "29-09-1995",
+    "releaseDate": "1995-09-29",
     "developer": "Pandora Box",
     "publisher": "Tomy",
     "difficulty": "not-recommended",
@@ -502,13 +502,13 @@ export const games: Game[] = [
       "kanji": "メタルマックスリターンズ",
       "romaji": "Metaru Makkusu Ritānzu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "29-09-1995",
+    "releaseDate": "1995-09-29",
     "developer": "Crea-Tech",
     "publisher": "Data East",
     "difficulty": "not-recommended",
@@ -528,13 +528,13 @@ export const games: Game[] = [
       "kanji": "NBAジャイブンゴー",
       "romaji": "NBA Jaibu n Gō"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "29-09-1995",
+    "releaseDate": "1995-09-29",
     "developer": "Konami",
     "publisher": "Konami",
     "difficulty": "playable",
@@ -554,13 +554,13 @@ export const games: Game[] = [
       "kanji": "サージェント・サンダース・コンバット",
       "romaji": "Sājento Sandāsu Konbatto"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "29-09-1995",
+    "releaseDate": "1995-09-29",
     "developer": "Play Avenue",
     "publisher": "ASCII Entertainment",
     "difficulty": "playable",
@@ -580,13 +580,13 @@ export const games: Game[] = [
       "kanji": "ウェディングピーチ",
       "romaji": "Wedingu Pīchi"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "29-09-1995",
+    "releaseDate": "1995-09-29",
     "developer": "Shimada Kikaku",
     "publisher": "KSS",
     "difficulty": "not-recommended",
@@ -606,13 +606,13 @@ export const games: Game[] = [
       "kanji": "ウィザードリィVI",
       "romaji": "Wizādorī VI"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "29-09-1995",
+    "releaseDate": "1995-09-29",
     "developer": "Game Studio",
     "publisher": "ASCII Entertainment",
     "difficulty": "not-recommended",
@@ -632,13 +632,13 @@ export const games: Game[] = [
       "kanji": "ドラゴンボールZ 超武闘伝3",
       "romaji": "Doragon Bōru Zetto Chō Butōden 3"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Dragon_Ball_Z__Super_Butōden_3.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": false,
-    "releaseDate": "29-09-1994",
+    "releaseDate": "1994-09-29",
     "developer": "Tose",
     "publisher": "Bandai",
     "difficulty": "playable",
@@ -658,13 +658,13 @@ export const games: Game[] = [
       "kanji": "ウィングス2",
       "romaji": "Wingusu 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Shoot 'em up",
     "japanExclusive": false,
-    "releaseDate": "29-09-1992",
+    "releaseDate": "1992-09-29",
     "developer": "Malibu Interactive",
     "publisher": "Namco",
     "difficulty": "playable",
@@ -684,13 +684,13 @@ export const games: Game[] = [
       "kanji": "ハーメルンのバイオリン弾き",
       "romaji": "Hāmerun no Baiorin Hiki"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "28-09-1995",
+    "releaseDate": "1995-09-28",
     "developer": "Daft",
     "publisher": "Enix",
     "difficulty": "not-recommended",
@@ -710,13 +710,13 @@ export const games: Game[] = [
       "kanji": "モンスタニア",
       "romaji": "Monsutania"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Monstania.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": true,
-    "releaseDate": "27-09-1996",
+    "releaseDate": "1996-09-27",
     "developer": "Bits Laboratory",
     "publisher": "Pack-In-Video",
     "difficulty": "not-recommended",
@@ -736,13 +736,13 @@ export const games: Game[] = [
       "kanji": "ドラゴンクエストV",
       "romaji": "Doragon Kuesuto V"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Dragon_Quest_V__Tenkū_no_Hanayome.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "27-09-1992",
+    "releaseDate": "1992-09-27",
     "developer": "Chunsoft",
     "publisher": "Enix",
     "difficulty": "not-recommended",
@@ -762,13 +762,13 @@ export const games: Game[] = [
       "kanji": "ホーリーアンブレラ",
       "romaji": "Hōrī Anburera"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "25-09-1995",
+    "releaseDate": "1995-09-25",
     "developer": "Earthly Soft",
     "publisher": "Naxat Soft",
     "difficulty": "caution",
@@ -788,13 +788,13 @@ export const games: Game[] = [
       "kanji": "大戦略エキスパート",
       "romaji": "Daisenryaku Ekisupāto"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": true,
-    "releaseDate": "25-09-1992",
+    "releaseDate": "1992-09-25",
     "developer": "SystemSoft Alpha",
     "publisher": "ASCII Entertainment",
     "difficulty": "not-recommended",
@@ -814,13 +814,13 @@ export const games: Game[] = [
       "kanji": "ギャンブラー自己中心派",
       "romaji": "Gyanburā Jikochūshinha"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "25-09-1992",
+    "releaseDate": "1992-09-25",
     "developer": "Bits Laboratory",
     "publisher": "Palsoft",
     "difficulty": "not-recommended",
@@ -840,13 +840,13 @@ export const games: Game[] = [
       "kanji": "銀河英雄伝説",
       "romaji": "Ginga Eiyū Densetsu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": true,
-    "releaseDate": "25-09-1992",
+    "releaseDate": "1992-09-25",
     "developer": "Advance Communication Company",
     "publisher": "Tokuma Shoten",
     "difficulty": "not-recommended",
@@ -866,13 +866,13 @@ export const games: Game[] = [
       "kanji": "ソニックブラストマン",
       "romaji": "Sonikku Burasuto Man"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "25-09-1992",
+    "releaseDate": "1992-09-25",
     "developer": "I.T.L",
     "publisher": "Taito",
     "difficulty": "playable",
@@ -892,13 +892,13 @@ export const games: Game[] = [
       "kanji": "ゴー!ゴー!ドッジリーグ",
       "romaji": "Gō! Gō! Dojji Rīgu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "24-09-1993",
+    "releaseDate": "1993-09-24",
     "developer": "Now Production",
     "publisher": "Pack-In-Video",
     "difficulty": "playable",
@@ -918,13 +918,13 @@ export const games: Game[] = [
       "kanji": "本格麻雀 哲雀",
       "romaji": "Honkaku Mājan Tetsuman"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "24-09-1993",
+    "releaseDate": "1993-09-24",
     "developer": "Syscom",
     "publisher": "Naxat Soft",
     "difficulty": "not-recommended",
@@ -944,13 +944,13 @@ export const games: Game[] = [
       "kanji": "スーパーノヴァ",
       "romaji": "Sūpā Nova"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Shoot 'em up",
     "japanExclusive": false,
-    "releaseDate": "24-09-1993",
+    "releaseDate": "1993-09-24",
     "developer": "Taito",
     "publisher": "Taito",
     "difficulty": "playable",
@@ -970,13 +970,13 @@ export const games: Game[] = [
       "kanji": "提督の決断",
       "romaji": "Teitoku no Ketsudan"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": false,
-    "releaseDate": "24-09-1992",
+    "releaseDate": "1992-09-24",
     "developer": "Koei",
     "publisher": "Koei",
     "difficulty": "caution",
@@ -996,13 +996,13 @@ export const games: Game[] = [
       "kanji": "アンジェリーク",
       "romaji": "Anjerīku"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Visual Novel",
     "japanExclusive": true,
-    "releaseDate": "23-09-1994",
+    "releaseDate": "1994-09-23",
     "developer": "Ruby Party",
     "publisher": "Koei",
     "difficulty": "not-recommended",
@@ -1022,13 +1022,13 @@ export const games: Game[] = [
       "kanji": "スーパーブラックバス2",
       "romaji": "Sūpā Burakku Basu 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "23-09-1994",
+    "releaseDate": "1994-09-23",
     "developer": "Starfish",
     "publisher": "Hot-B",
     "difficulty": "playable",
@@ -1048,13 +1048,13 @@ export const games: Game[] = [
       "kanji": "ゴーストチェイサー電精",
       "romaji": "Gōsuto Cheisā Densei"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "23-09-1994",
+    "releaseDate": "1994-09-23",
     "developer": "Winkysoft",
     "publisher": "Banpresto",
     "difficulty": "playable",
@@ -1074,13 +1074,13 @@ export const games: Game[] = [
       "kanji": "麻雀戦国物語",
       "romaji": "Mājan Sengoku Monogatari"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "23-09-1994",
+    "releaseDate": "1994-09-23",
     "developer": "Khaos",
     "publisher": "Yojigen",
     "difficulty": "not-recommended",
@@ -1100,13 +1100,13 @@ export const games: Game[] = [
       "kanji": "所さんの麻雀",
       "romaji": "Tokoro-san no Mājan"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "23-09-1994",
+    "releaseDate": "1994-09-23",
     "developer": "Syscom",
     "publisher": "Vic Tokai",
     "difficulty": "not-recommended",
@@ -1126,13 +1126,13 @@ export const games: Game[] = [
       "kanji": "GS美神",
       "romaji": "GS Mikami"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "23-09-1993",
+    "releaseDate": "1993-09-23",
     "developer": "Natsume Co., Ltd.",
     "publisher": "Banalex",
     "difficulty": "caution",
@@ -1152,13 +1152,13 @@ export const games: Game[] = [
       "kanji": "SDガンダム2",
       "romaji": "SD Gundam 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": true,
-    "releaseDate": "23-09-1993",
+    "releaseDate": "1993-09-23",
     "developer": "Tose",
     "publisher": "Angel",
     "difficulty": "not-recommended",
@@ -1178,13 +1178,13 @@ export const games: Game[] = [
       "kanji": "朝日新聞連載",
       "romaji": "Asahi Shinbun Rensai"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "22-09-1995",
+    "releaseDate": "1995-09-22",
     "developer": "Varie",
     "publisher": "Varie",
     "difficulty": "not-recommended",
@@ -1204,13 +1204,13 @@ export const games: Game[] = [
       "kanji": "美少女戦士セーラームーン",
       "romaji": "Bishōjo Senshi Sērā Mūn"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "22-09-1995",
+    "releaseDate": "1995-09-22",
     "developer": "Arc System Works",
     "publisher": "Angel",
     "difficulty": "not-recommended",
@@ -1230,13 +1230,13 @@ export const games: Game[] = [
       "kanji": "珍配",
       "romaji": "Chinhai"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "22-09-1995",
+    "releaseDate": "1995-09-22",
     "developer": "Pixel",
     "publisher": "Banpresto",
     "difficulty": "not-recommended",
@@ -1256,13 +1256,13 @@ export const games: Game[] = [
       "kanji": "超兄貴",
       "romaji": "Chō Aniki"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "22-09-1995",
+    "releaseDate": "1995-09-22",
     "developer": "Bits Laboratory",
     "publisher": "NCS",
     "difficulty": "playable",
@@ -1282,13 +1282,13 @@ export const games: Game[] = [
       "kanji": "ドラゴンボールZ 超悟空伝",
       "romaji": "Doragon Bōru Zetto Chō Gokūden"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Dragon_Ball_Z__Super_Butōden.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "22-09-1995",
+    "releaseDate": "1995-09-22",
     "developer": "Tose",
     "publisher": "Bandai",
     "difficulty": "not-recommended",
@@ -1308,13 +1308,13 @@ export const games: Game[] = [
       "kanji": "実況ワールドサッカー2",
       "romaji": "Jikkyō Wārudo Sakkā 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "22-09-1995",
+    "releaseDate": "1995-09-22",
     "developer": "Konami",
     "publisher": "Konami",
     "difficulty": "playable",
@@ -1334,13 +1334,13 @@ export const games: Game[] = [
       "kanji": "ジャングルストライク",
       "romaji": "Janguru Sutoraiku"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "22-09-1995",
+    "releaseDate": "1995-09-22",
     "developer": "Gremlin Interactive",
     "publisher": "Electronic Arts",
     "difficulty": "playable",
@@ -1360,13 +1360,13 @@ export const games: Game[] = [
       "kanji": "新将棋倶楽部",
       "romaji": "Shin Shōgi Kurabu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "22-09-1995",
+    "releaseDate": "1995-09-22",
     "developer": "Natsu System",
     "publisher": "Hect",
     "difficulty": "not-recommended",
@@ -1386,13 +1386,13 @@ export const games: Game[] = [
       "kanji": "新桃源郷",
       "romaji": "Shin Tōgenkyō"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "22-09-1995",
+    "releaseDate": "1995-09-22",
     "developer": "Unknown",
     "publisher": "Banpresto",
     "difficulty": "not-recommended",
@@ -1412,13 +1412,13 @@ export const games: Game[] = [
       "kanji": "はんけハナフダ",
       "romaji": "Hanke Hanafuda"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "22-09-1994",
+    "releaseDate": "1994-09-22",
     "developer": "Unknown",
     "publisher": "Imagineer",
     "difficulty": "not-recommended",
@@ -1438,13 +1438,13 @@ export const games: Game[] = [
       "kanji": "リブルラブル",
       "romaji": "Riburu Raburu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Libble_Rabble.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": false,
-    "releaseDate": "22-09-1994",
+    "releaseDate": "1994-09-22",
     "developer": "Namco",
     "publisher": "Namco",
     "difficulty": "playable",
@@ -1464,13 +1464,13 @@ export const games: Game[] = [
       "kanji": "中島悟F1ヒーロー'94",
       "romaji": "Nakajima Satoru F1 Hīrō '94"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": true,
-    "releaseDate": "22-09-1994",
+    "releaseDate": "1994-09-22",
     "developer": "Unknown",
     "publisher": "Varie",
     "difficulty": "playable",
@@ -1490,13 +1490,13 @@ export const games: Game[] = [
       "kanji": "サムライスピリッツ",
       "romaji": "Samurai Supirittsu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Samurai_Shodown.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": false,
-    "releaseDate": "22-09-1994",
+    "releaseDate": "1994-09-22",
     "developer": "Takara",
     "publisher": "Takara",
     "difficulty": "playable",
@@ -1516,13 +1516,13 @@ export const games: Game[] = [
       "kanji": "スーパーフォーメーションサッカー94",
       "romaji": "Sūpā Fōmēshon Sakkā 94"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "22-09-1994",
+    "releaseDate": "1994-09-22",
     "developer": "Human Entertainment",
     "publisher": "Human Entertainment",
     "difficulty": "playable",
@@ -1542,13 +1542,13 @@ export const games: Game[] = [
       "kanji": "TNNバストーナメント",
       "romaji": "TNN Basu Tōnamento"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "22-09-1994",
+    "releaseDate": "1994-09-22",
     "developer": "American Softworks",
     "publisher": "American Softworks",
     "difficulty": "playable",
@@ -1568,13 +1568,13 @@ export const games: Game[] = [
       "kanji": "ウィザップ!",
       "romaji": "Wizappu!"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "22-09-1994",
+    "releaseDate": "1994-09-22",
     "developer": "Pop House",
     "publisher": "ASCII Entertainment",
     "difficulty": "playable",
@@ -1594,13 +1594,13 @@ export const games: Game[] = [
       "kanji": "はるかなるオーガスタ2",
       "romaji": "Harukanaru Ōgasuta 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "22-09-1993",
+    "releaseDate": "1993-09-22",
     "developer": "T&E Soft",
     "publisher": "T&E Soft",
     "difficulty": "caution",
@@ -1620,13 +1620,13 @@ export const games: Game[] = [
       "kanji": "カービィボウル",
       "romaji": "Kābī Bōru"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Kirby's_Dream_Course.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": false,
-    "releaseDate": "21-09-1994",
+    "releaseDate": "1994-09-21",
     "developer": "HAL Laboratory",
     "publisher": "Nintendo",
     "difficulty": "playable",
@@ -1646,13 +1646,13 @@ export const games: Game[] = [
       "kanji": "マジカルドロップ2",
       "romaji": "Majikaru Doroppu 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "20-09-1996",
+    "releaseDate": "1996-09-20",
     "developer": "Data East",
     "publisher": "Data East",
     "difficulty": "playable",
@@ -1672,13 +1672,13 @@ export const games: Game[] = [
       "kanji": "ウィザードリィ外伝IV",
       "romaji": "Wizādorī Gaiden IV"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "20-09-1996",
+    "releaseDate": "1996-09-20",
     "developer": "Access",
     "publisher": "ASCII Entertainment",
     "difficulty": "not-recommended",
@@ -1698,13 +1698,13 @@ export const games: Game[] = [
       "kanji": "デザエモン",
       "romaji": "Dezaemon"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Creation Tool",
     "japanExclusive": true,
-    "releaseDate": "20-09-1994",
+    "releaseDate": "1994-09-20",
     "developer": "Athena",
     "publisher": "Athena",
     "difficulty": "not-recommended",
@@ -1724,13 +1724,13 @@ export const games: Game[] = [
       "kanji": "ワールドリーグサッカー",
       "romaji": "Wārudo Rīgu Sakkā"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "20-09-1991",
+    "releaseDate": "1991-09-20",
     "developer": "Anco",
     "publisher": "Imagineer",
     "difficulty": "playable",
@@ -1750,13 +1750,13 @@ export const games: Game[] = [
       "kanji": "バトルロボット列伝",
       "romaji": "Batoru Robotto Retsuden"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": true,
-    "releaseDate": "19-09-1995",
+    "releaseDate": "1995-09-19",
     "developer": "Winkysoft",
     "publisher": "Banpresto",
     "difficulty": "playable",
@@ -1776,13 +1776,13 @@ export const games: Game[] = [
       "kanji": "戦国伝承",
       "romaji": "Sengoku Denshō"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": false,
-    "releaseDate": "19-09-1993",
+    "releaseDate": "1993-09-19",
     "developer": "Unknown",
     "publisher": "Data East",
     "difficulty": "playable",
@@ -1802,13 +1802,13 @@ export const games: Game[] = [
       "kanji": "トルネコの大冒険",
       "romaji": "Toruneko no Daibōken"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Torneko_no_Daibōken__Fushigi_no_Dungeon.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "19-09-1993",
+    "releaseDate": "1993-09-19",
     "developer": "Chunsoft",
     "publisher": "Chunsoft",
     "difficulty": "not-recommended",
@@ -1828,13 +1828,13 @@ export const games: Game[] = [
       "kanji": "ロックマン&フォルテ",
       "romaji": "Rokkuman & Forute"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Mega_Man_&_Bass.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "24-04-1998",
+    "releaseDate": "1998-04-24",
     "developer": "Capcom",
     "publisher": "Capcom",
     "difficulty": "playable",
@@ -1854,13 +1854,13 @@ export const games: Game[] = [
       "kanji": "スーパーゴール!",
       "romaji": "Sūpā Gōru!"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "24-04-1992",
+    "releaseDate": "1992-04-24",
     "developer": "Tose",
     "publisher": "Jaleco",
     "difficulty": "playable",
@@ -1880,13 +1880,13 @@ export const games: Game[] = [
       "kanji": "ヘラクレスの栄光III",
       "romaji": "Herakuresu no Eikō III"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "24-04-1992",
+    "releaseDate": "1992-04-24",
     "developer": "Data East",
     "publisher": "Data East",
     "difficulty": "not-recommended",
@@ -1906,13 +1906,13 @@ export const games: Game[] = [
       "kanji": "WWFスーパーレッスルマニア",
       "romaji": "WWF Sūpā Ressurumania"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "24-04-1992",
+    "releaseDate": "1992-04-24",
     "developer": "Sculptured Software",
     "publisher": "Acclaim Entertainment",
     "difficulty": "playable",
@@ -1932,13 +1932,13 @@ export const games: Game[] = [
       "kanji": "エルナード",
       "romaji": "Erunaado"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": false,
-    "releaseDate": "23-04-1993",
+    "releaseDate": "1993-04-23",
     "developer": "Produce",
     "publisher": "Enix",
     "difficulty": "caution",
@@ -1958,13 +1958,13 @@ export const games: Game[] = [
       "kanji": "イカリの要塞",
       "romaji": "Ikari no Yōsai"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Operation_Logic_Bomb.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "23-04-1993",
+    "releaseDate": "1993-04-23",
     "developer": "Jaleco",
     "publisher": "Jaleco",
     "difficulty": "playable",
@@ -1984,13 +1984,13 @@ export const games: Game[] = [
       "kanji": "竜騎兵団ダンザルブ",
       "romaji": "Ryūkihei Dan Danzarubu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "23-04-1993",
+    "releaseDate": "1993-04-23",
     "developer": "Pandora Box",
     "publisher": "Yutaka",
     "difficulty": "caution",
@@ -2010,13 +2010,13 @@ export const games: Game[] = [
       "kanji": "F-1グランプリ Part III",
       "romaji": "F-1 Guran Puri Part III"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": true,
-    "releaseDate": "22-04-1994",
+    "releaseDate": "1994-04-22",
     "developer": "Video System",
     "publisher": "Video System",
     "difficulty": "playable",
@@ -2036,13 +2036,13 @@ export const games: Game[] = [
       "kanji": "機動警察パトレイバー",
       "romaji": "Kidō Keisatsu Patorebā"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "22-04-1994",
+    "releaseDate": "1994-04-22",
     "developer": "Interbec",
     "publisher": "BEC",
     "difficulty": "caution",
@@ -2062,13 +2062,13 @@ export const games: Game[] = [
       "kanji": "マーヘンアドベンチャー コットン100%",
       "romaji": "Māhen Adobenchā Kotton 100%"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "22-04-1994",
+    "releaseDate": "1994-04-22",
     "developer": "Success",
     "publisher": "Datam Polystar",
     "difficulty": "playable",
@@ -2088,13 +2088,13 @@ export const games: Game[] = [
       "kanji": "まほうじんグルグル",
       "romaji": "Mahōjin Guruguru"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "21-04-1995",
+    "releaseDate": "1995-04-21",
     "developer": "Tam Tam",
     "publisher": "Enix",
     "difficulty": "not-recommended",
@@ -2114,13 +2114,13 @@ export const games: Game[] = [
       "kanji": "ママレード・ボーイ",
       "romaji": "Mamarēdo Bōi"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Visual Novel",
     "japanExclusive": true,
-    "releaseDate": "21-04-1995",
+    "releaseDate": "1995-04-21",
     "developer": "Kuusoukagaku",
     "publisher": "Bandai",
     "difficulty": "not-recommended",
@@ -2140,13 +2140,13 @@ export const games: Game[] = [
       "kanji": "なつきクライシスバトル",
       "romaji": "Natsuki Kuraishisu Batoru"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": true,
-    "releaseDate": "21-04-1995",
+    "releaseDate": "1995-04-21",
     "developer": "Tose",
     "publisher": "Angel",
     "difficulty": "playable",
@@ -2166,13 +2166,13 @@ export const games: Game[] = [
       "kanji": "リジョイス",
       "romaji": "Rijoisu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "21-04-1995",
+    "releaseDate": "1995-04-21",
     "developer": "Japan Art Media",
     "publisher": "Yanoman",
     "difficulty": "not-recommended",
@@ -2192,13 +2192,13 @@ export const games: Game[] = [
       "kanji": "新SDせんごくでん",
       "romaji": "Shin SD Sengokuden"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": true,
-    "releaseDate": "21-04-1995",
+    "releaseDate": "1995-04-21",
     "developer": "BEC",
     "publisher": "BEC",
     "difficulty": "not-recommended",
@@ -2218,13 +2218,13 @@ export const games: Game[] = [
       "kanji": "新聖刻",
       "romaji": "Shin Seikoku"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "21-04-1995",
+    "releaseDate": "1995-04-21",
     "developer": "J-Force",
     "publisher": "Yutaka",
     "difficulty": "not-recommended",
@@ -2244,13 +2244,13 @@ export const games: Game[] = [
       "kanji": "スーパーリアル麻雀PV",
       "romaji": "Sūpā Riaru Mājan PV"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "21-04-1995",
+    "releaseDate": "1995-04-21",
     "developer": "SETA",
     "publisher": "SETA",
     "difficulty": "not-recommended",
@@ -2270,13 +2270,13 @@ export const games: Game[] = [
       "kanji": "スーパートランプコレクション",
       "romaji": "Sūpā Toranpu Korekushon"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "21-04-1995",
+    "releaseDate": "1995-04-21",
     "developer": "Bottom Up",
     "publisher": "Bottom Up",
     "difficulty": "not-recommended",
@@ -2296,13 +2296,13 @@ export const games: Game[] = [
       "kanji": "タクティカルサッカー",
       "romaji": "Takutikaru Sakkā"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Tactical_Soccer.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "21-04-1995",
+    "releaseDate": "1995-04-21",
     "developer": "Electronic Arts Victor",
     "publisher": "Electronic Arts Victor",
     "difficulty": "playable",
@@ -2322,13 +2322,13 @@ export const games: Game[] = [
       "kanji": "武者",
       "romaji": "Musha"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "21-04-1992",
+    "releaseDate": "1992-04-21",
     "developer": "Jorudan",
     "publisher": "SETA",
     "difficulty": "playable",
@@ -2348,13 +2348,13 @@ export const games: Game[] = [
       "kanji": "ファイナルファンタジーVI",
       "romaji": "Fainaru Fantajī VI"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Final_Fantasy_V.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": false,
-    "releaseDate": "02-04-1994",
+    "releaseDate": "1994-04-02",
     "developer": "Square",
     "publisher": "Square",
     "difficulty": "caution",
@@ -2374,13 +2374,13 @@ export const games: Game[] = [
       "kanji": "エアーマネジメントII",
       "romaji": "Eā Manejimento II"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": false,
-    "releaseDate": "02-04-1993",
+    "releaseDate": "1993-04-02",
     "developer": "Koei",
     "publisher": "Koei",
     "difficulty": "caution",
@@ -2400,13 +2400,13 @@ export const games: Game[] = [
       "kanji": "蓬莱学園の冒険!",
       "romaji": "Hōrai Gakuen no Bōken!"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "19-04-1996",
+    "releaseDate": "1996-04-19",
     "developer": "Dynamite",
     "publisher": "J-Wing",
     "difficulty": "not-recommended",
@@ -2426,13 +2426,13 @@ export const games: Game[] = [
       "kanji": "プロ麻雀士",
       "romaji": "Puro Mājan Tsuwamono"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "18-04-1997",
+    "releaseDate": "1997-04-18",
     "developer": "Culture Brain",
     "publisher": "Culture Brain",
     "difficulty": "not-recommended",
@@ -2452,13 +2452,13 @@ export const games: Game[] = [
       "kanji": "スプリンター物語",
       "romaji": "Supurintā Monogatari"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "17-04-1995",
+    "releaseDate": "1995-04-17",
     "developer": "Video and Audio Project",
     "publisher": "Video and Audio Project",
     "difficulty": "caution",
@@ -2478,13 +2478,13 @@ export const games: Game[] = [
       "kanji": "デュアルオーブ",
       "romaji": "Dyuaru Ōbu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "16-04-1993",
+    "releaseDate": "1993-04-16",
     "developer": "I'MAX",
     "publisher": "I'MAX",
     "difficulty": "not-recommended",
@@ -2504,13 +2504,13 @@ export const games: Game[] = [
       "kanji": "麻雀闘牌伝",
       "romaji": "Mājan Tōhaiden"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "16-04-1993",
+    "releaseDate": "1993-04-16",
     "developer": "Khaos",
     "publisher": "Video System",
     "difficulty": "not-recommended",
@@ -2530,13 +2530,13 @@ export const games: Game[] = [
       "kanji": "ピンクパンサー",
       "romaji": "Pinku Pansā"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "15-04-1994",
+    "releaseDate": "1994-04-15",
     "developer": "Manley & Associates",
     "publisher": "TecMagic",
     "difficulty": "playable",
@@ -2556,13 +2556,13 @@ export const games: Game[] = [
       "kanji": "ろくでなしBLUES",
       "romaji": "Rokudenashi Burūsu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": true,
-    "releaseDate": "15-04-1994",
+    "releaseDate": "1994-04-15",
     "developer": "Tose",
     "publisher": "Bandai",
     "difficulty": "playable",
@@ -2582,13 +2582,13 @@ export const games: Game[] = [
       "kanji": "夢迷宮",
       "romaji": "Yume Meikyū"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Yume_Meikyū__Kigurumi_Daibōken.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "15-04-1994",
+    "releaseDate": "1994-04-15",
     "developer": "Axes Art Amuse",
     "publisher": "Hect",
     "difficulty": "not-recommended",
@@ -2608,13 +2608,13 @@ export const games: Game[] = [
       "kanji": "パズルんです!",
       "romaji": "Pazurun Desu!"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "14-04-1995",
+    "releaseDate": "1995-04-14",
     "developer": "Nichibutsu",
     "publisher": "Nichibutsu",
     "difficulty": "playable",
@@ -2634,13 +2634,13 @@ export const games: Game[] = [
       "kanji": "レスアルカーナ",
       "romaji": "Resu Arukāna"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "14-04-1995",
+    "releaseDate": "1995-04-14",
     "developer": "Marionette",
     "publisher": "Coconuts Japan",
     "difficulty": "not-recommended",
@@ -2660,13 +2660,13 @@ export const games: Game[] = [
       "kanji": "まほうじんグルグル2",
       "romaji": "Mahōjin Guruguru 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "12-04-1996",
+    "releaseDate": "1996-04-12",
     "developer": "Tam Tam",
     "publisher": "Enix",
     "difficulty": "not-recommended",
@@ -2686,13 +2686,13 @@ export const games: Game[] = [
       "kanji": "音楽つくる",
       "romaji": "Ongaku Tsukuru"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Creation Tool",
     "japanExclusive": true,
-    "releaseDate": "12-04-1996",
+    "releaseDate": "1996-04-12",
     "developer": "Success",
     "publisher": "ASCII Entertainment",
     "difficulty": "not-recommended",
@@ -2712,13 +2712,13 @@ export const games: Game[] = [
       "kanji": "ペブルビーチの波濤",
       "romaji": "Peburu Bīchi no Hatō"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "10-04-1992",
+    "releaseDate": "1992-04-10",
     "developer": "T&E Soft",
     "publisher": "T&E Soft",
     "difficulty": "playable",
@@ -2738,13 +2738,13 @@ export const games: Game[] = [
       "kanji": "ピクロスNP Vol. 7",
       "romaji": "Pikurosu NP Vol. 7"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "01-04-2000",
+    "releaseDate": "2000-04-01",
     "developer": "Jupiter",
     "publisher": "Nintendo",
     "difficulty": "playable",
@@ -2764,13 +2764,13 @@ export const games: Game[] = [
       "kanji": "ピクロスNP Vol. 1",
       "romaji": "Pikurosu NP Vol. 1"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "01-04-1999",
+    "releaseDate": "1999-04-01",
     "developer": "Jupiter",
     "publisher": "Nintendo",
     "difficulty": "playable",
@@ -2790,13 +2790,13 @@ export const games: Game[] = [
       "kanji": "ファミコン探偵倶楽部 Part II",
       "romaji": "Famikon Tantei Kurabu Part II"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Adventure",
     "japanExclusive": true,
-    "releaseDate": "01-04-1998",
+    "releaseDate": "1998-04-01",
     "developer": "Nintendo R&D1",
     "publisher": "Nintendo",
     "difficulty": "not-recommended",
@@ -2816,13 +2816,13 @@ export const games: Game[] = [
       "kanji": "レディストーカー",
       "romaji": "Redi Sutōkā"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "01-04-1995",
+    "releaseDate": "1995-04-01",
     "developer": "Climax Entertainment",
     "publisher": "Taito",
     "difficulty": "not-recommended",
@@ -2842,13 +2842,13 @@ export const games: Game[] = [
       "kanji": "スーパーダブル役満",
       "romaji": "Sūpā Daburu Yakuman"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "01-04-1994",
+    "releaseDate": "1994-04-01",
     "developer": "VAP",
     "publisher": "VAP",
     "difficulty": "not-recommended",
@@ -2868,13 +2868,13 @@ export const games: Game[] = [
       "kanji": "スーパーインディチャンプ",
       "romaji": "Sūpā Indi Chanpu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": true,
-    "releaseDate": "01-04-1994",
+    "releaseDate": "1994-04-01",
     "developer": "Opensystem",
     "publisher": "Forum",
     "difficulty": "playable",
@@ -2894,13 +2894,13 @@ export const games: Game[] = [
       "kanji": "タイニートゥーン どたばただいうんどうかい",
       "romaji": "Tainī Tūn Dotabata Daiundōkai"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Tiny_Toon_Adventures__Wacky_Sports_Challenge.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "30-09-1994",
+    "releaseDate": "1994-09-30",
     "developer": "Konami",
     "publisher": "Konami",
     "difficulty": "playable",
@@ -2920,13 +2920,13 @@ export const games: Game[] = [
       "kanji": "グルメ戦隊バラヤロー",
       "romaji": "Gurume Sentai Barayarō"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "29-09-1995",
+    "releaseDate": "1995-09-29",
     "developer": "Fupac Winds",
     "publisher": "Virgin Interactive Entertainment",
     "difficulty": "playable",
@@ -2946,13 +2946,13 @@ export const games: Game[] = [
       "kanji": "平安風雲伝",
       "romaji": "Heian Fuuunden"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "29-09-1995",
+    "releaseDate": "1995-09-29",
     "developer": "Natsume Co., Ltd.",
     "publisher": "KSS",
     "difficulty": "caution",
@@ -2972,13 +2972,13 @@ export const games: Game[] = [
       "kanji": "平和パチンコワールド2",
       "romaji": "Heiwa Pachinko Wārudo 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "29-09-1995",
+    "releaseDate": "1995-09-29",
     "developer": "Unknown",
     "publisher": "Shouei",
     "difficulty": "not-recommended",
@@ -2998,13 +2998,13 @@ export const games: Game[] = [
       "kanji": "ハイパーバトルゲーム 全日本GT選手権",
       "romaji": "Haipā Batoru Gēmu: Zen Nihon GT Senshuken"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": true,
-    "releaseDate": "29-09-1995",
+    "releaseDate": "1995-09-29",
     "developer": "C.P. Brain",
     "publisher": "Banpresto",
     "difficulty": "playable",
@@ -3024,13 +3024,13 @@ export const games: Game[] = [
       "kanji": "上昇麻雀 天牌",
       "romaji": "Jōshō Mājan Tenpai"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "29-09-1995",
+    "releaseDate": "1995-09-29",
     "developer": "Game Arts",
     "publisher": "Enix",
     "difficulty": "not-recommended",
@@ -3050,13 +3050,13 @@ export const games: Game[] = [
       "kanji": "ノーマーク爆配当",
       "romaji": "Nōmāku Baku Haitō"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "29-09-1995",
+    "releaseDate": "1995-09-29",
     "developer": "Unknown",
     "publisher": "Angel",
     "difficulty": "not-recommended",
@@ -3076,13 +3076,13 @@ export const games: Game[] = [
       "kanji": "バーンワールド",
       "romaji": "Bān Wārudo"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Adventure",
     "japanExclusive": true,
-    "releaseDate": "29-09-1995",
+    "releaseDate": "1995-09-29",
     "developer": "Dual",
     "publisher": "Banpresto",
     "difficulty": "not-recommended",
@@ -3102,13 +3102,13 @@ export const games: Game[] = [
       "kanji": "ヤマトタケル",
       "romaji": "Yamato Takeru"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "29-09-1995",
+    "releaseDate": "1995-09-29",
     "developer": "Multimedia Intelligence Transfer",
     "publisher": "Toho",
     "difficulty": "caution",
@@ -3128,13 +3128,13 @@ export const games: Game[] = [
       "kanji": "パーラー!ミニ3",
       "romaji": "Pārā! Mini 3"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "27-09-1996",
+    "releaseDate": "1996-09-27",
     "developer": "Unknown",
     "publisher": "Nippon Telenet",
     "difficulty": "not-recommended",
@@ -3154,13 +3154,13 @@ export const games: Game[] = [
       "kanji": "スーパー日本物産麻雀4",
       "romaji": "Sūpā Nichibutsu Mājan 4"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "27-09-1996",
+    "releaseDate": "1996-09-27",
     "developer": "Nichibutsu",
     "publisher": "Nichibutsu",
     "difficulty": "not-recommended",
@@ -3180,13 +3180,13 @@ export const games: Game[] = [
       "kanji": "ジャングルの王者ターちゃん",
       "romaji": "Janguru no Ōja Tā-chan"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": true,
-    "releaseDate": "18-09-1994",
+    "releaseDate": "1994-09-18",
     "developer": "Kuusoukagaku",
     "publisher": "Bandai",
     "difficulty": "playable",
@@ -3206,13 +3206,13 @@ export const games: Game[] = [
       "kanji": "スーパーガチャポンワールド SDガンダムX",
       "romaji": "Sūpā Gachapon Wārudo SD Gandamu X"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "18-09-1992",
+    "releaseDate": "1992-09-18",
     "developer": "BEC",
     "publisher": "Yutaka",
     "difficulty": "caution",
@@ -3232,13 +3232,13 @@ export const games: Game[] = [
       "kanji": "課長 工作島",
       "romaji": "Kachō Kōsaku Shima"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Adventure",
     "japanExclusive": true,
-    "releaseDate": "17-09-1993",
+    "releaseDate": "1993-09-17",
     "developer": "Tom Create",
     "publisher": "Yutaka",
     "difficulty": "not-recommended",
@@ -3258,13 +3258,13 @@ export const games: Game[] = [
       "kanji": "NFLフットボール",
       "romaji": "NFL Futtobōru"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "17-09-1993",
+    "releaseDate": "1993-09-17",
     "developer": "Park Place Productions",
     "publisher": "Konami",
     "difficulty": "playable",
@@ -3284,13 +3284,13 @@ export const games: Game[] = [
       "kanji": "実戦パチスロ必勝法!2",
       "romaji": "Jissen Pachi-Surotto Hisshōhō! 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "16-09-1994",
+    "releaseDate": "1994-09-16",
     "developer": "Unknown",
     "publisher": "Sammy Corporation",
     "difficulty": "not-recommended",
@@ -3310,13 +3310,13 @@ export const games: Game[] = [
       "kanji": "リーディングジョッキー",
       "romaji": "Rīdingu Jokkī"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "16-09-1994",
+    "releaseDate": "1994-09-16",
     "developer": "Unknown",
     "publisher": "Carrozzeria",
     "difficulty": "caution",
@@ -3336,13 +3336,13 @@ export const games: Game[] = [
       "kanji": "レスター",
       "romaji": "Resutā"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "16-09-1994",
+    "releaseDate": "1994-09-16",
     "developer": "Visual Concepts",
     "publisher": "DTMC",
     "difficulty": "playable",
@@ -3362,13 +3362,13 @@ export const games: Game[] = [
       "kanji": "アリスのペイントアドベンチャー",
       "romaji": "Arisu no Peinto Adobenchā"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Creation Tool",
     "japanExclusive": true,
-    "releaseDate": "15-09-1995",
+    "releaseDate": "1995-09-15",
     "developer": "Pop House",
     "publisher": "Epoch Co.",
     "difficulty": "not-recommended",
@@ -3388,13 +3388,13 @@ export const games: Game[] = [
       "kanji": "必勝777ファイターIII",
       "romaji": "Hisshō 777 Faitā III"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "15-09-1995",
+    "releaseDate": "1995-09-15",
     "developer": "Jorudan",
     "publisher": "VAP",
     "difficulty": "not-recommended",
@@ -3414,13 +3414,13 @@ export const games: Game[] = [
       "kanji": "セントアンドリュース",
       "romaji": "Sento Andoryūsu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "15-09-1995",
+    "releaseDate": "1995-09-15",
     "developer": "Unknown",
     "publisher": "Epoch Co.",
     "difficulty": "playable",
@@ -3440,13 +3440,13 @@ export const games: Game[] = [
       "kanji": "スーパー鉄球ファイト!",
       "romaji": "Sūpā Tekkyū Faito!"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "15-09-1995",
+    "releaseDate": "1995-09-15",
     "developer": "Metro",
     "publisher": "Banpresto",
     "difficulty": "playable",
@@ -3466,13 +3466,13 @@ export const games: Game[] = [
       "kanji": "上海III",
       "romaji": "Shanhai III"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "15-09-1994",
+    "releaseDate": "1994-09-15",
     "developer": "Kuusoukagaku",
     "publisher": "Sunsoft",
     "difficulty": "playable",
@@ -3492,13 +3492,13 @@ export const games: Game[] = [
       "kanji": "スパークスター",
       "romaji": "Supākusutā"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "15-09-1994",
+    "releaseDate": "1994-09-15",
     "developer": "Konami",
     "publisher": "Konami",
     "difficulty": "playable",
@@ -3518,13 +3518,13 @@ export const games: Game[] = [
       "kanji": "三國志II",
       "romaji": "Sangokushi II"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": false,
-    "releaseDate": "15-09-1991",
+    "releaseDate": "1991-09-15",
     "developer": "Koei",
     "publisher": "Koei",
     "difficulty": "caution",
@@ -3544,13 +3544,13 @@ export const games: Game[] = [
       "kanji": "クロックタワー",
       "romaji": "Kurokku Tawā"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Adventure",
     "japanExclusive": true,
-    "releaseDate": "14-09-1995",
+    "releaseDate": "1995-09-14",
     "developer": "Human Entertainment",
     "publisher": "Human Entertainment",
     "difficulty": "not-recommended",
@@ -3570,13 +3570,13 @@ export const games: Game[] = [
       "kanji": "マリオのスーパーピクロス",
       "romaji": "Mario no Sūpā Pikurosu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Mario's_Super_Picross.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "14-09-1995",
+    "releaseDate": "1995-09-14",
     "developer": "Jupiter",
     "publisher": "Nintendo",
     "difficulty": "playable",
@@ -3596,13 +3596,13 @@ export const games: Game[] = [
       "kanji": "東尾修監修スーパープロ野球スタジアム",
       "romaji": "Higashio Osamu Kanshū Sūpā Puro Yakyū Sutajiamu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "30-09-1993",
+    "releaseDate": "1993-09-30",
     "developer": "C-Lab",
     "publisher": "Tokuma Shoten",
     "difficulty": "caution",
@@ -3622,13 +3622,13 @@ export const games: Game[] = [
       "kanji": "ニュー3Dゴルフシミュレーション ワイアラエの奇跡",
       "romaji": "Nyū 3D Gorufu Shimyurēshon Waiarae no Kiseki"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/True_Golf_Classics__Waialae_Country_Club.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "18-09-1992",
+    "releaseDate": "1992-09-18",
     "developer": "T&E Soft",
     "publisher": "T&E Soft",
     "difficulty": "playable",
@@ -3648,13 +3648,13 @@ export const games: Game[] = [
       "kanji": "美少女戦士セーラームーン",
       "romaji": "Bishōjo Senshi Sērā Mūn"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "22-09-1995",
+    "releaseDate": "1995-09-22",
     "developer": "Arc System Works",
     "publisher": "Angel",
     "difficulty": "not-recommended",
@@ -3674,13 +3674,13 @@ export const games: Game[] = [
       "kanji": "桜井章一の雀鬼流 麻雀必勝法",
       "romaji": "Sakurai Shōichi no Jankiryū Mājan Hisshōhō"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "14-09-1995",
+    "releaseDate": "1995-09-14",
     "developer": "J-Force",
     "publisher": "Sammy Corporation",
     "difficulty": "not-recommended",
@@ -3700,13 +3700,13 @@ export const games: Game[] = [
       "kanji": "新日本プロレスリング 超戦士 in 東京ドーム",
       "romaji": "Shin Nippon Puroresuringu: Chō Senshi in Tōkyō Dōmu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "14-09-1993",
+    "releaseDate": "1993-09-14",
     "developer": "Unknown",
     "publisher": "Varie",
     "difficulty": "playable",
@@ -3726,13 +3726,13 @@ export const games: Game[] = [
       "kanji": "実況パワープロレスリング'96マックスボルテージ",
       "romaji": "Jikkyō Pawā Puroresuringu '96 Makkusu Borutēji"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "13-09-1996",
+    "releaseDate": "1996-09-13",
     "developer": "Diamond Head",
     "publisher": "Konami",
     "difficulty": "playable",
@@ -3752,13 +3752,13 @@ export const games: Game[] = [
       "kanji": "ペブルビーチの波濤 ニュートーナメントエディション",
       "romaji": "Peburu Bīchi no Hatō Nyū Tōnamento Edishon"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "13-09-1996",
+    "releaseDate": "1996-09-13",
     "developer": "T&E Soft",
     "publisher": "T&E Soft",
     "difficulty": "caution",
@@ -3778,13 +3778,13 @@ export const games: Game[] = [
       "kanji": "スマートボール",
       "romaji": "Sumāto Bōru"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "13-09-1991",
+    "releaseDate": "1991-09-13",
     "developer": "Game Freak",
     "publisher": "Sony Imagesoft",
     "difficulty": "playable",
@@ -3804,13 +3804,13 @@ export const games: Game[] = [
       "kanji": "実戦パチスロ必勝法! ツイン Vol.2",
       "romaji": "Jissen Pachi-Surotto Hisshōhō! Tsuin Vol.2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "12-09-1997",
+    "releaseDate": "1997-09-12",
     "developer": "Tose",
     "publisher": "Sammy Corporation",
     "difficulty": "not-recommended",
@@ -3830,13 +3830,13 @@ export const games: Game[] = [
       "kanji": "SDガンダム Vサクセン支度",
       "romaji": "SD Kidō Senshi Gandamu: V Sakusen Shidō"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": true,
-    "releaseDate": "12-09-1992",
+    "releaseDate": "1992-09-12",
     "developer": "Tose",
     "publisher": "Angel",
     "difficulty": "not-recommended",
@@ -3856,13 +3856,13 @@ export const games: Game[] = [
       "kanji": "スーパー麻雀大会",
       "romaji": "Sūpā Mājan Taikai"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "12-09-1992",
+    "releaseDate": "1992-09-12",
     "developer": "Unknown",
     "publisher": "Koei",
     "difficulty": "not-recommended",
@@ -3882,13 +3882,13 @@ export const games: Game[] = [
       "kanji": "アクロバットミッション",
       "romaji": "Akurobatto Misshon"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Shoot 'em up",
     "japanExclusive": true,
-    "releaseDate": "11-09-1992",
+    "releaseDate": "1992-09-11",
     "developer": "Micronics",
     "publisher": "Techiku",
     "difficulty": "playable",
@@ -3908,13 +3908,13 @@ export const games: Game[] = [
       "kanji": "アクスレイ",
       "romaji": "Akusurei"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Shoot 'em up",
     "japanExclusive": false,
-    "releaseDate": "11-09-1992",
+    "releaseDate": "1992-09-11",
     "developer": "Konami",
     "publisher": "Konami",
     "difficulty": "playable",
@@ -3934,13 +3934,13 @@ export const games: Game[] = [
       "kanji": "ファイナルファンタジー USA ミスティッククエスト",
       "romaji": "Fainaru Fantajī USA Misutikku Kuesuto"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": false,
-    "releaseDate": "10-09-1993",
+    "releaseDate": "1993-09-10",
     "developer": "Square",
     "publisher": "Square",
     "difficulty": "playable",
@@ -3960,13 +3960,13 @@ export const games: Game[] = [
       "kanji": "サンダーバード",
       "romaji": "Sandābādo"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "10-09-1993",
+    "releaseDate": "1993-09-10",
     "developer": "Nova Games",
     "publisher": "Cobra Team",
     "difficulty": "caution",
@@ -3986,13 +3986,13 @@ export const games: Game[] = [
       "kanji": "ラスベガスドリーム",
       "romaji": "Rasubegasu Dorīmu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": false,
-    "releaseDate": "10-09-1993",
+    "releaseDate": "1993-09-10",
     "developer": "HAL Laboratory",
     "publisher": "Nintendo",
     "difficulty": "playable",
@@ -4012,13 +4012,13 @@ export const games: Game[] = [
       "kanji": "ウイニングポスト",
       "romaji": "Uiningu Posuto"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "10-09-1993",
+    "releaseDate": "1993-09-10",
     "developer": "Koei",
     "publisher": "Koei",
     "difficulty": "not-recommended",
@@ -4038,13 +4038,13 @@ export const games: Game[] = [
       "kanji": "ダービースタリオン'98",
       "romaji": "Dābī Sutarion '98"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "01-09-1998",
+    "releaseDate": "1998-09-01",
     "developer": "ParityBit",
     "publisher": "Nintendo",
     "difficulty": "not-recommended",
@@ -4064,13 +4064,13 @@ export const games: Game[] = [
       "kanji": "柿木将棋",
       "romaji": "Kakinoki Shōgi"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "01-09-1995",
+    "releaseDate": "1995-09-01",
     "developer": "SAS Sakata",
     "publisher": "ASCII Entertainment",
     "difficulty": "not-recommended",
@@ -4090,13 +4090,13 @@ export const games: Game[] = [
       "kanji": "ロードモナーク",
       "romaji": "Rōdo Monāku"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": true,
-    "releaseDate": "09-10-1992",
+    "releaseDate": "1992-10-09",
     "developer": "AIM",
     "publisher": "Epoch Co.",
     "difficulty": "not-recommended",
@@ -4116,13 +4116,13 @@ export const games: Game[] = [
       "kanji": "バイキングの大迷惑",
       "romaji": "Baikingu no Daimeiwaku"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": false,
-    "releaseDate": "08-10-1993",
+    "releaseDate": "1993-10-08",
     "developer": "Silicon & Synapse",
     "publisher": "Interplay",
     "difficulty": "playable",
@@ -4142,13 +4142,13 @@ export const games: Game[] = [
       "kanji": "スーパー競走馬 風のシルフィード",
       "romaji": "Sūpā Kyōsōba Kaze no Shirufīdo"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": true,
-    "releaseDate": "08-10-1993",
+    "releaseDate": "1993-10-08",
     "developer": "Unknown",
     "publisher": "King Records",
     "difficulty": "caution",
@@ -4168,13 +4168,13 @@ export const games: Game[] = [
       "kanji": "シヴィライゼーション",
       "romaji": "Shiviraisēshon"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": false,
-    "releaseDate": "07-10-1994",
+    "releaseDate": "1994-10-07",
     "developer": "Microprose",
     "publisher": "Koei",
     "difficulty": "caution",
@@ -4194,13 +4194,13 @@ export const games: Game[] = [
       "kanji": "ミスターナッツ",
       "romaji": "Misutā Nattsu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Mr._Nutz.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "07-10-1994",
+    "releaseDate": "1994-10-07",
     "developer": "Ocean Software",
     "publisher": "Ocean Software",
     "difficulty": "playable",
@@ -4220,13 +4220,13 @@ export const games: Game[] = [
       "kanji": "ノスフェラトゥ",
       "romaji": "Nosuferatu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Nosferatu.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "07-10-1994",
+    "releaseDate": "1994-10-07",
     "developer": "SETA",
     "publisher": "SETA",
     "difficulty": "playable",
@@ -4246,13 +4246,13 @@ export const games: Game[] = [
       "kanji": "激闘バーニングプロレスリング",
       "romaji": "Gekitō Bāningu Puroresuringu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "06-10-1995",
+    "releaseDate": "1995-10-06",
     "developer": "Ukiyotei",
     "publisher": "Bullet-Proof Software",
     "difficulty": "playable",
@@ -4272,13 +4272,13 @@ export const games: Game[] = [
       "kanji": "新世紀オデッセリアII",
       "romaji": "Shinseiki Odeseria II"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "06-10-1995",
+    "releaseDate": "1995-10-06",
     "developer": "Vic Tokai",
     "publisher": "Vic Tokai",
     "difficulty": "not-recommended",
@@ -4298,13 +4298,13 @@ export const games: Game[] = [
       "kanji": "スパプーン",
       "romaji": "Supapūn"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "06-10-1995",
+    "releaseDate": "1995-10-06",
     "developer": "Now Production",
     "publisher": "Yutaka",
     "difficulty": "playable",
@@ -4324,13 +4324,13 @@ export const games: Game[] = [
       "kanji": "タクティクスオウガ",
       "romaji": "Takutikusu Ōga"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": true,
-    "releaseDate": "06-10-1995",
+    "releaseDate": "1995-10-06",
     "developer": "Quest Corporation",
     "publisher": "Quest Corporation",
     "difficulty": "not-recommended",
@@ -4350,13 +4350,13 @@ export const games: Game[] = [
       "kanji": "ウイニングポスト2 プログラム'96",
       "romaji": "Uiningu Posuto 2 Puroguramu '96"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "05-10-1996",
+    "releaseDate": "1996-10-05",
     "developer": "Koei",
     "publisher": "Koei",
     "difficulty": "not-recommended",
@@ -4376,13 +4376,13 @@ export const games: Game[] = [
       "kanji": "超魔界村",
       "romaji": "Chō Makaimura"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Super_Ghouls_'N_Ghosts.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "04-10-1991",
+    "releaseDate": "1991-10-04",
     "developer": "Capcom",
     "publisher": "Capcom",
     "difficulty": "playable",
@@ -4402,13 +4402,13 @@ export const games: Game[] = [
       "kanji": "悪魔城ドラキュラ",
       "romaji": "Akumajō Dorakyura"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Super_Castlevania_IV.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "31-10-1991",
+    "releaseDate": "1991-10-31",
     "developer": "Konami",
     "publisher": "Konami",
     "difficulty": "playable",
@@ -4428,13 +4428,13 @@ export const games: Game[] = [
       "kanji": "サイバーナイト",
       "romaji": "Saibā Naito"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Cyber_Knight.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "30-10-1992",
+    "releaseDate": "1992-10-30",
     "developer": "Advance Communication Company",
     "publisher": "Tonkin House",
     "difficulty": "not-recommended",
@@ -4454,13 +4454,13 @@ export const games: Game[] = [
       "kanji": "真・女神転生",
       "romaji": "Shin Megami Tensei"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Shin_Megami_Tensei.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "30-10-1992",
+    "releaseDate": "1992-10-30",
     "developer": "Atlus",
     "publisher": "Atlus",
     "difficulty": "not-recommended",
@@ -4480,13 +4480,13 @@ export const games: Game[] = [
       "kanji": "アクトレイザー2 沈黙への聖戦",
       "romaji": "Akutoreizā 2: Chinmoku e no Seisen"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "29-10-1993",
+    "releaseDate": "1993-10-29",
     "developer": "Quintet",
     "publisher": "Enix",
     "difficulty": "playable",
@@ -4506,13 +4506,13 @@ export const games: Game[] = [
       "kanji": "龍虎の拳",
       "romaji": "Ryūko no Ken"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": false,
-    "releaseDate": "29-10-1993",
+    "releaseDate": "1993-10-29",
     "developer": "Monolith Corporation",
     "publisher": "Takara",
     "difficulty": "playable",
@@ -4532,13 +4532,13 @@ export const games: Game[] = [
       "kanji": "クラシックロード",
       "romaji": "Kurashikku Rōdo"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": true,
-    "releaseDate": "29-10-1993",
+    "releaseDate": "1993-10-29",
     "developer": "Opera House",
     "publisher": "Victor Interactive Software",
     "difficulty": "playable",
@@ -4558,13 +4558,13 @@ export const games: Game[] = [
       "kanji": "畑山ハッチのプロ野球ニュース!",
       "romaji": "Hatayama Hatchi no Puro Yakyū Nyūsu!"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "29-10-1993",
+    "releaseDate": "1993-10-29",
     "developer": "Agenda",
     "publisher": "Epoch Co.",
     "difficulty": "not-recommended",
@@ -4584,13 +4584,13 @@ export const games: Game[] = [
       "kanji": "ジミーコナーズのプロテニスツアー",
       "romaji": "Jimī Konāzu no Puro Tenisu Tsuā"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "29-10-1993",
+    "releaseDate": "1993-10-29",
     "developer": "Blue Byte",
     "publisher": "Ubisoft",
     "difficulty": "playable",
@@ -4610,13 +4610,13 @@ export const games: Game[] = [
       "kanji": "将棋 風林火山",
       "romaji": "Shōgi: Fūrinkazan"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "29-10-1993",
+    "releaseDate": "1993-10-29",
     "developer": "Unknown",
     "publisher": "Pony Canyon",
     "difficulty": "not-recommended",
@@ -4636,13 +4636,13 @@ export const games: Game[] = [
       "kanji": "装甲騎兵ボトムズ",
       "romaji": "Sōkō Kihei Botomuzu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "29-10-1993",
+    "releaseDate": "1993-10-29",
     "developer": "Genki",
     "publisher": "Takara",
     "difficulty": "caution",
@@ -4662,13 +4662,13 @@ export const games: Game[] = [
       "kanji": "スーパーチャイニーズワールド2",
       "romaji": "Sūpā Chainīzu Wārudo 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "29-10-1993",
+    "releaseDate": "1993-10-29",
     "developer": "Unknown",
     "publisher": "Culture Brain",
     "difficulty": "playable",
@@ -4688,13 +4688,13 @@ export const games: Game[] = [
       "kanji": "超時空要塞マクロス",
       "romaji": "Chōjikū Yōsai Makurosu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Chō_Jikū_Yōsai_Macross__Scrambled_Valkyrie.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Shoot 'em up",
     "japanExclusive": true,
-    "releaseDate": "29-10-1993",
+    "releaseDate": "1993-10-29",
     "developer": "Winkysoft",
     "publisher": "Zamuse",
     "difficulty": "playable",
@@ -4714,13 +4714,13 @@ export const games: Game[] = [
       "kanji": "スーパー日本物産麻雀2",
       "romaji": "Sūpā Nichibutsu Mājan 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "29-10-1993",
+    "releaseDate": "1993-10-29",
     "developer": "Unknown",
     "publisher": "Nichibutsu",
     "difficulty": "not-recommended",
@@ -4740,13 +4740,13 @@ export const games: Game[] = [
       "kanji": "ユートピア",
       "romaji": "Yūtopia"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": false,
-    "releaseDate": "29-10-1993",
+    "releaseDate": "1993-10-29",
     "developer": "Jaleco",
     "publisher": "Jaleco",
     "difficulty": "caution",
@@ -4766,13 +4766,13 @@ export const games: Game[] = [
       "kanji": "コスモギャング・ザ・ビデオ",
       "romaji": "Kosumo Gyangu za Bideo"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Cosmo_Gang__The_Video.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "29-10-1992",
+    "releaseDate": "1992-10-29",
     "developer": "Namco",
     "publisher": "Namco",
     "difficulty": "playable",
@@ -4792,13 +4792,13 @@ export const games: Game[] = [
       "kanji": "バクトドーチャーズ",
       "romaji": "Bakuto Dōchāzu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "28-10-1994",
+    "releaseDate": "1994-10-28",
     "developer": "Genki",
     "publisher": "Bullet-Proof Software",
     "difficulty": "playable",
@@ -4818,13 +4818,13 @@ export const games: Game[] = [
       "kanji": "ディアボーイズ",
       "romaji": "Dia Bōizu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "28-10-1994",
+    "releaseDate": "1994-10-28",
     "developer": "Kan's",
     "publisher": "Yutaka",
     "difficulty": "not-recommended",
@@ -4844,13 +4844,13 @@ export const games: Game[] = [
       "kanji": "ドラッキーのパズルツアー'94",
       "romaji": "Dorakkī no Pazuru Tsuā '94"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "28-10-1994",
+    "releaseDate": "1994-10-28",
     "developer": "Zoom",
     "publisher": "Imagineer",
     "difficulty": "playable",
@@ -4870,13 +4870,13 @@ export const games: Game[] = [
       "kanji": "フェーダ ジ エンブレム オブ ジャスティス",
       "romaji": "Fēda Ji Enburemu obu Jasutisu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/FEDA__The_Emblem_of_Justice.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": true,
-    "releaseDate": "28-10-1994",
+    "releaseDate": "1994-10-28",
     "developer": "Max Entertainment",
     "publisher": "Yanoman",
     "difficulty": "not-recommended",
@@ -4896,13 +4896,13 @@ export const games: Game[] = [
       "kanji": "科学者ハーレーの波乱万丈",
       "romaji": "Kagakusha Hārē no Haran Banjō"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "28-10-1994",
+    "releaseDate": "1994-10-28",
     "developer": "Visual Concepts",
     "publisher": "Hi Tech Expressions",
     "difficulty": "playable",
@@ -4922,13 +4922,13 @@ export const games: Game[] = [
       "kanji": "本格派囲碁 碁聖",
       "romaji": "Honkakuha Igo: Gosei"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "28-10-1994",
+    "releaseDate": "1994-10-28",
     "developer": "Aisystem Tokyo",
     "publisher": "Taito",
     "difficulty": "not-recommended",
@@ -4948,13 +4948,13 @@ export const games: Game[] = [
       "kanji": "イルヴァーニャの城",
       "romaji": "Iruvānya no Shiro"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "28-10-1994",
+    "releaseDate": "1994-10-28",
     "developer": "Unknown",
     "publisher": "Nippon Clary Business",
     "difficulty": "not-recommended",
@@ -4974,13 +4974,13 @@ export const games: Game[] = [
       "kanji": "マルチプレイバレーボール",
       "romaji": "Maruchi Purei Barēbōru"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "28-10-1994",
+    "releaseDate": "1994-10-28",
     "developer": "Mebio Software",
     "publisher": "Pack-In-Video",
     "difficulty": "playable",
@@ -5000,13 +5000,13 @@ export const games: Game[] = [
       "kanji": "サンキョーフィーバー!フィーバー!",
       "romaji": "Sankyō Fībā! Fībā!"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "28-10-1994",
+    "releaseDate": "1994-10-28",
     "developer": "Unknown",
     "publisher": "Nippon Telenet",
     "difficulty": "not-recommended",
@@ -5026,13 +5026,13 @@ export const games: Game[] = [
       "kanji": "真・女神転生if...",
       "romaji": "Shin Megami Tensei if..."
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Shin_Megami_Tensei_If.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "28-10-1994",
+    "releaseDate": "1994-10-28",
     "developer": "Atlus",
     "publisher": "Atlus",
     "difficulty": "not-recommended",
@@ -5052,13 +5052,13 @@ export const games: Game[] = [
       "kanji": "少年忍者サスケ",
       "romaji": "Shōnen Ninja Sasuke"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "28-10-1994",
+    "releaseDate": "1994-10-28",
     "developer": "Unknown",
     "publisher": "Sunsoft",
     "difficulty": "playable",
@@ -5078,13 +5078,13 @@ export const games: Game[] = [
       "kanji": "卒業番外編 ねぇ麻雀しよ!",
       "romaji": "Sotsugyō Bangai Hen: Nē Mājan Shiyo!"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "28-10-1994",
+    "releaseDate": "1994-10-28",
     "developer": "Unknown",
     "publisher": "KSS",
     "difficulty": "not-recommended",
@@ -5104,13 +5104,13 @@ export const games: Game[] = [
       "kanji": "テクモスーパーベースボール",
       "romaji": "Tekumo Sūpā Bēsubōru"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "28-10-1994",
+    "releaseDate": "1994-10-28",
     "developer": "Tecmo",
     "publisher": "Tecmo",
     "difficulty": "playable",
@@ -5130,13 +5130,13 @@ export const games: Game[] = [
       "kanji": "バットマン フォーエバー",
       "romaji": "Battoman Fōebā"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "27-10-1995",
+    "releaseDate": "1995-10-27",
     "developer": "Probe Entertainment",
     "publisher": "Acclaim Entertainment",
     "difficulty": "playable",
@@ -5156,13 +5156,13 @@ export const games: Game[] = [
       "kanji": "クリスタルビーンズ",
       "romaji": "Kurisutaru Bīnzu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Crystal_Beans_from_Dungeon_Explorer.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "27-10-1995",
+    "releaseDate": "1995-10-27",
     "developer": "Birthday",
     "publisher": "Hudson Soft",
     "difficulty": "not-recommended",
@@ -5182,13 +5182,13 @@ export const games: Game[] = [
       "kanji": "フォアマン・フォー・リアル",
       "romaji": "Fōman Fō Riaru"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "27-10-1995",
+    "releaseDate": "1995-10-27",
     "developer": "Software Creations",
     "publisher": "Acclaim Entertainment",
     "difficulty": "playable",
@@ -5208,13 +5208,13 @@ export const games: Game[] = [
       "kanji": "TVアニメ スラムダンク SDヒートアップ!!",
       "romaji": "TV Anime Suramu Danku SD Hīto Appu!!"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "27-10-1995",
+    "releaseDate": "1995-10-27",
     "developer": "Tose",
     "publisher": "Bandai",
     "difficulty": "caution",
@@ -5234,13 +5234,13 @@ export const games: Game[] = [
       "kanji": "スーパーカジノ セザースパレス",
       "romaji": "Sūpā Kajino Sezāsu Paresu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": false,
-    "releaseDate": "21-10-1993",
+    "releaseDate": "1993-10-21",
     "developer": "Illusion Softworks",
     "publisher": "Virgin Interactive Entertainment",
     "difficulty": "playable",
@@ -5260,13 +5260,13 @@ export const games: Game[] = [
       "kanji": "マジカルドロップ",
       "romaji": "Majikaru Doroppu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "20-10-1995",
+    "releaseDate": "1995-10-20",
     "developer": "Data East",
     "publisher": "Data East",
     "difficulty": "playable",
@@ -5286,13 +5286,13 @@ export const games: Game[] = [
       "kanji": "総合格闘技リングス アストラルバウト3",
       "romaji": "Sōgō Kakutōgi Ringusu: Asutoraru Bauto 3"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": true,
-    "releaseDate": "20-10-1995",
+    "releaseDate": "1995-10-20",
     "developer": "A-Wave",
     "publisher": "King Records",
     "difficulty": "playable",
@@ -5312,13 +5312,13 @@ export const games: Game[] = [
       "kanji": "スーパー花札2",
       "romaji": "Sūpā Hanafuda 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "20-10-1995",
+    "releaseDate": "1995-10-20",
     "developer": "Use",
     "publisher": "I'MAX",
     "difficulty": "not-recommended",
@@ -5338,13 +5338,13 @@ export const games: Game[] = [
       "kanji": "天地創造",
       "romaji": "Tenchi Sōzō"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Terranigma.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "20-10-1995",
+    "releaseDate": "1995-10-20",
     "developer": "Quintet",
     "publisher": "Enix",
     "difficulty": "caution",
@@ -5364,13 +5364,13 @@ export const games: Game[] = [
       "kanji": "はらぺこバッカ",
       "romaji": "Harapeko Bakka"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "19-10-1994",
+    "releaseDate": "1994-10-19",
     "developer": "Magical Company",
     "publisher": "Sunsoft",
     "difficulty": "playable",
@@ -5390,13 +5390,13 @@ export const games: Game[] = [
       "kanji": "ファイナルファンタジーIV イージータイプ",
       "romaji": "Fainaru Fantajī IV Ījī Taipu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "19-10-1991",
+    "releaseDate": "1991-10-19",
     "developer": "Square",
     "publisher": "Square",
     "difficulty": "not-recommended",
@@ -5416,13 +5416,13 @@ export const games: Game[] = [
       "kanji": "マーヴル・スーパーヒーローズ",
       "romaji": "Māvuru Sūpā Hīrōzu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "18-10-1996",
+    "releaseDate": "1996-10-18",
     "developer": "Capcom",
     "publisher": "Capcom",
     "difficulty": "playable",
@@ -5442,13 +5442,13 @@ export const games: Game[] = [
       "kanji": "サラブレッドブリーダー III",
       "romaji": "Sarabureddo Burīdā III"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "18-10-1996",
+    "releaseDate": "1996-10-18",
     "developer": "Hect",
     "publisher": "Hect",
     "difficulty": "not-recommended",
@@ -5468,13 +5468,13 @@ export const games: Game[] = [
       "kanji": "下野正希のフィッシングとバッシング",
       "romaji": "Shimono Masaki no Fisshingu to Basshingu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "16-10-1994",
+    "releaseDate": "1994-10-16",
     "developer": "Natsume Co., Ltd.",
     "publisher": "Natsume Co., Ltd.",
     "difficulty": "caution",
@@ -5494,13 +5494,13 @@ export const games: Game[] = [
       "kanji": "美少女戦士セーラームーンR",
       "romaji": "Bishōjo Senshi Sērā Mūn R"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "15-10-1993",
+    "releaseDate": "1993-10-15",
     "developer": "Angel",
     "publisher": "Bandai",
     "difficulty": "playable",
@@ -5520,13 +5520,13 @@ export const games: Game[] = [
       "kanji": "実況おしゃべりパロディウス",
       "romaji": "Jikkyō Oshaberi Parodiusu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Jikkyō_Oshaberi_Parodius.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Shoot 'em up",
     "japanExclusive": true,
-    "releaseDate": "13-10-1995",
+    "releaseDate": "1995-10-13",
     "developer": "Konami",
     "publisher": "Konami",
     "difficulty": "playable",
@@ -5546,13 +5546,13 @@ export const games: Game[] = [
       "kanji": "らんま1/2 超技乱舞編",
       "romaji": "Ranma 1/2: Chōgi Ranbu Hen"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": true,
-    "releaseDate": "13-10-1994",
+    "releaseDate": "1994-10-13",
     "developer": "Rumic Soft",
     "publisher": "Shogakukan",
     "difficulty": "playable",
@@ -5572,13 +5572,13 @@ export const games: Game[] = [
       "kanji": "スーパーファイヤープロレスリングX プレミアム",
       "romaji": "Sūpā Faiyā Puroresuringu X Puremiamu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "11-10-1996",
+    "releaseDate": "1996-10-11",
     "developer": "Human Entertainment",
     "publisher": "Human Entertainment",
     "difficulty": "playable",
@@ -5598,13 +5598,13 @@ export const games: Game[] = [
       "kanji": "テトリスバトルガイデン",
       "romaji": "Tetorisu Batoru Gaiden"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Tetris_Battle_Gaiden.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "11-10-1993",
+    "releaseDate": "1993-10-11",
     "developer": "BPS",
     "publisher": "BPS",
     "difficulty": "playable",
@@ -5624,13 +5624,13 @@ export const games: Game[] = [
       "kanji": "ウィザードリィVI",
       "romaji": "Wizādorī VI"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Wizardry__Bane_of_the_Cosmic_Forge.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "11-10-1995",
+    "releaseDate": "1995-10-11",
     "developer": "Sir-Tech",
     "publisher": "ASCII Entertainment",
     "difficulty": "not-recommended",
@@ -5650,13 +5650,13 @@ export const games: Game[] = [
       "kanji": "ヨッシーのロードハンティング",
       "romaji": "Yosshī no Rōdo Hantingu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Yoshi's_Safari.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Shooting",
     "japanExclusive": false,
-    "releaseDate": "11-10-1993",
+    "releaseDate": "1993-10-11",
     "developer": "Nintendo",
     "publisher": "Nintendo",
     "difficulty": "playable",
@@ -5676,13 +5676,13 @@ export const games: Game[] = [
       "kanji": "全日本プロレスリング",
       "romaji": "Zen-Nippon Puroresuringu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Zen-Nihon_Pro_Wrestling.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "11-10-1994",
+    "releaseDate": "1994-10-11",
     "developer": "Natsume Co., Ltd.",
     "publisher": "Natsume Co., Ltd.",
     "difficulty": "playable",
@@ -5702,13 +5702,13 @@ export const games: Game[] = [
       "kanji": "ジーコサッカー",
       "romaji": "Jīko Sakkā"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "11-10-1994",
+    "releaseDate": "1994-10-11",
     "developer": "SNK",
     "publisher": "SNK",
     "difficulty": "playable",
@@ -5728,13 +5728,13 @@ export const games: Game[] = [
       "kanji": "朝めしまえ にゃんこ",
       "romaji": "Asameshimae Nyanko"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "07-10-1994",
+    "releaseDate": "1994-10-07",
     "developer": "Takara",
     "publisher": "Takara",
     "difficulty": "playable",
@@ -5754,13 +5754,13 @@ export const games: Game[] = [
       "kanji": "バトルコマンダー 八部衆修羅の兵法",
       "romaji": "Batoru Komandā Hachibushū Shura no Heihō"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": true,
-    "releaseDate": "07-10-1994",
+    "releaseDate": "1994-10-07",
     "developer": "Banpresto",
     "publisher": "Banpresto",
     "difficulty": "not-recommended",
@@ -5780,13 +5780,13 @@ export const games: Game[] = [
       "kanji": "ドラゴンボールZ 超武闘伝3",
       "romaji": "Doragon Bōru Zetto Sūpā Butōden 3"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Dragon_Ball_Z__Super_Butōden_3.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": true,
-    "releaseDate": "07-10-1994",
+    "releaseDate": "1994-10-07",
     "developer": "TOSE",
     "publisher": "Bandai",
     "difficulty": "playable",
@@ -5806,13 +5806,13 @@ export const games: Game[] = [
       "kanji": "実況パワープロレスリング'96",
       "romaji": "Jikkyō Pawā Puroresuringu '96"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "07-10-1996",
+    "releaseDate": "1996-10-07",
     "developer": "Konami",
     "publisher": "Konami",
     "difficulty": "playable",
@@ -5832,13 +5832,13 @@ export const games: Game[] = [
       "kanji": "くにおくんのドッジボールだよ全員集合!",
       "romaji": "Kunio-kun no Dojjibōru dayo Zenin Shūgō!"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "07-10-1993",
+    "releaseDate": "1993-10-07",
     "developer": "Technos Japan",
     "publisher": "Technos Japan",
     "difficulty": "playable",
@@ -5858,13 +5858,13 @@ export const games: Game[] = [
       "kanji": "スーパーボンバーマン4",
       "romaji": "Sūpā Bonbāman 4"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Super_Bomberman_4.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "07-10-1996",
+    "releaseDate": "1996-10-07",
     "developer": "Hudson Soft",
     "publisher": "Hudson Soft",
     "difficulty": "playable",
@@ -5884,13 +5884,13 @@ export const games: Game[] = [
       "kanji": "スーパーロボット大戦4",
       "romaji": "Sūpā Robotto Taisen 4"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": true,
-    "releaseDate": "07-10-1995",
+    "releaseDate": "1995-10-07",
     "developer": "Winkysoft",
     "publisher": "Banpresto",
     "difficulty": "not-recommended",
@@ -5910,13 +5910,13 @@ export const games: Game[] = [
       "kanji": "天地無用! ゲーム編",
       "romaji": "Tenchi Muyō! Gēmu Hen"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "07-10-1995",
+    "releaseDate": "1995-10-07",
     "developer": "Banpresto",
     "publisher": "Banpresto",
     "difficulty": "not-recommended",
@@ -5936,13 +5936,13 @@ export const games: Game[] = [
       "kanji": "ザ・キング・オブ・ドラゴンズ",
       "romaji": "Za Kingu obu Doragonzu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "07-10-1994",
+    "releaseDate": "1994-10-07",
     "developer": "Capcom",
     "publisher": "Capcom",
     "difficulty": "playable",
@@ -5962,13 +5962,13 @@ export const games: Game[] = [
       "kanji": "ワールドヒーローズ2",
       "romaji": "Wārudo Hīrōzu 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": false,
-    "releaseDate": "07-10-1994",
+    "releaseDate": "1994-10-07",
     "developer": "ADK",
     "publisher": "Takara",
     "difficulty": "playable",
@@ -5988,13 +5988,13 @@ export const games: Game[] = [
       "kanji": "クレヨンしんちゃん 嵐を呼ぶ園児",
       "romaji": "Kureyon Shin-chan: Arashi wo Yobu Enji"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "06-10-1993",
+    "releaseDate": "1993-10-06",
     "developer": "Tom Create",
     "publisher": "Bandai",
     "difficulty": "caution",
@@ -6014,13 +6014,13 @@ export const games: Game[] = [
       "kanji": "実況パワフルプロ野球'94",
       "romaji": "Jikkyō Pawafuru Puro Yakyū '94"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "06-10-1994",
+    "releaseDate": "1994-10-06",
     "developer": "Konami",
     "publisher": "Konami",
     "difficulty": "caution",
@@ -6040,13 +6040,13 @@ export const games: Game[] = [
       "kanji": "機動戦士Vガンダム",
       "romaji": "Kidō Senshi V Gandamu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Kidō_Senshi_V_Gundam.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "06-10-1994",
+    "releaseDate": "1994-10-06",
     "developer": "TOSE",
     "publisher": "Bandai",
     "difficulty": "playable",
@@ -6066,13 +6066,13 @@ export const games: Game[] = [
       "kanji": "スーパーチャイニーズワールド3",
       "romaji": "Sūpā Chainīzu Wārudo 3"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "06-10-1994",
+    "releaseDate": "1994-10-06",
     "developer": "Culture Brain",
     "publisher": "Culture Brain",
     "difficulty": "playable",
@@ -6092,13 +6092,13 @@ export const games: Game[] = [
       "kanji": "スーパーパワーリーグ",
       "romaji": "Sūpā Pawā Rīgu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "06-10-1994",
+    "releaseDate": "1994-10-06",
     "developer": "Hudson Soft",
     "publisher": "Hudson Soft",
     "difficulty": "playable",
@@ -6118,13 +6118,13 @@ export const games: Game[] = [
       "kanji": "スーパーロボット大戦EX",
       "romaji": "Sūpā Robotto Taisen EX"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": true,
-    "releaseDate": "06-10-1994",
+    "releaseDate": "1994-10-06",
     "developer": "Winkysoft",
     "publisher": "Banpresto",
     "difficulty": "not-recommended",
@@ -6144,13 +6144,13 @@ export const games: Game[] = [
       "kanji": "天地創造",
       "romaji": "Tenchi Sōzō"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "06-10-1995",
+    "releaseDate": "1995-10-06",
     "developer": "Quintet",
     "publisher": "Enix",
     "difficulty": "not-recommended",
@@ -6170,13 +6170,13 @@ export const games: Game[] = [
       "kanji": "ザ・グレイトバトルV",
       "romaji": "Za Gureito Batoru V"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "06-10-1995",
+    "releaseDate": "1995-10-06",
     "developer": "Banpresto",
     "publisher": "Banpresto",
     "difficulty": "playable",
@@ -6196,13 +6196,13 @@ export const games: Game[] = [
       "kanji": "トレジャーハンターG",
       "romaji": "Torejā Hantā G"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "06-10-1996",
+    "releaseDate": "1996-10-06",
     "developer": "Sting",
     "publisher": "Square",
     "difficulty": "not-recommended",
@@ -6222,13 +6222,13 @@ export const games: Game[] = [
       "kanji": "イースIV",
       "romaji": "Īsu IV"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Ys_IV__Mask_of_the_Sun.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "06-10-1993",
+    "releaseDate": "1993-10-06",
     "developer": "Tonkin House",
     "publisher": "Tonkin House",
     "difficulty": "not-recommended",
@@ -6248,13 +6248,13 @@ export const games: Game[] = [
       "kanji": "爆球連発!! スーパービーダマン",
       "romaji": "Bakukyū Renpatsu!! Sūpā Bī Daman"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "05-10-1995",
+    "releaseDate": "1995-10-05",
     "developer": "System Sacom",
     "publisher": "Yutaka",
     "difficulty": "playable",
@@ -6274,13 +6274,13 @@ export const games: Game[] = [
       "kanji": "ドラゴンボールZ 超悟空伝 突撃編",
       "romaji": "Doragon Bōru Zetto Chō Gokū Den Totsugeki Hen"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "05-10-1995",
+    "releaseDate": "1995-10-05",
     "developer": "TOSE",
     "publisher": "Bandai",
     "difficulty": "not-recommended",
@@ -6300,13 +6300,13 @@ export const games: Game[] = [
       "kanji": "平成新鬼ヶ島",
       "romaji": "Heisei Shin Onigashima"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Adventure",
     "japanExclusive": true,
-    "releaseDate": "05-10-1995",
+    "releaseDate": "1995-10-05",
     "developer": "Nintendo",
     "publisher": "Nintendo",
     "difficulty": "not-recommended",
@@ -6326,13 +6326,13 @@ export const games: Game[] = [
       "kanji": "ジャンピンダービー",
       "romaji": "Janpin Dābī"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "05-10-1995",
+    "releaseDate": "1995-10-05",
     "developer": "Tom Create",
     "publisher": "Jaleco",
     "difficulty": "playable",
@@ -6352,13 +6352,13 @@ export const games: Game[] = [
       "kanji": "仮面ライダー",
       "romaji": "Kamen Raidā"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "05-10-1993",
+    "releaseDate": "1993-10-05",
     "developer": "Natsume Co., Ltd.",
     "publisher": "Angel",
     "difficulty": "playable",
@@ -6378,13 +6378,13 @@ export const games: Game[] = [
       "kanji": "プロ棋士人生シミュレーション 将棋の花道",
       "romaji": "Puro Kishi Jinsei Shimyurēshon: Shōgi no Hanamichi"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "05-10-1995",
+    "releaseDate": "1995-10-05",
     "developer": "Random House",
     "publisher": "Imagineer",
     "difficulty": "not-recommended",
@@ -6404,13 +6404,13 @@ export const games: Game[] = [
       "kanji": "SDF-1グランプリ",
       "romaji": "SD F-1 Guran Puri"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": true,
-    "releaseDate": "05-10-1995",
+    "releaseDate": "1995-10-05",
     "developer": "Culture Brain",
     "publisher": "Culture Brain",
     "difficulty": "playable",
@@ -6430,13 +6430,13 @@ export const games: Game[] = [
       "kanji": "スーパーパワーリーグ2",
       "romaji": "Sūpā Pawā Rīgu 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "05-10-1995",
+    "releaseDate": "1995-10-05",
     "developer": "Hudson Soft",
     "publisher": "Hudson Soft",
     "difficulty": "playable",
@@ -6456,13 +6456,13 @@ export const games: Game[] = [
       "kanji": "スーパーテトリス3",
       "romaji": "Sūpā Tetorisu 3"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "05-10-1994",
+    "releaseDate": "1994-10-05",
     "developer": "BPS",
     "publisher": "BPS",
     "difficulty": "playable",
@@ -6482,13 +6482,13 @@ export const games: Game[] = [
       "kanji": "パチンコファン 勝利宣言",
       "romaji": "Pachinko Fan: Shōri Sengen"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "15-10-1994",
+    "releaseDate": "1994-10-15",
     "developer": "Planning Office Wada",
     "publisher": "Planning Office Wada",
     "difficulty": "not-recommended",
@@ -6508,13 +6508,13 @@ export const games: Game[] = [
       "kanji": "鈴鹿8時間耐久ロードレース",
       "romaji": "Suzuka 8 Jikan Taikyū Rōdo Rēsu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": true,
-    "releaseDate": "15-10-1993",
+    "releaseDate": "1993-10-15",
     "developer": "Arc System Works",
     "publisher": "Namco",
     "difficulty": "playable",
@@ -6534,13 +6534,13 @@ export const games: Game[] = [
       "kanji": "豪血寺一族",
       "romaji": "Gouketsuji Ichizoku"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": true,
-    "releaseDate": "14-10-1994",
+    "releaseDate": "1994-10-14",
     "developer": "Atlus",
     "publisher": "Atlus",
     "difficulty": "playable",
@@ -6560,13 +6560,13 @@ export const games: Game[] = [
       "kanji": "UFO仮面ヤキソバン",
       "romaji": "UFO Kamen Yakisoban"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "14-10-1994",
+    "releaseDate": "1994-10-14",
     "developer": "KID",
     "publisher": "Den'Z",
     "difficulty": "caution",
@@ -6586,13 +6586,13 @@ export const games: Game[] = [
       "kanji": "ゲームの鉄人 ザ・上海",
       "romaji": "Gēmu no Tetsujin: Za Shanghai"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "13-10-1995",
+    "releaseDate": "1995-10-13",
     "developer": "Unknown",
     "publisher": "Sunsoft",
     "difficulty": "playable",
@@ -6612,13 +6612,13 @@ export const games: Game[] = [
       "kanji": "ハイパーイリア",
       "romaji": "Haipā Iria"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "13-10-1995",
+    "releaseDate": "1995-10-13",
     "developer": "Tam Tam",
     "publisher": "Banpresto",
     "difficulty": "playable",
@@ -6638,13 +6638,13 @@ export const games: Game[] = [
       "kanji": "インディ・ジョーンズ",
       "romaji": "Indi Jōnzu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "11-10-1994",
+    "releaseDate": "1994-10-11",
     "developer": "Factor 5",
     "publisher": "JVC Musical Industries",
     "difficulty": "playable",
@@ -6664,13 +6664,13 @@ export const games: Game[] = [
       "kanji": "ピクロスNP Vol.4",
       "romaji": "Pikurosu NP Vol.4"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "01-10-1999",
+    "releaseDate": "1999-10-01",
     "developer": "Jupiter",
     "publisher": "Nintendo",
     "difficulty": "playable",
@@ -6690,13 +6690,13 @@ export const games: Game[] = [
       "kanji": "レッド・オクトーバーを追え",
       "romaji": "Reddo Okutōbā wo Oe"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "01-10-1993",
+    "releaseDate": "1993-10-01",
     "developer": "Riedel Software",
     "publisher": "Altron",
     "difficulty": "playable",
@@ -6716,13 +6716,13 @@ export const games: Game[] = [
       "kanji": "スーパー3Dベースボール",
       "romaji": "Sūpā 3D Bēsubōru"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "01-10-1993",
+    "releaseDate": "1993-10-01",
     "developer": "Tose",
     "publisher": "Jaleco",
     "difficulty": "playable",
@@ -6742,13 +6742,13 @@ export const games: Game[] = [
       "kanji": "トリネア",
       "romaji": "Torinea"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "01-10-1993",
+    "releaseDate": "1993-10-01",
     "developer": "Japan Art Media",
     "publisher": "Yanoman",
     "difficulty": "not-recommended",
@@ -6768,13 +6768,13 @@ export const games: Game[] = [
       "kanji": "三國志III",
       "romaji": "Sangokushi III"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": false,
-    "releaseDate": "08-11-1992",
+    "releaseDate": "1992-11-08",
     "developer": "Koei",
     "publisher": "Koei",
     "difficulty": "caution",
@@ -6794,13 +6794,13 @@ export const games: Game[] = [
       "kanji": "スーパーリニアボール",
       "romaji": "Sūpā Riniabōru"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "06-11-1992",
+    "releaseDate": "1992-11-06",
     "developer": "Bits Studios",
     "publisher": "Triffix",
     "difficulty": "playable",
@@ -6820,13 +6820,13 @@ export const games: Game[] = [
       "kanji": "ファイナルノックアウト",
       "romaji": "Fainaru Nokkuauto"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "05-11-1993",
+    "releaseDate": "1993-11-05",
     "developer": "Sculptured Software",
     "publisher": "Pack-In-Video",
     "difficulty": "playable",
@@ -6846,13 +6846,13 @@ export const games: Game[] = [
       "kanji": "アクタリオン",
       "romaji": "Akutarion"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": false,
-    "releaseDate": "05-11-1993",
+    "releaseDate": "1993-11-05",
     "developer": "Tecmo",
     "publisher": "Tecmo",
     "difficulty": "playable",
@@ -6872,13 +6872,13 @@ export const games: Game[] = [
       "kanji": "ソウル アンド ソード",
       "romaji": "Sōru ando Sōdo"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "30-11-1993",
+    "releaseDate": "1993-11-30",
     "developer": "Pandora Box",
     "publisher": "Zamuse",
     "difficulty": "playable",
@@ -6898,13 +6898,13 @@ export const games: Game[] = [
       "kanji": "メタルスレイダーグローリー",
       "romaji": "Metaru Sureidā Gurōrī"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Adventure",
     "japanExclusive": true,
-    "releaseDate": "29-11-2000",
+    "releaseDate": "2000-11-29",
     "developer": "HAL Laboratory",
     "publisher": "Nintendo",
     "difficulty": "not-recommended",
@@ -6924,13 +6924,13 @@ export const games: Game[] = [
       "kanji": "日本物産コレクション1",
       "romaji": "Nichibutsu Korekushon 1"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Compilation",
     "japanExclusive": true,
-    "releaseDate": "29-11-1996",
+    "releaseDate": "1996-11-29",
     "developer": "Nichibutsu",
     "publisher": "Nichibutsu",
     "difficulty": "not-recommended",
@@ -6950,13 +6950,13 @@ export const games: Game[] = [
       "kanji": "パーラー!ミニ4",
       "romaji": "Pārā! Mini 4"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "29-11-1996",
+    "releaseDate": "1996-11-29",
     "developer": "Unknown",
     "publisher": "Nippon Telenet",
     "difficulty": "not-recommended",
@@ -6976,13 +6976,13 @@ export const games: Game[] = [
       "kanji": "スーパー人生ゲーム3",
       "romaji": "Sūpā Jinsei Gēmu 3"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "29-11-1996",
+    "releaseDate": "1996-11-29",
     "developer": "Takara",
     "publisher": "Takara",
     "difficulty": "not-recommended",
@@ -7002,13 +7002,13 @@ export const games: Game[] = [
       "kanji": "VSコレクション",
       "romaji": "VS Korekushon"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": true,
-    "releaseDate": "29-11-1996",
+    "releaseDate": "1996-11-29",
     "developer": "Bottom Up",
     "publisher": "Bottom Up",
     "difficulty": "playable",
@@ -7028,13 +7028,13 @@ export const games: Game[] = [
       "kanji": "雷電伝説",
       "romaji": "Raiden Densetsu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Shoot 'em up",
     "japanExclusive": false,
-    "releaseDate": "29-11-1991",
+    "releaseDate": "1991-11-29",
     "developer": "Seibu Kaihatsu",
     "publisher": "Toei Animation",
     "difficulty": "playable",
@@ -7054,13 +7054,13 @@ export const games: Game[] = [
       "kanji": "ガイア幻想記",
       "romaji": "Gaia Gensōki"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": false,
-    "releaseDate": "27-11-1993",
+    "releaseDate": "1993-11-27",
     "developer": "Quintet",
     "publisher": "Enix",
     "difficulty": "playable",
@@ -7080,13 +7080,13 @@ export const games: Game[] = [
       "kanji": "アウターワールド",
       "romaji": "Autā Wārudo"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Out_of_This_World.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Adventure",
     "japanExclusive": false,
-    "releaseDate": "27-11-1992",
+    "releaseDate": "1992-11-27",
     "developer": "Delphine Software",
     "publisher": "Victor Interactive",
     "difficulty": "playable",
@@ -7106,13 +7106,13 @@ export const games: Game[] = [
       "kanji": "あしたのジョー",
       "romaji": "Ashita no Jō"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": true,
-    "releaseDate": "27-11-1992",
+    "releaseDate": "1992-11-27",
     "developer": "Wave Corp",
     "publisher": "K Amusement",
     "difficulty": "playable",
@@ -7132,13 +7132,13 @@ export const games: Game[] = [
       "kanji": "バルバロッサ",
       "romaji": "Barubarossa"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": true,
-    "releaseDate": "27-11-1992",
+    "releaseDate": "1992-11-27",
     "developer": "SystemSoft Alpha",
     "publisher": "Sammy",
     "difficulty": "not-recommended",
@@ -7158,13 +7158,13 @@ export const games: Game[] = [
       "kanji": "バレーボールツイン",
       "romaji": "Barēbōru Tsuin"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "27-11-1992",
+    "releaseDate": "1992-11-27",
     "developer": "Tose",
     "publisher": "Tonkin House",
     "difficulty": "playable",
@@ -7184,13 +7184,13 @@ export const games: Game[] = [
       "kanji": "餓狼伝説",
       "romaji": "Garō Densetsu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": false,
-    "releaseDate": "27-11-1992",
+    "releaseDate": "1992-11-27",
     "developer": "Nova Co., Ltd",
     "publisher": "Takara",
     "difficulty": "playable",
@@ -7210,13 +7210,13 @@ export const games: Game[] = [
       "kanji": "ロイヤルコンクエスト",
       "romaji": "Roiyaru Konkuesuto"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/King_Arthur's_World.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": false,
-    "releaseDate": "27-11-1992",
+    "releaseDate": "1992-11-27",
     "developer": "Argonaut Software",
     "publisher": "Jaleco",
     "difficulty": "caution",
@@ -7236,13 +7236,13 @@ export const games: Game[] = [
       "kanji": "パワーアスリート",
       "romaji": "Pawā Asurīto"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": false,
-    "releaseDate": "27-11-1992",
+    "releaseDate": "1992-11-27",
     "developer": "Kaneko",
     "publisher": "Kaneko",
     "difficulty": "playable",
@@ -7262,13 +7262,13 @@ export const games: Game[] = [
       "kanji": "ソングマスター",
       "romaji": "Songu Masutā"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Music",
     "japanExclusive": true,
-    "releaseDate": "27-11-1992",
+    "releaseDate": "1992-11-27",
     "developer": "Japan Art Media",
     "publisher": "Yanoman",
     "difficulty": "not-recommended",
@@ -7288,13 +7288,13 @@ export const games: Game[] = [
       "kanji": "スーパードンキーコング",
       "romaji": "Sūpā Donkī Kongu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Donkey_Kong_Country.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "26-11-1994",
+    "releaseDate": "1994-11-26",
     "developer": "Rare",
     "publisher": "Nintendo",
     "difficulty": "playable",
@@ -7314,13 +7314,13 @@ export const games: Game[] = [
       "kanji": "ABCマンデーナイトフットボール",
       "romaji": "ABC Mandē Naito Futtobōru"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "26-11-1993",
+    "releaseDate": "1993-11-26",
     "developer": "Data East",
     "publisher": "Data East",
     "difficulty": "playable",
@@ -7340,13 +7340,13 @@ export const games: Game[] = [
       "kanji": "アクセルブリッド",
       "romaji": "Akuseru Buriddo"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Accele_Brid.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": true,
-    "releaseDate": "26-11-1993",
+    "releaseDate": "1993-11-26",
     "developer": "Tomy",
     "publisher": "Tomy",
     "difficulty": "playable",
@@ -7366,13 +7366,13 @@ export const games: Game[] = [
       "kanji": "アラジン",
       "romaji": "Arajin"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "26-11-1993",
+    "releaseDate": "1993-11-26",
     "developer": "Capcom",
     "publisher": "Capcom",
     "difficulty": "playable",
@@ -7392,13 +7392,13 @@ export const games: Game[] = [
       "kanji": "アーディーライトフット",
       "romaji": "Ādi Raitofutto"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "26-11-1993",
+    "releaseDate": "1993-11-26",
     "developer": "ASCII Entertainment",
     "publisher": "ASCII Entertainment",
     "difficulty": "playable",
@@ -7418,13 +7418,13 @@ export const games: Game[] = [
       "kanji": "ダイナミックスタジアム",
       "romaji": "Dainamikku Sutajiamu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "26-11-1993",
+    "releaseDate": "1993-11-26",
     "developer": "Electronics Application",
     "publisher": "Sammy",
     "difficulty": "caution",
@@ -7444,13 +7444,13 @@ export const games: Game[] = [
       "kanji": "餓狼伝説2",
       "romaji": "Garō Densetsu 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Fatal_Fury_2.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": false,
-    "releaseDate": "26-11-1993",
+    "releaseDate": "1993-11-26",
     "developer": "Nova Co., Ltd",
     "publisher": "Takara",
     "difficulty": "playable",
@@ -7470,13 +7470,13 @@ export const games: Game[] = [
       "kanji": "実戦パチスロ必勝法",
       "romaji": "Jissen Pachi-Surotto Hisshōhō"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "26-11-1993",
+    "releaseDate": "1993-11-26",
     "developer": "Unknown",
     "publisher": "Sammy",
     "difficulty": "not-recommended",
@@ -7496,13 +7496,13 @@ export const games: Game[] = [
       "kanji": "鬼塚勝也スーパーバーチャルボクシング",
       "romaji": "Onizuka Katsuya Sūpā Bācharu Bokushingu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "26-11-1993",
+    "releaseDate": "1993-11-26",
     "developer": "Sting Entertainment",
     "publisher": "SOFEL",
     "difficulty": "playable",
@@ -7522,13 +7522,13 @@ export const games: Game[] = [
       "kanji": "スーパーチェイスH.Q.",
       "romaji": "Sūpā Cheisu H.Q."
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": false,
-    "releaseDate": "26-11-1993",
+    "releaseDate": "1993-11-26",
     "developer": "Taito",
     "publisher": "Taito",
     "difficulty": "playable",
@@ -7548,13 +7548,13 @@ export const games: Game[] = [
       "kanji": "武田修宏のスーパーカップサッカー",
       "romaji": "Takeda Nobuhiro no Sūpā Kappu Sakkā"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "26-11-1993",
+    "releaseDate": "1993-11-26",
     "developer": "Tose",
     "publisher": "Jaleco",
     "difficulty": "playable",
@@ -7574,13 +7574,13 @@ export const games: Game[] = [
       "kanji": "F-15スーパーストライクイーグル",
       "romaji": "F-15 Sūpā Sutoraiku Īguru"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Super_Strike_Eagle.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "26-11-1993",
+    "releaseDate": "1993-11-26",
     "developer": "MicroProse",
     "publisher": "MicroProse",
     "difficulty": "playable",
@@ -7600,13 +7600,13 @@ export const games: Game[] = [
       "kanji": "テクモスーパーボウル",
       "romaji": "Tekumo Sūpā Bōru"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Tecmo_Super_Bowl.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "26-11-1993",
+    "releaseDate": "1993-11-26",
     "developer": "Tecmo",
     "publisher": "Tecmo",
     "difficulty": "playable",
@@ -7626,13 +7626,13 @@ export const games: Game[] = [
       "kanji": "やだモン ワンダーランドドリーム",
       "romaji": "Yadamon Wandārando Dorīmu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "26-11-1993",
+    "releaseDate": "1993-11-26",
     "developer": "Sting Entertainment",
     "publisher": "Tokuma Shoten",
     "difficulty": "caution",
@@ -7652,13 +7652,13 @@ export const games: Game[] = [
       "kanji": "パワーレンジャー",
       "romaji": "Pawā Renjā"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "25-11-1995",
+    "releaseDate": "1995-11-25",
     "developer": "Natsume Co., Ltd.",
     "publisher": "Bandai",
     "difficulty": "playable",
@@ -7678,13 +7678,13 @@ export const games: Game[] = [
       "kanji": "零四チャンプRR-Z",
       "romaji": "Zero Yon Chanpu RR-Z"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Zero4_Champ__RR.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": true,
-    "releaseDate": "25-11-1995",
+    "releaseDate": "1995-11-25",
     "developer": "Media Rings",
     "publisher": "Media Rings",
     "difficulty": "caution",
@@ -7704,13 +7704,13 @@ export const games: Game[] = [
       "kanji": "バトルサッカー2",
       "romaji": "Batoru Sakkā 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "25-11-1994",
+    "releaseDate": "1994-11-25",
     "developer": "Pandora Box",
     "publisher": "Banpresto",
     "difficulty": "playable",
@@ -7730,13 +7730,13 @@ export const games: Game[] = [
       "kanji": "大爆笑人生劇場 大江戸日記",
       "romaji": "Daibakushō Jinsei Gekijō: Ōedo Nikki"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "25-11-1994",
+    "releaseDate": "1994-11-25",
     "developer": "Taito",
     "publisher": "Taito",
     "difficulty": "not-recommended",
@@ -7756,13 +7756,13 @@ export const games: Game[] = [
       "kanji": "元祖パチスロ日本一",
       "romaji": "Ganso Pachi-Surotto Nippon'ichi"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "25-11-1994",
+    "releaseDate": "1994-11-25",
     "developer": "Unknown",
     "publisher": "Coconuts Japan",
     "difficulty": "not-recommended",
@@ -7782,13 +7782,13 @@ export const games: Game[] = [
       "kanji": "激闘プロレスリング",
       "romaji": "Gekitō Puroresuringu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "25-11-1994",
+    "releaseDate": "1994-11-25",
     "developer": "Yutaka",
     "publisher": "Yutaka",
     "difficulty": "playable",
@@ -7808,13 +7808,13 @@ export const games: Game[] = [
       "kanji": "熱血プロ野球'94",
       "romaji": "Hakunetsu Puro Yakyū '94"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "25-11-1994",
+    "releaseDate": "1994-11-25",
     "developer": "Irem",
     "publisher": "Irem",
     "difficulty": "caution",
@@ -7834,13 +7834,13 @@ export const games: Game[] = [
       "kanji": "ドリームバスケットボール ダンク&フープ",
       "romaji": "Dorīmu Basukettobōru Danku & Hūpu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "18-11-1994",
+    "releaseDate": "1994-11-18",
     "developer": "Human Entertainment",
     "publisher": "Human Entertainment",
     "difficulty": "playable",
@@ -7860,13 +7860,13 @@ export const games: Game[] = [
       "kanji": "GP-1 ラピッドストリーム",
       "romaji": "GP-1 Rapiddo Sutorīmu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": false,
-    "releaseDate": "18-11-1994",
+    "releaseDate": "1994-11-18",
     "developer": "Atlus",
     "publisher": "Atlus",
     "difficulty": "playable",
@@ -7886,13 +7886,13 @@ export const games: Game[] = [
       "kanji": "鋼",
       "romaji": "Hagane"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Hagane__The_Final_Conflict.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "18-11-1994",
+    "releaseDate": "1994-11-18",
     "developer": "CAProduction",
     "publisher": "Hudson Soft",
     "difficulty": "playable",
@@ -7912,13 +7912,13 @@ export const games: Game[] = [
       "kanji": "花の慶次",
       "romaji": "Hana no Keiji"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "18-11-1994",
+    "releaseDate": "1994-11-18",
     "developer": "Tose",
     "publisher": "Yojigen",
     "difficulty": "caution",
@@ -7938,13 +7938,13 @@ export const games: Game[] = [
       "kanji": "マグナブラバン",
       "romaji": "Maguna Buraban"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Magna_Braban__Henreki_no_Yūsha.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "18-11-1994",
+    "releaseDate": "1994-11-18",
     "developer": "Lenar",
     "publisher": "ASK",
     "difficulty": "not-recommended",
@@ -7964,13 +7964,13 @@ export const games: Game[] = [
       "kanji": "ミリティア",
       "romaji": "Miritia"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": false,
-    "releaseDate": "18-11-1994",
+    "releaseDate": "1994-11-18",
     "developer": "Namco",
     "publisher": "Namco",
     "difficulty": "caution",
@@ -7990,13 +7990,13 @@ export const games: Game[] = [
       "kanji": "らんま1/2 爆裂乱闘編",
       "romaji": "Ranma 1/2: Bakuretsu Rantō Hen"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": true,
-    "releaseDate": "18-11-1994",
+    "releaseDate": "1994-11-18",
     "developer": "Rumic Soft",
     "publisher": "Shogakukan",
     "difficulty": "playable",
@@ -8016,13 +8016,13 @@ export const games: Game[] = [
       "kanji": "スーパーボンバーマン2",
       "romaji": "Sūpā Bonbāman 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Super_Bomberman_2.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "18-11-1994",
+    "releaseDate": "1994-11-18",
     "developer": "Hudson Soft",
     "publisher": "Hudson Soft",
     "difficulty": "playable",
@@ -8042,13 +8042,13 @@ export const games: Game[] = [
       "kanji": "スーパーロボット大戦3",
       "romaji": "Sūpā Robotto Taisen 3"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": true,
-    "releaseDate": "18-11-1993",
+    "releaseDate": "1993-11-18",
     "developer": "Winkysoft",
     "publisher": "Banpresto",
     "difficulty": "not-recommended",
@@ -8068,13 +8068,13 @@ export const games: Game[] = [
       "kanji": "釣太郎",
       "romaji": "Tsuri Tarō"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "18-11-1994",
+    "releaseDate": "1994-11-18",
     "developer": "Pack-In-Video",
     "publisher": "Pack-In-Video",
     "difficulty": "caution",
@@ -8094,13 +8094,13 @@ export const games: Game[] = [
       "kanji": "ワギャンパラダイス",
       "romaji": "Wagyan Paradaisu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "18-11-1994",
+    "releaseDate": "1994-11-18",
     "developer": "Namco",
     "publisher": "Namco",
     "difficulty": "not-recommended",
@@ -8120,13 +8120,13 @@ export const games: Game[] = [
       "kanji": "横山光輝 三国志",
       "romaji": "Yokoyama Mitsuteru: Sangokushi"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": true,
-    "releaseDate": "18-11-1994",
+    "releaseDate": "1994-11-18",
     "developer": "Banpresto",
     "publisher": "Banpresto",
     "difficulty": "not-recommended",
@@ -8146,13 +8146,13 @@ export const games: Game[] = [
       "kanji": "全日本プロレスリング2 3・4武道館",
       "romaji": "Zen-Nippon Puroresuringu 2: 3-4 Budōkan"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "18-11-1994",
+    "releaseDate": "1994-11-18",
     "developer": "Natsume Co., Ltd.",
     "publisher": "Natsume Co., Ltd.",
     "difficulty": "playable",
@@ -8172,13 +8172,13 @@ export const games: Game[] = [
       "kanji": "ジグザグキャット オストリッチ倶楽部も大騒ぎ",
       "romaji": "Jiguzagu Kyatto: Osutoritchi Kurabu mo Ōsawagi"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "18-11-1994",
+    "releaseDate": "1994-11-18",
     "developer": "Sigma",
     "publisher": "Sigma",
     "difficulty": "playable",
@@ -8198,13 +8198,13 @@ export const games: Game[] = [
       "kanji": "スーパーファイヤープロレスリングX",
       "romaji": "Sūpā Faiyā Puroresuringu X"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "15-11-1995",
+    "releaseDate": "1995-11-15",
     "developer": "Human Entertainment",
     "publisher": "Human Entertainment",
     "difficulty": "playable",
@@ -8224,13 +8224,13 @@ export const games: Game[] = [
       "kanji": "美少女戦士セーラームーン アナザーストーリー",
       "romaji": "Bishōjo Senshi Sērā Mūn: Anazā Sutōrī"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "15-11-1995",
+    "releaseDate": "1995-11-15",
     "developer": "Angel",
     "publisher": "Bandai",
     "difficulty": "not-recommended",
@@ -8250,13 +8250,13 @@ export const games: Game[] = [
       "kanji": "ドラゴンボールZ 超悟空伝 覚醒編",
       "romaji": "Doragon Bōru Zetto Chō Gokū Den Kakusei Hen"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "15-11-1995",
+    "releaseDate": "1995-11-15",
     "developer": "TOSE",
     "publisher": "Bandai",
     "difficulty": "not-recommended",
@@ -8276,13 +8276,13 @@ export const games: Game[] = [
       "kanji": "ファイアーエムブレム トラキア776",
       "romaji": "Faiā Emuburemu: Torakia 776"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": true,
-    "releaseDate": "15-11-1999",
+    "releaseDate": "1999-11-15",
     "developer": "Intelligent Systems",
     "publisher": "Nintendo",
     "difficulty": "not-recommended",
@@ -8302,13 +8302,13 @@ export const games: Game[] = [
       "kanji": "星のカービィ3",
       "romaji": "Hoshi no Kābī 3"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Kirby's_Dream_Land_3.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "15-11-1997",
+    "releaseDate": "1997-11-15",
     "developer": "HAL Laboratory",
     "publisher": "Nintendo",
     "difficulty": "playable",
@@ -8328,13 +8328,13 @@ export const games: Game[] = [
       "kanji": "麻雀繁盛記",
       "romaji": "Mājan Hanjōki"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "15-11-1995",
+    "releaseDate": "1995-11-15",
     "developer": "Face",
     "publisher": "Face",
     "difficulty": "not-recommended",
@@ -8354,13 +8354,13 @@ export const games: Game[] = [
       "kanji": "パワーレンジャーZEO バトルレーサーズ",
       "romaji": "Pawā Renjā ZEO Batoru Rēsāzu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": false,
-    "releaseDate": "15-11-1996",
+    "releaseDate": "1996-11-15",
     "developer": "Natsume Co., Ltd.",
     "publisher": "Bandai",
     "difficulty": "playable",
@@ -8380,13 +8380,13 @@ export const games: Game[] = [
       "kanji": "SDガンダムジェネレーション",
       "romaji": "SD Gandamu Jenerēshon"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": true,
-    "releaseDate": "15-11-1996",
+    "releaseDate": "1996-11-15",
     "developer": "Tom Create",
     "publisher": "Bandai",
     "difficulty": "not-recommended",
@@ -8406,13 +8406,13 @@ export const games: Game[] = [
       "kanji": "スーパーロボット大戦外伝 魔装機神 THE LORD OF ELEMENTAL",
       "romaji": "Sūpā Robotto Taisen Gaiden: Masō Kishin - The Lord of Elemental"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": true,
-    "releaseDate": "15-11-1996",
+    "releaseDate": "1996-11-15",
     "developer": "Winkysoft",
     "publisher": "Banpresto",
     "difficulty": "not-recommended",
@@ -8432,13 +8432,13 @@ export const games: Game[] = [
       "kanji": "テトリス&ドクターマリオ",
       "romaji": "Tetorisu & Dokutā Mario"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": false,
-    "releaseDate": "14-11-1994",
+    "releaseDate": "1994-11-14",
     "developer": "Nintendo",
     "publisher": "Nintendo",
     "difficulty": "playable",
@@ -8458,13 +8458,13 @@ export const games: Game[] = [
       "kanji": "アレサ2",
       "romaji": "Aresa 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "11-11-1994",
+    "releaseDate": "1994-11-11",
     "developer": "Yanoman",
     "publisher": "Yanoman",
     "difficulty": "not-recommended",
@@ -8484,13 +8484,13 @@ export const games: Game[] = [
       "kanji": "ドラゴンボールZ 超武闘伝2",
       "romaji": "Doragon Bōru Zetto Sūpā Butōden 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Dragon_Ball_Z__Super_Butōden_2.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": true,
-    "releaseDate": "11-11-1993",
+    "releaseDate": "1993-11-11",
     "developer": "TOSE",
     "publisher": "Bandai",
     "difficulty": "playable",
@@ -8510,13 +8510,13 @@ export const games: Game[] = [
       "kanji": "F1ロック2 レース オブ チャンピオンズ",
       "romaji": "F1 Rokku 2: Rēsu obu Chanpionzu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": false,
-    "releaseDate": "11-11-1993",
+    "releaseDate": "1993-11-11",
     "developer": "Seta",
     "publisher": "Seta",
     "difficulty": "playable",
@@ -8536,13 +8536,13 @@ export const games: Game[] = [
       "kanji": "実況パワフルプロ野球'95",
       "romaji": "Jikkyō Pawafuru Puro Yakyū '95"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "11-11-1995",
+    "releaseDate": "1995-11-11",
     "developer": "Konami",
     "publisher": "Konami",
     "difficulty": "caution",
@@ -8562,13 +8562,13 @@ export const games: Game[] = [
       "kanji": "くにおくんのドッジボールだよ全員集合!2",
       "romaji": "Kunio-kun no Dojjibōru dayo Zenin Shūgō! 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "11-11-1994",
+    "releaseDate": "1994-11-11",
     "developer": "Technos Japan",
     "publisher": "Technos Japan",
     "difficulty": "playable",
@@ -8588,13 +8588,13 @@ export const games: Game[] = [
       "kanji": "ロックマンX2",
       "romaji": "Rokkuman X2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Mega_Man_X2.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "11-11-1994",
+    "releaseDate": "1994-11-11",
     "developer": "Capcom",
     "publisher": "Capcom",
     "difficulty": "playable",
@@ -8614,13 +8614,13 @@ export const games: Game[] = [
       "kanji": "真・女神転生II",
       "romaji": "Shin Megami Tensei II"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Shin_Megami_Tensei_II.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "11-11-1994",
+    "releaseDate": "1994-11-11",
     "developer": "Atlus",
     "publisher": "Atlus",
     "difficulty": "not-recommended",
@@ -8640,13 +8640,13 @@ export const games: Game[] = [
       "kanji": "高橋名人の大冒険島II",
       "romaji": "Takahashi Meijin no Daibōken Jima II"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Super_Adventure_Island_II.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "11-11-1994",
+    "releaseDate": "1994-11-11",
     "developer": "Hudson Soft",
     "publisher": "Hudson Soft",
     "difficulty": "playable",
@@ -8666,13 +8666,13 @@ export const games: Game[] = [
       "kanji": "レンダリングレンジャーR2",
       "romaji": "Renderingu Renjā R2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "17-11-1995",
+    "releaseDate": "1995-11-17",
     "developer": "Rainbow Arts",
     "publisher": "Virgin Interactive Entertainment",
     "difficulty": "playable",
@@ -8692,13 +8692,13 @@ export const games: Game[] = [
       "kanji": "上海 万里の長城",
       "romaji": "Shanghai: Banri no Chōjō"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "17-11-1995",
+    "releaseDate": "1995-11-17",
     "developer": "Kuusoukagaku",
     "publisher": "Sunsoft",
     "difficulty": "playable",
@@ -8718,13 +8718,13 @@ export const games: Game[] = [
       "kanji": "全国高校サッカー2",
       "romaji": "Zenkoku Kōkō Sakkā 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "17-11-1995",
+    "releaseDate": "1995-11-17",
     "developer": "Nihon Syscom",
     "publisher": "Yojigen",
     "difficulty": "playable",
@@ -8744,13 +8744,13 @@ export const games: Game[] = [
       "kanji": "スター・トレック",
       "romaji": "Sutā Torekku"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "17-11-1994",
+    "releaseDate": "1994-11-17",
     "developer": "Spectrum HoloByte",
     "publisher": "Spectrum HoloByte",
     "difficulty": "playable",
@@ -8770,13 +8770,13 @@ export const games: Game[] = [
       "kanji": "レンナス 古代機械の記憶",
       "romaji": "Rennasu: Kodai Kikai no Kioku"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Paladin's_Quest.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": false,
-    "releaseDate": "13-11-1992",
+    "releaseDate": "1992-11-13",
     "developer": "Asmik Ace Entertainment",
     "publisher": "Enix",
     "difficulty": "caution",
@@ -8796,13 +8796,13 @@ export const games: Game[] = [
       "kanji": "スーパーSWIV",
       "romaji": "Sūpā SWIV"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Shoot 'em up",
     "japanExclusive": false,
-    "releaseDate": "13-11-1992",
+    "releaseDate": "1992-11-13",
     "developer": "Sales Curve Interactive",
     "publisher": "Sunsoft",
     "difficulty": "playable",
@@ -8822,13 +8822,13 @@ export const games: Game[] = [
       "kanji": "ソルスティスII",
       "romaji": "Sorusutisu II"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Equinox.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": false,
-    "releaseDate": "12-11-1993",
+    "releaseDate": "1993-11-12",
     "developer": "Software Creations",
     "publisher": "Sony Imagesoft",
     "difficulty": "playable",
@@ -8848,13 +8848,13 @@ export const games: Game[] = [
       "kanji": "ファイナルストレッチ",
       "romaji": "Fainaru Sutoretchi"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "12-11-1993",
+    "releaseDate": "1993-11-12",
     "developer": "Genki",
     "publisher": "LOZC G. Amusements",
     "difficulty": "playable",
@@ -8874,13 +8874,13 @@ export const games: Game[] = [
       "kanji": "スーパーウノ",
       "romaji": "Sūpā Uno"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "12-11-1993",
+    "releaseDate": "1993-11-12",
     "developer": "Unknown",
     "publisher": "Tomy",
     "difficulty": "playable",
@@ -8900,13 +8900,13 @@ export const games: Game[] = [
       "kanji": "若貴大相撲",
       "romaji": "Waka Taka Ōzumō"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "12-11-1993",
+    "releaseDate": "1993-11-12",
     "developer": "Tomcat System",
     "publisher": "Imagineer",
     "difficulty": "playable",
@@ -8926,13 +8926,13 @@ export const games: Game[] = [
       "kanji": "ロマンシング サガ3",
       "romaji": "Romanshingu Saga 3"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Romancing_SaGa_3.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "11-11-1995",
+    "releaseDate": "1995-11-11",
     "developer": "Square",
     "publisher": "Square",
     "difficulty": "not-recommended",
@@ -8952,13 +8952,13 @@ export const games: Game[] = [
       "kanji": "ゴン",
       "romaji": "Gon"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Gon.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "11-11-1994",
+    "releaseDate": "1994-11-11",
     "developer": "Tose",
     "publisher": "Bandai",
     "difficulty": "playable",
@@ -8978,13 +8978,13 @@ export const games: Game[] = [
       "kanji": "ミッキー&ミニー マジカルアドベンチャー2",
       "romaji": "Mikkī to Minī Majikaru Adobenchā 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/The_Great_Circus_Mystery_starring_Mickey_&_Minnie.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "11-11-1994",
+    "releaseDate": "1994-11-11",
     "developer": "Capcom",
     "publisher": "Capcom",
     "difficulty": "playable",
@@ -9004,13 +9004,13 @@ export const games: Game[] = [
       "kanji": "実況ワールドサッカー",
       "romaji": "Jikkyō Wārudo Sakkā"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "11-11-1994",
+    "releaseDate": "1994-11-11",
     "developer": "Konami",
     "publisher": "Konami",
     "difficulty": "playable",
@@ -9030,13 +9030,13 @@ export const games: Game[] = [
       "kanji": "モータルコンバットII",
       "romaji": "Mōtaru Konbatto II"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": false,
-    "releaseDate": "11-11-1994",
+    "releaseDate": "1994-11-11",
     "developer": "Sculptured Software",
     "publisher": "Acclaim Entertainment",
     "difficulty": "playable",
@@ -9056,13 +9056,13 @@ export const games: Game[] = [
       "kanji": "ガンフォース",
       "romaji": "Ganfōsu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "11-11-1992",
+    "releaseDate": "1992-11-11",
     "developer": "Bits Studios",
     "publisher": "Irem",
     "difficulty": "playable",
@@ -9082,13 +9082,13 @@ export const games: Game[] = [
       "kanji": "全国縦断 ウルトラ心理ゲーム",
       "romaji": "Zenkoku Jūdan: Urutora Shinri Gēmu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "10-11-1995",
+    "releaseDate": "1995-11-10",
     "developer": "Ukiyotei",
     "publisher": "Visit",
     "difficulty": "not-recommended",
@@ -9108,13 +9108,13 @@ export const games: Game[] = [
       "kanji": "お絵かきロジック2",
       "romaji": "Oekaki Rojikku 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "01-11-1999",
+    "releaseDate": "1999-11-01",
     "developer": "Unknown",
     "publisher": "Sekaibunka Publishing",
     "difficulty": "playable",
@@ -9134,13 +9134,13 @@ export const games: Game[] = [
       "kanji": "ファイヤーファイティング",
       "romaji": "Faiyā Faitingu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/The_Ignition_Factor.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "01-11-1994",
+    "releaseDate": "1994-11-01",
     "developer": "Jaleco",
     "publisher": "Jaleco",
     "difficulty": "caution",
@@ -9160,13 +9160,13 @@ export const games: Game[] = [
       "kanji": "ダークハーフ",
       "romaji": "Dāku Hāfu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Dark_Half.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "31-05-1996",
+    "releaseDate": "1996-05-31",
     "developer": "West One",
     "publisher": "Enix",
     "difficulty": "not-recommended",
@@ -9186,13 +9186,13 @@ export const games: Game[] = [
       "kanji": "フィッシング甲子園",
       "romaji": "Fisshingu Kōshien"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "31-05-1996",
+    "releaseDate": "1996-05-31",
     "developer": "A-Wave",
     "publisher": "King Records",
     "difficulty": "caution",
@@ -9212,13 +9212,13 @@ export const games: Game[] = [
       "kanji": "サウンドノベルツクール",
       "romaji": "Saundo Noberu Tsukūru"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Creation Tool",
     "japanExclusive": true,
-    "releaseDate": "31-05-1996",
+    "releaseDate": "1996-05-31",
     "developer": "Success",
     "publisher": "ASCII Entertainment",
     "difficulty": "not-recommended",
@@ -9238,13 +9238,13 @@ export const games: Game[] = [
       "kanji": "スパプーンDX",
       "romaji": "Supapūn DX"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "31-05-1996",
+    "releaseDate": "1996-05-31",
     "developer": "Now Production",
     "publisher": "Yutaka",
     "difficulty": "playable",
@@ -9264,13 +9264,13 @@ export const games: Game[] = [
       "kanji": "パーラー!ミニ6",
       "romaji": "Pārā! Mini 6"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "30-05-1997",
+    "releaseDate": "1997-05-30",
     "developer": "Unknown",
     "publisher": "Nippon Telenet",
     "difficulty": "not-recommended",
@@ -9290,13 +9290,13 @@ export const games: Game[] = [
       "kanji": "マジックソード",
       "romaji": "Majikku Sōdo"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Magic_Sword.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "29-05-1992",
+    "releaseDate": "1992-05-29",
     "developer": "Minakuchi Engineering",
     "publisher": "Capcom",
     "difficulty": "playable",
@@ -9316,13 +9316,13 @@ export const games: Game[] = [
       "kanji": "ザンII スピリッツ",
       "romaji": "Zan II: Supirittsu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "29-05-1992",
+    "releaseDate": "1992-05-29",
     "developer": "Wolf Team",
     "publisher": "Telenet Japan",
     "difficulty": "playable",
@@ -9342,13 +9342,13 @@ export const games: Game[] = [
       "kanji": "パチンコ物語",
       "romaji": "Pachinko Monogatari"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "28-05-1993",
+    "releaseDate": "1993-05-28",
     "developer": "KAZe",
     "publisher": "KSS",
     "difficulty": "not-recommended",
@@ -9368,13 +9368,13 @@ export const games: Game[] = [
       "kanji": "セプテントリオン",
       "romaji": "Seputentorion"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Adventure",
     "japanExclusive": false,
-    "releaseDate": "28-05-1993",
+    "releaseDate": "1993-05-28",
     "developer": "Human Entertainment",
     "publisher": "Vic Tokai",
     "difficulty": "caution",
@@ -9394,13 +9394,13 @@ export const games: Game[] = [
       "kanji": "グドリーン",
       "romaji": "Gudorīn"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Gdleen.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "28-05-1991",
+    "releaseDate": "1991-05-28",
     "developer": "Jorudan",
     "publisher": "SETA",
     "difficulty": "playable",
@@ -9420,13 +9420,13 @@ export const games: Game[] = [
       "kanji": "エイリアン3",
       "romaji": "Eirian 3"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "27-05-1994",
+    "releaseDate": "1994-05-27",
     "developer": "Probe Entertainment",
     "publisher": "Acclaim Entertainment",
     "difficulty": "playable",
@@ -9446,13 +9446,13 @@ export const games: Game[] = [
       "kanji": "クレヨンしんちゃん2 大魔王の逆襲",
       "romaji": "Kureyon Shin-chan 2: Daimaō no Gyakushū"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "27-05-1994",
+    "releaseDate": "1994-05-27",
     "developer": "Sun L",
     "publisher": "Bandai",
     "difficulty": "caution",
@@ -9472,13 +9472,13 @@ export const games: Game[] = [
       "kanji": "ファイターズヒストリー",
       "romaji": "Faitāzu Hisutorī"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": false,
-    "releaseDate": "27-05-1994",
+    "releaseDate": "1994-05-27",
     "developer": "Data East",
     "publisher": "Data East",
     "difficulty": "playable",
@@ -9498,13 +9498,13 @@ export const games: Game[] = [
       "kanji": "勝馬予想ソフト",
       "romaji": "Kachiuma Yosō Sofuto"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "27-05-1994",
+    "releaseDate": "1994-05-27",
     "developer": "Unknown",
     "publisher": "KSS",
     "difficulty": "not-recommended",
@@ -9524,13 +9524,13 @@ export const games: Game[] = [
       "kanji": "くにおのおでん",
       "romaji": "Kunio no Oden"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "27-05-1994",
+    "releaseDate": "1994-05-27",
     "developer": "Unknown",
     "publisher": "Technōs Japan",
     "difficulty": "caution",
@@ -9550,13 +9550,13 @@ export const games: Game[] = [
       "kanji": "SDガンダムGX",
       "romaji": "SD Gandamu GX"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "27-05-1994",
+    "releaseDate": "1994-05-27",
     "developer": "BEC",
     "publisher": "Bandai",
     "difficulty": "playable",
@@ -9576,13 +9576,13 @@ export const games: Game[] = [
       "kanji": "首都高バトル'94",
       "romaji": "Shutōkō Batoru '94"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": true,
-    "releaseDate": "27-05-1994",
+    "releaseDate": "1994-05-27",
     "developer": "Genki",
     "publisher": "Bullet-Proof Software",
     "difficulty": "playable",
@@ -9602,13 +9602,13 @@ export const games: Game[] = [
       "kanji": "コンピュータ能力解析",
       "romaji": "Konpyūta Nōryoku Kaiseki"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "26-05-1995",
+    "releaseDate": "1995-05-26",
     "developer": "Culture Brain",
     "publisher": "Culture Brain",
     "difficulty": "not-recommended",
@@ -9628,13 +9628,13 @@ export const games: Game[] = [
       "kanji": "グールパトロール",
       "romaji": "Gūru Patorōru"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "26-05-1995",
+    "releaseDate": "1995-05-26",
     "developer": "LucasArts",
     "publisher": "JVC Musical Industries",
     "difficulty": "playable",
@@ -9654,13 +9654,13 @@ export const games: Game[] = [
       "kanji": "早指二段森田将棋2",
       "romaji": "Hayazashi Nidan Morita Shōgi 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "26-05-1995",
+    "releaseDate": "1995-05-26",
     "developer": "Random House",
     "publisher": "SETA",
     "difficulty": "not-recommended",
@@ -9680,13 +9680,13 @@ export const games: Game[] = [
       "kanji": "日本物産アーケードクラシックス",
       "romaji": "Nichibutsu Ākeido Kurashikkusu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Compilation",
     "japanExclusive": true,
-    "releaseDate": "26-05-1995",
+    "releaseDate": "1995-05-26",
     "developer": "Syscom",
     "publisher": "Nichibutsu",
     "difficulty": "playable",
@@ -9706,13 +9706,13 @@ export const games: Game[] = [
       "kanji": "パチンコ連チャン天国",
       "romaji": "Pachinko Renchan Tengoku"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "26-05-1995",
+    "releaseDate": "1995-05-26",
     "developer": "Jorudan",
     "publisher": "VAP",
     "difficulty": "not-recommended",
@@ -9732,13 +9732,13 @@ export const games: Game[] = [
       "kanji": "シムシティ2000",
       "romaji": "Shimu Shiti 2000"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/SimCity_2000.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": false,
-    "releaseDate": "26-05-1995",
+    "releaseDate": "1995-05-26",
     "developer": "HAL Laboratory",
     "publisher": "Imagineer",
     "difficulty": "caution",
@@ -9758,13 +9758,13 @@ export const games: Game[] = [
       "kanji": "スパークワールド",
       "romaji": "Supāku Wārudo"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "26-05-1995",
+    "releaseDate": "1995-05-26",
     "developer": "Unknown",
     "publisher": "Den'Z",
     "difficulty": "playable",
@@ -9784,13 +9784,13 @@ export const games: Game[] = [
       "kanji": "スターゲート",
       "romaji": "Sutāgēto"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "26-05-1995",
+    "releaseDate": "1995-05-26",
     "developer": "Tantalus Interactive",
     "publisher": "Acclaim Entertainment",
     "difficulty": "playable",
@@ -9810,13 +9810,13 @@ export const games: Game[] = [
       "kanji": "スーパーなぞぷよ",
       "romaji": "Sūpā Nazo Puyo"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Super_Nazo_Puyo__Rulue_no_Roux.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "26-05-1995",
+    "releaseDate": "1995-05-26",
     "developer": "Compile",
     "publisher": "Banpresto",
     "difficulty": "playable",
@@ -9836,13 +9836,13 @@ export const games: Game[] = [
       "kanji": "ウォーロック",
       "romaji": "Wōrokku"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "26-05-1995",
+    "releaseDate": "1995-05-26",
     "developer": "Realtime Associates",
     "publisher": "Acclaim Entertainment",
     "difficulty": "playable",
@@ -9862,13 +9862,13 @@ export const games: Game[] = [
       "kanji": "ご近所冒険隊",
       "romaji": "Gokinjo Bōkentai"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "24-05-1996",
+    "releaseDate": "1996-05-24",
     "developer": "ITL",
     "publisher": "Pioneer LDC",
     "difficulty": "caution",
@@ -9888,13 +9888,13 @@ export const games: Game[] = [
       "kanji": "スーパーぐっすんおよよ2",
       "romaji": "Sūpā Gussun Oyoyo 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "24-05-1996",
+    "releaseDate": "1996-05-24",
     "developer": "Kan's",
     "publisher": "Banpresto",
     "difficulty": "playable",
@@ -9914,13 +9914,13 @@ export const games: Game[] = [
       "kanji": "ドラッケン",
       "romaji": "Dorakken"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Drakkhen.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": false,
-    "releaseDate": "24-05-1991",
+    "releaseDate": "1991-05-24",
     "developer": "Kemco",
     "publisher": "Kemco",
     "difficulty": "caution",
@@ -9940,13 +9940,13 @@ export const games: Game[] = [
       "kanji": "平成新鬼ヶ島",
       "romaji": "Heisei Shin Onigashima"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Adventure",
     "japanExclusive": true,
-    "releaseDate": "23-05-1998",
+    "releaseDate": "1998-05-23",
     "developer": "Nintendo",
     "publisher": "Nintendo",
     "difficulty": "not-recommended",
@@ -9966,13 +9966,13 @@ export const games: Game[] = [
       "kanji": "平成新鬼ヶ島",
       "romaji": "Heisei Shin Onigashima"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Adventure",
     "japanExclusive": true,
-    "releaseDate": "23-05-1998",
+    "releaseDate": "1998-05-23",
     "developer": "Nintendo",
     "publisher": "Nintendo",
     "difficulty": "not-recommended",
@@ -9992,13 +9992,13 @@ export const games: Game[] = [
       "kanji": "レッキングクルー'98",
       "romaji": "Rekkingu Kurū '98"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Wrecking_Crew_'98.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "23-05-1998",
+    "releaseDate": "1998-05-23",
     "developer": "Nintendo R&D1",
     "publisher": "Nintendo",
     "difficulty": "playable",
@@ -10018,13 +10018,13 @@ export const games: Game[] = [
       "kanji": "黄龍伝説ヴィルガスト",
       "romaji": "Kōryū Densetsu Virugasuto"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Kōryu_Densetsu_Villgust__Kieta_Shōjo.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "23-05-1992",
+    "releaseDate": "1992-05-23",
     "developer": "Winkysoft",
     "publisher": "Bandai",
     "difficulty": "not-recommended",
@@ -10044,13 +10044,13 @@ export const games: Game[] = [
       "kanji": "ファイナルファイト2",
       "romaji": "Fainaru Faito 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Final_Fight_2.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "22-05-1993",
+    "releaseDate": "1993-05-22",
     "developer": "Capcom",
     "publisher": "Capcom",
     "difficulty": "playable",
@@ -10070,13 +10070,13 @@ export const games: Game[] = [
       "kanji": "NBAオールスターチャレンジ",
       "romaji": "NBA Ōru Sutā Charenji"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "21-05-1993",
+    "releaseDate": "1993-05-21",
     "developer": "Beam Software",
     "publisher": "Acclaim Entertainment",
     "difficulty": "playable",
@@ -10096,13 +10096,13 @@ export const games: Game[] = [
       "kanji": "パチ夫くんスペシャル2",
       "romaji": "Pachiokun Supesharu 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "20-05-1994",
+    "releaseDate": "1994-05-20",
     "developer": "Marioette",
     "publisher": "Coconuts Japan",
     "difficulty": "not-recommended",
@@ -10122,13 +10122,13 @@ export const games: Game[] = [
       "kanji": "バトルタイクーン",
       "romaji": "Batoru Taikūn"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": true,
-    "releaseDate": "19-05-1995",
+    "releaseDate": "1995-05-19",
     "developer": "Right Stuff",
     "publisher": "Right Stuff",
     "difficulty": "playable",
@@ -10148,13 +10148,13 @@ export const games: Game[] = [
       "kanji": "スヌーピーコンサート",
       "romaji": "Sunūpī Konsāto"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Music",
     "japanExclusive": true,
-    "releaseDate": "19-05-1995",
+    "releaseDate": "1995-05-19",
     "developer": "Pax Softonica",
     "publisher": "Mitsui Fudosan",
     "difficulty": "playable",
@@ -10174,13 +10174,13 @@ export const games: Game[] = [
       "kanji": "スーパードンキーコング2",
       "romaji": "Sūpā Donkī Kongu 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "19-05-1995",
+    "releaseDate": "1995-05-19",
     "developer": "Rare",
     "publisher": "Nintendo",
     "difficulty": "playable",
@@ -10200,13 +10200,13 @@ export const games: Game[] = [
       "kanji": "天地無用!",
       "romaji": "Tenchi Muyō!"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "19-05-1995",
+    "releaseDate": "1995-05-19",
     "developer": "Banpresto",
     "publisher": "Banpresto",
     "difficulty": "caution",
@@ -10226,13 +10226,13 @@ export const games: Game[] = [
       "kanji": "釣太郎2",
       "romaji": "Tsuri Tarō 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "19-05-1995",
+    "releaseDate": "1995-05-19",
     "developer": "Pack-In-Video",
     "publisher": "Pack-In-Video",
     "difficulty": "caution",
@@ -10252,13 +10252,13 @@ export const games: Game[] = [
       "kanji": "ウィザードリィV",
       "romaji": "Wizādorī V"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "19-05-1995",
+    "releaseDate": "1995-05-19",
     "developer": "Sir-Tech",
     "publisher": "ASCII Entertainment",
     "difficulty": "not-recommended",
@@ -10278,13 +10278,13 @@ export const games: Game[] = [
       "kanji": "スーパーマリオ ヨッシーアイランド",
       "romaji": "Sūpā Mario: Yosshī Airando"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Super_Mario_World_2__Yoshi's_Island.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "19-05-1995",
+    "releaseDate": "1995-05-19",
     "developer": "Nintendo",
     "publisher": "Nintendo",
     "difficulty": "playable",
@@ -10304,13 +10304,13 @@ export const games: Game[] = [
       "kanji": "クレヨンしんちゃん",
       "romaji": "Kureyon Shin-chan"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "19-05-1993",
+    "releaseDate": "1993-05-19",
     "developer": "Tom Create",
     "publisher": "Bandai",
     "difficulty": "caution",
@@ -10330,13 +10330,13 @@ export const games: Game[] = [
       "kanji": "イースIV",
       "romaji": "Īsu IV"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "19-05-1993",
+    "releaseDate": "1993-05-19",
     "developer": "Tonkin House",
     "publisher": "Tonkin House",
     "difficulty": "not-recommended",
@@ -10356,13 +10356,13 @@ export const games: Game[] = [
       "kanji": "ドラゴンボールZ 超悟空伝",
       "romaji": "Doragon Bōru Zetto Chō Gokū Den"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "18-05-1995",
+    "releaseDate": "1995-05-18",
     "developer": "TOSE",
     "publisher": "Bandai",
     "difficulty": "not-recommended",
@@ -10382,13 +10382,13 @@ export const games: Game[] = [
       "kanji": "ファイアーエムブレム 聖戦の系譜",
       "romaji": "Faiā Emuburemu: Seisen no Keifu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": true,
-    "releaseDate": "18-05-1996",
+    "releaseDate": "1996-05-18",
     "developer": "Intelligent Systems",
     "publisher": "Nintendo",
     "difficulty": "not-recommended",
@@ -10408,13 +10408,13 @@ export const games: Game[] = [
       "kanji": "プロ棋士人生シミュレーション",
       "romaji": "Puro Kishi Jinsei Shimyurēshon"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "18-05-1995",
+    "releaseDate": "1995-05-18",
     "developer": "Random House",
     "publisher": "Imagineer",
     "difficulty": "not-recommended",
@@ -10434,13 +10434,13 @@ export const games: Game[] = [
       "kanji": "パチンコファン",
       "romaji": "Pachinko Fan"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "17-05-1994",
+    "releaseDate": "1994-05-17",
     "developer": "Planning Office Wada",
     "publisher": "Planning Office Wada",
     "difficulty": "not-recommended",
@@ -10460,13 +10460,13 @@ export const games: Game[] = [
       "kanji": "ピクロスNP Vol.5",
       "romaji": "Pikurosu NP Vol.5"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "15-05-1999",
+    "releaseDate": "1999-05-15",
     "developer": "Jupiter",
     "publisher": "Nintendo",
     "difficulty": "playable",
@@ -10486,13 +10486,13 @@ export const games: Game[] = [
       "kanji": "スーパー3Dベースボール3",
       "romaji": "Sūpā 3D Bēsubōru 3"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "15-05-1994",
+    "releaseDate": "1994-05-15",
     "developer": "Tose",
     "publisher": "Jaleco",
     "difficulty": "playable",
@@ -10512,13 +10512,13 @@ export const games: Game[] = [
       "kanji": "三國志IV",
       "romaji": "Sangokushi IV"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Romance_of_the_Three_Kingdoms_IV__Wall_of_Fire.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": false,
-    "releaseDate": "14-05-1995",
+    "releaseDate": "1995-05-14",
     "developer": "Koei",
     "publisher": "Koei",
     "difficulty": "caution",
@@ -10538,13 +10538,13 @@ export const games: Game[] = [
       "kanji": "スペースインベーダー",
       "romaji": "Supēsu Inbēdā"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Space_Invaders.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Shoot 'em up",
     "japanExclusive": false,
-    "releaseDate": "14-05-1994",
+    "releaseDate": "1994-05-14",
     "developer": "Taito",
     "publisher": "Taito",
     "difficulty": "playable",
@@ -10564,13 +10564,13 @@ export const games: Game[] = [
       "kanji": "聖剣伝説3",
       "romaji": "Seiken Densetsu 3"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "13-05-1995",
+    "releaseDate": "1995-05-13",
     "developer": "Square",
     "publisher": "Square",
     "difficulty": "not-recommended",
@@ -10590,13 +10590,13 @@ export const games: Game[] = [
       "kanji": "ソウルブレイダー",
       "romaji": "Sōru Bureidā"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Soul_Blazer.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "13-05-1992",
+    "releaseDate": "1992-05-13",
     "developer": "Quintet",
     "publisher": "Enix",
     "difficulty": "playable",
@@ -10616,13 +10616,13 @@ export const games: Game[] = [
       "kanji": "メタルコンバット",
       "romaji": "Metaru Konbatto"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Shooting",
     "japanExclusive": false,
-    "releaseDate": "13-05-1993",
+    "releaseDate": "1993-05-13",
     "developer": "Intelligent Systems",
     "publisher": "Nintendo",
     "difficulty": "playable",
@@ -10642,13 +10642,13 @@ export const games: Game[] = [
       "kanji": "日本物産麻雀III",
       "romaji": "Nichibutsu Mājan III"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "13-05-1995",
+    "releaseDate": "1995-05-13",
     "developer": "Nichibutsu",
     "publisher": "Nichibutsu",
     "difficulty": "not-recommended",
@@ -10668,13 +10668,13 @@ export const games: Game[] = [
       "kanji": "パーラー!ミニ5",
       "romaji": "Pārā! Mini 5"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "13-05-1996",
+    "releaseDate": "1996-05-13",
     "developer": "Unknown",
     "publisher": "Nippon Telenet",
     "difficulty": "not-recommended",
@@ -10694,13 +10694,13 @@ export const games: Game[] = [
       "kanji": "スーパー人生ゲーム4",
       "romaji": "Sūpā Jinsei Gēmu 4"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "13-05-1996",
+    "releaseDate": "1996-05-13",
     "developer": "Takara",
     "publisher": "Takara",
     "difficulty": "not-recommended",
@@ -10720,13 +10720,13 @@ export const games: Game[] = [
       "kanji": "VSコレクション2",
       "romaji": "VS Korekushon 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": true,
-    "releaseDate": "13-05-1996",
+    "releaseDate": "1996-05-13",
     "developer": "Bottom Up",
     "publisher": "Bottom Up",
     "difficulty": "playable",
@@ -10746,13 +10746,13 @@ export const games: Game[] = [
       "kanji": "雷電伝説",
       "romaji": "Raiden Densetsu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Shoot 'em up",
     "japanExclusive": false,
-    "releaseDate": "13-05-1991",
+    "releaseDate": "1991-05-13",
     "developer": "Seibu Kaihatsu",
     "publisher": "Tecmo",
     "difficulty": "playable",
@@ -10772,13 +10772,13 @@ export const games: Game[] = [
       "kanji": "ガイアの絆",
       "romaji": "Gaia no Kizuna"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": false,
-    "releaseDate": "12-05-1993",
+    "releaseDate": "1993-05-12",
     "developer": "Quintet",
     "publisher": "Enix",
     "difficulty": "playable",
@@ -10798,13 +10798,13 @@ export const games: Game[] = [
       "kanji": "餓狼伝説スペシャル",
       "romaji": "Garō Densetsu Supesharu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Fatal_Fury_Special.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": false,
-    "releaseDate": "12-05-1994",
+    "releaseDate": "1994-05-12",
     "developer": "Takara",
     "publisher": "Takara",
     "difficulty": "playable",
@@ -10824,13 +10824,13 @@ export const games: Game[] = [
       "kanji": "スーパードンキーコング2",
       "romaji": "Sūpā Donkī Kongu 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Donkey_Kong_Country_2__Diddy's_Kong_Quest.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "11-05-1995",
+    "releaseDate": "1995-05-11",
     "developer": "Rare",
     "publisher": "Nintendo",
     "difficulty": "playable",
@@ -10850,13 +10850,13 @@ export const games: Game[] = [
       "kanji": "餓狼伝説3",
       "romaji": "Garō Densetsu 3"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": false,
-    "releaseDate": "11-05-1995",
+    "releaseDate": "1995-05-11",
     "developer": "SNK",
     "publisher": "Takara",
     "difficulty": "playable",
@@ -10876,13 +10876,13 @@ export const games: Game[] = [
       "kanji": "スーパーゴール! 3",
       "romaji": "Sūpā Gōru! 3"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "11-05-1994",
+    "releaseDate": "1994-05-11",
     "developer": "Jaleco",
     "publisher": "Jaleco",
     "difficulty": "playable",
@@ -10902,13 +10902,13 @@ export const games: Game[] = [
       "kanji": "F-15スーパーストライクイーグルII",
       "romaji": "F-15 Sūpā Sutoraiku Īguru II"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "11-05-1993",
+    "releaseDate": "1993-05-11",
     "developer": "MicroProse",
     "publisher": "MicroProse",
     "difficulty": "playable",
@@ -10928,13 +10928,13 @@ export const games: Game[] = [
       "kanji": "テクモスーパーボウルII",
       "romaji": "Tekumo Sūpā Bōru II"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "11-05-1994",
+    "releaseDate": "1994-05-11",
     "developer": "Tecmo",
     "publisher": "Tecmo",
     "difficulty": "playable",
@@ -10954,13 +10954,13 @@ export const games: Game[] = [
       "kanji": "やだモン ワンダーランドドリームス",
       "romaji": "Yadamon Wandārando Dorīmusu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "11-05-1993",
+    "releaseDate": "1993-05-11",
     "developer": "Sting",
     "publisher": "Tokuma Shoten",
     "difficulty": "caution",
@@ -10980,13 +10980,13 @@ export const games: Game[] = [
       "kanji": "パワーレンジャー ザ・ムービー",
       "romaji": "Pawā Renjā Za Mūbī"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "10-05-1995",
+    "releaseDate": "1995-05-10",
     "developer": "Bandai",
     "publisher": "Bandai",
     "difficulty": "playable",
@@ -11006,13 +11006,13 @@ export const games: Game[] = [
       "kanji": "零四チャンプRR-Z2",
       "romaji": "Zero Yon Chanpu RR-Z2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": true,
-    "releaseDate": "10-05-1995",
+    "releaseDate": "1995-05-10",
     "developer": "Media Rings",
     "publisher": "Media Rings",
     "difficulty": "caution",
@@ -11032,13 +11032,13 @@ export const games: Game[] = [
       "kanji": "バトルサッカー3",
       "romaji": "Batoru Sakkā 3"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "10-05-1994",
+    "releaseDate": "1994-05-10",
     "developer": "Pandora Box",
     "publisher": "Banpresto",
     "difficulty": "playable",
@@ -11058,13 +11058,13 @@ export const games: Game[] = [
       "kanji": "大爆笑人生劇場2",
       "romaji": "Daibakushō Jinsei Gekijō 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "10-05-1994",
+    "releaseDate": "1994-05-10",
     "developer": "Taito",
     "publisher": "Taito",
     "difficulty": "not-recommended",
@@ -11084,13 +11084,13 @@ export const games: Game[] = [
       "kanji": "元祖パチスロ日本一2",
       "romaji": "Ganso Pachi-Surotto Nippon Ichi 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "10-05-1994",
+    "releaseDate": "1994-05-10",
     "developer": "Coconuts Japan",
     "publisher": "Coconuts Japan",
     "difficulty": "not-recommended",
@@ -11110,13 +11110,13 @@ export const games: Game[] = [
       "kanji": "激闘プロレスリング2",
       "romaji": "Gekitō Puroresuringu 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "10-05-1994",
+    "releaseDate": "1994-05-10",
     "developer": "Yutaka",
     "publisher": "Yutaka",
     "difficulty": "playable",
@@ -11136,13 +11136,13 @@ export const games: Game[] = [
       "kanji": "熱血プロ野球'95",
       "romaji": "Hakunetsu Puro Yakyū '95"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "10-05-1995",
+    "releaseDate": "1995-05-10",
     "developer": "Irem",
     "publisher": "Irem",
     "difficulty": "caution",
@@ -11162,13 +11162,13 @@ export const games: Game[] = [
       "kanji": "実況おしゃべりパロディウス2",
       "romaji": "Jikkyō Oshaberi Parodiusu 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Shoot 'em up",
     "japanExclusive": true,
-    "releaseDate": "10-05-1995",
+    "releaseDate": "1995-05-10",
     "developer": "Konami",
     "publisher": "Konami",
     "difficulty": "playable",
@@ -11188,13 +11188,13 @@ export const games: Game[] = [
       "kanji": "麻雀大会III",
       "romaji": "Mājan Taikai III"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "10-05-1995",
+    "releaseDate": "1995-05-10",
     "developer": "I'MAX",
     "publisher": "I'MAX",
     "difficulty": "not-recommended",
@@ -11214,13 +11214,13 @@ export const games: Game[] = [
       "kanji": "ドリームバスケットボール ダンク&フープ2",
       "romaji": "Dorīmu Basukettobōru Danku & Hūpu 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "09-05-1994",
+    "releaseDate": "1994-05-09",
     "developer": "Human",
     "publisher": "Human",
     "difficulty": "playable",
@@ -11240,13 +11240,13 @@ export const games: Game[] = [
       "kanji": "GP-1 パートIII",
       "romaji": "GP-1 Pāto III"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": false,
-    "releaseDate": "09-05-1995",
+    "releaseDate": "1995-05-09",
     "developer": "Atlus",
     "publisher": "Atlus",
     "difficulty": "playable",
@@ -11266,13 +11266,13 @@ export const games: Game[] = [
       "kanji": "鋼2",
       "romaji": "Hagane 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "09-05-1995",
+    "releaseDate": "1995-05-09",
     "developer": "CAProduction",
     "publisher": "Hudson Soft",
     "difficulty": "playable",
@@ -11292,13 +11292,13 @@ export const games: Game[] = [
       "kanji": "花の慶次2",
       "romaji": "Hana no Keiji 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "09-05-1995",
+    "releaseDate": "1995-05-09",
     "developer": "Tose",
     "publisher": "Yojigen",
     "difficulty": "caution",
@@ -11318,13 +11318,13 @@ export const games: Game[] = [
       "kanji": "マグナブラバン2",
       "romaji": "Maguna Buraban 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "09-05-1995",
+    "releaseDate": "1995-05-09",
     "developer": "Lenar",
     "publisher": "ASK",
     "difficulty": "not-recommended",
@@ -11344,13 +11344,13 @@ export const games: Game[] = [
       "kanji": "ミリティア2",
       "romaji": "Miritia 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": false,
-    "releaseDate": "09-05-1995",
+    "releaseDate": "1995-05-09",
     "developer": "Namco",
     "publisher": "Namco",
     "difficulty": "caution",
@@ -11370,13 +11370,13 @@ export const games: Game[] = [
       "kanji": "らんま1/2 超技乱舞編2",
       "romaji": "Ranma 1/2: Chōgi Ranbu Hen 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": true,
-    "releaseDate": "09-05-1995",
+    "releaseDate": "1995-05-09",
     "developer": "Rumic Soft",
     "publisher": "Shogakukan",
     "difficulty": "playable",
@@ -11396,13 +11396,13 @@ export const games: Game[] = [
       "kanji": "スーパーボンバーマン3",
       "romaji": "Sūpā Bonbāman 3"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Super_Bomberman_3.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "09-05-1995",
+    "releaseDate": "1995-05-09",
     "developer": "Hudson Soft",
     "publisher": "Hudson Soft",
     "difficulty": "playable",
@@ -11422,13 +11422,13 @@ export const games: Game[] = [
       "kanji": "ワギャンパラダイス2",
       "romaji": "Wagyan Paradaisu 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "09-05-1995",
+    "releaseDate": "1995-05-09",
     "developer": "Namco",
     "publisher": "Namco",
     "difficulty": "not-recommended",
@@ -11448,13 +11448,13 @@ export const games: Game[] = [
       "kanji": "横山光輝 三国志2",
       "romaji": "Yokoyama Mitsuteru: Sangokushi 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": true,
-    "releaseDate": "09-05-1995",
+    "releaseDate": "1995-05-09",
     "developer": "Banpresto",
     "publisher": "Banpresto",
     "difficulty": "not-recommended",
@@ -11474,13 +11474,13 @@ export const games: Game[] = [
       "kanji": "全日本プロレスリング3",
       "romaji": "Zen-Nippon Puroresuringu 3"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "09-05-1995",
+    "releaseDate": "1995-05-09",
     "developer": "Natsume",
     "publisher": "Natsume",
     "difficulty": "playable",
@@ -11500,13 +11500,13 @@ export const games: Game[] = [
       "kanji": "ジグザグキャット2",
       "romaji": "Jiguzagu Kyatto 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "09-05-1995",
+    "releaseDate": "1995-05-09",
     "developer": "Sigma",
     "publisher": "Sigma",
     "difficulty": "playable",
@@ -11526,13 +11526,13 @@ export const games: Game[] = [
       "kanji": "実況パワープロレスリング'97",
       "romaji": "Jikkyō Pawā Puroresuringu '97"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "08-05-1997",
+    "releaseDate": "1997-05-08",
     "developer": "Konami",
     "publisher": "Konami",
     "difficulty": "playable",
@@ -11552,13 +11552,13 @@ export const games: Game[] = [
       "kanji": "旧約・女神転生",
       "romaji": "Kyūyaku Megami Tensei"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "31-03-1995",
+    "releaseDate": "1995-03-31",
     "developer": "Opera House",
     "publisher": "Atlus",
     "difficulty": "not-recommended",
@@ -11578,13 +11578,13 @@ export const games: Game[] = [
       "kanji": "ミッキーマニア",
       "romaji": "Mikkī Mania"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Mickey_Mania.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "31-03-1995",
+    "releaseDate": "1995-03-31",
     "developer": "Traveller's Tales",
     "publisher": "Capcom",
     "difficulty": "playable",
@@ -11604,13 +11604,13 @@ export const games: Game[] = [
       "kanji": "モノポリー2",
       "romaji": "Monopurī 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "31-03-1995",
+    "releaseDate": "1995-03-31",
     "developer": "Tomcat System",
     "publisher": "Tomy",
     "difficulty": "caution",
@@ -11630,13 +11630,13 @@ export const games: Game[] = [
       "kanji": "最高速思考将棋麻雀",
       "romaji": "Saikōsoku Shikō Shōgi Mahjong"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "31-03-1995",
+    "releaseDate": "1995-03-31",
     "developer": "Unknown",
     "publisher": "Varie",
     "difficulty": "not-recommended",
@@ -11656,13 +11656,13 @@ export const games: Game[] = [
       "kanji": "至上最強リーグセリエA",
       "romaji": "Shijō Saikyō Rīgu Serie A"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Shijō_Saikyō_League_Serie_A__Ace_Striker.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "31-03-1995",
+    "releaseDate": "1995-03-31",
     "developer": "Unknown",
     "publisher": "TNN",
     "difficulty": "playable",
@@ -11682,13 +11682,13 @@ export const games: Game[] = [
       "kanji": "スーパーフォーメーションサッカー95",
       "romaji": "Sūpā Fōmēshon Sakkā 95"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Super_Formation_Soccer_95__della_Serie_A.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "31-03-1995",
+    "releaseDate": "1995-03-31",
     "developer": "Human Entertainment",
     "publisher": "Human Entertainment",
     "difficulty": "playable",
@@ -11708,13 +11708,13 @@ export const games: Game[] = [
       "kanji": "アンドレアガシテニス",
       "romaji": "Andore Agashi Tenisu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "31-03-1994",
+    "releaseDate": "1994-03-31",
     "developer": "Radiance Software",
     "publisher": "TecMagik",
     "difficulty": "playable",
@@ -11734,13 +11734,13 @@ export const games: Game[] = [
       "kanji": "京楽産業麻雀パーラー",
       "romaji": "Kyōraku Sangyō Mājan Pārā"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "30-03-1995",
+    "releaseDate": "1995-03-30",
     "developer": "Unknown",
     "publisher": "Nippon Telenet",
     "difficulty": "not-recommended",
@@ -11760,13 +11760,13 @@ export const games: Game[] = [
       "kanji": "マッスルボマー",
       "romaji": "Massuru Bomā"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": false,
-    "releaseDate": "30-03-1994",
+    "releaseDate": "1994-03-30",
     "developer": "Capcom",
     "publisher": "Capcom",
     "difficulty": "playable",
@@ -11786,13 +11786,13 @@ export const games: Game[] = [
       "kanji": "真・麻雀",
       "romaji": "Shin Mājan"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "30-03-1994",
+    "releaseDate": "1994-03-30",
     "developer": "Unknown",
     "publisher": "Konami",
     "difficulty": "not-recommended",
@@ -11812,13 +11812,13 @@ export const games: Game[] = [
       "kanji": "スーパーエアダイバー2",
       "romaji": "Sūpā Ea Daibā 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "03-03-1995",
+    "releaseDate": "1995-03-03",
     "developer": "Copya Systems",
     "publisher": "Asmik Ace",
     "difficulty": "playable",
@@ -11838,13 +11838,13 @@ export const games: Game[] = [
       "kanji": "スーパーファミスタ4",
       "romaji": "Sūpā Famisuta 4"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "03-03-1995",
+    "releaseDate": "1995-03-03",
     "developer": "Unknown",
     "publisher": "Namco",
     "difficulty": "caution",
@@ -11864,13 +11864,13 @@ export const games: Game[] = [
       "kanji": "アンジェリーク ボイスファンタジー",
       "romaji": "Anjerīku Boisu Fantajī"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Adventure",
     "japanExclusive": true,
-    "releaseDate": "29-03-1996",
+    "releaseDate": "1996-03-29",
     "developer": "Ruby Party",
     "publisher": "Koei",
     "difficulty": "not-recommended",
@@ -11890,13 +11890,13 @@ export const games: Game[] = [
       "kanji": "美少女戦士セーラームーンSuperS",
       "romaji": "Bishōjo Senshi Sērā Mūn SuperS"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": true,
-    "releaseDate": "29-03-1996",
+    "releaseDate": "1996-03-29",
     "developer": "Angel",
     "publisher": "Angel",
     "difficulty": "playable",
@@ -11916,13 +11916,13 @@ export const games: Game[] = [
       "kanji": "ドラゴンボールZ ハイパーディメンション",
       "romaji": "Doragon Bōru Zetto Haipā Dimenshon"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": true,
-    "releaseDate": "29-03-1996",
+    "releaseDate": "1996-03-29",
     "developer": "Tose",
     "publisher": "Bandai",
     "difficulty": "playable",
@@ -11942,13 +11942,13 @@ export const games: Game[] = [
       "kanji": "GTレーシング",
       "romaji": "GT Rēshingu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": true,
-    "releaseDate": "29-03-1996",
+    "releaseDate": "1996-03-29",
     "developer": "Imagineer",
     "publisher": "Imagineer",
     "difficulty": "playable",
@@ -11968,13 +11968,13 @@ export const games: Game[] = [
       "kanji": "新機動戦記ガンダムW Endless Duel",
       "romaji": "Shin Kidō Senki Gandamu Wing Endless Duel"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": true,
-    "releaseDate": "29-03-1996",
+    "releaseDate": "1996-03-29",
     "developer": "Unknown",
     "publisher": "Bandai",
     "difficulty": "playable",
@@ -11994,13 +11994,13 @@ export const games: Game[] = [
       "kanji": "それゆけエビスマル",
       "romaji": "Soreyuke Ebisumaru"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "29-03-1996",
+    "releaseDate": "1996-03-29",
     "developer": "Konami",
     "publisher": "Konami",
     "difficulty": "caution",
@@ -12020,13 +12020,13 @@ export const games: Game[] = [
       "kanji": "スーパーフォーメーションサッカー96",
       "romaji": "Sūpā Fōmēshon Sakkā 96"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "29-03-1996",
+    "releaseDate": "1996-03-29",
     "developer": "Human Entertainment",
     "publisher": "Human Entertainment",
     "difficulty": "playable",
@@ -12046,13 +12046,13 @@ export const games: Game[] = [
       "kanji": "ダライアスツイン",
       "romaji": "Daraiasu Tsuin"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Darius_Twin.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Shoot 'em up",
     "japanExclusive": false,
-    "releaseDate": "29-03-1991",
+    "releaseDate": "1991-03-29",
     "developer": "Taito",
     "publisher": "Taito",
     "difficulty": "playable",
@@ -12072,13 +12072,13 @@ export const games: Game[] = [
       "kanji": "ダークロウ",
       "romaji": "Dāku Rō"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Dark_Law__Meaning_of_Death.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "28-03-1997",
+    "releaseDate": "1997-03-28",
     "developer": "SAS Sakata",
     "publisher": "ASCII",
     "difficulty": "not-recommended",
@@ -12098,13 +12098,13 @@ export const games: Game[] = [
       "kanji": "ソリッドランナー",
       "romaji": "Soriddo Rannā"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "28-03-1997",
+    "releaseDate": "1997-03-28",
     "developer": "Sting",
     "publisher": "ASCII",
     "difficulty": "playable",
@@ -12124,13 +12124,13 @@ export const games: Game[] = [
       "kanji": "まじかるタルるートくん",
       "romaji": "Majikaru Tarurūto-kun"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "28-03-1992",
+    "releaseDate": "1992-03-28",
     "developer": "Tose",
     "publisher": "Bandai",
     "difficulty": "caution",
@@ -12150,13 +12150,13 @@ export const games: Game[] = [
       "kanji": "スーパーバトルタンク2",
       "romaji": "Sūpā Batorutanku 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "27-03-1994",
+    "releaseDate": "1994-03-27",
     "developer": "Absolute Entertainment",
     "publisher": "Absolute Entertainment",
     "difficulty": "playable",
@@ -12176,13 +12176,13 @@ export const games: Game[] = [
       "kanji": "アルカナ",
       "romaji": "Arukana"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Arcana.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": false,
-    "releaseDate": "27-03-1992",
+    "releaseDate": "1992-03-27",
     "developer": "HAL Laboratory",
     "publisher": "HAL Laboratory",
     "difficulty": "caution",
@@ -12202,13 +12202,13 @@ export const games: Game[] = [
       "kanji": "バトルグランプリ",
       "romaji": "Batoru Guran Puri"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Battle_Grand_Prix.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": false,
-    "releaseDate": "27-03-1992",
+    "releaseDate": "1992-03-27",
     "developer": "KID",
     "publisher": "Naxat Soft",
     "difficulty": "playable",
@@ -12228,13 +12228,13 @@ export const games: Game[] = [
       "kanji": "ザ・グレイトバトルII",
       "romaji": "Za Gureito Batoru II"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "27-03-1992",
+    "releaseDate": "1992-03-27",
     "developer": "Unknown",
     "publisher": "Banpresto",
     "difficulty": "playable",
@@ -12254,13 +12254,13 @@ export const games: Game[] = [
       "kanji": "ラッシングビート",
       "romaji": "Rasshingu Bīto"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Rival_Turf.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "27-03-1992",
+    "releaseDate": "1992-03-27",
     "developer": "Jaleco",
     "publisher": "Jaleco",
     "difficulty": "playable",
@@ -12280,13 +12280,13 @@ export const games: Game[] = [
       "kanji": "らんま1/2 町内激闘編",
       "romaji": "Ranma 1/2: Chōnai Gekitōhen"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": false,
-    "releaseDate": "27-03-1992",
+    "releaseDate": "1992-03-27",
     "developer": "NCS",
     "publisher": "Irem",
     "difficulty": "playable",
@@ -12306,13 +12306,13 @@ export const games: Game[] = [
       "kanji": "ストライクガンナー",
       "romaji": "Sutoraiku Gannā"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Shoot 'em up",
     "japanExclusive": false,
-    "releaseDate": "27-03-1992",
+    "releaseDate": "1992-03-27",
     "developer": "Athena",
     "publisher": "Athena",
     "difficulty": "playable",
@@ -12332,13 +12332,13 @@ export const games: Game[] = [
       "kanji": "スーパーファミスタ",
       "romaji": "Sūpā Famisuta"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "27-03-1992",
+    "releaseDate": "1992-03-27",
     "developer": "Namco",
     "publisher": "Namco",
     "difficulty": "caution",
@@ -12358,13 +12358,13 @@ export const games: Game[] = [
       "kanji": "スーパースマッシュTV",
       "romaji": "Sūpā Sumasshu TV"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Smash_T.V.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "27-03-1992",
+    "releaseDate": "1992-03-27",
     "developer": "Beam Software",
     "publisher": "Acclaim",
     "difficulty": "playable",
@@ -12384,13 +12384,13 @@ export const games: Game[] = [
       "kanji": "ハットトリックヒーロー",
       "romaji": "Hatto Torikku Hīrō"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "27-03-1992",
+    "releaseDate": "1992-03-27",
     "developer": "Taito",
     "publisher": "Taito",
     "difficulty": "playable",
@@ -12410,13 +12410,13 @@ export const games: Game[] = [
       "kanji": "スーパーバリスIV",
       "romaji": "Sūpā Barisu IV"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Super_Valis_IV.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "27-03-1992",
+    "releaseDate": "1992-03-27",
     "developer": "Telenet Japan",
     "publisher": "Atlus",
     "difficulty": "playable",
@@ -12436,13 +12436,13 @@ export const games: Game[] = [
       "kanji": "トップレーサー",
       "romaji": "Toppu Rēsā"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": false,
-    "releaseDate": "27-03-1992",
+    "releaseDate": "1992-03-27",
     "developer": "Gremlin Interactive",
     "publisher": "Kemco",
     "difficulty": "playable",
@@ -12462,13 +12462,13 @@ export const games: Game[] = [
       "kanji": "スラムダンク 四強対決",
       "romaji": "Suramu Danku: Yonkyō Taiketsu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "26-03-1994",
+    "releaseDate": "1994-03-26",
     "developer": "Tose",
     "publisher": "Bandai",
     "difficulty": "caution",
@@ -12488,13 +12488,13 @@ export const games: Game[] = [
       "kanji": "ブルースブラザース",
       "romaji": "Burūsu Burazāsu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "26-03-1993",
+    "releaseDate": "1993-03-26",
     "developer": "Titus Software",
     "publisher": "Titus",
     "difficulty": "playable",
@@ -12514,13 +12514,13 @@ export const games: Game[] = [
       "kanji": "デザートストライク",
       "romaji": "Dezāto Sutoraiku"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "26-03-1993",
+    "releaseDate": "1993-03-26",
     "developer": "Visual Concepts",
     "publisher": "EA",
     "difficulty": "playable",
@@ -12540,13 +12540,13 @@ export const games: Game[] = [
       "kanji": "ザ・グレイトバトルIII",
       "romaji": "Za Gureito Batoru III"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "26-03-1993",
+    "releaseDate": "1993-03-26",
     "developer": "Sun L",
     "publisher": "Banpresto",
     "difficulty": "playable",
@@ -12566,13 +12566,13 @@ export const games: Game[] = [
       "kanji": "インターナショナルテニスツアー",
       "romaji": "Intānashonaru Tenisu Tsuā"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "26-03-1993",
+    "releaseDate": "1993-03-26",
     "developer": "Loriciel",
     "publisher": "Taito",
     "difficulty": "playable",
@@ -12592,13 +12592,13 @@ export const games: Game[] = [
       "kanji": "ノイギーア",
       "romaji": "Noigiā"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action RPG",
     "japanExclusive": true,
-    "releaseDate": "26-03-1993",
+    "releaseDate": "1993-03-26",
     "developer": "Wolf Team",
     "publisher": "Telenet Japan",
     "difficulty": "not-recommended",
@@ -12618,13 +12618,13 @@ export const games: Game[] = [
       "kanji": "ポップンツインビー",
       "romaji": "Poppu'n Tsuinbī"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Shoot 'em up",
     "japanExclusive": false,
-    "releaseDate": "26-03-1993",
+    "releaseDate": "1993-03-26",
     "developer": "Konami",
     "publisher": "Konami",
     "difficulty": "playable",
@@ -12644,13 +12644,13 @@ export const games: Game[] = [
       "kanji": "パワーモンガー",
       "romaji": "Pawā Mongā"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/PowerMonger.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": false,
-    "releaseDate": "26-03-1993",
+    "releaseDate": "1993-03-26",
     "developer": "Bullfrog",
     "publisher": "Imagineer",
     "difficulty": "caution",
@@ -12670,13 +12670,13 @@ export const games: Game[] = [
       "kanji": "心理ゲーム",
       "romaji": "Shinri Gēmu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "26-03-1993",
+    "releaseDate": "1993-03-26",
     "developer": "Unknown",
     "publisher": "Visit",
     "difficulty": "not-recommended",
@@ -12696,13 +12696,13 @@ export const games: Game[] = [
       "kanji": "つっぱり大相撲",
       "romaji": "Tsuppari Ōzumō"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "26-03-1993",
+    "releaseDate": "1993-03-26",
     "developer": "Tecmo",
     "publisher": "Tecmo",
     "difficulty": "caution",
@@ -12722,13 +12722,13 @@ export const games: Game[] = [
       "kanji": "デッドダンス",
       "romaji": "Deddo Dansu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": false,
-    "releaseDate": "26-03-1993",
+    "releaseDate": "1993-03-26",
     "developer": "Jaleco",
     "publisher": "Jaleco",
     "difficulty": "playable",
@@ -12748,13 +12748,13 @@ export const games: Game[] = [
       "kanji": "ウルトラセブン",
       "romaji": "Urutora Sebun"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "26-03-1993",
+    "releaseDate": "1993-03-26",
     "developer": "BEC",
     "publisher": "Bandai",
     "difficulty": "playable",
@@ -12774,13 +12774,13 @@ export const games: Game[] = [
       "kanji": "エミット Vol. 1",
       "romaji": "Emitto Vol. 1"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Adventure",
     "japanExclusive": true,
-    "releaseDate": "25-03-1995",
+    "releaseDate": "1995-03-25",
     "developer": "Koei",
     "publisher": "Koei",
     "difficulty": "not-recommended",
@@ -12800,13 +12800,13 @@ export const games: Game[] = [
       "kanji": "エミット Vol. 2",
       "romaji": "Emitto Vol. 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Adventure",
     "japanExclusive": true,
-    "releaseDate": "25-03-1995",
+    "releaseDate": "1995-03-25",
     "developer": "Koei",
     "publisher": "Koei",
     "difficulty": "not-recommended",
@@ -12826,13 +12826,13 @@ export const games: Game[] = [
       "kanji": "エミット Vol. 3",
       "romaji": "Emitto Vol. 3"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Adventure",
     "japanExclusive": true,
-    "releaseDate": "25-03-1995",
+    "releaseDate": "1995-03-25",
     "developer": "Koei",
     "publisher": "Koei",
     "difficulty": "not-recommended",
@@ -12852,13 +12852,13 @@ export const games: Game[] = [
       "kanji": "あらいぐまラスカル",
       "romaji": "Araiguma Rasukaru"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "25-03-1994",
+    "releaseDate": "1994-03-25",
     "developer": "J-Force",
     "publisher": "Masaya",
     "difficulty": "caution",
@@ -12878,13 +12878,13 @@ export const games: Game[] = [
       "kanji": "ブルークリスタルロッド",
       "romaji": "Burū Kurisutaru Roddo"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "25-03-1994",
+    "releaseDate": "1994-03-25",
     "developer": "Game Studio",
     "publisher": "Namco",
     "difficulty": "not-recommended",
@@ -12904,13 +12904,13 @@ export const games: Game[] = [
       "kanji": "チャンピオンズワールドクラスサッカー",
       "romaji": "Chanpionzu Wārudo Kurasu Sakkā"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "25-03-1994",
+    "releaseDate": "1994-03-25",
     "developer": "Park Place",
     "publisher": "Acclaim",
     "difficulty": "playable",
@@ -12930,13 +12930,13 @@ export const games: Game[] = [
       "kanji": "剣勇伝説YAIBA",
       "romaji": "Kenyū Densetsu Yaiba"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "25-03-1994",
+    "releaseDate": "1994-03-25",
     "developer": "Atelier Double",
     "publisher": "Banpresto",
     "difficulty": "caution",
@@ -12956,13 +12956,13 @@ export const games: Game[] = [
       "kanji": "ケロケロケロッピー",
       "romaji": "Kero Kero Keroppi"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "25-03-1994",
+    "releaseDate": "1994-03-25",
     "developer": "Unknown",
     "publisher": "Character Soft",
     "difficulty": "playable",
@@ -12982,13 +12982,13 @@ export const games: Game[] = [
       "kanji": "メルファンドストーリーズ",
       "romaji": "Merufando Sutōrīzu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "25-03-1994",
+    "releaseDate": "1994-03-25",
     "developer": "Sting",
     "publisher": "ASCII",
     "difficulty": "not-recommended",
@@ -13008,13 +13008,13 @@ export const games: Game[] = [
       "kanji": "南国少年パプワくん",
       "romaji": "Nankoku Shōnen Papuwa-kun"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "25-03-1994",
+    "releaseDate": "1994-03-25",
     "developer": "Daft",
     "publisher": "Enix",
     "difficulty": "caution",
@@ -13034,13 +13034,13 @@ export const games: Game[] = [
       "kanji": "シャドウラン",
       "romaji": "Shadōran"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": false,
-    "releaseDate": "25-03-1994",
+    "releaseDate": "1994-03-25",
     "developer": "Beam Software",
     "publisher": "Data East",
     "difficulty": "caution",
@@ -13060,13 +13060,13 @@ export const games: Game[] = [
       "kanji": "スペースエース",
       "romaji": "Supēsu Ēsu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "25-03-1994",
+    "releaseDate": "1994-03-25",
     "developer": "Oxford Digital",
     "publisher": "Imagineer",
     "difficulty": "playable",
@@ -13086,13 +13086,13 @@ export const games: Game[] = [
       "kanji": "スーパー五目並べ連珠",
       "romaji": "Sūpā Gomoku Narabe Renju"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "25-03-1994",
+    "releaseDate": "1994-03-25",
     "developer": "Naxat Soft",
     "publisher": "Naxat Soft",
     "difficulty": "caution",
@@ -13112,13 +13112,13 @@ export const games: Game[] = [
       "kanji": "スーパーアイスホッケー",
       "romaji": "Sūpā Aisu Hokkē"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "25-03-1994",
+    "releaseDate": "1994-03-25",
     "developer": "Opera House",
     "publisher": "Sunsoft",
     "difficulty": "playable",
@@ -13138,13 +13138,13 @@ export const games: Game[] = [
       "kanji": "スーパーリアル麻雀PIV",
       "romaji": "Sūpā Riaru Mājan PIV"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "25-03-1994",
+    "releaseDate": "1994-03-25",
     "developer": "Affect",
     "publisher": "SETA",
     "difficulty": "not-recommended",
@@ -13164,13 +13164,13 @@ export const games: Game[] = [
       "kanji": "スーパートロールアイランド",
       "romaji": "Sūpā Torōru Airando"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "25-03-1994",
+    "releaseDate": "1994-03-25",
     "developer": "Millennium",
     "publisher": "Kemco",
     "difficulty": "playable",
@@ -13190,13 +13190,13 @@ export const games: Game[] = [
       "kanji": "スーパー蒼き狼と白き牝鹿",
       "romaji": "Sūpā Aoki Ōkami to Shiroki Meshika"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": false,
-    "releaseDate": "25-03-1993",
+    "releaseDate": "1993-03-25",
     "developer": "Koei",
     "publisher": "Koei",
     "difficulty": "caution",
@@ -13216,13 +13216,13 @@ export const games: Game[] = [
       "kanji": "スーパーワギャンランド2",
       "romaji": "Sūpā Wagyan Rando 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": true,
-    "releaseDate": "25-03-1993",
+    "releaseDate": "1993-03-25",
     "developer": "Nova Games",
     "publisher": "Namco",
     "difficulty": "playable",
@@ -13242,13 +13242,13 @@ export const games: Game[] = [
       "kanji": "ジ・アトラス",
       "romaji": "Ji Atorasu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "24-03-1995",
+    "releaseDate": "1995-03-24",
     "developer": "Artdink",
     "publisher": "Pack-In-Video",
     "difficulty": "not-recommended",
@@ -13268,13 +13268,13 @@ export const games: Game[] = [
       "kanji": "必殺パチンココレクション2",
       "romaji": "Hissatsu Pachinko Korekushon 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "24-03-1995",
+    "releaseDate": "1995-03-24",
     "developer": "Unknown",
     "publisher": "Sunsoft",
     "difficulty": "not-recommended",
@@ -13294,13 +13294,13 @@ export const games: Game[] = [
       "kanji": "高速思考将棋王",
       "romaji": "Kōsoku Shikō: Shōgi Ō"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "24-03-1995",
+    "releaseDate": "1995-03-24",
     "developer": "Access",
     "publisher": "Imagineer",
     "difficulty": "not-recommended",
@@ -13320,13 +13320,13 @@ export const games: Game[] = [
       "kanji": "ロックマン7",
       "romaji": "Rokkuman 7"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Mega_Man_7.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "24-03-1995",
+    "releaseDate": "1995-03-24",
     "developer": "Capcom",
     "publisher": "Capcom",
     "difficulty": "playable",
@@ -13346,13 +13346,13 @@ export const games: Game[] = [
       "kanji": "スーパー馬券王'95",
       "romaji": "Sūpā Baken Ō '95"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "24-03-1995",
+    "releaseDate": "1995-03-24",
     "developer": "Unknown",
     "publisher": "Techiku",
     "difficulty": "not-recommended",
@@ -13372,13 +13372,13 @@ export const games: Game[] = [
       "kanji": "幽☆遊☆白書 FINAL",
       "romaji": "Yū Yū Hakusho FINAL"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": true,
-    "releaseDate": "24-03-1995",
+    "releaseDate": "1995-03-24",
     "developer": "Namco",
     "publisher": "Namco",
     "difficulty": "playable",
@@ -13398,13 +13398,13 @@ export const games: Game[] = [
       "kanji": "ドレミファンタジー",
       "romaji": "DoReMi Fantajī"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": true,
-    "releaseDate": "22-03-1996",
+    "releaseDate": "1996-03-22",
     "developer": "Hudson Soft",
     "publisher": "Hudson Soft",
     "difficulty": "playable",
@@ -13424,13 +13424,13 @@ export const games: Game[] = [
       "kanji": "ギャンブル放浪記",
       "romaji": "Gyanburu Hōrōki"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "22-03-1996",
+    "releaseDate": "1996-03-22",
     "developer": "Unknown",
     "publisher": "VAP",
     "difficulty": "not-recommended",
@@ -13450,13 +13450,13 @@ export const games: Game[] = [
       "kanji": "林海峰九段の囲碁王道",
       "romaji": "Hayashi Kaihō Kudan no Igo Ōdō"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "22-03-1996",
+    "releaseDate": "1996-03-22",
     "developer": "Unknown",
     "publisher": "ASK",
     "difficulty": "not-recommended",
@@ -13476,13 +13476,13 @@ export const games: Game[] = [
       "kanji": "実況競馬シミュレーション",
       "romaji": "Jikkyō Keiba Shimyurēshon"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "22-03-1996",
+    "releaseDate": "1996-03-22",
     "developer": "KCEO",
     "publisher": "Konami",
     "difficulty": "not-recommended",
@@ -13502,13 +13502,13 @@ export const games: Game[] = [
       "kanji": "新ヤッターマン",
       "romaji": "Shin Yattāman"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "22-03-1996",
+    "releaseDate": "1996-03-22",
     "developer": "Tom Create",
     "publisher": "Yutaka",
     "difficulty": "caution",
@@ -13528,13 +13528,13 @@ export const games: Game[] = [
       "kanji": "スーパーロボット大戦外伝",
       "romaji": "Sūpā Robotto Taisen Gaiden"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": true,
-    "releaseDate": "22-03-1996",
+    "releaseDate": "1996-03-22",
     "developer": "Winkysoft",
     "publisher": "Banpresto",
     "difficulty": "not-recommended",
@@ -13554,13 +13554,13 @@ export const games: Game[] = [
       "kanji": "全国高校サッカー",
       "romaji": "Zenkoku Kōkō Sakkā"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "22-03-1996",
+    "releaseDate": "1996-03-22",
     "developer": "Magical Company",
     "publisher": "Magical Company",
     "difficulty": "caution",
@@ -13580,13 +13580,13 @@ export const games: Game[] = [
       "kanji": "星のカービィ スーパーデラックス",
       "romaji": "Hoshi no Kābī Sūpā Derakkusu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Kirby_Super_Star.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "21-03-1996",
+    "releaseDate": "1996-03-21",
     "developer": "HAL Laboratory",
     "publisher": "Nintendo",
     "difficulty": "playable",
@@ -13606,13 +13606,13 @@ export const games: Game[] = [
       "kanji": "ターフヒーロー",
       "romaji": "Tāfu Hīrō"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "21-03-1995",
+    "releaseDate": "1995-03-21",
     "developer": "Unknown",
     "publisher": "Tecmo",
     "difficulty": "not-recommended",
@@ -13632,13 +13632,13 @@ export const games: Game[] = [
       "kanji": "実況パワフルプロ野球3",
       "romaji": "Jikkyō Pawafuru Puro Yakyū 3"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "20-03-1997",
+    "releaseDate": "1997-03-20",
     "developer": "Diamond Head",
     "publisher": "Konami",
     "difficulty": "caution",
@@ -13658,13 +13658,13 @@ export const games: Game[] = [
       "kanji": "麻雀極覇天竺",
       "romaji": "Mahjong Gokū Tenjiku"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "20-03-1997",
+    "releaseDate": "1997-03-20",
     "developer": "Video System",
     "publisher": "Video System",
     "difficulty": "not-recommended",
@@ -13684,13 +13684,13 @@ export const games: Game[] = [
       "kanji": "パチンコウォーズII",
       "romaji": "Pachinko Wōzu II"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "20-03-1997",
+    "releaseDate": "1997-03-20",
     "developer": "Unknown",
     "publisher": "Coconuts Japan",
     "difficulty": "not-recommended",
@@ -13710,13 +13710,13 @@ export const games: Game[] = [
       "kanji": "テトリス2",
       "romaji": "Tetorisu 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": false,
-    "releaseDate": "20-03-1997",
+    "releaseDate": "1997-03-20",
     "developer": "TOSE",
     "publisher": "Nintendo",
     "difficulty": "playable",
@@ -13736,13 +13736,13 @@ export const games: Game[] = [
       "kanji": "海腹川背",
       "romaji": "Umihara Kawase"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": true,
-    "releaseDate": "20-03-1997",
+    "releaseDate": "1997-03-20",
     "developer": "TNN",
     "publisher": "TNN",
     "difficulty": "playable",
@@ -13762,13 +13762,13 @@ export const games: Game[] = [
       "kanji": "ザーク",
       "romaji": "Zāku"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action RPG",
     "japanExclusive": true,
-    "releaseDate": "20-03-1993",
+    "releaseDate": "1993-03-20",
     "developer": "Micro Cabin",
     "publisher": "Micro Cabin",
     "difficulty": "not-recommended",
@@ -13788,13 +13788,13 @@ export const games: Game[] = [
       "kanji": "幽☆遊☆白書2",
       "romaji": "Yū Yū Hakusho 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": true,
-    "releaseDate": "20-03-1994",
+    "releaseDate": "1994-03-20",
     "developer": "Treasure",
     "publisher": "Namco",
     "difficulty": "playable",
@@ -13814,13 +13814,13 @@ export const games: Game[] = [
       "kanji": "零四チャンプRR",
       "romaji": "Zero Yon Chanpu RR"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Zero4_Champ__RR.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": true,
-    "releaseDate": "20-03-1994",
+    "releaseDate": "1994-03-20",
     "developer": "Media Rings",
     "publisher": "Media Rings",
     "difficulty": "caution",
@@ -13840,13 +13840,13 @@ export const games: Game[] = [
       "kanji": "ジグザグキャット",
       "romaji": "Jiguzagu Kyatto"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "20-03-1994",
+    "releaseDate": "1994-03-20",
     "developer": "Sigma",
     "publisher": "Sigma",
     "difficulty": "playable",
@@ -13866,13 +13866,13 @@ export const games: Game[] = [
       "kanji": "スーパーマリオRPG",
       "romaji": "Sūpā Mario RPG"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": false,
-    "releaseDate": "19-03-1996",
+    "releaseDate": "1996-03-19",
     "developer": "Square",
     "publisher": "Nintendo",
     "difficulty": "playable",
@@ -13892,13 +13892,13 @@ export const games: Game[] = [
       "kanji": "テイルズ オブ ファンタジア",
       "romaji": "Teiruzu obu Fantajia"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "19-03-1995",
+    "releaseDate": "1995-03-19",
     "developer": "Wolf Team",
     "publisher": "Namco",
     "difficulty": "not-recommended",
@@ -13918,13 +13918,13 @@ export const games: Game[] = [
       "kanji": "サンダースピリッツ",
       "romaji": "Sandā Supirittsu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Shoot 'em up",
     "japanExclusive": false,
-    "releaseDate": "19-03-1991",
+    "releaseDate": "1991-03-19",
     "developer": "Technosoft",
     "publisher": "Technosoft",
     "difficulty": "playable",
@@ -13944,13 +13944,13 @@ export const games: Game[] = [
       "kanji": "タイムスリップ",
       "romaji": "Taimu Surippu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": true,
-    "releaseDate": "19-03-1993",
+    "releaseDate": "1993-03-19",
     "developer": "Sales Curve",
     "publisher": "Vic Tokai",
     "difficulty": "playable",
@@ -13970,13 +13970,13 @@ export const games: Game[] = [
       "kanji": "タイニートゥーンアドベンチャー",
       "romaji": "Tainī Tūn Adobenchā"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Tiny_Toon_Adventures__Buster_Busts_Loose!.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "19-03-1993",
+    "releaseDate": "1993-03-19",
     "developer": "Konami",
     "publisher": "Konami",
     "difficulty": "playable",
@@ -13996,13 +13996,13 @@ export const games: Game[] = [
       "kanji": "トップレーサー2",
       "romaji": "Toppu Rēsā 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": false,
-    "releaseDate": "19-03-1993",
+    "releaseDate": "1993-03-19",
     "developer": "Gremlin Graphics",
     "publisher": "Kemco",
     "difficulty": "playable",
@@ -14022,13 +14022,13 @@ export const games: Game[] = [
       "kanji": "トルネコの大冒険",
       "romaji": "Toruneko no Daibōken"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Torneko_no_Daibōken__Fushigi_no_Dungeon.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "19-03-1993",
+    "releaseDate": "1993-03-19",
     "developer": "Chunsoft",
     "publisher": "Enix",
     "difficulty": "not-recommended",
@@ -14048,13 +14048,13 @@ export const games: Game[] = [
       "kanji": "トラバース スターライト&プレイリー",
       "romaji": "Torabāsu Sutāraito & Pureirī"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "19-03-1993",
+    "releaseDate": "1993-03-19",
     "developer": "Random House",
     "publisher": "ASCII",
     "difficulty": "not-recommended",
@@ -14074,13 +14074,13 @@ export const games: Game[] = [
       "kanji": "月籠り",
       "romaji": "Tsukikomori"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Adventure",
     "japanExclusive": true,
-    "releaseDate": "19-03-1995",
+    "releaseDate": "1995-03-19",
     "developer": "Fill-in-Cafe",
     "publisher": "Fill-in-Cafe",
     "difficulty": "not-recommended",
@@ -14100,13 +14100,13 @@ export const games: Game[] = [
       "kanji": "宇宙の騎士テッカマンブレード",
       "romaji": "Uchū no Kishi: Tekkaman Burēdo"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "19-03-1994",
+    "releaseDate": "1994-03-19",
     "developer": "BEC",
     "publisher": "Interbec",
     "difficulty": "caution",
@@ -14126,13 +14126,13 @@ export const games: Game[] = [
       "kanji": "ウルトラマン",
       "romaji": "Urutoraman"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "19-03-1991",
+    "releaseDate": "1991-03-19",
     "developer": "Angel",
     "publisher": "Bandai",
     "difficulty": "playable",
@@ -14152,13 +14152,13 @@ export const games: Game[] = [
       "kanji": "海腹川背2",
       "romaji": "Umihara Kawase 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": true,
-    "releaseDate": "19-03-1997",
+    "releaseDate": "1997-03-19",
     "developer": "TNN",
     "publisher": "TNN",
     "difficulty": "playable",
@@ -14178,13 +14178,13 @@ export const games: Game[] = [
       "kanji": "アンダーカバーコップス",
       "romaji": "Andākabaā Koppusu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Beat 'em up",
     "japanExclusive": false,
-    "releaseDate": "19-03-1995",
+    "releaseDate": "1995-03-19",
     "developer": "Irem",
     "publisher": "Irem",
     "difficulty": "playable",
@@ -14204,13 +14204,13 @@ export const games: Game[] = [
       "kanji": "大航海時代",
       "romaji": "Daikōkai Jidai"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Uncharted_Waters.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": false,
-    "releaseDate": "19-03-1991",
+    "releaseDate": "1991-03-19",
     "developer": "Koei",
     "publisher": "Koei",
     "difficulty": "caution",
@@ -14230,13 +14230,13 @@ export const games: Game[] = [
       "kanji": "ユニレーサー",
       "romaji": "Yunirēsā"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": false,
-    "releaseDate": "19-03-1994",
+    "releaseDate": "1994-03-19",
     "developer": "DMA Design",
     "publisher": "Nintendo",
     "difficulty": "playable",
@@ -14256,13 +14256,13 @@ export const games: Game[] = [
       "kanji": "アンタッチャブル",
       "romaji": "Antatchaburu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "19-03-1991",
+    "releaseDate": "1991-03-19",
     "developer": "Ocean",
     "publisher": "Ocean",
     "difficulty": "playable",
@@ -14282,13 +14282,13 @@ export const games: Game[] = [
       "kanji": "アーバンストライク",
       "romaji": "Āban Sutoraiku"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "19-03-1995",
+    "releaseDate": "1995-03-19",
     "developer": "Electronic Arts",
     "publisher": "Electronic Arts",
     "difficulty": "playable",
@@ -14308,13 +14308,13 @@ export const games: Game[] = [
       "kanji": "ナイジェル・マンセルズ F-1 チャレンジ",
       "romaji": "Naijeru Manseruzu F-1 Charenji"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": false,
-    "releaseDate": "19-03-1993",
+    "releaseDate": "1993-03-19",
     "developer": "Gremlin Interactive",
     "publisher": "GameTek",
     "difficulty": "playable",
@@ -14334,13 +14334,13 @@ export const games: Game[] = [
       "kanji": "USAアイスホッケー",
       "romaji": "USA Aisu Hokkē"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "19-03-1993",
+    "releaseDate": "1993-03-19",
     "developer": "Tose",
     "publisher": "Jaleco",
     "difficulty": "playable",
@@ -14360,13 +14360,13 @@ export const games: Game[] = [
       "kanji": "新世紀GPX サイバーフォーミュラ",
       "romaji": "Shinseiki GPX Saibā Fōmyura"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Cyber_Spin.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": true,
-    "releaseDate": "19-03-1992",
+    "releaseDate": "1992-03-19",
     "developer": "Takara",
     "publisher": "Takara",
     "difficulty": "playable",
@@ -14386,13 +14386,13 @@ export const games: Game[] = [
       "kanji": "スーパー忍道",
       "romaji": "Sūpā Inindō"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Inindo__Way_of_the_Ninja.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": false,
-    "releaseDate": "19-03-1992",
+    "releaseDate": "1992-03-19",
     "developer": "Koei",
     "publisher": "Koei",
     "difficulty": "caution",
@@ -14412,13 +14412,13 @@ export const games: Game[] = [
       "kanji": "RPMレーシング",
       "romaji": "RPM Rēshingu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": false,
-    "releaseDate": "19-03-1992",
+    "releaseDate": "1992-03-19",
     "developer": "Silicon & Synapse",
     "publisher": "Interplay",
     "difficulty": "playable",
@@ -14438,13 +14438,13 @@ export const games: Game[] = [
       "kanji": "ウイニングポスト2",
       "romaji": "Uiningu Posuto 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "18-03-1995",
+    "releaseDate": "1995-03-18",
     "developer": "Koei",
     "publisher": "Koei",
     "difficulty": "not-recommended",
@@ -14464,13 +14464,13 @@ export const games: Game[] = [
       "kanji": "ダービージョッキー",
       "romaji": "Dābī Jokkī"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "18-03-1994",
+    "releaseDate": "1994-03-18",
     "developer": "Graphic Research",
     "publisher": "Asmik",
     "difficulty": "not-recommended",
@@ -14490,13 +14490,13 @@ export const games: Game[] = [
       "kanji": "アイ・オブ・ザ・ビホルダー",
       "romaji": "Ai obu za Bihōrudā"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Eye_of_the_Beholder.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": false,
-    "releaseDate": "18-03-1994",
+    "releaseDate": "1994-03-18",
     "developer": "Capcom",
     "publisher": "Capcom",
     "difficulty": "caution",
@@ -14516,13 +14516,13 @@ export const games: Game[] = [
       "kanji": "ギャンブラー自己中心派2",
       "romaji": "Gyanburā Jikochūshinha 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "18-03-1994",
+    "releaseDate": "1994-03-18",
     "developer": "Bits Laboratory",
     "publisher": "Pack-In-Video",
     "difficulty": "not-recommended",
@@ -14542,13 +14542,13 @@ export const games: Game[] = [
       "kanji": "イデアの日",
       "romaji": "Idea no Hi"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "18-03-1994",
+    "releaseDate": "1994-03-18",
     "developer": "Office Koukan",
     "publisher": "Shouei",
     "difficulty": "not-recommended",
@@ -14568,13 +14568,13 @@ export const games: Game[] = [
       "kanji": "金魚注意報",
       "romaji": "Kingyō Chūihō"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "18-03-1994",
+    "releaseDate": "1994-03-18",
     "developer": "Unknown",
     "publisher": "Jaleco",
     "difficulty": "playable",
@@ -14594,13 +14594,13 @@ export const games: Game[] = [
       "kanji": "独立戦争",
       "romaji": "Dokuritsu Sensō"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Liberty_or_Death.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": false,
-    "releaseDate": "18-03-1994",
+    "releaseDate": "1994-03-18",
     "developer": "Koei",
     "publisher": "Koei",
     "difficulty": "caution",
@@ -14620,13 +14620,13 @@ export const games: Game[] = [
       "kanji": "サイドポケット",
       "romaji": "Saido Poketto"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "18-03-1994",
+    "releaseDate": "1994-03-18",
     "developer": "Iguana Entertainment",
     "publisher": "Data East",
     "difficulty": "playable",
@@ -14646,13 +14646,13 @@ export const games: Game[] = [
       "kanji": "ソニックブラストマンII",
       "romaji": "Sonikku Burasuto Man II"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "18-03-1994",
+    "releaseDate": "1994-03-18",
     "developer": "Taito",
     "publisher": "Taito",
     "difficulty": "playable",
@@ -14672,13 +14672,13 @@ export const games: Game[] = [
       "kanji": "スーパー人生ゲーム",
       "romaji": "Sūpā Jinsei Gēmu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "18-03-1994",
+    "releaseDate": "1994-03-18",
     "developer": "Takara",
     "publisher": "Takara",
     "difficulty": "not-recommended",
@@ -14698,13 +14698,13 @@ export const games: Game[] = [
       "kanji": "スーパーナクサトオープン",
       "romaji": "Sūpā Nakusato Ōpun"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "18-03-1994",
+    "releaseDate": "1994-03-18",
     "developer": "Kuusoukagaku",
     "publisher": "Naxat Soft",
     "difficulty": "caution",
@@ -14724,13 +14724,13 @@ export const games: Game[] = [
       "kanji": "Jリーグスーパーサッカー",
       "romaji": "J Rīgu Sūpā Sakkā"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Virtual_Soccer.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "18-03-1994",
+    "releaseDate": "1994-03-18",
     "developer": "Probe Entertainment",
     "publisher": "Hudson Soft",
     "difficulty": "playable",
@@ -14750,13 +14750,13 @@ export const games: Game[] = [
       "kanji": "第4次スーパーロボット大戦",
       "romaji": "Dai 4-ji Sūpā Robotto Taisen"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": true,
-    "releaseDate": "17-03-1995",
+    "releaseDate": "1995-03-17",
     "developer": "Banpresto",
     "publisher": "Banpresto",
     "difficulty": "not-recommended",
@@ -14776,13 +14776,13 @@ export const games: Game[] = [
       "kanji": "スパイダーマン レサルフォース",
       "romaji": "Supaidāman Resaru Fōsu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "17-03-1995",
+    "releaseDate": "1995-03-17",
     "developer": "Agenda",
     "publisher": "Epoch",
     "difficulty": "playable",
@@ -14802,13 +14802,13 @@ export const games: Game[] = [
       "kanji": "バトルレーサーズ",
       "romaji": "Batoru Rēsāzu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": true,
-    "releaseDate": "17-03-1995",
+    "releaseDate": "1995-03-17",
     "developer": "Banpresto",
     "publisher": "Banpresto",
     "difficulty": "playable",
@@ -14828,13 +14828,13 @@ export const games: Game[] = [
       "kanji": "キャプテンコマンドー",
       "romaji": "Kyaputen Komandō"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Beat 'em up",
     "japanExclusive": false,
-    "releaseDate": "17-03-1995",
+    "releaseDate": "1995-03-17",
     "developer": "Capcom",
     "publisher": "Capcom",
     "difficulty": "playable",
@@ -14854,13 +14854,13 @@ export const games: Game[] = [
       "kanji": "Jリーグスーパーサッカー'95",
       "romaji": "J Rīgu Sūpā Sakkā '95"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "17-03-1995",
+    "releaseDate": "1995-03-17",
     "developer": "A.I. Company",
     "publisher": "Hudson Soft",
     "difficulty": "caution",
@@ -14880,13 +14880,13 @@ export const games: Game[] = [
       "kanji": "ラブクエスト",
       "romaji": "Rabu Kuesuto"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Love_Quest.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Adventure",
     "japanExclusive": true,
-    "releaseDate": "17-03-1995",
+    "releaseDate": "1995-03-17",
     "developer": "C-Lab",
     "publisher": "Tokuma Shoten",
     "difficulty": "not-recommended",
@@ -14906,13 +14906,13 @@ export const games: Game[] = [
       "kanji": "負けるな!魔剣道2",
       "romaji": "Makeruna! Makendō 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": true,
-    "releaseDate": "17-03-1995",
+    "releaseDate": "1995-03-17",
     "developer": "Success",
     "publisher": "Datam",
     "difficulty": "playable",
@@ -14932,13 +14932,13 @@ export const games: Game[] = [
       "kanji": "熱血大陸バーニングヒーローズ",
       "romaji": "Nekketsu Tairiku Bāningu Hīrōzu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Nekketsu_Tairiku__Burning_Heroes.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": true,
-    "releaseDate": "17-03-1995",
+    "releaseDate": "1995-03-17",
     "developer": "J-Force",
     "publisher": "Enix",
     "difficulty": "playable",
@@ -14958,13 +14958,13 @@ export const games: Game[] = [
       "kanji": "おらが村",
       "romaji": "Oraga Mura"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "17-03-1995",
+    "releaseDate": "1995-03-17",
     "developer": "Graphic Research",
     "publisher": "Vic Tokai",
     "difficulty": "not-recommended",
@@ -14984,13 +14984,13 @@ export const games: Game[] = [
       "kanji": "スーパーボンブリス",
       "romaji": "Sūpā Bonburisu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": false,
-    "releaseDate": "17-03-1995",
+    "releaseDate": "1995-03-17",
     "developer": "Tose",
     "publisher": "BPS",
     "difficulty": "playable",
@@ -15010,13 +15010,13 @@ export const games: Game[] = [
       "kanji": "スーパー雀豪",
       "romaji": "Sūpā Jangō"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "17-03-1995",
+    "releaseDate": "1995-03-17",
     "developer": "Unknown",
     "publisher": "Victor",
     "difficulty": "not-recommended",
@@ -15036,13 +15036,13 @@ export const games: Game[] = [
       "kanji": "スーパーピンボールII",
       "romaji": "Sūpā Pinbōru II"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Pinball",
     "japanExclusive": false,
-    "releaseDate": "17-03-1995",
+    "releaseDate": "1995-03-17",
     "developer": "KAZe",
     "publisher": "Meldac",
     "difficulty": "playable",
@@ -15062,13 +15062,13 @@ export const games: Game[] = [
       "kanji": "実戦パチスロツイン",
       "romaji": "Jissen Pachi-Surotto Tsuin"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "15-03-1997",
+    "releaseDate": "1997-03-15",
     "developer": "Unknown",
     "publisher": "Sammy",
     "difficulty": "not-recommended",
@@ -15088,13 +15088,13 @@ export const games: Game[] = [
       "kanji": "ブランディッシュ2エキスパート",
       "romaji": "Burandisshu 2 Ekisupāto"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Brandish_2__The_Planet_Buster.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action RPG",
     "japanExclusive": true,
-    "releaseDate": "15-03-1996",
+    "releaseDate": "1996-03-15",
     "developer": "Koei",
     "publisher": "Koei",
     "difficulty": "not-recommended",
@@ -15114,13 +15114,13 @@ export const games: Game[] = [
       "kanji": "カオスシード",
       "romaji": "Kaosu Shīdo"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "15-03-1996",
+    "releaseDate": "1996-03-15",
     "developer": "Neverland",
     "publisher": "Taito",
     "difficulty": "not-recommended",
@@ -15140,13 +15140,13 @@ export const games: Game[] = [
       "kanji": "ダービースタリオン'96",
       "romaji": "Dābī Sutarion '96"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "15-03-1996",
+    "releaseDate": "1996-03-15",
     "developer": "ASCII",
     "publisher": "ASCII",
     "difficulty": "not-recommended",
@@ -15166,13 +15166,13 @@ export const games: Game[] = [
       "kanji": "峠伝説",
       "romaji": "Tōge Densetsu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": true,
-    "releaseDate": "15-03-1996",
+    "releaseDate": "1996-03-15",
     "developer": "Lenar",
     "publisher": "BPS",
     "difficulty": "caution",
@@ -15192,13 +15192,13 @@ export const games: Game[] = [
       "kanji": "キャスパー",
       "romaji": "Kyasupā"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": true,
-    "releaseDate": "14-03-1997",
+    "releaseDate": "1997-03-14",
     "developer": "Natsume",
     "publisher": "KSS",
     "difficulty": "playable",
@@ -15218,13 +15218,13 @@ export const games: Game[] = [
       "kanji": "スーパーダブル役満II",
       "romaji": "Sūpā Daburu Yakuman II"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "14-03-1997",
+    "releaseDate": "1997-03-14",
     "developer": "Unknown",
     "publisher": "VAP",
     "difficulty": "not-recommended",
@@ -15244,13 +15244,13 @@ export const games: Game[] = [
       "kanji": "カリフォルニアゲームズII",
       "romaji": "Kariforunia Gēmuzu II"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "12-03-1993",
+    "releaseDate": "1993-03-12",
     "developer": "Silicon Sorcery",
     "publisher": "DTMC",
     "difficulty": "playable",
@@ -15270,13 +15270,13 @@ export const games: Game[] = [
       "kanji": "江戸の牙",
       "romaji": "Edo no Kiba"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "12-03-1993",
+    "releaseDate": "1993-03-12",
     "developer": "Riot",
     "publisher": "Micro World",
     "difficulty": "caution",
@@ -15296,13 +15296,13 @@ export const games: Game[] = [
       "kanji": "伝説のオウガバトル",
       "romaji": "Densetsu no Ōga Batoru"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": false,
-    "releaseDate": "12-03-1993",
+    "releaseDate": "1993-03-12",
     "developer": "Quest",
     "publisher": "Enix",
     "difficulty": "caution",
@@ -15322,13 +15322,13 @@ export const games: Game[] = [
       "kanji": "スーパーベースボール2020",
       "romaji": "Sūpā Bēsubōru 2020"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "12-03-1993",
+    "releaseDate": "1993-03-12",
     "developer": "Monolith",
     "publisher": "Tradewest",
     "difficulty": "playable",
@@ -15348,13 +15348,13 @@ export const games: Game[] = [
       "kanji": "スーパーファミスタ2",
       "romaji": "Sūpā Famisuta 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "12-03-1993",
+    "releaseDate": "1993-03-12",
     "developer": "Unknown",
     "publisher": "Namco",
     "difficulty": "caution",
@@ -15374,13 +15374,13 @@ export const games: Game[] = [
       "kanji": "クロノ・トリガー",
       "romaji": "Kurono Torigā"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": false,
-    "releaseDate": "11-03-1995",
+    "releaseDate": "1995-03-11",
     "developer": "Square",
     "publisher": "Square",
     "difficulty": "playable",
@@ -15400,13 +15400,13 @@ export const games: Game[] = [
       "kanji": "ファーストクイーン",
       "romaji": "Fāsuto Kuīn"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/First_Queen__Ornic_Senki.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": true,
-    "releaseDate": "11-03-1994",
+    "releaseDate": "1994-03-11",
     "developer": "Unknown",
     "publisher": "Culture Brain",
     "difficulty": "not-recommended",
@@ -15426,13 +15426,13 @@ export const games: Game[] = [
       "kanji": "ギャラクシーロボ",
       "romaji": "Gyarakushī Robo"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "11-03-1994",
+    "releaseDate": "1994-03-11",
     "developer": "Copya Systems",
     "publisher": "Imagineer",
     "difficulty": "playable",
@@ -15452,13 +15452,13 @@ export const games: Game[] = [
       "kanji": "リーサルエンフォーサーズ",
       "romaji": "Rīsaru Enfōsāzu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Light gun",
     "japanExclusive": false,
-    "releaseDate": "11-03-1994",
+    "releaseDate": "1994-03-11",
     "developer": "Konami",
     "publisher": "Konami",
     "difficulty": "playable",
@@ -15478,13 +15478,13 @@ export const games: Game[] = [
       "kanji": "すごいへべれけ",
       "romaji": "Sugoi Hebereke"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "11-03-1994",
+    "releaseDate": "1994-03-11",
     "developer": "OLM",
     "publisher": "Sunsoft",
     "difficulty": "playable",
@@ -15504,13 +15504,13 @@ export const games: Game[] = [
       "kanji": "ザンIIIスピリッツ",
       "romaji": "Zan III Supirittsu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action RPG",
     "japanExclusive": true,
-    "releaseDate": "11-03-1994",
+    "releaseDate": "1994-03-11",
     "developer": "Wolf Team",
     "publisher": "Wolf Team",
     "difficulty": "not-recommended",
@@ -15530,13 +15530,13 @@ export const games: Game[] = [
       "kanji": "マジカルポップン",
       "romaji": "Majikaru Popun"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": true,
-    "releaseDate": "10-03-1995",
+    "releaseDate": "1995-03-10",
     "developer": "Polestar",
     "publisher": "Pack-in-Video",
     "difficulty": "playable",
@@ -15556,13 +15556,13 @@ export const games: Game[] = [
       "kanji": "スーパーパンチアウト!!",
       "romaji": "Sūpā Panchi Auto!!"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "01-03-1998",
+    "releaseDate": "1998-03-01",
     "developer": "Nintendo",
     "publisher": "Nintendo",
     "difficulty": "playable",
@@ -15582,13 +15582,13 @@ export const games: Game[] = [
       "kanji": "ドゥーム",
       "romaji": "Dūmu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Doom.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "FPS",
     "japanExclusive": false,
-    "releaseDate": "01-03-1996",
+    "releaseDate": "1996-03-01",
     "developer": "Sculptured Software",
     "publisher": "Williams",
     "difficulty": "playable",
@@ -15608,13 +15608,13 @@ export const games: Game[] = [
       "kanji": "機動戦士Zガンダム",
       "romaji": "Kidō Senshi Z Gandamu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "01-03-1996",
+    "releaseDate": "1996-03-01",
     "developer": "Unknown",
     "publisher": "Bandai",
     "difficulty": "caution",
@@ -15634,13 +15634,13 @@ export const games: Game[] = [
       "kanji": "NFLクォーターバッククラブ96",
       "romaji": "NFL Kwōtābakku Kurabu 96"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "01-03-1996",
+    "releaseDate": "1996-03-01",
     "developer": "Iguana",
     "publisher": "Acclaim",
     "difficulty": "playable",
@@ -15660,13 +15660,13 @@ export const games: Game[] = [
       "kanji": "レボリューションX",
       "romaji": "Reboryūshon X"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Light gun",
     "japanExclusive": false,
-    "releaseDate": "01-03-1996",
+    "releaseDate": "1996-03-01",
     "developer": "Rage Software",
     "publisher": "Acclaim",
     "difficulty": "playable",
@@ -15686,13 +15686,13 @@ export const games: Game[] = [
       "kanji": "さめがめ",
       "romaji": "Samegame"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "01-03-1996",
+    "releaseDate": "1996-03-01",
     "developer": "Hudson Soft",
     "publisher": "Hudson Soft",
     "difficulty": "playable",
@@ -15712,13 +15712,13 @@ export const games: Game[] = [
       "kanji": "WWFレッスルマニア",
       "romaji": "WWF Ressurumania"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": false,
-    "releaseDate": "01-03-1996",
+    "releaseDate": "1996-03-01",
     "developer": "Sculptured Software",
     "publisher": "Acclaim",
     "difficulty": "playable",
@@ -15738,13 +15738,13 @@ export const games: Game[] = [
       "kanji": "スーパーボンバーマン パニックボンバーW",
       "romaji": "Sūpā Bonbāman Panikku Bonbā W"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Super_Bomberman__Panic_Bomber_W.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "01-03-1995",
+    "releaseDate": "1995-03-01",
     "developer": "Raizing",
     "publisher": "Hudson Soft",
     "difficulty": "playable",
@@ -15764,13 +15764,13 @@ export const games: Game[] = [
       "kanji": "エルファリア2",
       "romaji": "Erufaria 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "09-06-1995",
+    "releaseDate": "1995-06-09",
     "developer": "Red Company",
     "publisher": "Hudson Soft",
     "difficulty": "not-recommended",
@@ -15790,13 +15790,13 @@ export const games: Game[] = [
       "kanji": "妖怪バスター ルカの大冒険",
       "romaji": "Yōkai Basutā Ruka no Daibōken"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "09-06-1995",
+    "releaseDate": "1995-06-09",
     "developer": "Sting",
     "publisher": "Taito",
     "difficulty": "playable",
@@ -15816,13 +15816,13 @@ export const games: Game[] = [
       "kanji": "サラブレッドブリーダーII",
       "romaji": "Sarabureddo Burīdā II"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "08-06-1994",
+    "releaseDate": "1994-06-08",
     "developer": "Hect",
     "publisher": "Hect",
     "difficulty": "not-recommended",
@@ -15842,13 +15842,13 @@ export const games: Game[] = [
       "kanji": "ワイルドトラックス",
       "romaji": "Wairudo Torakkusu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": false,
-    "releaseDate": "04-06-1994",
+    "releaseDate": "1994-06-04",
     "developer": "Nintendo",
     "publisher": "Nintendo",
     "difficulty": "playable",
@@ -15868,13 +15868,13 @@ export const games: Game[] = [
       "kanji": "ドラゴンスレイヤー英雄伝説II",
       "romaji": "Doragon Sureiyā Eiyū Densetsu II"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "04-06-1993",
+    "releaseDate": "1993-06-04",
     "developer": "Falcom",
     "publisher": "Epoch",
     "difficulty": "not-recommended",
@@ -15894,13 +15894,13 @@ export const games: Game[] = [
       "kanji": "ラングリッサー",
       "romaji": "Rangurisā"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Der_Langrisser.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": true,
-    "releaseDate": "30-06-1995",
+    "releaseDate": "1995-06-30",
     "developer": "NCS",
     "publisher": "NCS",
     "difficulty": "not-recommended",
@@ -15920,13 +15920,13 @@ export const games: Game[] = [
       "kanji": "ガメラ",
       "romaji": "Gamera"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "30-06-1995",
+    "releaseDate": "1995-06-30",
     "developer": "Axes Art",
     "publisher": "Sammy",
     "difficulty": "playable",
@@ -15946,13 +15946,13 @@ export const games: Game[] = [
       "kanji": "グランヒストリア",
       "romaji": "Guran Hisutoria"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "30-06-1995",
+    "releaseDate": "1995-06-30",
     "developer": "J-Force",
     "publisher": "Banpresto",
     "difficulty": "not-recommended",
@@ -15972,13 +15972,13 @@ export const games: Game[] = [
       "kanji": "サーキットUSA",
       "romaji": "Sākitto USA"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": false,
-    "releaseDate": "30-06-1995",
+    "releaseDate": "1995-06-30",
     "developer": "Leland",
     "publisher": "Williams",
     "difficulty": "playable",
@@ -15998,13 +15998,13 @@ export const games: Game[] = [
       "kanji": "リトルマスター",
       "romaji": "Ritoru Masutā"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "30-06-1995",
+    "releaseDate": "1995-06-30",
     "developer": "Tokuma Shoten",
     "publisher": "Tokuma Shoten",
     "difficulty": "not-recommended",
@@ -16024,13 +16024,13 @@ export const games: Game[] = [
       "kanji": "大物ブラックバス",
       "romaji": "Ōmono Burakku Basu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "30-06-1995",
+    "releaseDate": "1995-06-30",
     "developer": "Natsume",
     "publisher": "Natsume",
     "difficulty": "caution",
@@ -16050,13 +16050,13 @@ export const games: Game[] = [
       "kanji": "プロ麻雀極III",
       "romaji": "Puro Mājan Kiwame III"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "30-06-1995",
+    "releaseDate": "1995-06-30",
     "developer": "Unknown",
     "publisher": "Athena",
     "difficulty": "not-recommended",
@@ -16076,13 +16076,13 @@ export const games: Game[] = [
       "kanji": "新日本プロレス'95",
       "romaji": "Shin Nippon Puroresu '95"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "30-06-1995",
+    "releaseDate": "1995-06-30",
     "developer": "Unknown",
     "publisher": "Varie",
     "difficulty": "playable",
@@ -16102,13 +16102,13 @@ export const games: Game[] = [
       "kanji": "スーパーファイヤープロレスリング クイーンズスペシャル",
       "romaji": "Sūpā Faiyā Puroresuringu Kuīnzu Supesharu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "30-06-1995",
+    "releaseDate": "1995-06-30",
     "developer": "Human Club",
     "publisher": "Human",
     "difficulty": "playable",
@@ -16128,13 +16128,13 @@ export const games: Game[] = [
       "kanji": "スーパー競艇",
       "romaji": "Sūpā Kyōtei"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": true,
-    "releaseDate": "30-06-1995",
+    "releaseDate": "1995-06-30",
     "developer": "Unknown",
     "publisher": "Nichibutsu",
     "difficulty": "caution",
@@ -16154,13 +16154,13 @@ export const games: Game[] = [
       "kanji": "とっても！ラッキーマン",
       "romaji": "Tottemo! Rakkīman"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "30-06-1995",
+    "releaseDate": "1995-06-30",
     "developer": "Unknown",
     "publisher": "Bandai",
     "difficulty": "caution",
@@ -16180,13 +16180,13 @@ export const games: Game[] = [
       "kanji": "忍たま乱太郎",
       "romaji": "Nintama Rantarō"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "28-06-1996",
+    "releaseDate": "1996-06-28",
     "developer": "Unknown",
     "publisher": "Culture Brain",
     "difficulty": "playable",
@@ -16206,13 +16206,13 @@ export const games: Game[] = [
       "kanji": "西陣パチンコ物語2",
       "romaji": "Nishijin Pachinko Monogatari 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "28-06-1996",
+    "releaseDate": "1996-06-28",
     "developer": "Soft Machine",
     "publisher": "KSS",
     "difficulty": "not-recommended",
@@ -16232,13 +16232,13 @@ export const games: Game[] = [
       "kanji": "パーラー！ミニ2",
       "romaji": "Pārā! Mini 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "28-06-1996",
+    "releaseDate": "1996-06-28",
     "developer": "Unknown",
     "publisher": "Telenet",
     "difficulty": "not-recommended",
@@ -16258,13 +16258,13 @@ export const games: Game[] = [
       "kanji": "スーパーなぞぷよ通",
       "romaji": "Sūpā Nazo Puyo Tsū"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "28-06-1996",
+    "releaseDate": "1996-06-28",
     "developer": "Compile",
     "publisher": "Compile",
     "difficulty": "playable",
@@ -16284,13 +16284,13 @@ export const games: Game[] = [
       "kanji": "テコンドー",
       "romaji": "Tekondō"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Taekwon-Do.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": true,
-    "releaseDate": "28-06-1994",
+    "releaseDate": "1994-06-28",
     "developer": "Human Club",
     "publisher": "Human",
     "difficulty": "playable",
@@ -16310,13 +16310,13 @@ export const games: Game[] = [
       "kanji": "空想科学世界ガリバーボーイ",
       "romaji": "Kūsō Kagaku Sekai Garibā Bōi"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Kūsō_Kagaku_Sekai_Gulliver_Boy.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "27-06-1996",
+    "releaseDate": "1996-06-27",
     "developer": "Amble",
     "publisher": "Bandai",
     "difficulty": "caution",
@@ -16336,13 +16336,13 @@ export const games: Game[] = [
       "kanji": "甲子園2",
       "romaji": "Kōshien 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "26-06-1992",
+    "releaseDate": "1992-06-26",
     "developer": "Affect",
     "publisher": "K Amusement",
     "difficulty": "caution",
@@ -16362,13 +16362,13 @@ export const games: Game[] = [
       "kanji": "サーキットUSA",
       "romaji": "Sākitto USA"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": false,
-    "releaseDate": "26-06-1992",
+    "releaseDate": "1992-06-26",
     "developer": "Taito",
     "publisher": "Taito",
     "difficulty": "playable",
@@ -16388,13 +16388,13 @@ export const games: Game[] = [
       "kanji": "総合格闘技アストラルバウト",
       "romaji": "Sōgō Kakutōgi Asutoraru Bauto"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": true,
-    "releaseDate": "26-06-1992",
+    "releaseDate": "1992-06-26",
     "developer": "A-Wave",
     "publisher": "King Records",
     "difficulty": "playable",
@@ -16414,13 +16414,13 @@ export const games: Game[] = [
       "kanji": "星のカービィ キラキラきっず",
       "romaji": "Hoshi no Kābī Kirakira Kizzu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "25-06-1999",
+    "releaseDate": "1999-06-25",
     "developer": "HAL Laboratory",
     "publisher": "Nintendo",
     "difficulty": "playable",
@@ -16440,13 +16440,13 @@ export const games: Game[] = [
       "kanji": "パワー倉庫番",
       "romaji": "Pawā Sōkoban"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "25-06-1999",
+    "releaseDate": "1999-06-25",
     "developer": "Atelier Double",
     "publisher": "Nintendo",
     "difficulty": "playable",
@@ -16466,13 +16466,13 @@ export const games: Game[] = [
       "kanji": "スッテハッくん",
       "romaji": "Sutte Hakkun"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "25-06-1999",
+    "releaseDate": "1999-06-25",
     "developer": "Nintendo",
     "publisher": "Nintendo",
     "difficulty": "playable",
@@ -16492,13 +16492,13 @@ export const games: Game[] = [
       "kanji": "ブランディッシュ",
       "romaji": "Burandisshu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Brandish.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action RPG",
     "japanExclusive": true,
-    "releaseDate": "25-06-1994",
+    "releaseDate": "1994-06-25",
     "developer": "Koei",
     "publisher": "Koei",
     "difficulty": "not-recommended",
@@ -16518,13 +16518,13 @@ export const games: Game[] = [
       "kanji": "三國志正史 天覇スピリッツ",
       "romaji": "Sangokushi Seishi Tenbu Supirittsu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": true,
-    "releaseDate": "25-06-1994",
+    "releaseDate": "1994-06-25",
     "developer": "Wolf Team",
     "publisher": "Wolf Team",
     "difficulty": "not-recommended",
@@ -16544,13 +16544,13 @@ export const games: Game[] = [
       "kanji": "スーパーストリートファイターII",
       "romaji": "Sūpā Sutorīto Faitā II"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Super_Street_Fighter_II.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": false,
-    "releaseDate": "25-06-1994",
+    "releaseDate": "1994-06-25",
     "developer": "Capcom",
     "publisher": "Capcom",
     "difficulty": "playable",
@@ -16570,13 +16570,13 @@ export const games: Game[] = [
       "kanji": "サイバーナイトII",
       "romaji": "Saibā Naito II"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "25-06-1993",
+    "releaseDate": "1993-06-25",
     "developer": "HAL Laboratory",
     "publisher": "HAL Laboratory",
     "difficulty": "not-recommended",
@@ -16596,13 +16596,13 @@ export const games: Game[] = [
       "kanji": "熱血プロ野球'93",
       "romaji": "Nekketsu Puro Yakyū '93"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "25-06-1993",
+    "releaseDate": "1993-06-25",
     "developer": "Tonkin House",
     "publisher": "Tonkin House",
     "difficulty": "caution",
@@ -16622,13 +16622,13 @@ export const games: Game[] = [
       "kanji": "ジャキクラッシュ",
       "romaji": "Jaki Kurasshu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Pinball",
     "japanExclusive": true,
-    "releaseDate": "25-06-1993",
+    "releaseDate": "1993-06-25",
     "developer": "Naxat Soft",
     "publisher": "Naxat Soft",
     "difficulty": "playable",
@@ -16648,13 +16648,13 @@ export const games: Game[] = [
       "kanji": "くにおくんのドッジボール",
       "romaji": "Kunio-kun no Dojji Bōru"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "25-06-1993",
+    "releaseDate": "1993-06-25",
     "developer": "Technos Japan",
     "publisher": "Technos Japan",
     "difficulty": "playable",
@@ -16674,13 +16674,13 @@ export const games: Game[] = [
       "kanji": "メタルマックス2",
       "romaji": "Metaru Makkusu 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Metal_Max_2.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "25-06-1993",
+    "releaseDate": "1993-06-25",
     "developer": "Data East",
     "publisher": "Data East",
     "difficulty": "not-recommended",
@@ -16700,13 +16700,13 @@ export const games: Game[] = [
       "kanji": "スーパーチャイニーズワールド",
       "romaji": "Sūpā Chainīzu Wārudo"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "25-06-1993",
+    "releaseDate": "1993-06-25",
     "developer": "Culture Brain",
     "publisher": "Culture Brain",
     "difficulty": "playable",
@@ -16726,13 +16726,13 @@ export const games: Game[] = [
       "kanji": "スーパープロフェッショナルベースボールII",
       "romaji": "Sūpā Purofesshonaru Bēsubōru II"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "25-06-1993",
+    "releaseDate": "1993-06-25",
     "developer": "Seta",
     "publisher": "Seta",
     "difficulty": "caution",
@@ -16752,13 +16752,13 @@ export const games: Game[] = [
       "kanji": "スーパーテトリス2+ボンブリス",
       "romaji": "Sūpā Tetorisu 2 + Bonburisu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Super_Tetris_2_+_Bombliss.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "25-06-1993",
+    "releaseDate": "1993-06-25",
     "developer": "BPS",
     "publisher": "BPS",
     "difficulty": "playable",
@@ -16778,13 +16778,13 @@ export const games: Game[] = [
       "kanji": "スーパーファミリーテニス",
       "romaji": "Sūpā Famirī Tenisu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Smash_Tennis.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "25-06-1993",
+    "releaseDate": "1993-06-25",
     "developer": "Namco",
     "publisher": "Namco",
     "difficulty": "playable",
@@ -16804,13 +16804,13 @@ export const games: Game[] = [
       "kanji": "トムとジェリー",
       "romaji": "Tomu to Jerī"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "25-06-1993",
+    "releaseDate": "1993-06-25",
     "developer": "Riedel Software",
     "publisher": "Hi Tech",
     "difficulty": "playable",
@@ -16830,13 +16830,13 @@ export const games: Game[] = [
       "kanji": "バックスバニー はちゃめちゃ大冒険",
       "romaji": "Bakkusu Banī Hachamecha Daibōken"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "24-06-1994",
+    "releaseDate": "1994-06-24",
     "developer": "Viacom",
     "publisher": "Sunsoft",
     "difficulty": "playable",
@@ -16856,13 +16856,13 @@ export const games: Game[] = [
       "kanji": "スーパービリヤード",
       "romaji": "Sūpā Biriyādo"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "24-06-1994",
+    "releaseDate": "1994-06-24",
     "developer": "Bitmasters",
     "publisher": "Mindscape",
     "difficulty": "playable",
@@ -16882,13 +16882,13 @@ export const games: Game[] = [
       "kanji": "ジュラシック・パーク",
       "romaji": "Jurassic Park"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "24-06-1994",
+    "releaseDate": "1994-06-24",
     "developer": "Ocean Software",
     "publisher": "Ocean Software",
     "difficulty": "playable",
@@ -16908,13 +16908,13 @@ export const games: Game[] = [
       "kanji": "スレイヤーズ",
       "romaji": "Sureiyāzu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Slayers.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "24-06-1994",
+    "releaseDate": "1994-06-24",
     "developer": "BEC",
     "publisher": "Banpresto",
     "difficulty": "not-recommended",
@@ -16934,13 +16934,13 @@ export const games: Game[] = [
       "kanji": "スーパードッグファイト",
       "romaji": "Sūpā Doggufaito"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Flight",
     "japanExclusive": false,
-    "releaseDate": "24-06-1994",
+    "releaseDate": "1994-06-24",
     "developer": "Absolute",
     "publisher": "Absolute",
     "difficulty": "playable",
@@ -16960,13 +16960,13 @@ export const games: Game[] = [
       "kanji": "ジグザグキャット",
       "romaji": "Jiguzagu Kyatto"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "24-06-1994",
+    "releaseDate": "1994-06-24",
     "developer": "Opera House",
     "publisher": "Den'Z",
     "difficulty": "playable",
@@ -16986,13 +16986,13 @@ export const games: Game[] = [
       "kanji": "アースワームジム",
       "romaji": "Āsuwāmu Jimu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "23-06-1995",
+    "releaseDate": "1995-06-23",
     "developer": "Shiny",
     "publisher": "Playmates",
     "difficulty": "playable",
@@ -17012,13 +17012,13 @@ export const games: Game[] = [
       "kanji": "実戦競艇",
       "romaji": "Jissen Kyōtei"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": true,
-    "releaseDate": "23-06-1995",
+    "releaseDate": "1995-06-23",
     "developer": "Aisystem",
     "publisher": "Imagineer",
     "difficulty": "not-recommended",
@@ -17038,13 +17038,13 @@ export const games: Game[] = [
       "kanji": "ミスタードゥ!",
       "romaji": "Misutā Du!"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "23-06-1995",
+    "releaseDate": "1995-06-23",
     "developer": "C-Lab",
     "publisher": "Black Pearl",
     "difficulty": "playable",
@@ -17064,13 +17064,13 @@ export const games: Game[] = [
       "kanji": "西陣パチンコ物語",
       "romaji": "Nishijin Pachinko Monogatari"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "23-06-1995",
+    "releaseDate": "1995-06-23",
     "developer": "Unknown",
     "publisher": "KSS",
     "difficulty": "not-recommended",
@@ -17090,13 +17090,13 @@ export const games: Game[] = [
       "kanji": "プレヒストリックマン",
       "romaji": "Purehisutorikku Man"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "23-06-1995",
+    "releaseDate": "1995-06-23",
     "developer": "Titus",
     "publisher": "Titus",
     "difficulty": "playable",
@@ -17116,13 +17116,13 @@ export const games: Game[] = [
       "kanji": "プリンセスミネルバ",
       "romaji": "Purinsesu Mineruba"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Princess_Minerva.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "23-06-1995",
+    "releaseDate": "1995-06-23",
     "developer": "Atelier Double",
     "publisher": "Vic Tokai",
     "difficulty": "not-recommended",
@@ -17142,13 +17142,13 @@ export const games: Game[] = [
       "kanji": "ルインアーム",
       "romaji": "Ruin Āmu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Ruin_Arm.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "23-06-1995",
+    "releaseDate": "1995-06-23",
     "developer": "Tose",
     "publisher": "Bandai",
     "difficulty": "caution",
@@ -17168,13 +17168,13 @@ export const games: Game[] = [
       "kanji": "スーパースターウォーズ ジェダイの帰還",
       "romaji": "Sūpā Sutā Wōzu: Jedai no Kikan"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "23-06-1995",
+    "releaseDate": "1995-06-23",
     "developer": "LucasArts",
     "publisher": "JVC",
     "difficulty": "playable",
@@ -17194,13 +17194,13 @@ export const games: Game[] = [
       "kanji": "スペースバズーカ",
       "romaji": "Supēsu Bazūka"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Light gun",
     "japanExclusive": false,
-    "releaseDate": "21-06-1993",
+    "releaseDate": "1993-06-21",
     "developer": "Intelligent Systems",
     "publisher": "Nintendo",
     "difficulty": "playable",
@@ -17220,13 +17220,13 @@ export const games: Game[] = [
       "kanji": "スーパースコープ6",
       "romaji": "Sūpā Sukōpu 6"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Light gun",
     "japanExclusive": false,
-    "releaseDate": "21-06-1993",
+    "releaseDate": "1993-06-21",
     "developer": "Nintendo",
     "publisher": "Nintendo",
     "difficulty": "playable",
@@ -17246,13 +17246,13 @@ export const games: Game[] = [
       "kanji": "イースIII",
       "romaji": "Īsu Surī"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Ys_III__Wanderers_from_Ys.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action RPG",
     "japanExclusive": false,
-    "releaseDate": "21-06-1991",
+    "releaseDate": "1991-06-21",
     "developer": "Tonkin House",
     "publisher": "American Sammy",
     "difficulty": "caution",
@@ -17272,13 +17272,13 @@ export const games: Game[] = [
       "kanji": "神髄対局囲碁",
       "romaji": "Shinzui Taikyoku Igo"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "02-06-1995",
+    "releaseDate": "1995-06-02",
     "developer": "Jorudan",
     "publisher": "J-Wing",
     "difficulty": "not-recommended",
@@ -17298,13 +17298,13 @@ export const games: Game[] = [
       "kanji": "スーパーダンクショット",
       "romaji": "Sūpā Danku Shotto"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "19-06-1992",
+    "releaseDate": "1992-06-19",
     "developer": "Sculptured Software",
     "publisher": "Nintendo",
     "difficulty": "playable",
@@ -17324,13 +17324,13 @@ export const games: Game[] = [
       "kanji": "スーパー将棋",
       "romaji": "Sūpā Shōgi"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "19-06-1992",
+    "releaseDate": "1992-06-19",
     "developer": "Unknown",
     "publisher": "I'MAX",
     "difficulty": "not-recommended",
@@ -17350,13 +17350,13 @@ export const games: Game[] = [
       "kanji": "早指二段森田将棋",
       "romaji": "Hayazashi Nidan Morita Shōgi"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "18-06-1993",
+    "releaseDate": "1993-06-18",
     "developer": "Random House",
     "publisher": "SETA",
     "difficulty": "not-recommended",
@@ -17376,13 +17376,13 @@ export const games: Game[] = [
       "kanji": "新世紀オデッセリア",
       "romaji": "Shinseiki Odeseria"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "18-06-1993",
+    "releaseDate": "1993-06-18",
     "developer": "Vic Tokai",
     "publisher": "Vic Tokai",
     "difficulty": "not-recommended",
@@ -17402,13 +17402,13 @@ export const games: Game[] = [
       "kanji": "やまねこバブジーの大冒険",
       "romaji": "Yamaneko Bubsy no Daibōken"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "17-06-1994",
+    "releaseDate": "1994-06-17",
     "developer": "Accolade",
     "publisher": "Accolade",
     "difficulty": "playable",
@@ -17428,13 +17428,13 @@ export const games: Game[] = [
       "kanji": "FIFAインターナショナルサッカー",
       "romaji": "FIFA Intānashonaru Sakkā"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "17-06-1994",
+    "releaseDate": "1994-06-17",
     "developer": "Extended Play",
     "publisher": "EA Sports",
     "difficulty": "playable",
@@ -17454,13 +17454,13 @@ export const games: Game[] = [
       "kanji": "奇々怪界 月夜草紙",
       "romaji": "KiKi KaiKai: Tsukiyozōshi"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "17-06-1994",
+    "releaseDate": "1994-06-17",
     "developer": "Natsume",
     "publisher": "Natsume",
     "difficulty": "playable",
@@ -17480,13 +17480,13 @@ export const games: Game[] = [
       "kanji": "SDひりゅうの拳",
       "romaji": "SD Hiryū no Ken"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": true,
-    "releaseDate": "17-06-1994",
+    "releaseDate": "1994-06-17",
     "developer": "Culture Brain",
     "publisher": "Culture Brain",
     "difficulty": "playable",
@@ -17506,13 +17506,13 @@ export const games: Game[] = [
       "kanji": "スーパー4WD ザ・バハ",
       "romaji": "Sūpā 4WD Za Baha"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": false,
-    "releaseDate": "17-06-1994",
+    "releaseDate": "1994-06-17",
     "developer": "Software Creations",
     "publisher": "Tradewest",
     "difficulty": "playable",
@@ -17532,13 +17532,13 @@ export const games: Game[] = [
       "kanji": "スーパー将棋2",
       "romaji": "Sūpā Shōgi 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "17-06-1994",
+    "releaseDate": "1994-06-17",
     "developer": "Unknown",
     "publisher": "I'MAX",
     "difficulty": "not-recommended",
@@ -17558,13 +17558,13 @@ export const games: Game[] = [
       "kanji": "ウルティマ外伝 黒騎士の陰謀",
       "romaji": "Urutima Gaiden: Kuro Kishi no Inbō"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Ultima__Runes_of_Virtue_II.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action RPG",
     "japanExclusive": false,
-    "releaseDate": "17-06-1994",
+    "releaseDate": "1994-06-17",
     "developer": "Origin Systems",
     "publisher": "FCI",
     "difficulty": "caution",
@@ -17584,13 +17584,13 @@ export const games: Game[] = [
       "kanji": "エリートサッカー",
       "romaji": "Erīto Sakkā"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "17-06-1994",
+    "releaseDate": "1994-06-17",
     "developer": "Rage Software",
     "publisher": "GameTek",
     "difficulty": "playable",
@@ -17610,13 +17610,13 @@ export const games: Game[] = [
       "kanji": "夜光虫",
       "romaji": "Yakōchū"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "16-06-1995",
+    "releaseDate": "1995-06-16",
     "developer": "Athena",
     "publisher": "Athena",
     "difficulty": "caution",
@@ -17636,13 +17636,13 @@ export const games: Game[] = [
       "kanji": "アラビアンナイツ",
       "romaji": "Arabian Naitsu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Arabian_Nights__Sabaku_no_Seirei-ō.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "14-06-1996",
+    "releaseDate": "1996-06-14",
     "developer": "Pandora Box",
     "publisher": "Takara",
     "difficulty": "playable",
@@ -17662,13 +17662,13 @@ export const games: Game[] = [
       "kanji": "ベストショットプロゴルフ",
       "romaji": "Besuto Shotto Puro Gorufu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "14-06-1996",
+    "releaseDate": "1996-06-14",
     "developer": "KID",
     "publisher": "ASCII",
     "difficulty": "caution",
@@ -17688,13 +17688,13 @@ export const games: Game[] = [
       "kanji": "コスモポリスギャリバンII",
       "romaji": "Kosumo Porisu Gyariban II"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "11-06-1993",
+    "releaseDate": "1993-06-11",
     "developer": "Cream",
     "publisher": "Nichibutsu",
     "difficulty": "playable",
@@ -17714,13 +17714,13 @@ export const games: Game[] = [
       "kanji": "プロ麻雀極",
       "romaji": "Puro Mājan Kiwame"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "11-06-1993",
+    "releaseDate": "1993-06-11",
     "developer": "Unknown",
     "publisher": "Athena",
     "difficulty": "not-recommended",
@@ -17740,13 +17740,13 @@ export const games: Game[] = [
       "kanji": "スーパーフォーメーションサッカーII",
       "romaji": "Sūpā Fōmēshon Sakkā II"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "11-06-1993",
+    "releaseDate": "1993-06-11",
     "developer": "Human",
     "publisher": "Human",
     "difficulty": "caution",
@@ -17766,13 +17766,13 @@ export const games: Game[] = [
       "kanji": "本家三共フィーバー",
       "romaji": "Honke Sankyō Fībā"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "10-06-1995",
+    "releaseDate": "1995-06-10",
     "developer": "Vistec",
     "publisher": "Den'Z",
     "difficulty": "not-recommended",
@@ -17792,13 +17792,13 @@ export const games: Game[] = [
       "kanji": "ナイツオブザラウンド",
       "romaji": "Naitsu obu za Raundo"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Beat 'em up",
     "japanExclusive": false,
-    "releaseDate": "10-06-1994",
+    "releaseDate": "1994-06-10",
     "developer": "Capcom",
     "publisher": "Capcom",
     "difficulty": "playable",
@@ -17818,13 +17818,13 @@ export const games: Game[] = [
       "kanji": "ポップフルメイル",
       "romaji": "Poppufuru Meiru"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action RPG",
     "japanExclusive": true,
-    "releaseDate": "10-06-1994",
+    "releaseDate": "1994-06-10",
     "developer": "Falcom",
     "publisher": "Falcom",
     "difficulty": "not-recommended",
@@ -17844,13 +17844,13 @@ export const games: Game[] = [
       "kanji": "ストリートファイターII",
       "romaji": "Sutorīto Faitā II"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Street_Fighter_II.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": false,
-    "releaseDate": "10-06-1992",
+    "releaseDate": "1992-06-10",
     "developer": "Capcom",
     "publisher": "Capcom",
     "difficulty": "playable",
@@ -17870,13 +17870,13 @@ export const games: Game[] = [
       "kanji": "ピクロスNP Vol.8",
       "romaji": "Pikurosu NP Vol.8"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "01-06-2000",
+    "releaseDate": "2000-06-01",
     "developer": "Jupiter",
     "publisher": "Nintendo",
     "difficulty": "playable",
@@ -17896,13 +17896,13 @@ export const games: Game[] = [
       "kanji": "お絵かきロジック",
       "romaji": "Oekaki Rojikku"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "01-06-1999",
+    "releaseDate": "1999-06-01",
     "developer": "Unknown",
     "publisher": "Sekaibunka",
     "difficulty": "playable",
@@ -17922,13 +17922,13 @@ export const games: Game[] = [
       "kanji": "ピクロスNP Vol.2",
       "romaji": "Pikurosu NP Vol.2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "01-06-1999",
+    "releaseDate": "1999-06-01",
     "developer": "Jupiter",
     "publisher": "Nintendo",
     "difficulty": "playable",
@@ -17948,13 +17948,13 @@ export const games: Game[] = [
       "kanji": "ウィザードリーI・II・III",
       "romaji": "Wizādorī I-II-III"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "01-06-1999",
+    "releaseDate": "1999-06-01",
     "developer": "Gung-Ho",
     "publisher": "Media Factory",
     "difficulty": "not-recommended",
@@ -17974,13 +17974,13 @@ export const games: Game[] = [
       "kanji": "ドクターマリオ",
       "romaji": "Dokutā Mario"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": false,
-    "releaseDate": "01-06-1998",
+    "releaseDate": "1998-06-01",
     "developer": "Tose",
     "publisher": "Nintendo",
     "difficulty": "playable",
@@ -18000,13 +18000,13 @@ export const games: Game[] = [
       "kanji": "幻獣旅団",
       "romaji": "Genjū Ryodan"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": true,
-    "releaseDate": "01-06-1998",
+    "releaseDate": "1998-06-01",
     "developer": "Crea-Tech",
     "publisher": "Axela",
     "difficulty": "not-recommended",
@@ -18026,13 +18026,13 @@ export const games: Game[] = [
       "kanji": "リングにかけろ",
       "romaji": "Ringu ni Kakero"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "01-06-1998",
+    "releaseDate": "1998-06-01",
     "developer": "Earthly Soft",
     "publisher": "Masaya",
     "difficulty": "caution",
@@ -18052,13 +18052,13 @@ export const games: Game[] = [
       "kanji": "Jリーグ'96ドリームスタジアム",
       "romaji": "J Rīgu '96 Dorīmu Sutajiamu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "01-06-1996",
+    "releaseDate": "1996-06-01",
     "developer": "A.I. Company",
     "publisher": "Hudson Soft",
     "difficulty": "caution",
@@ -18078,13 +18078,13 @@ export const games: Game[] = [
       "kanji": "仮面ライダーSD",
       "romaji": "Kamen Raidā SD"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "09-07-1995",
+    "releaseDate": "1995-07-09",
     "developer": "Unknown",
     "publisher": "Yutaka",
     "difficulty": "playable",
@@ -18104,13 +18104,13 @@ export const games: Game[] = [
       "kanji": "スーパーハイインパクト",
       "romaji": "Sūpā Hai Inpakuto"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "09-07-1993",
+    "releaseDate": "1993-07-09",
     "developer": "Iguana",
     "publisher": "Acclaim",
     "difficulty": "playable",
@@ -18130,13 +18130,13 @@ export const games: Game[] = [
       "kanji": "ヨッシーのクッキー",
       "romaji": "Yosshī no Kukkī"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Yoshi's_Cookie.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": false,
-    "releaseDate": "09-07-1993",
+    "releaseDate": "1993-07-09",
     "developer": "BPS",
     "publisher": "Nintendo",
     "difficulty": "playable",
@@ -18156,13 +18156,13 @@ export const games: Game[] = [
       "kanji": "美女と野獣",
       "romaji": "Bijo to Yajū"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "08-07-1994",
+    "releaseDate": "1994-07-08",
     "developer": "Probe",
     "publisher": "Hudson Soft",
     "difficulty": "playable",
@@ -18182,13 +18182,13 @@ export const games: Game[] = [
       "kanji": "ドラッキーのAリーグサッカー",
       "romaji": "Dorakkī no A Rīgu Sakkā"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "08-07-1994",
+    "releaseDate": "1994-07-08",
     "developer": "Zoom",
     "publisher": "Imagineer",
     "difficulty": "caution",
@@ -18208,13 +18208,13 @@ export const games: Game[] = [
       "kanji": "スラップスティック",
       "romaji": "Surappu Sutikku"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Robotrek.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": false,
-    "releaseDate": "08-07-1994",
+    "releaseDate": "1994-07-08",
     "developer": "Quintet",
     "publisher": "Enix",
     "difficulty": "caution",
@@ -18234,13 +18234,13 @@ export const games: Game[] = [
       "kanji": "キャラバンシューティングコレクション",
       "romaji": "Kyaraban Shūtingu Korekushon"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Shooter",
     "japanExclusive": true,
-    "releaseDate": "07-07-1995",
+    "releaseDate": "1995-07-07",
     "developer": "Hudson Soft",
     "publisher": "Hudson Soft",
     "difficulty": "playable",
@@ -18260,13 +18260,13 @@ export const games: Game[] = [
       "kanji": "できたてハイスクール",
       "romaji": "Dekitate Hai Sukūru"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Adventure",
     "japanExclusive": true,
-    "releaseDate": "07-07-1995",
+    "releaseDate": "1995-07-07",
     "developer": "C-Lab",
     "publisher": "BPS",
     "difficulty": "not-recommended",
@@ -18286,13 +18286,13 @@ export const games: Game[] = [
       "kanji": "パチンコチャレンジャー",
       "romaji": "Pachinko Charenjā"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "07-07-1995",
+    "releaseDate": "1995-07-07",
     "developer": "Unknown",
     "publisher": "Carrozzeria",
     "difficulty": "not-recommended",
@@ -18312,13 +18312,13 @@ export const games: Game[] = [
       "kanji": "四季英雄伝",
       "romaji": "Shiki Eiyūden"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "07-07-1995",
+    "releaseDate": "1995-07-07",
     "developer": "Unknown",
     "publisher": "Outrigger",
     "difficulty": "not-recommended",
@@ -18338,13 +18338,13 @@ export const games: Game[] = [
       "kanji": "新一攫千金",
       "romaji": "Shin Ikkaku Senkin"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "07-07-1995",
+    "releaseDate": "1995-07-07",
     "developer": "Jorudan",
     "publisher": "VAP",
     "difficulty": "not-recommended",
@@ -18364,13 +18364,13 @@ export const games: Game[] = [
       "kanji": "スーパーF1サーカス外伝",
       "romaji": "Sūpā F1 Sākasu Gaiden"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": true,
-    "releaseDate": "07-07-1995",
+    "releaseDate": "1995-07-07",
     "developer": "Cream",
     "publisher": "Nichibutsu",
     "difficulty": "caution",
@@ -18390,13 +18390,13 @@ export const games: Game[] = [
       "kanji": "機動戦士ガンダムF91",
       "romaji": "Kidō Senshi Gandamu F91"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "06-07-1991",
+    "releaseDate": "1991-07-06",
     "developer": "Nova",
     "publisher": "Bandai",
     "difficulty": "caution",
@@ -18416,13 +18416,13 @@ export const games: Game[] = [
       "kanji": "炎の闘球児 ドッジ弾平",
       "romaji": "Honō no Dōkyūji: Dojji Danpei"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "31-07-1992",
+    "releaseDate": "1992-07-31",
     "developer": "Unknown",
     "publisher": "Sunsoft",
     "difficulty": "playable",
@@ -18442,13 +18442,13 @@ export const games: Game[] = [
       "kanji": "機甲警察メタルジャック",
       "romaji": "Kikō Keisatsu Metaru Jakku"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Kikou_Keisatsu_Metal_Jack.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "31-07-1992",
+    "releaseDate": "1992-07-31",
     "developer": "Atlus",
     "publisher": "Atlus",
     "difficulty": "playable",
@@ -18468,13 +18468,13 @@ export const games: Game[] = [
       "kanji": "キング・オブ・ザ・モンスターズ",
       "romaji": "Kingu obu za Monsutāzu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": false,
-    "releaseDate": "31-07-1992",
+    "releaseDate": "1992-07-31",
     "developer": "Genki",
     "publisher": "Takara",
     "difficulty": "playable",
@@ -18494,13 +18494,13 @@ export const games: Game[] = [
       "kanji": "ひりゅうの拳S",
       "romaji": "Hiryū no Ken S"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": false,
-    "releaseDate": "31-07-1992",
+    "releaseDate": "1992-07-31",
     "developer": "Culture Brain",
     "publisher": "Culture Brain",
     "difficulty": "playable",
@@ -18520,13 +18520,13 @@ export const games: Game[] = [
       "kanji": "ソニックウィングス",
       "romaji": "Sonikku Wingusu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Aero_Fighters.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Shooter",
     "japanExclusive": false,
-    "releaseDate": "30-07-1993",
+    "releaseDate": "1993-07-30",
     "developer": "Video System",
     "publisher": "MC O'River",
     "difficulty": "playable",
@@ -18546,13 +18546,13 @@ export const games: Game[] = [
       "kanji": "美少女雀士スーチーパイ",
       "romaji": "Bishōjo Janshi Sūchī Pai"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "30-07-1993",
+    "releaseDate": "1993-07-30",
     "developer": "DCE",
     "publisher": "Jaleco",
     "difficulty": "not-recommended",
@@ -18572,13 +18572,13 @@ export const games: Game[] = [
       "kanji": "大爆笑人生劇場",
       "romaji": "Daibakushō Jinsei Gekijō"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "30-07-1993",
+    "releaseDate": "1993-07-30",
     "developer": "Taito",
     "publisher": "Taito",
     "difficulty": "not-recommended",
@@ -18598,13 +18598,13 @@ export const games: Game[] = [
       "kanji": "ニトロパンクス",
       "romaji": "Nitoro Pankusu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "30-07-1993",
+    "releaseDate": "1993-07-30",
     "developer": "Irem",
     "publisher": "Irem",
     "difficulty": "playable",
@@ -18624,13 +18624,13 @@ export const games: Game[] = [
       "kanji": "パティムーン",
       "romaji": "Pati Mūn"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "30-07-1993",
+    "releaseDate": "1993-07-30",
     "developer": "System 3",
     "publisher": "U.S. Gold",
     "difficulty": "playable",
@@ -18650,13 +18650,13 @@ export const games: Game[] = [
       "kanji": "宇宙の騎士テッカマンブレード",
       "romaji": "Uchū no Kishi Tekkaman Burēdo"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "30-07-1993",
+    "releaseDate": "1993-07-30",
     "developer": "A.I. Company",
     "publisher": "BEC",
     "difficulty": "caution",
@@ -18676,13 +18676,13 @@ export const games: Game[] = [
       "kanji": "ライトファンタジー",
       "romaji": "Raito Fantajī"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "03-07-1992",
+    "releaseDate": "1992-07-03",
     "developer": "Advance Communication",
     "publisher": "Tonkin House",
     "difficulty": "not-recommended",
@@ -18702,13 +18702,13 @@ export const games: Game[] = [
       "kanji": "パロディウスだ!",
       "romaji": "Parodiusu Da!"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Shooter",
     "japanExclusive": true,
-    "releaseDate": "03-07-1992",
+    "releaseDate": "1992-07-03",
     "developer": "Konami",
     "publisher": "Konami",
     "difficulty": "playable",
@@ -18728,13 +18728,13 @@ export const games: Game[] = [
       "kanji": "PGAツアーゴルフ",
       "romaji": "PGA Tsua Gorufu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/PGA_Tour_Golf.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "03-07-1992",
+    "releaseDate": "1992-07-03",
     "developer": "Polygames",
     "publisher": "EA Sports",
     "difficulty": "playable",
@@ -18754,13 +18754,13 @@ export const games: Game[] = [
       "kanji": "プリンス・オブ・ペルシャ",
       "romaji": "Purinsu obu Perushia"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Prince_of_Persia.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "03-07-1992",
+    "releaseDate": "1992-07-03",
     "developer": "Arsys Software",
     "publisher": "Konami",
     "difficulty": "playable",
@@ -18780,13 +18780,13 @@ export const games: Game[] = [
       "kanji": "スーパーボウリング",
       "romaji": "Sūpā Bouringu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "03-07-1992",
+    "releaseDate": "1992-07-03",
     "developer": "KID",
     "publisher": "Athena",
     "difficulty": "playable",
@@ -18806,13 +18806,13 @@ export const games: Game[] = [
       "kanji": "スーパーオフロード",
       "romaji": "Sūpā Ofu Rōdo"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": false,
-    "releaseDate": "03-07-1992",
+    "releaseDate": "1992-07-03",
     "developer": "Software Creations",
     "publisher": "Tradewest",
     "difficulty": "playable",
@@ -18832,13 +18832,13 @@ export const games: Game[] = [
       "kanji": "ハットトリックヒーロー2",
       "romaji": "Hatto Torikku Hīrō 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "29-07-1994",
+    "releaseDate": "1994-07-29",
     "developer": "Neverland",
     "publisher": "Taito",
     "difficulty": "caution",
@@ -18858,13 +18858,13 @@ export const games: Game[] = [
       "kanji": "甲子園3",
       "romaji": "Kōshien 3"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "29-07-1994",
+    "releaseDate": "1994-07-29",
     "developer": "Magical Company",
     "publisher": "Magical Company",
     "difficulty": "caution",
@@ -18884,13 +18884,13 @@ export const games: Game[] = [
       "kanji": "ロードランナーツイン",
       "romaji": "Rōdo Rannā Tsuin"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "29-07-1994",
+    "releaseDate": "1994-07-29",
     "developer": "T&E Soft",
     "publisher": "T&E Soft",
     "difficulty": "playable",
@@ -18910,13 +18910,13 @@ export const games: Game[] = [
       "kanji": "パチスロ物語",
       "romaji": "Pachi-Surotto Monogatari"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "29-07-1994",
+    "releaseDate": "1994-07-29",
     "developer": "KAZe",
     "publisher": "KSS",
     "difficulty": "not-recommended",
@@ -18936,13 +18936,13 @@ export const games: Game[] = [
       "kanji": "らんま1/2 あかねこ団的秘宝",
       "romaji": "Ranma 1/2: Akaneko-dan Teki Hihō"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "29-07-1994",
+    "releaseDate": "1994-07-29",
     "developer": "Rumic Soft",
     "publisher": "Shogakukan",
     "difficulty": "caution",
@@ -18962,13 +18962,13 @@ export const games: Game[] = [
       "kanji": "スーパーファミスタ3",
       "romaji": "Sūpā Famisuta 3"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "29-07-1994",
+    "releaseDate": "1994-07-29",
     "developer": "Namco",
     "publisher": "Namco",
     "difficulty": "caution",
@@ -18988,13 +18988,13 @@ export const games: Game[] = [
       "kanji": "スーパーファイヤープロレスリング3 ファイナルバウト",
       "romaji": "Sūpā Faiyā Puroresuringu 3 Fainaru Bauto"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "29-07-1994",
+    "releaseDate": "1994-07-29",
     "developer": "Human",
     "publisher": "Human",
     "difficulty": "playable",
@@ -19014,13 +19014,13 @@ export const games: Game[] = [
       "kanji": "全日本プロレスリング2",
       "romaji": "Zen Nippon Puroresuringu 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "29-07-1994",
+    "releaseDate": "1994-07-29",
     "developer": "Natsume",
     "publisher": "Masaya",
     "difficulty": "playable",
@@ -19040,13 +19040,13 @@ export const games: Game[] = [
       "kanji": "美少女戦士セーラームーンS",
       "romaji": "Bishōjo Senshi Sērā Mūn S"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Bishōjo_Senshi_Sailor_Moon_S__Kondo_wa_Puzzle_de_Oshioki_yo!!.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": true,
-    "releaseDate": "28-07-1995",
+    "releaseDate": "1995-07-28",
     "developer": "Angel",
     "publisher": "Bandai",
     "difficulty": "playable",
@@ -19066,13 +19066,13 @@ export const games: Game[] = [
       "kanji": "エメラルドドラゴン",
       "romaji": "Emerarudo Doragon"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Emerald_Dragon.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "28-07-1995",
+    "releaseDate": "1995-07-28",
     "developer": "Glodia",
     "publisher": "NCS",
     "difficulty": "not-recommended",
@@ -19092,13 +19092,13 @@ export const games: Game[] = [
       "kanji": "くにおくんのドッジボール2",
       "romaji": "Kunio-kun no Dojji Bōru 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "28-07-1995",
+    "releaseDate": "1995-07-28",
     "developer": "Technos Japan",
     "publisher": "Technos Japan",
     "difficulty": "playable",
@@ -19118,13 +19118,13 @@ export const games: Game[] = [
       "kanji": "スーパーファイヤープロレスリングスペシャル",
       "romaji": "Sūpā Faiyā Puroresuringu Supesharu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "28-07-1995",
+    "releaseDate": "1995-07-28",
     "developer": "Human",
     "publisher": "Human",
     "difficulty": "playable",
@@ -19144,13 +19144,13 @@ export const games: Game[] = [
       "kanji": "タクティクスオウガ",
       "romaji": "Takutikusu Ōga"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Tactics_Ogre.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": true,
-    "releaseDate": "28-07-1995",
+    "releaseDate": "1995-07-28",
     "developer": "Quest",
     "publisher": "Quest",
     "difficulty": "not-recommended",
@@ -19170,13 +19170,13 @@ export const games: Game[] = [
       "kanji": "全日本プロレスリング ファイトだポン!",
       "romaji": "Zen Nippon Puroresuringu: Faito da Pon!"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "28-07-1995",
+    "releaseDate": "1995-07-28",
     "developer": "Natsume",
     "publisher": "Masaya",
     "difficulty": "playable",
@@ -19196,13 +19196,13 @@ export const games: Game[] = [
       "kanji": "美少女戦士セーラームーンSuperS",
       "romaji": "Bishōjo Senshi Sērā Mūn SuperS"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": true,
-    "releaseDate": "26-07-1996",
+    "releaseDate": "1996-07-26",
     "developer": "Angel",
     "publisher": "Bandai",
     "difficulty": "playable",
@@ -19222,13 +19222,13 @@ export const games: Game[] = [
       "kanji": "スーパービューベースボール",
       "romaji": "Sūpā Byū Bēsubōru"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "26-07-1996",
+    "releaseDate": "1996-07-26",
     "developer": "Genki",
     "publisher": "Hudson Soft",
     "difficulty": "caution",
@@ -19248,13 +19248,13 @@ export const games: Game[] = [
       "kanji": "天地無用! 極楽パック",
       "romaji": "Tenchi Muyō! Gokuraku Pakku"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Adventure",
     "japanExclusive": true,
-    "releaseDate": "26-07-1996",
+    "releaseDate": "1996-07-26",
     "developer": "Banpresto",
     "publisher": "Banpresto",
     "difficulty": "not-recommended",
@@ -19274,13 +19274,13 @@ export const games: Game[] = [
       "kanji": "ピクロスNP Vol.6",
       "romaji": "Pikurosu NP Vol.6"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "24-07-1999",
+    "releaseDate": "1999-07-24",
     "developer": "Jupiter",
     "publisher": "Nintendo",
     "difficulty": "playable",
@@ -19300,13 +19300,13 @@ export const games: Game[] = [
       "kanji": "美少女戦士セーラームーン",
       "romaji": "Bishōjo Senshi Sērā Mūn"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Bishōjo_Senshi_Sailor_Moon.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "23-07-1993",
+    "releaseDate": "1993-07-23",
     "developer": "Angel",
     "publisher": "Bandai",
     "difficulty": "playable",
@@ -19326,13 +19326,13 @@ export const games: Game[] = [
       "kanji": "ドラゴンボールZ 超武闘伝",
       "romaji": "Doragon Bōru Zetto Chō Butōden"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Dragon_Ball_Z__Super_Butōden.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": true,
-    "releaseDate": "23-07-1993",
+    "releaseDate": "1993-07-23",
     "developer": "TOSE",
     "publisher": "Bandai",
     "difficulty": "playable",
@@ -19352,13 +19352,13 @@ export const games: Game[] = [
       "kanji": "エキゾーストヒート",
       "romaji": "Ekizōsuto Hīto"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": true,
-    "releaseDate": "23-07-1993",
+    "releaseDate": "1993-07-23",
     "developer": "Seta",
     "publisher": "Seta",
     "difficulty": "playable",
@@ -19378,13 +19378,13 @@ export const games: Game[] = [
       "kanji": "熱血プロ野球'93がんばリーグ",
       "romaji": "Nekketsu Puro Yakyū '93 Ganba Rīgu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "23-07-1993",
+    "releaseDate": "1993-07-23",
     "developer": "Tonkin House",
     "publisher": "Tonkin House",
     "difficulty": "caution",
@@ -19404,13 +19404,13 @@ export const games: Game[] = [
       "kanji": "へべれけのぽぽいと",
       "romaji": "Hebereke no Popoitto"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "28-07-1995",
+    "releaseDate": "1995-07-28",
     "developer": "Sunsoft",
     "publisher": "Sunsoft",
     "difficulty": "playable",
@@ -19430,13 +19430,13 @@ export const games: Game[] = [
       "kanji": "就職ゲーム",
       "romaji": "Shūshoku Gēmu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "28-07-1995",
+    "releaseDate": "1995-07-28",
     "developer": "Lenar",
     "publisher": "Imagineer",
     "difficulty": "not-recommended",
@@ -19456,13 +19456,13 @@ export const games: Game[] = [
       "kanji": "超原人2",
       "romaji": "Chō Genjin 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": true,
-    "releaseDate": "28-07-1995",
+    "releaseDate": "1995-07-28",
     "developer": "A.I. Company",
     "publisher": "Hudson Soft",
     "difficulty": "playable",
@@ -19482,13 +19482,13 @@ export const games: Game[] = [
       "kanji": "ウルティマ 恐竜帝国",
       "romaji": "Urutima: Kyōryū Teikoku"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "28-07-1995",
+    "releaseDate": "1995-07-28",
     "developer": "Origin Systems",
     "publisher": "Pony Canyon",
     "difficulty": "not-recommended",
@@ -19508,13 +19508,13 @@ export const games: Game[] = [
       "kanji": "ウルトラリーグ 燃えろ!サッカー大決戦!!",
       "romaji": "Urutora Rīgu: Moero! Sakkā Daikessen!!"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "28-07-1995",
+    "releaseDate": "1995-07-28",
     "developer": "Tom Create",
     "publisher": "Yutaka",
     "difficulty": "caution",
@@ -19534,13 +19534,13 @@ export const games: Game[] = [
       "kanji": "スーパーウルトラベースボール2",
       "romaji": "Sūpā Urutora Bēsubōru 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "28-07-1994",
+    "releaseDate": "1994-07-28",
     "developer": "Culture Brain",
     "publisher": "Culture Brain",
     "difficulty": "playable",
@@ -19560,13 +19560,13 @@ export const games: Game[] = [
       "kanji": "3x3EYES 聖魔降臨伝",
       "romaji": "Surī Bai Surī Aizu Seima Kōrin-den"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/3x3_Eyes__Seima_Kōrinden.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "28-07-1992",
+    "releaseDate": "1992-07-28",
     "developer": "Nova Games",
     "publisher": "Yutaka",
     "difficulty": "not-recommended",
@@ -19586,13 +19586,13 @@ export const games: Game[] = [
       "kanji": "アースライト ルナストライク",
       "romaji": "Āsu Raito: Runa Sutoraiku"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "26-07-1996",
+    "releaseDate": "1996-07-26",
     "developer": "Hudson Soft",
     "publisher": "Hudson Soft",
     "difficulty": "playable",
@@ -19612,13 +19612,13 @@ export const games: Game[] = [
       "kanji": "エナジーブレイカー",
       "romaji": "Enajī Bureikā"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "26-07-1996",
+    "releaseDate": "1996-07-26",
     "developer": "Neverland",
     "publisher": "Taito",
     "difficulty": "not-recommended",
@@ -19638,13 +19638,13 @@ export const games: Game[] = [
       "kanji": "レナス II 封印の使徒",
       "romaji": "Renasu II: Fūin no Shito"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "26-07-1996",
+    "releaseDate": "1996-07-26",
     "developer": "Copya Systems",
     "publisher": "Asmik Ace",
     "difficulty": "not-recommended",
@@ -19664,13 +19664,13 @@ export const games: Game[] = [
       "kanji": "シムシティJr.",
       "romaji": "Shimu Shiti Jr."
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "26-07-1996",
+    "releaseDate": "1996-07-26",
     "developer": "Unknown",
     "publisher": "Imagineer",
     "difficulty": "caution",
@@ -19690,13 +19690,13 @@ export const games: Game[] = [
       "kanji": "スプリガン パワード",
       "romaji": "Supurigan Pawādo"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "26-07-1996",
+    "releaseDate": "1996-07-26",
     "developer": "Micronics",
     "publisher": "Naxat Soft",
     "difficulty": "playable",
@@ -19716,13 +19716,13 @@ export const games: Game[] = [
       "kanji": "テーブルゲーム大集合",
       "romaji": "Tēburu Gēmu Daishūgō"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "26-07-1996",
+    "releaseDate": "1996-07-26",
     "developer": "Unknown",
     "publisher": "Varie",
     "difficulty": "not-recommended",
@@ -19742,13 +19742,13 @@ export const games: Game[] = [
       "kanji": "エリア88",
       "romaji": "Eria 88"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/U.N._Squadron.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Shooter",
     "japanExclusive": false,
-    "releaseDate": "26-07-1991",
+    "releaseDate": "1991-07-26",
     "developer": "Capcom",
     "publisher": "Capcom",
     "difficulty": "playable",
@@ -19768,13 +19768,13 @@ export const games: Game[] = [
       "kanji": "ブレイゾン",
       "romaji": "Bureizon"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Shooter",
     "japanExclusive": false,
-    "releaseDate": "24-07-1992",
+    "releaseDate": "1992-07-24",
     "developer": "AI",
     "publisher": "Atlus",
     "difficulty": "playable",
@@ -19794,13 +19794,13 @@ export const games: Game[] = [
       "kanji": "アースライト",
       "romaji": "Āsu Raito"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "24-07-1992",
+    "releaseDate": "1992-07-24",
     "developer": "Hudson Soft",
     "publisher": "Hudson Soft",
     "difficulty": "playable",
@@ -19820,13 +19820,13 @@ export const games: Game[] = [
       "kanji": "アルティメットフットボール",
       "romaji": "Arutimetto Futtobōru"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "24-07-1992",
+    "releaseDate": "1992-07-24",
     "developer": "Aicom",
     "publisher": "Sammy",
     "difficulty": "playable",
@@ -19846,13 +19846,13 @@ export const games: Game[] = [
       "kanji": "スーパーF1サーカス",
       "romaji": "Sūpā F1 Sākasu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": true,
-    "releaseDate": "24-07-1992",
+    "releaseDate": "1992-07-24",
     "developer": "Cream",
     "publisher": "Nichibutsu",
     "difficulty": "caution",
@@ -19872,13 +19872,13 @@ export const games: Game[] = [
       "kanji": "サイバリオン",
       "romaji": "Saibarion"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Shooter",
     "japanExclusive": false,
-    "releaseDate": "24-07-1992",
+    "releaseDate": "1992-07-24",
     "developer": "Taito",
     "publisher": "Toshiba EMI",
     "difficulty": "playable",
@@ -19898,13 +19898,13 @@ export const games: Game[] = [
       "kanji": "タートルズ イン タイム",
       "romaji": "Tātoruzu in Taimu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Teenage_Mutant_Ninja_Turtles__Turtles_in_Time.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Beat 'em up",
     "japanExclusive": false,
-    "releaseDate": "24-07-1992",
+    "releaseDate": "1992-07-24",
     "developer": "Konami",
     "publisher": "Konami",
     "difficulty": "playable",
@@ -19924,13 +19924,13 @@ export const games: Game[] = [
       "kanji": "トランプアイランド",
       "romaji": "Toranpu Airando"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Cards",
     "japanExclusive": false,
-    "releaseDate": "23-07-1995",
+    "releaseDate": "1995-07-23",
     "developer": "Beam Software",
     "publisher": "Pack-In-Video",
     "difficulty": "playable",
@@ -19950,13 +19950,13 @@ export const games: Game[] = [
       "kanji": "第3次スーパーロボット大戦",
       "romaji": "Dai 3-ji Sūpā Robotto Taisen"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": true,
-    "releaseDate": "23-07-1993",
+    "releaseDate": "1993-07-23",
     "developer": "Banpresto",
     "publisher": "Banpresto",
     "difficulty": "not-recommended",
@@ -19976,13 +19976,13 @@ export const games: Game[] = [
       "kanji": "バズー! 魔法世界",
       "romaji": "Bazū! Mahō Sekai"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "23-07-1993",
+    "releaseDate": "1993-07-23",
     "developer": "Hot-B",
     "publisher": "Hot-B",
     "difficulty": "not-recommended",
@@ -20002,13 +20002,13 @@ export const games: Game[] = [
       "kanji": "バトルドッジボール2",
       "romaji": "Batoru Dojjibōru 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "23-07-1993",
+    "releaseDate": "1993-07-23",
     "developer": "Nova Games",
     "publisher": "Banpresto",
     "difficulty": "playable",
@@ -20028,13 +20028,13 @@ export const games: Game[] = [
       "kanji": "メガロマニア 時空大戦略",
       "romaji": "Megaromania: Jikū Daisenryaku"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": true,
-    "releaseDate": "23-07-1993",
+    "releaseDate": "1993-07-23",
     "developer": "Sensible Software",
     "publisher": "Imagineer",
     "difficulty": "caution",
@@ -20054,13 +20054,13 @@ export const games: Game[] = [
       "kanji": "スーパー バック・トゥ・ザ・フューチャー2",
       "romaji": "Sūpā Bakku tu za Fyūchā 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "23-07-1993",
+    "releaseDate": "1993-07-23",
     "developer": "Invictus",
     "publisher": "Toshiba EMI",
     "difficulty": "playable",
@@ -20080,13 +20080,13 @@ export const games: Game[] = [
       "kanji": "スーパージェームズポンド",
       "romaji": "Sūpā Jēmuzu Pondo"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "23-07-1993",
+    "releaseDate": "1993-07-23",
     "developer": "Millennium Interactive",
     "publisher": "Victor Interactive",
     "difficulty": "playable",
@@ -20106,13 +20106,13 @@ export const games: Game[] = [
       "kanji": "ウィングコマンダー",
       "romaji": "Wingu Komandā"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Wing_Commander.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Space Sim",
     "japanExclusive": false,
-    "releaseDate": "23-07-1993",
+    "releaseDate": "1993-07-23",
     "developer": "Origin Systems",
     "publisher": "ASCII Entertainment",
     "difficulty": "caution",
@@ -20132,13 +20132,13 @@ export const games: Game[] = [
       "kanji": "WWFロイヤルランブル",
       "romaji": "WWF Roiyaru Ranburu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Wrestling",
     "japanExclusive": false,
-    "releaseDate": "23-07-1993",
+    "releaseDate": "1993-07-23",
     "developer": "Sculptured Software",
     "publisher": "LJN",
     "difficulty": "playable",
@@ -20158,13 +20158,13 @@ export const games: Game[] = [
       "kanji": "サンドラの大冒険",
       "romaji": "Xandra no Daibōken"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Whirlo.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": true,
-    "releaseDate": "23-07-1992",
+    "releaseDate": "1992-07-23",
     "developer": "Nova Games",
     "publisher": "Namco",
     "difficulty": "playable",
@@ -20184,13 +20184,13 @@ export const games: Game[] = [
       "kanji": "ファイヤープロ女子",
       "romaji": "Faiyā Puro Joshi"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Wrestling",
     "japanExclusive": true,
-    "releaseDate": "22-07-1994",
+    "releaseDate": "1994-07-22",
     "developer": "Human Entertainment",
     "publisher": "Human Entertainment",
     "difficulty": "playable",
@@ -20210,13 +20210,13 @@ export const games: Game[] = [
       "kanji": "グーフィーと マックス",
       "romaji": "Gūfī to Makkusu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "22-07-1994",
+    "releaseDate": "1994-07-22",
     "developer": "Capcom",
     "publisher": "Capcom",
     "difficulty": "playable",
@@ -20236,13 +20236,13 @@ export const games: Game[] = [
       "kanji": "ジグソーパーティー",
       "romaji": "Jigusō Pātī"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": false,
-    "releaseDate": "22-07-1994",
+    "releaseDate": "1994-07-22",
     "developer": "Prism Kikaku",
     "publisher": "Atlus",
     "difficulty": "playable",
@@ -20262,13 +20262,13 @@ export const games: Game[] = [
       "kanji": "プロ麻雀極II",
       "romaji": "Puro Mājan Kiwame II"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "22-07-1994",
+    "releaseDate": "1994-07-22",
     "developer": "Unknown",
     "publisher": "Athena",
     "difficulty": "not-recommended",
@@ -20288,13 +20288,13 @@ export const games: Game[] = [
       "kanji": "超原人",
       "romaji": "Chō Genjin"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "22-07-1994",
+    "releaseDate": "1994-07-22",
     "developer": "A.I. Company",
     "publisher": "Hudson Soft",
     "difficulty": "playable",
@@ -20314,13 +20314,13 @@ export const games: Game[] = [
       "kanji": "零四チャンプRR",
       "romaji": "Zero Yon Chanpu RR"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Zero4_Champ__RR.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": true,
-    "releaseDate": "22-07-1994",
+    "releaseDate": "1994-07-22",
     "developer": "Media Rings",
     "publisher": "Media Rings",
     "difficulty": "caution",
@@ -20340,13 +20340,13 @@ export const games: Game[] = [
       "kanji": "ビッグ一撃! パチスロ大攻略2",
       "romaji": "Biggu Ichigeki! Pachi-Surotto Daikōryaku 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "21-07-1995",
+    "releaseDate": "1995-07-21",
     "developer": "Syscom",
     "publisher": "Ask Koudansha",
     "difficulty": "not-recommended",
@@ -20366,13 +20366,13 @@ export const games: Game[] = [
       "kanji": "悪魔城ドラキュラXX",
       "romaji": "Akumajō Dorakyura XX"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Castlevania__Dracula_X.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "21-07-1995",
+    "releaseDate": "1995-07-21",
     "developer": "Konami",
     "publisher": "Konami",
     "difficulty": "playable",
@@ -20392,13 +20392,13 @@ export const games: Game[] = [
       "kanji": "ダンクエスト 魔神封印の伝説",
       "romaji": "Dankuesuto: Majin Fūin no Densetsu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "21-07-1995",
+    "releaseDate": "1995-07-21",
     "developer": "Technōs Japan",
     "publisher": "Technōs Japan",
     "difficulty": "not-recommended",
@@ -20418,13 +20418,13 @@ export const games: Game[] = [
       "kanji": "GO!GO!アックマン2",
       "romaji": "Go Go Akkuman 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Go_Go_Ackman_2.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "21-07-1995",
+    "releaseDate": "1995-07-21",
     "developer": "Aspect",
     "publisher": "Banpresto",
     "difficulty": "playable",
@@ -20444,13 +20444,13 @@ export const games: Game[] = [
       "kanji": "らんま1/2 奥義じゃんけん",
       "romaji": "Ranma ½: Ougi Janken"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": true,
-    "releaseDate": "21-07-1995",
+    "releaseDate": "1995-07-21",
     "developer": "Atelier Double",
     "publisher": "Shogakukan",
     "difficulty": "playable",
@@ -20470,13 +20470,13 @@ export const games: Game[] = [
       "kanji": "将棋最強",
       "romaji": "Shōgi Saikyō"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "21-07-1995",
+    "releaseDate": "1995-07-21",
     "developer": "Unknown",
     "publisher": "Magical Company",
     "difficulty": "not-recommended",
@@ -20496,13 +20496,13 @@ export const games: Game[] = [
       "kanji": "スーパーV.G.",
       "romaji": "Sūpā V.G."
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": true,
-    "releaseDate": "21-07-1995",
+    "releaseDate": "1995-07-21",
     "developer": "TGL",
     "publisher": "TGL",
     "difficulty": "playable",
@@ -20522,13 +20522,13 @@ export const games: Game[] = [
       "kanji": "武豊G1メモリー",
       "romaji": "Take Yutaka G1 Memorī"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "21-07-1995",
+    "releaseDate": "1995-07-21",
     "developer": "Gaps",
     "publisher": "Naxat Soft",
     "difficulty": "not-recommended",
@@ -20548,13 +20548,13 @@ export const games: Game[] = [
       "kanji": "バトルドッジボール",
       "romaji": "Batoru Dojjibōru"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "20-07-1991",
+    "releaseDate": "1991-07-20",
     "developer": "Banpresto",
     "publisher": "Banpresto",
     "difficulty": "playable",
@@ -20574,13 +20574,13 @@ export const games: Game[] = [
       "kanji": "ファーストサムライ",
       "romaji": "Fāsuto Samurai"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "02-07-1993",
+    "releaseDate": "1993-07-02",
     "developer": "Kemco",
     "publisher": "Kemco",
     "difficulty": "playable",
@@ -20600,13 +20600,13 @@ export const games: Game[] = [
       "kanji": "スーパースタジアム",
       "romaji": "Sūpā Sutajiamu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "02-07-1991",
+    "releaseDate": "1991-07-02",
     "developer": "Romstar",
     "publisher": "Romstar",
     "difficulty": "playable",
@@ -20626,13 +20626,13 @@ export const games: Game[] = [
       "kanji": "実況パワフルプロ野球'96開幕版",
       "romaji": "Jikkyō Pawafuru Puro Yakyū '96 Kaimaku Han"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "19-07-1996",
+    "releaseDate": "1996-07-19",
     "developer": "Diamond Head",
     "publisher": "Konami",
     "difficulty": "caution",
@@ -20652,13 +20652,13 @@ export const games: Game[] = [
       "kanji": "スターオーシャン",
       "romaji": "Sutā Ōshan"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Star_Ocean.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "19-07-1996",
+    "releaseDate": "1996-07-19",
     "developer": "tri-Ace",
     "publisher": "Enix",
     "difficulty": "not-recommended",
@@ -20678,13 +20678,13 @@ export const games: Game[] = [
       "kanji": "スーパートランプコレクション2",
       "romaji": "Sūpā Toranpu Korekushon 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Cards",
     "japanExclusive": true,
-    "releaseDate": "19-07-1996",
+    "releaseDate": "1996-07-19",
     "developer": "Unknown",
     "publisher": "Bottom Up",
     "difficulty": "playable",
@@ -20704,13 +20704,13 @@ export const games: Game[] = [
       "kanji": "海の主釣り",
       "romaji": "Umi no Nushi Tsuri"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "19-07-1996",
+    "releaseDate": "1996-07-19",
     "developer": "Unknown",
     "publisher": "Pack-In-Video",
     "difficulty": "caution",
@@ -20730,13 +20730,13 @@ export const games: Game[] = [
       "kanji": "ファイナルファンタジーIV",
       "romaji": "Fainaru Fantajī Fō"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": false,
-    "releaseDate": "19-07-1991",
+    "releaseDate": "1991-07-19",
     "developer": "Square",
     "publisher": "Square",
     "difficulty": "caution",
@@ -20756,13 +20756,13 @@ export const games: Game[] = [
       "kanji": "がんばれゴエモン ゆき姫救出絵巻",
       "romaji": "Ganbare Goemon: Yukihime Kyūshutsu Emaki"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "19-07-1991",
+    "releaseDate": "1991-07-19",
     "developer": "Konami",
     "publisher": "Konami",
     "difficulty": "playable",
@@ -20782,13 +20782,13 @@ export const games: Game[] = [
       "kanji": "キャプテン翼3 皇帝の挑戦",
       "romaji": "Kyaputen Tsubasa 3: Kōtei no Chōsen"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "17-07-1992",
+    "releaseDate": "1992-07-17",
     "developer": "Tecmo",
     "publisher": "Tecmo",
     "difficulty": "caution",
@@ -20808,13 +20808,13 @@ export const games: Game[] = [
       "kanji": "ダイノウォーズ 恐竜王国への大冒険",
       "romaji": "Daino Wōzu: Kyōryū Ōkoku e no Daibōken"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "17-07-1992",
+    "releaseDate": "1992-07-17",
     "developer": "Irem",
     "publisher": "Irem",
     "difficulty": "playable",
@@ -20834,13 +20834,13 @@ export const games: Game[] = [
       "kanji": "フック",
       "romaji": "Fukku"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Hook.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "17-07-1992",
+    "releaseDate": "1992-07-17",
     "developer": "Ukiyotei",
     "publisher": "Sony Imagesoft",
     "difficulty": "playable",
@@ -20860,13 +20860,13 @@ export const games: Game[] = [
       "kanji": "パチンコウォーズ",
       "romaji": "Pachinko Wōzu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "17-07-1992",
+    "releaseDate": "1992-07-17",
     "developer": "OeRSTED",
     "publisher": "Coconuts Japan",
     "difficulty": "not-recommended",
@@ -20886,13 +20886,13 @@ export const games: Game[] = [
       "kanji": "デスブレイド",
       "romaji": "Desu Bureido"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": true,
-    "releaseDate": "16-07-1993",
+    "releaseDate": "1993-07-16",
     "developer": "I'MAX",
     "publisher": "I'MAX",
     "difficulty": "playable",
@@ -20912,13 +20912,13 @@ export const games: Game[] = [
       "kanji": "スーパーエアダイバー",
       "romaji": "Sūpā Ea Daibā"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Lock_On.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Flight",
     "japanExclusive": false,
-    "releaseDate": "16-07-1993",
+    "releaseDate": "1993-07-16",
     "developer": "Copya Systems",
     "publisher": "Vic Tokai",
     "difficulty": "playable",
@@ -20938,13 +20938,13 @@ export const games: Game[] = [
       "kanji": "魍魎戦記マダラ2",
       "romaji": "Mōryō Senki Madara 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "16-07-1993",
+    "releaseDate": "1993-07-16",
     "developer": "Konami",
     "publisher": "Konami",
     "difficulty": "not-recommended",
@@ -20964,13 +20964,13 @@ export const games: Game[] = [
       "kanji": "サンリオワールド スマッシュボール!",
       "romaji": "Sanrio Wārudo Sumasshu Bōru!"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "16-07-1993",
+    "releaseDate": "1993-07-16",
     "developer": "ApeTomcat",
     "publisher": "Character Soft",
     "difficulty": "playable",
@@ -20990,13 +20990,13 @@ export const games: Game[] = [
       "kanji": "ワールドサッカー",
       "romaji": "Wārudo Sakkā"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "16-07-1993",
+    "releaseDate": "1993-07-16",
     "developer": "Rage Software",
     "publisher": "Atlus",
     "difficulty": "playable",
@@ -21016,13 +21016,13 @@ export const games: Game[] = [
       "kanji": "マジックジョンソンのスーパースラムダンク",
       "romaji": "Majikku Jonson no Sūpā Suramu Danku"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "16-07-1993",
+    "releaseDate": "1993-07-16",
     "developer": "Virgin Interactive",
     "publisher": "Virgin Interactive",
     "difficulty": "playable",
@@ -21042,13 +21042,13 @@ export const games: Game[] = [
       "kanji": "バトルぜくでん",
       "romaji": "Batoru Zekuden"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "15-07-1994",
+    "releaseDate": "1994-07-15",
     "developer": "Arsys Software",
     "publisher": "Asmik Ace",
     "difficulty": "caution",
@@ -21068,13 +21068,13 @@ export const games: Game[] = [
       "kanji": "美少女戦士セーラームーンS 今度はパズルでおしおきよ!",
       "romaji": "Bishōjo Senshi Sērā Mūn S: Kondo wa Pazuru de Oshioki yo!"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Bishōjo_Senshi_Sailor_Moon_S__Kondo_wa_Puzzle_de_Oshioki_yo!!.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "15-07-1994",
+    "releaseDate": "1994-07-15",
     "developer": "Tom Create",
     "publisher": "Bandai",
     "difficulty": "playable",
@@ -21094,13 +21094,13 @@ export const games: Game[] = [
       "kanji": "ジャングルブック",
       "romaji": "Janguru Bukku"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Disney's_The_Jungle_Book.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "15-07-1994",
+    "releaseDate": "1994-07-15",
     "developer": "Eurocom",
     "publisher": "Virgin Interactive",
     "difficulty": "playable",
@@ -21120,13 +21120,13 @@ export const games: Game[] = [
       "kanji": "歌舞伎町リーチ麻雀",
       "romaji": "Kabuki-chō Rīchi Mājan"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "15-07-1994",
+    "releaseDate": "1994-07-15",
     "developer": "Studio Softmov",
     "publisher": "Pony Canyon",
     "difficulty": "not-recommended",
@@ -21146,13 +21146,13 @@ export const games: Game[] = [
       "kanji": "キーパー",
       "romaji": "Kīpā"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "15-07-1994",
+    "releaseDate": "1994-07-15",
     "developer": "Fupac",
     "publisher": "Bullet-Proof Software",
     "difficulty": "playable",
@@ -21172,13 +21172,13 @@ export const games: Game[] = [
       "kanji": "パチスロ研究",
       "romaji": "Pachi-Surotto Kenkyū"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "15-07-1994",
+    "releaseDate": "1994-07-15",
     "developer": "Unknown",
     "publisher": "Magical Company",
     "difficulty": "not-recommended",
@@ -21198,13 +21198,13 @@ export const games: Game[] = [
       "kanji": "サンサーラ・ナーガ2",
       "romaji": "Sansāra Nāga 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Sansara_Naga_2.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "15-07-1994",
+    "releaseDate": "1994-07-15",
     "developer": "Unknown",
     "publisher": "Victor Interactive",
     "difficulty": "not-recommended",
@@ -21224,13 +21224,13 @@ export const games: Game[] = [
       "kanji": "スーパーF1サーカス3",
       "romaji": "Sūpā F1 Sākasu 3"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": true,
-    "releaseDate": "15-07-1994",
+    "releaseDate": "1994-07-15",
     "developer": "Cream",
     "publisher": "Nichibutsu",
     "difficulty": "caution",
@@ -21250,13 +21250,13 @@ export const games: Game[] = [
       "kanji": "ソードワールドSFC2",
       "romaji": "Sōdo Wārudo SFC 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "15-07-1994",
+    "releaseDate": "1994-07-15",
     "developer": "Unknown",
     "publisher": "T&E Soft",
     "difficulty": "not-recommended",
@@ -21276,13 +21276,13 @@ export const games: Game[] = [
       "kanji": "四人将棋",
       "romaji": "Yon Nin Shōgi"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "14-07-1995",
+    "releaseDate": "1995-07-14",
     "developer": "Planning Office Wada",
     "publisher": "Planning Office Wada",
     "difficulty": "not-recommended",
@@ -21302,13 +21302,13 @@ export const games: Game[] = [
       "kanji": "キャッツ・ラン 全日本Kカー選手権",
       "romaji": "Kyattsu Ran: Zen-Nippon K Kā Senshuken"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": true,
-    "releaseDate": "14-07-1995",
+    "releaseDate": "1995-07-14",
     "developer": "Atlus",
     "publisher": "Atlus",
     "difficulty": "caution",
@@ -21328,13 +21328,13 @@ export const games: Game[] = [
       "kanji": "攻略カジノバー",
       "romaji": "Kōryaku Kajino Bā"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "14-07-1995",
+    "releaseDate": "1995-07-14",
     "developer": "Nichibutsu",
     "publisher": "Nichibutsu",
     "difficulty": "not-recommended",
@@ -21354,13 +21354,13 @@ export const games: Game[] = [
       "kanji": "甲子園4",
       "romaji": "Kōshien 4"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Kōshien_4.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "14-07-1995",
+    "releaseDate": "1995-07-14",
     "developer": "Magical Company",
     "publisher": "Magical Company",
     "difficulty": "caution",
@@ -21380,13 +21380,13 @@ export const games: Game[] = [
       "kanji": "ラプラスの魔",
       "romaji": "Rapurasu no Ma"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Laplace_no_Ma.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "14-07-1995",
+    "releaseDate": "1995-07-14",
     "developer": "Unknown",
     "publisher": "Vic Tokai",
     "difficulty": "not-recommended",
@@ -21406,13 +21406,13 @@ export const games: Game[] = [
       "kanji": "ミスティックアーク",
       "romaji": "Misutikku Āku"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Mystic_Ark.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "14-07-1995",
+    "releaseDate": "1995-07-14",
     "developer": "Produce",
     "publisher": "Enix",
     "difficulty": "not-recommended",
@@ -21432,13 +21432,13 @@ export const games: Game[] = [
       "kanji": "スーパーカジノ2",
       "romaji": "Sūpā Kajino 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "14-07-1995",
+    "releaseDate": "1995-07-14",
     "developer": "OeRSTED",
     "publisher": "Coconuts Japan",
     "difficulty": "not-recommended",
@@ -21458,13 +21458,13 @@ export const games: Game[] = [
       "kanji": "スーパー競輪",
       "romaji": "Sūpā Keirin"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "14-07-1995",
+    "releaseDate": "1995-07-14",
     "developer": "Betop",
     "publisher": "I'MAX",
     "difficulty": "not-recommended",
@@ -21484,13 +21484,13 @@ export const games: Game[] = [
       "kanji": "ピットフォール マヤの大冒険",
       "romaji": "Pittofōru: Maya no Daibōken"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "14-07-1994",
+    "releaseDate": "1994-07-14",
     "developer": "Redline Games",
     "publisher": "Activision",
     "difficulty": "playable",
@@ -21510,13 +21510,13 @@ export const games: Game[] = [
       "kanji": "スーパーマリオコレクション",
       "romaji": "Sūpā Mario Korekushon"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Super_Mario_All-Stars.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "14-07-1993",
+    "releaseDate": "1993-07-14",
     "developer": "Nintendo EAD",
     "publisher": "Nintendo",
     "difficulty": "playable",
@@ -21536,13 +21536,13 @@ export const games: Game[] = [
       "kanji": "マリオペイント",
       "romaji": "Mario Peinto"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Mario_Paint.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Creativity",
     "japanExclusive": false,
-    "releaseDate": "14-07-1992",
+    "releaseDate": "1992-07-14",
     "developer": "Nintendo R&D1",
     "publisher": "Nintendo",
     "difficulty": "playable",
@@ -21562,13 +21562,13 @@ export const games: Game[] = [
       "kanji": "鈴木亜久里のF-1スーパードライビング",
       "romaji": "Suzuki Aguri no F-1 Sūpā Doraibingu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": false,
-    "releaseDate": "14-07-1992",
+    "releaseDate": "1992-07-14",
     "developer": "Genki",
     "publisher": "Absolute Entertainment",
     "difficulty": "playable",
@@ -21588,13 +21588,13 @@ export const games: Game[] = [
       "kanji": "スーパーRタイプ",
       "romaji": "Sūpā Āru Taipu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Super_R-Type.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Shooter",
     "japanExclusive": false,
-    "releaseDate": "13-07-1991",
+    "releaseDate": "1991-07-13",
     "developer": "Irem",
     "publisher": "Irem",
     "difficulty": "playable",
@@ -21614,13 +21614,13 @@ export const games: Game[] = [
       "kanji": "スーパーウルトラベースボール",
       "romaji": "Sūpā Urutora Bēsubōru"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "12-07-1991",
+    "releaseDate": "1991-07-12",
     "developer": "Culture Brain",
     "publisher": "Culture Brain",
     "difficulty": "playable",
@@ -21640,13 +21640,13 @@ export const games: Game[] = [
       "kanji": "ストリートファイターII ターボ",
       "romaji": "Sutorīto Faitā II Tābo"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Street_Fighter_II_Turbo.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": false,
-    "releaseDate": "10-07-1993",
+    "releaseDate": "1993-07-10",
     "developer": "Capcom",
     "publisher": "Capcom",
     "difficulty": "playable",
@@ -21666,13 +21666,13 @@ export const games: Game[] = [
       "kanji": "北斗の拳5 天魔覇王拳 愛是死勝",
       "romaji": "Hokuto no Ken 5: Tenma Ryūsei Den: Ai Zesshō"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": true,
-    "releaseDate": "10-07-1992",
+    "releaseDate": "1992-07-10",
     "developer": "Shouei",
     "publisher": "Toei Animation",
     "difficulty": "playable",
@@ -21692,13 +21692,13 @@ export const games: Game[] = [
       "kanji": "遊遊のクイズでGO!GO!",
       "romaji": "Yūyū no Kuizu de GO! GO!"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Quiz",
     "japanExclusive": true,
-    "releaseDate": "10-07-1992",
+    "releaseDate": "1992-07-10",
     "developer": "Taito",
     "publisher": "Taito",
     "difficulty": "not-recommended",
@@ -21718,13 +21718,13 @@ export const games: Game[] = [
       "kanji": "ファミコン文庫 はじまりの森",
       "romaji": "Famikon Bunko: Hajimari no Mori"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Adventure",
     "japanExclusive": true,
-    "releaseDate": "01-07-1999",
+    "releaseDate": "1999-07-01",
     "developer": "Pax Softonica",
     "publisher": "Nintendo",
     "difficulty": "not-recommended",
@@ -21744,13 +21744,13 @@ export const games: Game[] = [
       "kanji": "ズーっとマージャン!",
       "romaji": "Zūtto Mājan!"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "01-07-1998",
+    "releaseDate": "1998-07-01",
     "developer": "Nintendo",
     "publisher": "Nintendo",
     "difficulty": "not-recommended",
@@ -21770,13 +21770,13 @@ export const games: Game[] = [
       "kanji": "遊人のフリフリGirls",
       "romaji": "Yūjin no Furi Furi Girls"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Adventure",
     "japanExclusive": true,
-    "releaseDate": "01-07-1994",
+    "releaseDate": "1994-07-01",
     "developer": "U-Jin",
     "publisher": "Planning Office Wada",
     "difficulty": "not-recommended",
@@ -21796,13 +21796,13 @@ export const games: Game[] = [
       "kanji": "スーパーピンボール ビハインド・ザ・マスク",
       "romaji": "Sūpā Pinbōru: Bihaindo za Masuku"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Pinball",
     "japanExclusive": false,
-    "releaseDate": "08-01-1994",
+    "releaseDate": "1994-01-08",
     "developer": "KAZe",
     "publisher": "Meldac",
     "difficulty": "playable",
@@ -21822,13 +21822,13 @@ export const games: Game[] = [
       "kanji": "エイリアンVSプレデター",
       "romaji": "Eirian VS Puredetā"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Beat 'em up",
     "japanExclusive": false,
-    "releaseDate": "08-01-1993",
+    "releaseDate": "1993-01-08",
     "developer": "Jorudan",
     "publisher": "Activision",
     "difficulty": "playable",
@@ -21848,13 +21848,13 @@ export const games: Game[] = [
       "kanji": "バトルトード イン バトルマニアックス",
       "romaji": "Batorutōdo in Batorumaniakkusu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "07-01-1994",
+    "releaseDate": "1994-01-07",
     "developer": "Rare",
     "publisher": "Masaya",
     "difficulty": "playable",
@@ -21874,13 +21874,13 @@ export const games: Game[] = [
       "kanji": "ポップンツインビー レインボーベルアドベンチャー",
       "romaji": "Poppun Tsuinbī Reinbō Beru Adobenchā"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "07-01-1994",
+    "releaseDate": "1994-01-07",
     "developer": "Konami",
     "publisher": "Konami",
     "difficulty": "playable",
@@ -21900,13 +21900,13 @@ export const games: Game[] = [
       "kanji": "ワールドクラスラグビー2 国内激闘編'93",
       "romaji": "Wārudo Kurasu Ragubī 2: Kokunai Gekitō Hen '93"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "07-01-1994",
+    "releaseDate": "1994-01-07",
     "developer": "Denton Designs",
     "publisher": "Misawa",
     "difficulty": "caution",
@@ -21926,13 +21926,13 @@ export const games: Game[] = [
       "kanji": "ガンプル",
       "romaji": "Ganpuru"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "31-01-1997",
+    "releaseDate": "1997-01-31",
     "developer": "Lenar",
     "publisher": "ASCII Entertainment",
     "difficulty": "playable",
@@ -21952,13 +21952,13 @@ export const games: Game[] = [
       "kanji": "ミランドラ",
       "romaji": "Mirandora"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "31-01-1997",
+    "releaseDate": "1997-01-31",
     "developer": "Tomcat System",
     "publisher": "ASCII Entertainment",
     "difficulty": "not-recommended",
@@ -21978,13 +21978,13 @@ export const games: Game[] = [
       "kanji": "ピキーニャ!",
       "romaji": "Pikīnya!"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "31-01-1997",
+    "releaseDate": "1997-01-31",
     "developer": "Crea-Tech",
     "publisher": "ASCII Entertainment",
     "difficulty": "playable",
@@ -22004,13 +22004,13 @@ export const games: Game[] = [
       "kanji": "平和パーラー!ミニ8",
       "romaji": "Heiwa Pārā! Mini 8"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "30-01-1998",
+    "releaseDate": "1998-01-30",
     "developer": "Unknown",
     "publisher": "Nippon Telenet",
     "difficulty": "not-recommended",
@@ -22030,13 +22030,13 @@ export const games: Game[] = [
       "kanji": "ヨギベア",
       "romaji": "Yogi Bea"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "03-01-1995",
+    "releaseDate": "1995-01-03",
     "developer": "Blue Turtle",
     "publisher": "Cybersoft",
     "difficulty": "playable",
@@ -22056,13 +22056,13 @@ export const games: Game[] = [
       "kanji": "ボンカーズ",
       "romaji": "Bonkāzu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "03-01-1995",
+    "releaseDate": "1995-01-03",
     "developer": "Sun L",
     "publisher": "Capcom",
     "difficulty": "playable",
@@ -22082,13 +22082,13 @@ export const games: Game[] = [
       "kanji": "パックインタイム",
       "romaji": "Pakku in Taimu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "03-01-1995",
+    "releaseDate": "1995-01-03",
     "developer": "Kalisto Entertainment",
     "publisher": "Namco",
     "difficulty": "playable",
@@ -22108,13 +22108,13 @@ export const games: Game[] = [
       "kanji": "スーパーチャイニーズファイター",
       "romaji": "Sūpā Chainīzu Faitā"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": true,
-    "releaseDate": "03-01-1995",
+    "releaseDate": "1995-01-03",
     "developer": "Unknown",
     "publisher": "Culture Brain",
     "difficulty": "playable",
@@ -22134,13 +22134,13 @@ export const games: Game[] = [
       "kanji": "エックスメン",
       "romaji": "X-Men"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "03-01-1995",
+    "releaseDate": "1995-01-03",
     "developer": "Capcom",
     "publisher": "Capcom",
     "difficulty": "playable",
@@ -22160,13 +22160,13 @@ export const games: Game[] = [
       "kanji": "ロックンロールレーシング",
       "romaji": "Rokku n Rōru Rēshingu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Rock_n'_Roll_Racing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": false,
-    "releaseDate": "03-01-1994",
+    "releaseDate": "1994-01-03",
     "developer": "Silicon & Synapse",
     "publisher": "Interplay",
     "difficulty": "playable",
@@ -22186,13 +22186,13 @@ export const games: Game[] = [
       "kanji": "エルファリア",
       "romaji": "Erufaria"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "03-01-1993",
+    "releaseDate": "1993-01-03",
     "developer": "Red Company",
     "publisher": "Hudson Soft",
     "difficulty": "not-recommended",
@@ -22212,13 +22212,13 @@ export const games: Game[] = [
       "kanji": "ブレインロード",
       "romaji": "Burein Rōdo"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Brain_Lord.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action RPG",
     "japanExclusive": false,
-    "releaseDate": "29-01-1994",
+    "releaseDate": "1994-01-29",
     "developer": "Produce",
     "publisher": "Enix",
     "difficulty": "caution",
@@ -22238,13 +22238,13 @@ export const games: Game[] = [
       "kanji": "クラスティワールド",
       "romaji": "Krusty World"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": false,
-    "releaseDate": "29-01-1993",
+    "releaseDate": "1993-01-29",
     "developer": "Audiogenic",
     "publisher": "Acclaim",
     "difficulty": "playable",
@@ -22264,13 +22264,13 @@ export const games: Game[] = [
       "kanji": "ナムコオープン",
       "romaji": "Namuko Ōpun"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "29-01-1993",
+    "releaseDate": "1993-01-29",
     "developer": "Tose",
     "publisher": "Namco",
     "difficulty": "caution",
@@ -22290,13 +22290,13 @@ export const games: Game[] = [
       "kanji": "信長公記",
       "romaji": "Nobunaga Kōki"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": true,
-    "releaseDate": "29-01-1993",
+    "releaseDate": "1993-01-29",
     "developer": "Unknown",
     "publisher": "Yanoman",
     "difficulty": "not-recommended",
@@ -22316,13 +22316,13 @@ export const games: Game[] = [
       "kanji": "キューバート3",
       "romaji": "Kyūbāto 3"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Q_bert_3.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": false,
-    "releaseDate": "29-01-1993",
+    "releaseDate": "1993-01-29",
     "developer": "Realtime Associates",
     "publisher": "NTVIC",
     "difficulty": "playable",
@@ -22342,13 +22342,13 @@ export const games: Game[] = [
       "kanji": "スーパービックリマン",
       "romaji": "Sūpā Bikkuriman"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "29-01-1993",
+    "releaseDate": "1993-01-29",
     "developer": "Tom Create",
     "publisher": "BEC",
     "difficulty": "playable",
@@ -22368,13 +22368,13 @@ export const games: Game[] = [
       "kanji": "スーパー倉庫番",
       "romaji": "Sūpā Sōkoban"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": false,
-    "releaseDate": "29-01-1993",
+    "releaseDate": "1993-01-29",
     "developer": "Thinking Rabbit",
     "publisher": "Pack-In-Video",
     "difficulty": "playable",
@@ -22394,13 +22394,13 @@ export const games: Game[] = [
       "kanji": "ワールドクラスラグビー",
       "romaji": "Wārudo Kurasu Ragubī"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "29-01-1993",
+    "releaseDate": "1993-01-29",
     "developer": "Audiogenic",
     "publisher": "Imagineer",
     "difficulty": "playable",
@@ -22420,13 +22420,13 @@ export const games: Game[] = [
       "kanji": "バスタード!! 暗黒の破壊神",
       "romaji": "Bastard!!: Ankoku no Hakai-shin"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action RPG",
     "japanExclusive": true,
-    "releaseDate": "28-01-1994",
+    "releaseDate": "1994-01-28",
     "developer": "Cobra Team",
     "publisher": "Cobra Team",
     "difficulty": "not-recommended",
@@ -22446,13 +22446,13 @@ export const games: Game[] = [
       "kanji": "ガイアセイバー",
       "romaji": "Gaia Seibā"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "28-01-1994",
+    "releaseDate": "1994-01-28",
     "developer": "Arc System Works",
     "publisher": "Banpresto",
     "difficulty": "playable",
@@ -22472,13 +22472,13 @@ export const games: Game[] = [
       "kanji": "グレート バトル外伝2 祭りだわっしょい",
       "romaji": "Great Battle Gaiden 2: Matsuri da Wasshoi"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "28-01-1994",
+    "releaseDate": "1994-01-28",
     "developer": "Unknown",
     "publisher": "Banpresto",
     "difficulty": "playable",
@@ -22498,13 +22498,13 @@ export const games: Game[] = [
       "kanji": "鋼鉄の騎士2 砂漠のロンメル将軍",
       "romaji": "Kōtetsu no Kishi 2: Sabaku no Rommel Shōgun"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": true,
-    "releaseDate": "28-01-1994",
+    "releaseDate": "1994-01-28",
     "developer": "Dual",
     "publisher": "Asmik Ace",
     "difficulty": "not-recommended",
@@ -22524,13 +22524,13 @@ export const games: Game[] = [
       "kanji": "魔神転生",
       "romaji": "Majin Tensei"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Majin_Tensei.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy RPG",
     "japanExclusive": true,
-    "releaseDate": "28-01-1994",
+    "releaseDate": "1994-01-28",
     "developer": "Atlus",
     "publisher": "Atlus",
     "difficulty": "not-recommended",
@@ -22550,13 +22550,13 @@ export const games: Game[] = [
       "kanji": "ニンジャウォーリアーズ",
       "romaji": "Ninja Wōriāzu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/The_Ninja_Warriors.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "28-01-1994",
+    "releaseDate": "1994-01-28",
     "developer": "Natsume",
     "publisher": "Taito",
     "difficulty": "playable",
@@ -22576,13 +22576,13 @@ export const games: Game[] = [
       "kanji": "ロマンシング サガ",
       "romaji": "Romanshingu SaGa"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Romancing_SaGa.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "28-01-1992",
+    "releaseDate": "1992-01-28",
     "developer": "Square",
     "publisher": "Square",
     "difficulty": "not-recommended",
@@ -22602,13 +22602,13 @@ export const games: Game[] = [
       "kanji": "キテレツ大百科 超時空スゴロク",
       "romaji": "Kiteretsu Daihyakka: Chōjikū Sugoroku"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "27-01-1995",
+    "releaseDate": "1995-01-27",
     "developer": "Video System",
     "publisher": "Video System",
     "difficulty": "not-recommended",
@@ -22628,13 +22628,13 @@ export const games: Game[] = [
       "kanji": "鋼鉄の騎士3 激突ヨーロッパ戦線",
       "romaji": "Kōtetsu no Kishi 3: Gekitotsu Europe Sensen"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": true,
-    "releaseDate": "27-01-1995",
+    "releaseDate": "1995-01-27",
     "developer": "Dual",
     "publisher": "Asmik Ace",
     "difficulty": "not-recommended",
@@ -22654,13 +22654,13 @@ export const games: Game[] = [
       "kanji": "ミラクルカジノパラダイス",
       "romaji": "Mirakuru Kajino Paradaisu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Casino",
     "japanExclusive": true,
-    "releaseDate": "27-01-1995",
+    "releaseDate": "1995-01-27",
     "developer": "Unknown",
     "publisher": "Carrozzeria",
     "difficulty": "not-recommended",
@@ -22680,13 +22680,13 @@ export const games: Game[] = [
       "kanji": "パチンコ物語2 名古屋しゃちほこの帝王",
       "romaji": "Pachinko Monogatari 2: Nagoya Shachihoko no Teiō"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "27-01-1995",
+    "releaseDate": "1995-01-27",
     "developer": "KAZe",
     "publisher": "KSS",
     "difficulty": "not-recommended",
@@ -22706,13 +22706,13 @@ export const games: Game[] = [
       "kanji": "ウルヴァリン",
       "romaji": "Wolverine"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "27-01-1995",
+    "releaseDate": "1995-01-27",
     "developer": "Bits Studios",
     "publisher": "Acclaim",
     "difficulty": "playable",
@@ -22732,13 +22732,13 @@ export const games: Game[] = [
       "kanji": "平成軍人将棋",
       "romaji": "Heisei Gunjin Shōgi"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "26-01-1996",
+    "releaseDate": "1996-01-26",
     "developer": "Unknown",
     "publisher": "Carrozzeria",
     "difficulty": "not-recommended",
@@ -22758,13 +22758,13 @@ export const games: Game[] = [
       "kanji": "囲碁倶楽部",
       "romaji": "Igo Kurabu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "26-01-1996",
+    "releaseDate": "1996-01-26",
     "developer": "Unknown",
     "publisher": "Hect",
     "difficulty": "not-recommended",
@@ -22784,13 +22784,13 @@ export const games: Game[] = [
       "kanji": "無人島物語",
       "romaji": "Mujintō Monogatari"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Adventure",
     "japanExclusive": true,
-    "releaseDate": "26-01-1996",
+    "releaseDate": "1996-01-26",
     "developer": "Open Sesame",
     "publisher": "KSS",
     "difficulty": "not-recommended",
@@ -22810,13 +22810,13 @@ export const games: Game[] = [
       "kanji": "信長の野望・天翔記",
       "romaji": "Nobunaga no Yabō: Tenshōki"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": true,
-    "releaseDate": "26-01-1996",
+    "releaseDate": "1996-01-26",
     "developer": "Unknown",
     "publisher": "Koei",
     "difficulty": "not-recommended",
@@ -22836,13 +22836,13 @@ export const games: Game[] = [
       "kanji": "SDガンダムパワーフォーメーションパズル",
       "romaji": "SD Gundam Power Formation Puzzle"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "26-01-1996",
+    "releaseDate": "1996-01-26",
     "developer": "Tom Create",
     "publisher": "Bandai",
     "difficulty": "playable",
@@ -22862,13 +22862,13 @@ export const games: Game[] = [
       "kanji": "スーパー野球道",
       "romaji": "Sūpā Yakyū Michi"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "26-01-1996",
+    "releaseDate": "1996-01-26",
     "developer": "Nippon Create",
     "publisher": "Banpresto",
     "difficulty": "caution",
@@ -22888,13 +22888,13 @@ export const games: Game[] = [
       "kanji": "幼稚園戦記まだら",
       "romaji": "Yōchien Senki Madara"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "26-01-1996",
+    "releaseDate": "1996-01-26",
     "developer": "Nexus Interact",
     "publisher": "Datam Polystar",
     "difficulty": "playable",
@@ -22914,13 +22914,13 @@ export const games: Game[] = [
       "kanji": "うしおととら",
       "romaji": "Ushio to Tora"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "25-01-1993",
+    "releaseDate": "1993-01-25",
     "developer": "Unknown",
     "publisher": "Yutaka",
     "difficulty": "playable",
@@ -22940,13 +22940,13 @@ export const games: Game[] = [
       "kanji": "ドラゴンボールZ 超サイヤ伝説",
       "romaji": "Dragon Ball Z: Chō Saiya Densetsu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "25-01-1992",
+    "releaseDate": "1992-01-25",
     "developer": "Tose",
     "publisher": "Bandai",
     "difficulty": "not-recommended",
@@ -22966,13 +22966,13 @@ export const games: Game[] = [
       "kanji": "ドラゴンズアース",
       "romaji": "Doragonzu Āsu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": true,
-    "releaseDate": "22-01-1993",
+    "releaseDate": "1993-01-22",
     "developer": "Human Entertainment",
     "publisher": "Human Entertainment",
     "difficulty": "not-recommended",
@@ -22992,13 +22992,13 @@ export const games: Game[] = [
       "kanji": "まけるな!魔剣道",
       "romaji": "Makeruna! Makendō"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "22-01-1993",
+    "releaseDate": "1993-01-22",
     "developer": "Affect",
     "publisher": "SETA",
     "difficulty": "playable",
@@ -23018,13 +23018,13 @@ export const games: Game[] = [
       "kanji": "マイト アンド マジック BOOK II",
       "romaji": "Maito ando Majikku Book II"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "22-01-1993",
+    "releaseDate": "1993-01-22",
     "developer": "Starcraft Inc.",
     "publisher": "LOZC",
     "difficulty": "not-recommended",
@@ -23044,13 +23044,13 @@ export const games: Game[] = [
       "kanji": "ポピュラス II",
       "romaji": "Popyurasu II"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": false,
-    "releaseDate": "22-01-1993",
+    "releaseDate": "1993-01-22",
     "developer": "Bullfrog",
     "publisher": "Imagineer",
     "difficulty": "caution",
@@ -23070,13 +23070,13 @@ export const games: Game[] = [
       "kanji": "ファイアーエムブレム 紋章の謎",
       "romaji": "Faiā Emuburemu: Monshō no Nazo"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy RPG",
     "japanExclusive": true,
-    "releaseDate": "21-01-1994",
+    "releaseDate": "1994-01-21",
     "developer": "Intelligent Systems",
     "publisher": "Nintendo",
     "difficulty": "not-recommended",
@@ -23096,13 +23096,13 @@ export const games: Game[] = [
       "kanji": "ダービースタリオンIII",
       "romaji": "Dābī Sutarion III"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "20-01-1995",
+    "releaseDate": "1995-01-20",
     "developer": "ASCII Entertainment",
     "publisher": "ASCII Entertainment",
     "difficulty": "not-recommended",
@@ -23122,13 +23122,13 @@ export const games: Game[] = [
       "kanji": "スターダストサプレックス",
       "romaji": "Sutādasuto Sapurekkusu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Wrestling",
     "japanExclusive": true,
-    "releaseDate": "20-01-1995",
+    "releaseDate": "1995-01-20",
     "developer": "Unknown",
     "publisher": "Varie",
     "difficulty": "playable",
@@ -23148,13 +23148,13 @@ export const games: Game[] = [
       "kanji": "マイケル・アンドレッティのインディカー・チャレンジ",
       "romaji": "Maikeru Andoretti no Indi Kā Charenji"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Michael_Andretti's_Indy_Car_Challenge.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": false,
-    "releaseDate": "20-01-1994",
+    "releaseDate": "1994-01-20",
     "developer": "Genki",
     "publisher": "Bullet-Proof Software",
     "difficulty": "playable",
@@ -23174,13 +23174,13 @@ export const games: Game[] = [
       "kanji": "磯釣り 離島編",
       "romaji": "Isozuri: Ritō Hen"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "19-01-1996",
+    "releaseDate": "1996-01-19",
     "developer": "Unknown",
     "publisher": "Pack-In-Video",
     "difficulty": "not-recommended",
@@ -23200,13 +23200,13 @@ export const games: Game[] = [
       "kanji": "京楽産業マルホンパーラー!パーラー!3",
       "romaji": "Kyōraku Sangyō Maruhon Pārā! Pārā! 3"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "19-01-1996",
+    "releaseDate": "1996-01-19",
     "developer": "Unknown",
     "publisher": "Nippon Telenet",
     "difficulty": "not-recommended",
@@ -23226,13 +23226,13 @@ export const games: Game[] = [
       "kanji": "的中競馬塾",
       "romaji": "Tekichū Keiba Juku"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "19-01-1996",
+    "releaseDate": "1996-01-19",
     "developer": "Unknown",
     "publisher": "Banpresto",
     "difficulty": "not-recommended",
@@ -23252,13 +23252,13 @@ export const games: Game[] = [
       "kanji": "武士勢竜伝",
       "romaji": "Bushi Seiryūden"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Bushi_Seiryūden__Futari_no_Yūsha.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "17-01-1997",
+    "releaseDate": "1997-01-17",
     "developer": "Game Freak",
     "publisher": "T&E Soft",
     "difficulty": "not-recommended",
@@ -23278,13 +23278,13 @@ export const games: Game[] = [
       "kanji": "プロ野球スター",
       "romaji": "Puro Yakyū Sutā"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "17-01-1997",
+    "releaseDate": "1997-01-17",
     "developer": "Culture Brain",
     "publisher": "Culture Brain",
     "difficulty": "caution",
@@ -23304,13 +23304,13 @@ export const games: Game[] = [
       "kanji": "プロフットボール",
       "romaji": "Pro Football"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "17-01-1992",
+    "releaseDate": "1992-01-17",
     "developer": "Park Place Productions",
     "publisher": "EA Sports",
     "difficulty": "playable",
@@ -23330,13 +23330,13 @@ export const games: Game[] = [
       "kanji": "ヨーロッパ戦線",
       "romaji": "Europa Sensen"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": false,
-    "releaseDate": "16-01-1993",
+    "releaseDate": "1993-01-16",
     "developer": "Koei",
     "publisher": "Koei",
     "difficulty": "not-recommended",
@@ -23356,13 +23356,13 @@ export const games: Game[] = [
       "kanji": "アルカノイド ドゥ・イット・アゲイン",
       "romaji": "Arukanoido Du It Agein"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Arkanoid__Doh_It_Again.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": false,
-    "releaseDate": "15-01-1997",
+    "releaseDate": "1997-01-15",
     "developer": "Taito",
     "publisher": "Nintendo",
     "difficulty": "playable",
@@ -23382,13 +23382,13 @@ export const games: Game[] = [
       "kanji": "必勝777ファイター 竜宮伝説",
       "romaji": "Hisshō 777 Faitā: Ryūgū Densetsu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "14-01-1994",
+    "releaseDate": "1994-01-14",
     "developer": "Jorudan",
     "publisher": "VAP",
     "difficulty": "not-recommended",
@@ -23408,13 +23408,13 @@ export const games: Game[] = [
       "kanji": "武来 破邪の勇士伝説",
       "romaji": "Burai: Hachigyoku no Yūshi Densetsu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "14-01-1993",
+    "releaseDate": "1993-01-14",
     "developer": "Pandora Box",
     "publisher": "IGS",
     "difficulty": "not-recommended",
@@ -23434,13 +23434,13 @@ export const games: Game[] = [
       "kanji": "パズルボブル",
       "romaji": "Puzzle Bobble"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": false,
-    "releaseDate": "13-01-1995",
+    "releaseDate": "1995-01-13",
     "developer": "Taito",
     "publisher": "Taito",
     "difficulty": "playable",
@@ -23460,13 +23460,13 @@ export const games: Game[] = [
       "kanji": "ギャラクシーウォーズ",
       "romaji": "Gyarakushī Wōzu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Galaxy_Wars.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Shooter",
     "japanExclusive": true,
-    "releaseDate": "13-01-1995",
+    "releaseDate": "1995-01-13",
     "developer": "C-Lab",
     "publisher": "Imagineer",
     "difficulty": "playable",
@@ -23486,13 +23486,13 @@ export const games: Game[] = [
       "kanji": "じゃんゆうき悟空乱打",
       "romaji": "Janyūki Gokū Randa"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "13-01-1995",
+    "releaseDate": "1995-01-13",
     "developer": "Unknown",
     "publisher": "Virgin Interactive",
     "difficulty": "playable",
@@ -23512,13 +23512,13 @@ export const games: Game[] = [
       "kanji": "実戦!麻雀指南",
       "romaji": "Jissen! Mahjong Shinan"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "13-01-1995",
+    "releaseDate": "1995-01-13",
     "developer": "Syscom",
     "publisher": "ASK",
     "difficulty": "not-recommended",
@@ -23538,13 +23538,13 @@ export const games: Game[] = [
       "kanji": "わくわくスキーワンダースパー",
       "romaji": "Waku Waku Sukī Wandā Supā"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/WakuWaku_Ski_Wonder_Spur.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "13-01-1995",
+    "releaseDate": "1995-01-13",
     "developer": "Human Club",
     "publisher": "Human Entertainment",
     "difficulty": "caution",
@@ -23564,13 +23564,13 @@ export const games: Game[] = [
       "kanji": "魔導物語 はなまる大幼稚園",
       "romaji": "Madō Monogatari: Hanamaru Daiyōchienji"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "12-01-1996",
+    "releaseDate": "1996-01-12",
     "developer": "Compile",
     "publisher": "Compile",
     "difficulty": "not-recommended",
@@ -23590,13 +23590,13 @@ export const games: Game[] = [
       "kanji": "バーチャルウォーズ",
       "romaji": "Virtual Wars"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "11-01-1994",
+    "releaseDate": "1994-01-11",
     "developer": "Sales Curve",
     "publisher": "THQ",
     "difficulty": "playable",
@@ -23616,13 +23616,13 @@ export const games: Game[] = [
       "kanji": "高橋名人の大冒険島",
       "romaji": "Takahashi Meijin no Daibōken Jima"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Super_Adventure_Island.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "11-01-1992",
+    "releaseDate": "1992-01-11",
     "developer": "Produce",
     "publisher": "Hudson Soft",
     "difficulty": "playable",
@@ -23642,13 +23642,13 @@ export const games: Game[] = [
       "kanji": "パワー ロードランナー",
       "romaji": "Pawā Rōdo Rannā"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "01-01-1999",
+    "releaseDate": "1999-01-01",
     "developer": "Aeon",
     "publisher": "Nintendo",
     "difficulty": "playable",
@@ -23668,13 +23668,13 @@ export const games: Game[] = [
       "kanji": "Xターミネーター2 サウケ",
       "romaji": "X-Terminator 2 Sauke"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "01-01-1994",
+    "releaseDate": "1994-01-01",
     "developer": "GameTech",
     "publisher": "GameTech",
     "difficulty": "playable",
@@ -23694,13 +23694,13 @@ export const games: Game[] = [
       "kanji": "バハムートラグーン",
       "romaji": "Bahamūto Ragūn"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Bahamut_Lagoon.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy RPG",
     "japanExclusive": true,
-    "releaseDate": "09-02-1996",
+    "releaseDate": "1996-02-09",
     "developer": "Square",
     "publisher": "Square",
     "difficulty": "not-recommended",
@@ -23720,13 +23720,13 @@ export const games: Game[] = [
       "kanji": "将棋最強2 実戦対局編",
       "romaji": "Shōgi Saikyō 2: Jissen Taikyoku Hen"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "09-02-1996",
+    "releaseDate": "1996-02-09",
     "developer": "Unknown",
     "publisher": "Magical Company",
     "difficulty": "not-recommended",
@@ -23746,13 +23746,13 @@ export const games: Game[] = [
       "kanji": "ときめきメモリアル 伝説の樹の下で",
       "romaji": "Tokimeki Memorial: Densetsu no Ki no Shita de"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Tokimeki_Memorial__Densetsu_no_Ki_no_Shita_de.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Dating Sim",
     "japanExclusive": true,
-    "releaseDate": "09-02-1996",
+    "releaseDate": "1996-02-09",
     "developer": "Konami",
     "publisher": "Konami",
     "difficulty": "not-recommended",
@@ -23772,13 +23772,13 @@ export const games: Game[] = [
       "kanji": "ゲゲゲの鬼太郎 復活!天魔大王",
       "romaji": "Gegege no Kitarō: Fukkatsu! Tenma Daiō"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "05-02-1993",
+    "releaseDate": "1993-02-05",
     "developer": "BEC",
     "publisher": "Bandai",
     "difficulty": "playable",
@@ -23798,13 +23798,13 @@ export const games: Game[] = [
       "kanji": "伊藤博六段の将棋道場",
       "romaji": "Itō Haka Rokudan no Shōgi Dōjō"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "04-02-1994",
+    "releaseDate": "1994-02-04",
     "developer": "Unknown",
     "publisher": "ASK",
     "difficulty": "not-recommended",
@@ -23824,13 +23824,13 @@ export const games: Game[] = [
       "kanji": "オリビアのミステリー",
       "romaji": "Oribia no Misuterī"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Adventure",
     "japanExclusive": true,
-    "releaseDate": "04-02-1994",
+    "releaseDate": "1994-02-04",
     "developer": "Unknown",
     "publisher": "Altron",
     "difficulty": "not-recommended",
@@ -23850,13 +23850,13 @@ export const games: Game[] = [
       "kanji": "スーパーファイヤープロレスリング3 イージータイプ",
       "romaji": "Sūpā Faiyā Puroresuringu 3 Ījī Taipu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Wrestling",
     "japanExclusive": true,
-    "releaseDate": "04-02-1994",
+    "releaseDate": "1994-02-04",
     "developer": "Human Club",
     "publisher": "Human Entertainment",
     "difficulty": "playable",
@@ -23876,13 +23876,13 @@ export const games: Game[] = [
       "kanji": "放課後インベッピン女学院",
       "romaji": "Hōkago in Beppin Jogakuin"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Dating Sim",
     "japanExclusive": true,
-    "releaseDate": "03-02-1995",
+    "releaseDate": "1995-02-03",
     "developer": "Access",
     "publisher": "Imagineer",
     "difficulty": "not-recommended",
@@ -23902,13 +23902,13 @@ export const games: Game[] = [
       "kanji": "スーパーファミスタ5",
       "romaji": "Sūpā Famisuta 5"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "29-02-1996",
+    "releaseDate": "1996-02-29",
     "developer": "Unknown",
     "publisher": "Namco",
     "difficulty": "caution",
@@ -23928,13 +23928,13 @@ export const games: Game[] = [
       "kanji": "忍たま乱太郎3",
       "romaji": "Nintama Rantarō 3"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "28-02-1997",
+    "releaseDate": "1997-02-28",
     "developer": "Unknown",
     "publisher": "Culture Brain",
     "difficulty": "playable",
@@ -23954,13 +23954,13 @@ export const games: Game[] = [
       "kanji": "スーパーボンバーマン5",
       "romaji": "Sūpā Bonbāman 5"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Super_Bomberman_5.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "28-02-1997",
+    "releaseDate": "1997-02-28",
     "developer": "Hudson Soft",
     "publisher": "Hudson Soft",
     "difficulty": "playable",
@@ -23980,13 +23980,13 @@ export const games: Game[] = [
       "kanji": "スーパー本命 G1制覇",
       "romaji": "Sūpā Honmei: G1 Seiha"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "28-02-1994",
+    "releaseDate": "1994-02-28",
     "developer": "Unknown",
     "publisher": "Nichibutsu",
     "difficulty": "not-recommended",
@@ -24006,13 +24006,13 @@ export const games: Game[] = [
       "kanji": "魂斗羅スピリッツ",
       "romaji": "Contra Spirits"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Contra_III__The_Alien_Wars.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "28-02-1992",
+    "releaseDate": "1992-02-28",
     "developer": "Konami",
     "publisher": "Konami",
     "difficulty": "playable",
@@ -24032,13 +24032,13 @@ export const games: Game[] = [
       "kanji": "ロケッティア",
       "romaji": "Rokettia"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "28-02-1992",
+    "releaseDate": "1992-02-28",
     "developer": "NovaLogic",
     "publisher": "IGS",
     "difficulty": "playable",
@@ -24058,13 +24058,13 @@ export const games: Game[] = [
       "kanji": "いただきストリート2",
       "romaji": "Itadaki Sutorīto 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "26-02-1994",
+    "releaseDate": "1994-02-26",
     "developer": "Tomcat System",
     "publisher": "Enix",
     "difficulty": "not-recommended",
@@ -24084,13 +24084,13 @@ export const games: Game[] = [
       "kanji": "バットマン リターンズ",
       "romaji": "Battoman Ritānzu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Batman_Returns.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "26-02-1993",
+    "releaseDate": "1993-02-26",
     "developer": "Konami",
     "publisher": "Konami",
     "difficulty": "playable",
@@ -24110,13 +24110,13 @@ export const games: Game[] = [
       "kanji": "NBAプロバスケットボール ブルズVSブレイザーズ",
       "romaji": "NBA Pro Basketball: Bulls vs Blazers"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "26-02-1993",
+    "releaseDate": "1993-02-26",
     "developer": "Electronic Arts",
     "publisher": "EA Sports",
     "difficulty": "playable",
@@ -24136,13 +24136,13 @@ export const games: Game[] = [
       "kanji": "F-1グランプリ パート2",
       "romaji": "F-1 Grand Prix Part II"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": true,
-    "releaseDate": "26-02-1993",
+    "releaseDate": "1993-02-26",
     "developer": "Video System",
     "publisher": "Video System",
     "difficulty": "caution",
@@ -24162,13 +24162,13 @@ export const games: Game[] = [
       "kanji": "リーディングカンパニー",
       "romaji": "Rīdingu Kanpanī"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "26-02-1993",
+    "releaseDate": "1993-02-26",
     "developer": "Koei",
     "publisher": "Koei",
     "difficulty": "not-recommended",
@@ -24188,13 +24188,13 @@ export const games: Game[] = [
       "kanji": "バトルテック",
       "romaji": "BattleTech"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "26-02-1993",
+    "releaseDate": "1993-02-26",
     "developer": "Beam Software",
     "publisher": "Activision",
     "difficulty": "caution",
@@ -24214,13 +24214,13 @@ export const games: Game[] = [
       "kanji": "織田信長 覇王の軍団",
       "romaji": "Oda Nobunaga: Haō no Gundan"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": true,
-    "releaseDate": "26-02-1993",
+    "releaseDate": "1993-02-26",
     "developer": "Tose",
     "publisher": "Angel",
     "difficulty": "not-recommended",
@@ -24240,13 +24240,13 @@ export const games: Game[] = [
       "kanji": "コスモギャング・ザ・パズル",
       "romaji": "Cosmo Gang the Puzzle"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": false,
-    "releaseDate": "26-02-1993",
+    "releaseDate": "1993-02-26",
     "developer": "Namco",
     "publisher": "Namco",
     "difficulty": "playable",
@@ -24266,13 +24266,13 @@ export const games: Game[] = [
       "kanji": "シムアント",
       "romaji": "SimAnt"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": false,
-    "releaseDate": "26-02-1993",
+    "releaseDate": "1993-02-26",
     "developer": "Tomcat System",
     "publisher": "Maxis",
     "difficulty": "caution",
@@ -24292,13 +24292,13 @@ export const games: Game[] = [
       "kanji": "ザ・シンプソンズ バートの不思議な夢の大冒険",
       "romaji": "The Simpsons: Bart no Fushigi na Yume no Daibōken"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "26-02-1993",
+    "releaseDate": "1993-02-26",
     "developer": "Sculptured Software",
     "publisher": "Acclaim",
     "difficulty": "playable",
@@ -24318,13 +24318,13 @@ export const games: Game[] = [
       "kanji": "バトルピンボール",
       "romaji": "Batoru Pinbōru"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Pinball",
     "japanExclusive": true,
-    "releaseDate": "25-02-1995",
+    "releaseDate": "1995-02-25",
     "developer": "Banpresto",
     "publisher": "Banpresto",
     "difficulty": "playable",
@@ -24344,13 +24344,13 @@ export const games: Game[] = [
       "kanji": "美少女戦士セーラームーンS くるっくりん",
       "romaji": "Bishōjo Senshi Sailor Moon S: Kurukkurin"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "24-02-1995",
+    "releaseDate": "1995-02-24",
     "developer": "Tom Create",
     "publisher": "Bandai",
     "difficulty": "playable",
@@ -24370,13 +24370,13 @@ export const games: Game[] = [
       "kanji": "クラシックロードII",
       "romaji": "Kurashikku Rōdo II"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": true,
-    "releaseDate": "24-02-1995",
+    "releaseDate": "1995-02-24",
     "developer": "Opera House",
     "publisher": "Victor Interactive",
     "difficulty": "caution",
@@ -24396,13 +24396,13 @@ export const games: Game[] = [
       "kanji": "ファーランドストーリー 四つの封印",
       "romaji": "Farland Story: Yottsu no Fuuin"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Farland_Story.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy RPG",
     "japanExclusive": true,
-    "releaseDate": "24-02-1995",
+    "releaseDate": "1995-02-24",
     "developer": "Technical Group Laboratory",
     "publisher": "Banpresto",
     "difficulty": "not-recommended",
@@ -24422,13 +24422,13 @@ export const games: Game[] = [
       "kanji": "スラムダンク2 IH予選完全版!!",
       "romaji": "Slam Dunk 2: IH Yosen Kanzenhan!!"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "24-02-1995",
+    "releaseDate": "1995-02-24",
     "developer": "Tose",
     "publisher": "Bandai",
     "difficulty": "caution",
@@ -24448,13 +24448,13 @@ export const games: Game[] = [
       "kanji": "平和パチンコワールド",
       "romaji": "Heiwa Pachinko World"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "24-02-1995",
+    "releaseDate": "1995-02-24",
     "developer": "Office Koukan",
     "publisher": "Shouei",
     "difficulty": "not-recommended",
@@ -24474,13 +24474,13 @@ export const games: Game[] = [
       "kanji": "実況パワフルプロ野球2",
       "romaji": "Jikkyō Powerful Pro Yakyū 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "24-02-1995",
+    "releaseDate": "1995-02-24",
     "developer": "Unknown",
     "publisher": "Konami",
     "difficulty": "caution",
@@ -24500,13 +24500,13 @@ export const games: Game[] = [
       "kanji": "エストポリス伝記II",
       "romaji": "Estpolis Denki II"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Lufia_II__Rise_of_the_Sinistrals.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": false,
-    "releaseDate": "24-02-1995",
+    "releaseDate": "1995-02-24",
     "developer": "Neverland",
     "publisher": "Natsume",
     "difficulty": "playable",
@@ -24526,13 +24526,13 @@ export const games: Game[] = [
       "kanji": "ナージュリーブル 静寂の水深",
       "romaji": "Nāju Rīburu: Seijaku no Suishin"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "24-02-1995",
+    "releaseDate": "1995-02-24",
     "developer": "Unknown",
     "publisher": "Varie",
     "difficulty": "not-recommended",
@@ -24552,13 +24552,13 @@ export const games: Game[] = [
       "kanji": "NBAジャム トーナメントエディション",
       "romaji": "NBA Jam Tournament Edition"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "24-02-1995",
+    "releaseDate": "1995-02-24",
     "developer": "Iguana Entertainment",
     "publisher": "Acclaim",
     "difficulty": "playable",
@@ -24578,13 +24578,13 @@ export const games: Game[] = [
       "kanji": "NFLクォーターバッククラブ",
       "romaji": "NFL Quarterback Club"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "24-02-1995",
+    "releaseDate": "1995-02-24",
     "developer": "Iguana Entertainment",
     "publisher": "Acclaim",
     "difficulty": "playable",
@@ -24604,13 +24604,13 @@ export const games: Game[] = [
       "kanji": "将棋倶楽部",
       "romaji": "Shōgi Club"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "24-02-1995",
+    "releaseDate": "1995-02-24",
     "developer": "Natsu System",
     "publisher": "Hect",
     "difficulty": "not-recommended",
@@ -24630,13 +24630,13 @@ export const games: Game[] = [
       "kanji": "首都高バトル2 土屋圭市&坂東正明",
       "romaji": "Shutokou Battle 2: Drift King Keichii Tsuchiya & Masaaki Bandoh"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": true,
-    "releaseDate": "24-02-1995",
+    "releaseDate": "1995-02-24",
     "developer": "Genki",
     "publisher": "Bullet-Proof",
     "difficulty": "caution",
@@ -24656,13 +24656,13 @@ export const games: Game[] = [
       "kanji": "スーパードリフトアウト",
       "romaji": "Sūpā Dorifuto Auto"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": true,
-    "releaseDate": "24-02-1995",
+    "releaseDate": "1995-02-24",
     "developer": "Dragnet",
     "publisher": "Visco",
     "difficulty": "playable",
@@ -24682,13 +24682,13 @@ export const games: Game[] = [
       "kanji": "ターフメモリーズ",
       "romaji": "Tāfu Memorīzu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "24-02-1995",
+    "releaseDate": "1995-02-24",
     "developer": "Unknown",
     "publisher": "BEC",
     "difficulty": "not-recommended",
@@ -24708,13 +24708,13 @@ export const games: Game[] = [
       "kanji": "フロントミッション ガンハザード",
       "romaji": "Front Mission: Gun Hazard"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Front_Mission__Gun_Hazard.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action RPG",
     "japanExclusive": true,
-    "releaseDate": "23-02-1996",
+    "releaseDate": "1996-02-23",
     "developer": "Omiya Soft",
     "publisher": "Square",
     "difficulty": "not-recommended",
@@ -24734,13 +24734,13 @@ export const games: Game[] = [
       "kanji": "鬼神童子ゼンキ 天地明堂",
       "romaji": "Kishin Douji Zenki: Tenchi Meidou"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "23-02-1996",
+    "releaseDate": "1996-02-23",
     "developer": "Unknown",
     "publisher": "Hudson Soft",
     "difficulty": "playable",
@@ -24760,13 +24760,13 @@ export const games: Game[] = [
       "kanji": "バトルテック3050",
       "romaji": "BattleTech 3050"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "23-02-1996",
+    "releaseDate": "1996-02-23",
     "developer": "Tiburon Entertainment",
     "publisher": "Activision",
     "difficulty": "caution",
@@ -24786,13 +24786,13 @@ export const games: Game[] = [
       "kanji": "フロントミッション",
       "romaji": "Front Mission"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Front_Mission.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy RPG",
     "japanExclusive": true,
-    "releaseDate": "23-02-1995",
+    "releaseDate": "1995-02-23",
     "developer": "G-Craft",
     "publisher": "Square",
     "difficulty": "not-recommended",
@@ -24812,13 +24812,13 @@ export const games: Game[] = [
       "kanji": "ジャンボ尾崎のホールインワン",
       "romaji": "Jumbo Ozaki no Hole In One"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "23-02-1991",
+    "releaseDate": "1991-02-23",
     "developer": "HAL Laboratory",
     "publisher": "HAL Laboratory",
     "difficulty": "playable",
@@ -24838,13 +24838,13 @@ export const games: Game[] = [
       "kanji": "糸井重里のバス釣りNo.1",
       "romaji": "Itoi Shigesato no Bass Tsuri No. 1"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "21-02-1997",
+    "releaseDate": "1997-02-21",
     "developer": "HAL Laboratory",
     "publisher": "Nintendo",
     "difficulty": "not-recommended",
@@ -24864,13 +24864,13 @@ export const games: Game[] = [
       "kanji": "スターフォックス",
       "romaji": "Star Fox"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Star_Fox.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Shooter",
     "japanExclusive": false,
-    "releaseDate": "21-02-1993",
+    "releaseDate": "1993-02-21",
     "developer": "Nintendo EAD",
     "publisher": "Nintendo",
     "difficulty": "playable",
@@ -24890,13 +24890,13 @@ export const games: Game[] = [
       "kanji": "エキゾーストヒート",
       "romaji": "Exhaust Heat"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": false,
-    "releaseDate": "21-02-1992",
+    "releaseDate": "1992-02-21",
     "developer": "SETA",
     "publisher": "SETA",
     "difficulty": "playable",
@@ -24916,13 +24916,13 @@ export const games: Game[] = [
       "kanji": "幕末光倫伝 鬼",
       "romaji": "Bakumatsu Kōrinden Oni"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Bakumatsu_Kōrinden__Oni.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "02-02-1996",
+    "releaseDate": "1996-02-02",
     "developer": "Pandora Box",
     "publisher": "Banpresto",
     "difficulty": "playable",
@@ -24942,13 +24942,13 @@ export const games: Game[] = [
       "kanji": "魔神転生II SPIRAL NEMESIS",
       "romaji": "Majin Tensei II: Spiral Nemesis"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy RPG",
     "japanExclusive": true,
-    "releaseDate": "19-02-1995",
+    "releaseDate": "1995-02-19",
     "developer": "Atlus",
     "publisher": "Atlus",
     "difficulty": "not-recommended",
@@ -24968,13 +24968,13 @@ export const games: Game[] = [
       "kanji": "ドラえもん のびたと妖精の国",
       "romaji": "Doraemon: Nobita to Yōsei no Kuni"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Doraemon__Nobita_to_Yōsei_no_Kuni.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "19-02-1993",
+    "releaseDate": "1993-02-19",
     "developer": "Pop House",
     "publisher": "Epoch",
     "difficulty": "playable",
@@ -24994,13 +24994,13 @@ export const games: Game[] = [
       "kanji": "菊地正彦の雀闘士ドラ王",
       "romaji": "Kikuni Masahiko no Jantōshi Dora Ō"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Mahjong",
     "japanExclusive": true,
-    "releaseDate": "19-02-1993",
+    "releaseDate": "1993-02-19",
     "developer": "C-Lab",
     "publisher": "Planning Office Wada",
     "difficulty": "not-recommended",
@@ -25020,13 +25020,13 @@ export const games: Game[] = [
       "kanji": "鋼鉄の騎士",
       "romaji": "Kōtetsu no Kishi"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": true,
-    "releaseDate": "19-02-1993",
+    "releaseDate": "1993-02-19",
     "developer": "Dual",
     "publisher": "Asmik Ace",
     "difficulty": "not-recommended",
@@ -25046,13 +25046,13 @@ export const games: Game[] = [
       "kanji": "ウォーリーをさがせ!",
       "romaji": "Wally wo Sagase!"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "19-02-1993",
+    "releaseDate": "1993-02-19",
     "developer": "Natsu System",
     "publisher": "Tomy",
     "difficulty": "playable",
@@ -25072,13 +25072,13 @@ export const games: Game[] = [
       "kanji": "砂の嵐作戦",
       "romaji": "Desert Fighter: Suna no Arashi Sakusen"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "18-02-1994",
+    "releaseDate": "1994-02-18",
     "developer": "Opus",
     "publisher": "SETA",
     "difficulty": "playable",
@@ -25098,13 +25098,13 @@ export const games: Game[] = [
       "kanji": "ダービースタリオンII",
       "romaji": "Derby Stallion II"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "18-02-1994",
+    "releaseDate": "1994-02-18",
     "developer": "ASCII Entertainment",
     "publisher": "ASCII Entertainment",
     "difficulty": "not-recommended",
@@ -25124,13 +25124,13 @@ export const games: Game[] = [
       "kanji": "たたかえゲンジン3 主役はやっぱりジョー&マック",
       "romaji": "Tatakae Genshijin 3: Shuyaku wa Yappari Joe & Mac"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "18-02-1994",
+    "releaseDate": "1994-02-18",
     "developer": "Data East",
     "publisher": "Data East",
     "difficulty": "playable",
@@ -25150,13 +25150,13 @@ export const games: Game[] = [
       "kanji": "迦楼羅王",
       "romaji": "Karura Ō"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "18-02-1994",
+    "releaseDate": "1994-02-18",
     "developer": "Ukiyotei",
     "publisher": "Sony Imagesoft",
     "difficulty": "playable",
@@ -25176,13 +25176,13 @@ export const games: Game[] = [
       "kanji": "鉄腕アトム",
       "romaji": "Tetsuwan Atom"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "18-02-1994",
+    "releaseDate": "1994-02-18",
     "developer": "Minato Giken",
     "publisher": "Zamuse",
     "difficulty": "playable",
@@ -25202,13 +25202,13 @@ export const games: Game[] = [
       "kanji": "ザ・チェスマスター",
       "romaji": "The Chessmaster"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": false,
-    "releaseDate": "17-02-1995",
+    "releaseDate": "1995-02-17",
     "developer": "Eastridge Technology",
     "publisher": "Mindscape",
     "difficulty": "playable",
@@ -25228,13 +25228,13 @@ export const games: Game[] = [
       "kanji": "銀玉親方の実戦パチンコ必勝法",
       "romaji": "Gintama Oyakata no Jissen Pachinko Hisshōhō"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "17-02-1995",
+    "releaseDate": "1995-02-17",
     "developer": "Sammy Corporation",
     "publisher": "Sammy",
     "difficulty": "not-recommended",
@@ -25254,13 +25254,13 @@ export const games: Game[] = [
       "kanji": "提督の決断II",
       "romaji": "Teitoku no Ketsudan II"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": false,
-    "releaseDate": "17-02-1995",
+    "releaseDate": "1995-02-17",
     "developer": "Koei",
     "publisher": "Koei",
     "difficulty": "caution",
@@ -25280,13 +25280,13 @@ export const games: Game[] = [
       "kanji": "柏木茂隆のトップウォーターバッシング",
       "romaji": "Shigetaka Kashiwagi's Top Water Bassing"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "17-02-1995",
+    "releaseDate": "1995-02-17",
     "developer": "Imagesoft",
     "publisher": "VAP",
     "difficulty": "not-recommended",
@@ -25306,13 +25306,13 @@ export const games: Game[] = [
       "kanji": "タイムコップ",
       "romaji": "Timecop"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "17-02-1995",
+    "releaseDate": "1995-02-17",
     "developer": "Cryo Interactive",
     "publisher": "JVC",
     "difficulty": "playable",
@@ -25332,13 +25332,13 @@ export const games: Game[] = [
       "kanji": "ヤムヤム",
       "romaji": "YamYam"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "17-02-1995",
+    "releaseDate": "1995-02-17",
     "developer": "Pandora Box",
     "publisher": "Bandai",
     "difficulty": "playable",
@@ -25358,13 +25358,13 @@ export const games: Game[] = [
       "kanji": "ロックマンズサッカー",
       "romaji": "Rockman's Soccer"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Mega_Man_Soccer.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "17-02-1994",
+    "releaseDate": "1994-02-17",
     "developer": "Sun L",
     "publisher": "Capcom",
     "difficulty": "playable",
@@ -25384,13 +25384,13 @@ export const games: Game[] = [
       "kanji": "ドラゴンスレイヤー 英雄伝説",
       "romaji": "Dragon Slayer: Eiyū Densetsu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "14-02-1992",
+    "releaseDate": "1992-02-14",
     "developer": "Falcom",
     "publisher": "Epoch",
     "difficulty": "not-recommended",
@@ -25410,13 +25410,13 @@ export const games: Game[] = [
       "kanji": "プロフットボール'93",
       "romaji": "Pro Football '93"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "12-02-1993",
+    "releaseDate": "1993-02-12",
     "developer": "EA Canada",
     "publisher": "EA Sports",
     "difficulty": "playable",
@@ -25436,13 +25436,13 @@ export const games: Game[] = [
       "kanji": "飛王伝 魔物たちとの誓い",
       "romaji": "Hiōden: Mamono-tachi tono Chikai"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "11-02-1994",
+    "releaseDate": "1994-02-11",
     "developer": "Wolf Team",
     "publisher": "Wolf Team",
     "difficulty": "not-recommended",
@@ -25462,13 +25462,13 @@ export const games: Game[] = [
       "kanji": "スーパーズガン 白天城からの招待状",
       "romaji": "Super Zugan: Hakotenjou Kara no Shoutaijou"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": true,
-    "releaseDate": "11-02-1994",
+    "releaseDate": "1994-02-11",
     "developer": "Unknown",
     "publisher": "Electronic Arts",
     "difficulty": "playable",
@@ -25488,13 +25488,13 @@ export const games: Game[] = [
       "kanji": "トップマネジメントII",
       "romaji": "Top Management II"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "11-02-1994",
+    "releaseDate": "1994-02-11",
     "developer": "Unknown",
     "publisher": "Koei",
     "difficulty": "not-recommended",
@@ -25514,13 +25514,13 @@ export const games: Game[] = [
       "kanji": "ソードマニアック",
       "romaji": "Sword Maniac"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/X-Kaliber_2097.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "11-02-1994",
+    "releaseDate": "1994-02-11",
     "developer": "Fupac",
     "publisher": "Activision",
     "difficulty": "playable",
@@ -25540,13 +25540,13 @@ export const games: Game[] = [
       "kanji": "達磨道場",
       "romaji": "Dharma Dōjō"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "10-02-1995",
+    "releaseDate": "1995-02-10",
     "developer": "Metro",
     "publisher": "Den'Z",
     "difficulty": "playable",
@@ -25566,13 +25566,13 @@ export const games: Game[] = [
       "kanji": "アイアンコマンドー 鋼鉄の戦士",
       "romaji": "Iron Commando: Koutetsu no Senshi"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "10-02-1995",
+    "releaseDate": "1995-02-10",
     "developer": "Arcade Zone",
     "publisher": "Poppo",
     "difficulty": "playable",
@@ -25592,13 +25592,13 @@ export const games: Game[] = [
       "kanji": "ジャメス",
       "romaji": "Jamesu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "10-02-1995",
+    "releaseDate": "1995-02-10",
     "developer": "Mighty Craft",
     "publisher": "Carrozzeria",
     "difficulty": "playable",
@@ -25618,13 +25618,13 @@ export const games: Game[] = [
       "kanji": "機動戦士ガンダム クロスディメンション0079",
       "romaji": "Kidō Senshi Gundam: Cross Dimension 0079"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": true,
-    "releaseDate": "10-02-1995",
+    "releaseDate": "1995-02-10",
     "developer": "Unknown",
     "publisher": "Bandai",
     "difficulty": "not-recommended",
@@ -25644,13 +25644,13 @@ export const games: Game[] = [
       "kanji": "西原理恵子の麻雀放浪記",
       "romaji": "Saibara Rieko no Mahjong Hōrōki"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Mahjong",
     "japanExclusive": true,
-    "releaseDate": "10-02-1995",
+    "releaseDate": "1995-02-10",
     "developer": "Natsume",
     "publisher": "Taito",
     "difficulty": "not-recommended",
@@ -25670,13 +25670,13 @@ export const games: Game[] = [
       "kanji": "ザ・心理ゲーム2 マジカルトリップ",
       "romaji": "The Shinri Game 2: Magical Trip"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "10-02-1995",
+    "releaseDate": "1995-02-10",
     "developer": "Unknown",
     "publisher": "Visit",
     "difficulty": "not-recommended",
@@ -25696,13 +25696,13 @@ export const games: Game[] = [
       "kanji": "ウルフェンシュタイン3D",
       "romaji": "Wolfenstein 3D"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "FPS",
     "japanExclusive": false,
-    "releaseDate": "10-02-1994",
+    "releaseDate": "1994-02-10",
     "developer": "Imagineer",
     "publisher": "Imagineer",
     "difficulty": "playable",
@@ -25722,13 +25722,13 @@ export const games: Game[] = [
       "kanji": "スーパーファミリーゲレンデ",
       "romaji": "Sūpā Famirī Gerende"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "01-02-1998",
+    "releaseDate": "1998-02-01",
     "developer": "Unknown",
     "publisher": "Namco",
     "difficulty": "caution",
@@ -25748,13 +25748,13 @@ export const games: Game[] = [
       "kanji": "ドラゴンクエストVI 幻の大地",
       "romaji": "Dragon Quest VI: Maboroshi no Daichi"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Dragon_Quest_VI__Maboroshi_no_Daichi.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "09-12-1995",
+    "releaseDate": "1995-12-09",
     "developer": "Heartbeat",
     "publisher": "Enix",
     "difficulty": "not-recommended",
@@ -25774,13 +25774,13 @@ export const games: Game[] = [
       "kanji": "バトルクロス",
       "romaji": "Batoru Kurosu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": true,
-    "releaseDate": "09-12-1994",
+    "releaseDate": "1994-12-09",
     "developer": "A-Max",
     "publisher": "Imagineer",
     "difficulty": "playable",
@@ -25800,13 +25800,13 @@ export const games: Game[] = [
       "kanji": "キャプテン翼5 覇者の称号カンピオーネ",
       "romaji": "Captain Tsubasa 5: Hasha no Shōgō Campione"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "09-12-1994",
+    "releaseDate": "1994-12-09",
     "developer": "Tecmo",
     "publisher": "Tecmo",
     "difficulty": "caution",
@@ -25826,13 +25826,13 @@ export const games: Game[] = [
       "kanji": "ゴジラ 怪獣大決戦",
       "romaji": "Godzilla: Kaijū Daikessen"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": false,
-    "releaseDate": "09-12-1994",
+    "releaseDate": "1994-12-09",
     "developer": "Alfa System",
     "publisher": "Toho",
     "difficulty": "playable",
@@ -25852,13 +25852,13 @@ export const games: Game[] = [
       "kanji": "ライオン・キング",
       "romaji": "Lion King"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "09-12-1994",
+    "releaseDate": "1994-12-09",
     "developer": "Westwood Studios",
     "publisher": "Virgin Interactive",
     "difficulty": "playable",
@@ -25878,13 +25878,13 @@ export const games: Game[] = [
       "kanji": "すごろクエスト++ ディセニクス",
       "romaji": "Sugoro Quest++ Dicenics"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "09-12-1994",
+    "releaseDate": "1994-12-09",
     "developer": "Unknown",
     "publisher": "Technōs Japan",
     "difficulty": "not-recommended",
@@ -25904,13 +25904,13 @@ export const games: Game[] = [
       "kanji": "スーパー桃太郎電鉄III",
       "romaji": "Super Momotarō Dentetsu III"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "09-12-1994",
+    "releaseDate": "1994-12-09",
     "developer": "Make",
     "publisher": "Hudson Soft",
     "difficulty": "not-recommended",
@@ -25930,13 +25930,13 @@ export const games: Game[] = [
       "kanji": "トライド",
       "romaji": "Toride"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": true,
-    "releaseDate": "09-12-1994",
+    "releaseDate": "1994-12-09",
     "developer": "Metro",
     "publisher": "Takara",
     "difficulty": "not-recommended",
@@ -25956,13 +25956,13 @@ export const games: Game[] = [
       "kanji": "ボルテックス",
       "romaji": "Vortex"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Vortex.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Shooter",
     "japanExclusive": false,
-    "releaseDate": "09-12-1994",
+    "releaseDate": "1994-12-09",
     "developer": "Argonaut Software",
     "publisher": "Electro Brain",
     "difficulty": "playable",
@@ -25982,13 +25982,13 @@ export const games: Game[] = [
       "kanji": "ワンダープロジェクトJ",
       "romaji": "Wonder Project J"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Wonder_Project_J__Kikai_no_Shōnen_Pino.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "09-12-1994",
+    "releaseDate": "1994-12-09",
     "developer": "Almanic",
     "publisher": "Enix",
     "difficulty": "not-recommended",
@@ -26008,13 +26008,13 @@ export const games: Game[] = [
       "kanji": "信長の野望・覇王伝",
       "romaji": "Nobunaga no Yabō: Haōden"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": true,
-    "releaseDate": "09-12-1993",
+    "releaseDate": "1993-12-09",
     "developer": "Unknown",
     "publisher": "Koei",
     "difficulty": "not-recommended",
@@ -26034,13 +26034,13 @@ export const games: Game[] = [
       "kanji": "アメリカンバトルドーム",
       "romaji": "American Battle Dome"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "08-12-1995",
+    "releaseDate": "1995-12-08",
     "developer": "Betop",
     "publisher": "Tsukuda Original",
     "difficulty": "playable",
@@ -26060,13 +26060,13 @@ export const games: Game[] = [
       "kanji": "アンジェリーク プレミアムBOX",
       "romaji": "Angelique: Premium Box"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Dating Sim",
     "japanExclusive": true,
-    "releaseDate": "08-12-1995",
+    "releaseDate": "1995-12-08",
     "developer": "Ruby Party",
     "publisher": "Koei",
     "difficulty": "not-recommended",
@@ -26086,13 +26086,13 @@ export const games: Game[] = [
       "kanji": "美少女戦士セーラームーンSuperS ふわふわパニック",
       "romaji": "Sailor Moon SuperS: Fuwa Fuwa Panic"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "08-12-1995",
+    "releaseDate": "1995-12-08",
     "developer": "Tom Create",
     "publisher": "Bandai",
     "difficulty": "playable",
@@ -26112,13 +26112,13 @@ export const games: Game[] = [
       "kanji": "クロックワークス",
       "romaji": "ClockWerx"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "08-12-1995",
+    "releaseDate": "1995-12-08",
     "developer": "Axes Art Amuse",
     "publisher": "Tokuma Shoten",
     "difficulty": "playable",
@@ -26138,13 +26138,13 @@ export const games: Game[] = [
       "kanji": "はるかなるオーガスタ3 マスターズ・ニュー",
       "romaji": "Harukanaru Augusta 3: Masters New"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Harukanaru_Augusta_3__Masters_-_New.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "08-12-1995",
+    "releaseDate": "1995-12-08",
     "developer": "T&E Soft",
     "publisher": "T&E Soft",
     "difficulty": "caution",
@@ -26164,13 +26164,13 @@ export const games: Game[] = [
       "kanji": "ミッキーとドナルド マジカルアドベンチャー3",
       "romaji": "Mickey to Donald: Magical Adventure 3"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": true,
-    "releaseDate": "08-12-1995",
+    "releaseDate": "1995-12-08",
     "developer": "Sun L",
     "publisher": "Capcom",
     "difficulty": "playable",
@@ -26190,13 +26190,13 @@ export const games: Game[] = [
       "kanji": "スーパー桃太郎電鉄DX",
       "romaji": "Super Momotarō Dentetsu DX"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "08-12-1995",
+    "releaseDate": "1995-12-08",
     "developer": "Make",
     "publisher": "Hudson Soft",
     "difficulty": "not-recommended",
@@ -26216,13 +26216,13 @@ export const games: Game[] = [
       "kanji": "スーパーぷよぷよ通",
       "romaji": "Super Puyo Puyo Tsuu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Puyo_Puyo_2.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "08-12-1995",
+    "releaseDate": "1995-12-08",
     "developer": "Compile",
     "publisher": "Compile",
     "difficulty": "playable",
@@ -26242,13 +26242,13 @@ export const games: Game[] = [
       "kanji": "ドラゴンクエストIII そして伝説へ...",
       "romaji": "Dragon Quest III: Soshite Densetsu e..."
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "06-12-1996",
+    "releaseDate": "1996-12-06",
     "developer": "Heartbeat",
     "publisher": "Enix",
     "difficulty": "not-recommended",
@@ -26268,13 +26268,13 @@ export const games: Game[] = [
       "kanji": "桃太郎電鉄HAPPY",
       "romaji": "Momotarō Dentetsu Happy"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "06-12-1996",
+    "releaseDate": "1996-12-06",
     "developer": "Make",
     "publisher": "Hudson Soft",
     "difficulty": "not-recommended",
@@ -26294,13 +26294,13 @@ export const games: Game[] = [
       "kanji": "ファイナルファンタジーV",
       "romaji": "Final Fantasy V"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Final_Fantasy_V.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "06-12-1992",
+    "releaseDate": "1992-12-06",
     "developer": "Square",
     "publisher": "Square",
     "difficulty": "not-recommended",
@@ -26320,13 +26320,13 @@ export const games: Game[] = [
       "kanji": "ジョー&マック 戦え原始人",
       "romaji": "Joe & Mac: Tatakae Genshijin"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "06-12-1991",
+    "releaseDate": "1991-12-06",
     "developer": "Data East",
     "publisher": "Data East",
     "difficulty": "playable",
@@ -26346,13 +26346,13 @@ export const games: Game[] = [
       "kanji": "ミニ四駆レッツ&ゴー!! パワーWGP2",
       "romaji": "Mini Yonku Let's & Go!!: Power WGP 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": true,
-    "releaseDate": "04-12-1998",
+    "releaseDate": "1998-12-04",
     "developer": "Jupiter",
     "publisher": "Nintendo",
     "difficulty": "playable",
@@ -26372,13 +26372,13 @@ export const games: Game[] = [
       "kanji": "アイレムスキンズゲーム",
       "romaji": "The Irem Skins Game"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "04-12-1992",
+    "releaseDate": "1992-12-04",
     "developer": "Irem",
     "publisher": "Irem",
     "difficulty": "playable",
@@ -26398,13 +26398,13 @@ export const games: Game[] = [
       "kanji": "芹沢信雄のバーディトライ",
       "romaji": "Serizawa Nobuo no Birdie Try"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "04-12-1992",
+    "releaseDate": "1992-12-04",
     "developer": "Toho",
     "publisher": "Toho",
     "difficulty": "caution",
@@ -26424,13 +26424,13 @@ export const games: Game[] = [
       "kanji": "ミステリーサークル",
       "romaji": "Mystery Circle"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "04-12-1992",
+    "releaseDate": "1992-12-04",
     "developer": "Sammy Corporation",
     "publisher": "K Amusement",
     "difficulty": "playable",
@@ -26450,13 +26450,13 @@ export const games: Game[] = [
       "kanji": "スーパーブラックバス",
       "romaji": "Super Black Bass"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "04-12-1992",
+    "releaseDate": "1992-12-04",
     "developer": "Starfish",
     "publisher": "Hot-B",
     "difficulty": "caution",
@@ -26476,13 +26476,13 @@ export const games: Game[] = [
       "kanji": "スーパーズガン2 つかんぽファイター",
       "romaji": "Super Zugan 2: Tsukanpo Fighter"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": true,
-    "releaseDate": "30-12-1994",
+    "releaseDate": "1994-12-30",
     "developer": "Unknown",
     "publisher": "J-Wing",
     "difficulty": "playable",
@@ -26502,13 +26502,13 @@ export const games: Game[] = [
       "kanji": "菊地正彦の雀闘士ドラ王2",
       "romaji": "Kikuni Masahiko no Jantoushi Dora Ou 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Mahjong",
     "japanExclusive": true,
-    "releaseDate": "03-12-1993",
+    "releaseDate": "1993-12-03",
     "developer": "Unknown",
     "publisher": "Planning Office Wada",
     "difficulty": "not-recommended",
@@ -26528,13 +26528,13 @@ export const games: Game[] = [
       "kanji": "NBAプロバスケットボール'94 ブルズvsサンズ",
       "romaji": "NBA Pro Basketball '94: Bulls vs Suns"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/NBA_Showdown.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "03-12-1993",
+    "releaseDate": "1993-12-03",
     "developer": "Electronic Arts",
     "publisher": "EA Sports",
     "difficulty": "playable",
@@ -26554,13 +26554,13 @@ export const games: Game[] = [
       "kanji": "スーパー究極はりきりスタジアム",
       "romaji": "Super Kyūkyoku Harikiri Stadium"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "03-12-1993",
+    "releaseDate": "1993-12-03",
     "developer": "Unknown",
     "publisher": "Taito",
     "difficulty": "caution",
@@ -26580,13 +26580,13 @@ export const games: Game[] = [
       "kanji": "ミュータントウォーリアーズ",
       "romaji": "Teenage Mutant Ninja Turtles: Tournament Fighters"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Teenage_Mutant_Ninja_Turtles__Tournament_Fighters.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": false,
-    "releaseDate": "03-12-1993",
+    "releaseDate": "1993-12-03",
     "developer": "Konami",
     "publisher": "Konami",
     "difficulty": "playable",
@@ -26606,13 +26606,13 @@ export const games: Game[] = [
       "kanji": "ピクロスNP Vol.3",
       "romaji": "Picross NP Vol. 3"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "01-09-1999",
+    "releaseDate": "1999-09-01",
     "developer": "Jupiter",
     "publisher": "Nintendo",
     "difficulty": "playable",
@@ -26632,13 +26632,13 @@ export const games: Game[] = [
       "kanji": "BSゼルダの伝説",
       "romaji": "BS The Legend of Zelda"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action RPG",
     "japanExclusive": true,
-    "releaseDate": "30-03-1995",
+    "releaseDate": "1995-03-30",
     "developer": "Nintendo",
     "publisher": "Nintendo",
     "difficulty": "not-recommended",
@@ -26658,13 +26658,13 @@ export const games: Game[] = [
       "kanji": "BSゼルダの伝説 古代の石盤",
       "romaji": "BS The Legend of Zelda: Ancient Stone Tablets"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action RPG",
     "japanExclusive": true,
-    "releaseDate": "30-03-1997",
+    "releaseDate": "1997-03-30",
     "developer": "Nintendo",
     "publisher": "Nintendo",
     "difficulty": "not-recommended",
@@ -26684,13 +26684,13 @@ export const games: Game[] = [
       "kanji": "大爆笑人生劇場 ズッコケサラリーマン編",
       "romaji": "Daibakushō Jinsei Gekijō: Zukkoke Salary Man Hen"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "29-12-1995",
+    "releaseDate": "1995-12-29",
     "developer": "Unknown",
     "publisher": "Taito",
     "difficulty": "not-recommended",
@@ -26710,13 +26710,13 @@ export const games: Game[] = [
       "kanji": "京楽産業マルホンパーラー!パーラー!4",
       "romaji": "Kyōraku Sanyō Maruhon Parlor! Parlor! IV CR"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "29-12-1995",
+    "releaseDate": "1995-12-29",
     "developer": "Unknown",
     "publisher": "Nippon Telenet",
     "difficulty": "not-recommended",
@@ -26736,13 +26736,13 @@ export const games: Game[] = [
       "kanji": "スーパー将棋3 棋待兵",
       "romaji": "Super Shōgi 3: Kitaihei"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "29-12-1995",
+    "releaseDate": "1995-12-29",
     "developer": "Gaibrain",
     "publisher": "I'MAX",
     "difficulty": "not-recommended",
@@ -26762,13 +26762,13 @@ export const games: Game[] = [
       "kanji": "対局囲碁",
       "romaji": "Taikyoku Igo: Idaten"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "29-12-1995",
+    "releaseDate": "1995-12-29",
     "developer": "Unknown",
     "publisher": "Bullet-Proof",
     "difficulty": "not-recommended",
@@ -26788,13 +26788,13 @@ export const games: Game[] = [
       "kanji": "イースV 失われたケフィンの王国",
       "romaji": "Ys V: Lost Kefin, Kingdom of Sand"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action RPG",
     "japanExclusive": true,
-    "releaseDate": "29-12-1995",
+    "releaseDate": "1995-12-29",
     "developer": "Nihon Falcom",
     "publisher": "Nihon Falcom",
     "difficulty": "not-recommended",
@@ -26814,13 +26814,13 @@ export const games: Game[] = [
       "kanji": "デュアルオーブ2",
       "romaji": "Dual Orb II"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Dual_Orb_II.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "29-12-1994",
+    "releaseDate": "1994-12-29",
     "developer": "I'MAX",
     "publisher": "I'MAX",
     "difficulty": "not-recommended",
@@ -26840,13 +26840,13 @@ export const games: Game[] = [
       "kanji": "美少女戦士セーラームーンR",
       "romaji": "Bishōjo Senshi Sailor Moon R"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "29-12-1993",
+    "releaseDate": "1993-12-29",
     "developer": "Arc System Works",
     "publisher": "Bandai",
     "difficulty": "playable",
@@ -26866,13 +26866,13 @@ export const games: Game[] = [
       "kanji": "横山光輝三国志2",
       "romaji": "Yokoyama Mitsuteru: Sangokushi 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": true,
-    "releaseDate": "29-12-1993",
+    "releaseDate": "1993-12-29",
     "developer": "Tose",
     "publisher": "Angel",
     "difficulty": "not-recommended",
@@ -26892,13 +26892,13 @@ export const games: Game[] = [
       "kanji": "バトルコマンダー 八部衆修羅の兵法",
       "romaji": "Battle Commander: Hachibushuu Shura no Heihou"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": true,
-    "releaseDate": "29-12-1991",
+    "releaseDate": "1991-12-29",
     "developer": "Arc System Works",
     "publisher": "Banpresto",
     "difficulty": "not-recommended",
@@ -26918,13 +26918,13 @@ export const games: Game[] = [
       "kanji": "シムアース",
       "romaji": "SimEarth: The Living Planet"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": false,
-    "releaseDate": "29-12-1991",
+    "releaseDate": "1991-12-29",
     "developer": "Tomcat System",
     "publisher": "FCI",
     "difficulty": "caution",
@@ -26944,13 +26944,13 @@ export const games: Game[] = [
       "kanji": "SDザ・グレイトバトル",
       "romaji": "SD The Great Battle"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "29-12-1990",
+    "releaseDate": "1990-12-29",
     "developer": "Banpresto",
     "publisher": "Banpresto",
     "difficulty": "playable",
@@ -26970,13 +26970,13 @@ export const games: Game[] = [
       "kanji": "三國志英傑伝",
       "romaji": "Sangokushi Eiketsuden"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": true,
-    "releaseDate": "28-12-1995",
+    "releaseDate": "1995-12-28",
     "developer": "Unknown",
     "publisher": "Koei",
     "difficulty": "not-recommended",
@@ -26996,13 +26996,13 @@ export const games: Game[] = [
       "kanji": "全日本プロレスリング ダッシュ 世界最強タッグ",
       "romaji": "Zen-Nippon Pro Wrestling Dash: Sekai Saikyō Tag"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "28-12-1993",
+    "releaseDate": "1993-12-28",
     "developer": "Natsume",
     "publisher": "Natsume",
     "difficulty": "playable",
@@ -27022,13 +27022,13 @@ export const games: Game[] = [
       "kanji": "グレートサッカーキッド",
       "romaji": "Great Soccer Kid"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "28-12-1993",
+    "releaseDate": "1993-12-28",
     "developer": "Krisalis Software",
     "publisher": "Ocean Software",
     "difficulty": "playable",
@@ -27048,13 +27048,13 @@ export const games: Game[] = [
       "kanji": "スーパーファイヤープロレスリング3 ファイナルバウト",
       "romaji": "Super Fire Pro Wrestling 3 Final Bout"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "28-12-1993",
+    "releaseDate": "1993-12-28",
     "developer": "Human Club",
     "publisher": "Human Entertainment",
     "difficulty": "playable",
@@ -27074,13 +27074,13 @@ export const games: Game[] = [
       "kanji": "ザ・キング・オブ・ラリー",
       "romaji": "The King of Rally"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": true,
-    "releaseDate": "28-12-1992",
+    "releaseDate": "1992-12-28",
     "developer": "KAZe",
     "publisher": "Meldac",
     "difficulty": "playable",
@@ -27100,13 +27100,13 @@ export const games: Game[] = [
       "kanji": "史上最強のクイズ王決定戦スーパー",
       "romaji": "Shijou Saikyou no Quiz Ou Ketteisen Super"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Quiz",
     "japanExclusive": true,
-    "releaseDate": "28-12-1992",
+    "releaseDate": "1992-12-28",
     "developer": "ISCO",
     "publisher": "Yonezawa PR21",
     "difficulty": "not-recommended",
@@ -27126,13 +27126,13 @@ export const games: Game[] = [
       "kanji": "スーパーチャイニーズワールド",
       "romaji": "Super Chinese World"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Super_Ninja_Boy.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action RPG",
     "japanExclusive": false,
-    "releaseDate": "28-12-1991",
+    "releaseDate": "1991-12-28",
     "developer": "Culture Brain",
     "publisher": "Culture Brain",
     "difficulty": "playable",
@@ -27152,13 +27152,13 @@ export const games: Game[] = [
       "kanji": "ドラゴンナイト4",
       "romaji": "Dragon Knight 4"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "27-12-1996",
+    "releaseDate": "1996-12-27",
     "developer": "ELF Corporation",
     "publisher": "Banpresto",
     "difficulty": "not-recommended",
@@ -27178,13 +27178,13 @@ export const games: Game[] = [
       "kanji": "ザ・マスク",
       "romaji": "The Mask"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/The_Mask.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "27-12-1996",
+    "releaseDate": "1996-12-27",
     "developer": "Black Pearl Software",
     "publisher": "Virgin Interactive",
     "difficulty": "playable",
@@ -27204,13 +27204,13 @@ export const games: Game[] = [
       "kanji": "ニチブツコレクション2",
       "romaji": "Nichibutsu Collection 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Compilation",
     "japanExclusive": true,
-    "releaseDate": "27-12-1996",
+    "releaseDate": "1996-12-27",
     "developer": "Unknown",
     "publisher": "Nichibutsu",
     "difficulty": "playable",
@@ -27230,13 +27230,13 @@ export const games: Game[] = [
       "kanji": "最強 高田延彦",
       "romaji": "Saikyou: Takada Nobuhiko"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": true,
-    "releaseDate": "27-12-1995",
+    "releaseDate": "1995-12-27",
     "developer": "Dual",
     "publisher": "Hudson Soft",
     "difficulty": "playable",
@@ -27256,13 +27256,13 @@ export const games: Game[] = [
       "kanji": "機動武闘伝Gガンダム",
       "romaji": "Kidou Butouden G-Gundam"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": true,
-    "releaseDate": "27-12-1994",
+    "releaseDate": "1994-12-27",
     "developer": "Pandora Box",
     "publisher": "Bandai",
     "difficulty": "playable",
@@ -27282,13 +27282,13 @@ export const games: Game[] = [
       "kanji": "ルパン三世 伝説の秘宝を追え!",
       "romaji": "Lupin III: Densetsu no Hihō o Oe!"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "27-12-1994",
+    "releaseDate": "1994-12-27",
     "developer": "Pop House",
     "publisher": "Epoch",
     "difficulty": "playable",
@@ -27308,13 +27308,13 @@ export const games: Game[] = [
       "kanji": "はんせい猿 次郎君の大冒険",
       "romaji": "Hansei Zaru: Jirou-kun no Daibouken"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "27-12-1991",
+    "releaseDate": "1991-12-27",
     "developer": "Natsume",
     "publisher": "Natsume",
     "difficulty": "playable",
@@ -27334,13 +27334,13 @@ export const games: Game[] = [
       "kanji": "続・美神伝説",
       "romaji": "Zoku: The Legend of Bishin"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "25-12-1993",
+    "releaseDate": "1993-12-25",
     "developer": "Magifact",
     "publisher": "Magifact",
     "difficulty": "not-recommended",
@@ -27360,13 +27360,13 @@ export const games: Game[] = [
       "kanji": "スーパーバレーボールII",
       "romaji": "Super Volley II"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "25-12-1992",
+    "releaseDate": "1992-12-25",
     "developer": "Video System",
     "publisher": "Video System",
     "difficulty": "playable",
@@ -27386,13 +27386,13 @@ export const games: Game[] = [
       "kanji": "スーパーキックオフ",
       "romaji": "Super Kick Off"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "25-12-1992",
+    "releaseDate": "1992-12-25",
     "developer": "Anco",
     "publisher": "Imagineer",
     "difficulty": "playable",
@@ -27412,13 +27412,13 @@ export const games: Game[] = [
       "kanji": "泣きの竜 麻雀飛翔伝",
       "romaji": "Naki no Ryū: Mahjong Hishō-den"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Mahjong",
     "japanExclusive": true,
-    "releaseDate": "25-12-1992",
+    "releaseDate": "1992-12-25",
     "developer": "Unknown",
     "publisher": "IGS",
     "difficulty": "not-recommended",
@@ -27438,13 +27438,13 @@ export const games: Game[] = [
       "kanji": "らんま1/2 爆烈乱闘編",
       "romaji": "Ranma Nibun-no-Ichi: Bakuretsu Rantōhen"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": false,
-    "releaseDate": "25-12-1992",
+    "releaseDate": "1992-12-25",
     "developer": "Atelier Double",
     "publisher": "DTMC",
     "difficulty": "playable",
@@ -27464,13 +27464,13 @@ export const games: Game[] = [
       "kanji": "スーパーファイヤープロレスリング2",
       "romaji": "Super Fire Pro Wrestling 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "25-12-1992",
+    "releaseDate": "1992-12-25",
     "developer": "Human Club",
     "publisher": "Human Entertainment",
     "difficulty": "playable",
@@ -27490,13 +27490,13 @@ export const games: Game[] = [
       "kanji": "テクモスーパーNBAバスケットボール",
       "romaji": "Tecmo Super NBA Basketball"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Tecmo_Super_NBA_Basketball.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "25-12-1992",
+    "releaseDate": "1992-12-25",
     "developer": "Tecmo",
     "publisher": "Tecmo",
     "difficulty": "playable",
@@ -27516,13 +27516,13 @@ export const games: Game[] = [
       "kanji": "ヒューマングランプリII",
       "romaji": "Human Grand Prix II"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/F1_Pole_Position_2.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": false,
-    "releaseDate": "24-12-1993",
+    "releaseDate": "1993-12-24",
     "developer": "Human Entertainment",
     "publisher": "Human Entertainment",
     "difficulty": "playable",
@@ -27542,13 +27542,13 @@ export const games: Game[] = [
       "kanji": "北斗の拳7 伝承者への道",
       "romaji": "Hokuto no Ken 7: Seiken Retsuden"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": true,
-    "releaseDate": "24-12-1993",
+    "releaseDate": "1993-12-24",
     "developer": "Shouei",
     "publisher": "Toei Animation",
     "difficulty": "playable",
@@ -27568,13 +27568,13 @@ export const games: Game[] = [
       "kanji": "リトルマジック",
       "romaji": "Little Magic"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "24-12-1993",
+    "releaseDate": "1993-12-24",
     "developer": "Unknown",
     "publisher": "Altron",
     "difficulty": "playable",
@@ -27594,13 +27594,13 @@ export const games: Game[] = [
       "kanji": "NFLプロフットボール'94",
       "romaji": "NFL Pro Football '94"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "24-12-1993",
+    "releaseDate": "1993-12-24",
     "developer": "Visual Concepts",
     "publisher": "EA Sports",
     "difficulty": "playable",
@@ -27620,13 +27620,13 @@ export const games: Game[] = [
       "kanji": "モンスターメーカーIII 光の魔術師",
       "romaji": "Monster Maker III: Hikari no Majutsushi"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "24-12-1993",
+    "releaseDate": "1993-12-24",
     "developer": "Unknown",
     "publisher": "SOFEL",
     "difficulty": "not-recommended",
@@ -27646,13 +27646,13 @@ export const games: Game[] = [
       "kanji": "モータルコンバット",
       "romaji": "Mortal Kombat"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": false,
-    "releaseDate": "24-12-1993",
+    "releaseDate": "1993-12-24",
     "developer": "Sculptured Software",
     "publisher": "Acclaim",
     "difficulty": "playable",
@@ -27672,13 +27672,13 @@ export const games: Game[] = [
       "kanji": "新桃太郎伝説",
       "romaji": "Shin Momotarō Densetsu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "24-12-1993",
+    "releaseDate": "1993-12-24",
     "developer": "Unknown",
     "publisher": "Hudson Soft",
     "difficulty": "not-recommended",
@@ -27698,13 +27698,13 @@ export const games: Game[] = [
       "kanji": "GO!GO!アックマン",
       "romaji": "Go Go Ackman"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Go_Go_Ackman.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "23-12-1994",
+    "releaseDate": "1994-12-23",
     "developer": "Aspect",
     "publisher": "Banpresto",
     "difficulty": "playable",
@@ -27724,13 +27724,13 @@ export const games: Game[] = [
       "kanji": "JWP女子プロレスリング ピュアレッスルクイーンズ",
       "romaji": "JWP Joshi Pro Wrestling: Pure Wrestle Queens"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "23-12-1994",
+    "releaseDate": "1994-12-23",
     "developer": "Unknown",
     "publisher": "Jaleco",
     "difficulty": "playable",
@@ -27750,13 +27750,13 @@ export const games: Game[] = [
       "kanji": "パチスロ勝負師",
       "romaji": "Pachi-Slot Shoubushi"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "23-12-1994",
+    "releaseDate": "1994-12-23",
     "developer": "Nihon Bussan",
     "publisher": "Nihon Bussan",
     "difficulty": "not-recommended",
@@ -27776,13 +27776,13 @@ export const games: Game[] = [
       "kanji": "超ゴジラ",
       "romaji": "Chou-Godzilla"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "23-12-1993",
+    "releaseDate": "1993-12-23",
     "developer": "ACC",
     "publisher": "Toho",
     "difficulty": "caution",
@@ -27802,13 +27802,13 @@ export const games: Game[] = [
       "kanji": "ザ・コンバットライブス",
       "romaji": "The Combatribes"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Beat'em up",
     "japanExclusive": false,
-    "releaseDate": "23-12-1992",
+    "releaseDate": "1992-12-23",
     "developer": "Technōs Japan",
     "publisher": "Technōs Japan",
     "difficulty": "playable",
@@ -27828,13 +27828,13 @@ export const games: Game[] = [
       "kanji": "サザンアイズ 呪魔封印",
       "romaji": "3x3 Eyes Juuma Houkan"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action RPG",
     "japanExclusive": true,
-    "releaseDate": "22-12-1995",
+    "releaseDate": "1995-12-22",
     "developer": "System Supply N-Tech",
     "publisher": "Banpresto",
     "difficulty": "not-recommended",
@@ -27854,13 +27854,13 @@ export const games: Game[] = [
       "kanji": "バトルサブマリン",
       "romaji": "Battle Submarine"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "22-12-1995",
+    "releaseDate": "1995-12-22",
     "developer": "Office Koukan",
     "publisher": "Pack-In-Video",
     "difficulty": "playable",
@@ -27880,13 +27880,13 @@ export const games: Game[] = [
       "kanji": "ファーランドストーリー2",
       "romaji": "Farland Story 2: Dance of Destruction"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Farland_Story_2.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy RPG",
     "japanExclusive": true,
-    "releaseDate": "22-12-1995",
+    "releaseDate": "1995-12-22",
     "developer": "Technical Group Laboratory",
     "publisher": "Banpresto",
     "difficulty": "not-recommended",
@@ -27906,13 +27906,13 @@ export const games: Game[] = [
       "kanji": "ファイナルファイト タフ",
       "romaji": "Final Fight Tough"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Beat'em up",
     "japanExclusive": false,
-    "releaseDate": "22-12-1995",
+    "releaseDate": "1995-12-22",
     "developer": "Capcom",
     "publisher": "Capcom",
     "difficulty": "playable",
@@ -27932,13 +27932,13 @@ export const games: Game[] = [
       "kanji": "がんばれゴエモン きらきら道中",
       "romaji": "Ganbare Goemon Kirakira Dōchū"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "22-12-1995",
+    "releaseDate": "1995-12-22",
     "developer": "Konami",
     "publisher": "Konami",
     "difficulty": "playable",
@@ -27958,13 +27958,13 @@ export const games: Game[] = [
       "kanji": "月面のアヌビス",
       "romaji": "Getsumen no Anubis"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action RPG",
     "japanExclusive": true,
-    "releaseDate": "22-12-1995",
+    "releaseDate": "1995-12-22",
     "developer": "Access",
     "publisher": "Imagineer",
     "difficulty": "not-recommended",
@@ -27984,13 +27984,13 @@ export const games: Game[] = [
       "kanji": "黄龍の耳",
       "romaji": "Kouryuu no Mimi"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Adventure",
     "japanExclusive": true,
-    "releaseDate": "22-12-1995",
+    "releaseDate": "1995-12-22",
     "developer": "VAP",
     "publisher": "VAP",
     "difficulty": "not-recommended",
@@ -28010,13 +28010,13 @@ export const games: Game[] = [
       "kanji": "ロードス島戦記",
       "romaji": "Lodoss Tou Senki"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Record_of_Lodoss_War.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy RPG",
     "japanExclusive": true,
-    "releaseDate": "22-12-1995",
+    "releaseDate": "1995-12-22",
     "developer": "Thinking Rabbit",
     "publisher": "Kadokawa Shoten",
     "difficulty": "not-recommended",
@@ -28036,13 +28036,13 @@ export const games: Game[] = [
       "kanji": "SDガンダムGネクスト",
       "romaji": "SD Gundam G Next"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": true,
-    "releaseDate": "22-12-1995",
+    "releaseDate": "1995-12-22",
     "developer": "Japan Art Media",
     "publisher": "Bandai",
     "difficulty": "not-recommended",
@@ -28062,13 +28062,13 @@ export const games: Game[] = [
       "kanji": "戦国の覇者",
       "romaji": "Sengoku no Hasha"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": true,
-    "releaseDate": "22-12-1995",
+    "releaseDate": "1995-12-22",
     "developer": "Bits Laboratory",
     "publisher": "Banpresto",
     "difficulty": "not-recommended",
@@ -28088,13 +28088,13 @@ export const games: Game[] = [
       "kanji": "将棋三枚",
       "romaji": "Shougi Sanmai"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "22-12-1995",
+    "releaseDate": "1995-12-22",
     "developer": "Unknown",
     "publisher": "Virgin Interactive",
     "difficulty": "not-recommended",
@@ -28114,13 +28114,13 @@ export const games: Game[] = [
       "kanji": "テクモスーパーボウルIII ファイナルエディション",
       "romaji": "Tecmo Super Bowl III: Final Edition"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Tecmo_Super_Bowl_III__Final_Edition.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "22-12-1995",
+    "releaseDate": "1995-12-22",
     "developer": "Tecmo",
     "publisher": "Tecmo",
     "difficulty": "playable",
@@ -28140,13 +28140,13 @@ export const games: Game[] = [
       "kanji": "天外魔境ZERO",
       "romaji": "Tengai Makyou Zero"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Tengai_Makyō_Zero.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "22-12-1995",
+    "releaseDate": "1995-12-22",
     "developer": "Red Company",
     "publisher": "Hudson Soft",
     "difficulty": "not-recommended",
@@ -28166,13 +28166,13 @@ export const games: Game[] = [
       "kanji": "ざくろの味",
       "romaji": "Zakuro no Aji"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Adventure",
     "japanExclusive": true,
-    "releaseDate": "22-12-1995",
+    "releaseDate": "1995-12-22",
     "developer": "Imagineer",
     "publisher": "Imagineer",
     "difficulty": "not-recommended",
@@ -28192,13 +28192,13 @@ export const games: Game[] = [
       "kanji": "アルバートオデッセイ2",
       "romaji": "Albert Odyssey 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "22-12-1994",
+    "releaseDate": "1994-12-22",
     "developer": "Sunsoft",
     "publisher": "Sunsoft",
     "difficulty": "not-recommended",
@@ -28218,13 +28218,13 @@ export const games: Game[] = [
       "kanji": "バトルジョッキー",
       "romaji": "Battle Jockey"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": true,
-    "releaseDate": "22-12-1994",
+    "releaseDate": "1994-12-22",
     "developer": "Nova Games",
     "publisher": "Virgin Interactive",
     "difficulty": "playable",
@@ -28244,13 +28244,13 @@ export const games: Game[] = [
       "kanji": "ブルータル アニマルブランデン",
       "romaji": "Brutal: Animal Buranden"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": false,
-    "releaseDate": "22-12-1994",
+    "releaseDate": "1994-12-22",
     "developer": "Eurocom",
     "publisher": "GameTek",
     "difficulty": "playable",
@@ -28270,13 +28270,13 @@ export const games: Game[] = [
       "kanji": "大怪獣物語",
       "romaji": "Daikaijuu Monogatari"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Daikaijū_Monogatari.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "22-12-1994",
+    "releaseDate": "1994-12-22",
     "developer": "Birthday",
     "publisher": "Hudson Soft",
     "difficulty": "not-recommended",
@@ -28296,13 +28296,13 @@ export const games: Game[] = [
       "kanji": "元祖パチンコ王",
       "romaji": "Ganso Pachinko Ou"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "22-12-1994",
+    "releaseDate": "1994-12-22",
     "developer": "Unknown",
     "publisher": "Coconuts Japan",
     "difficulty": "not-recommended",
@@ -28322,13 +28322,13 @@ export const games: Game[] = [
       "kanji": "覇王大系リューナイト",
       "romaji": "Haō Taikei Ryū Knight"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Haō_Taikei_Ryū_Knight__Lord_of_Paladin.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "22-12-1994",
+    "releaseDate": "1994-12-22",
     "developer": "Japan Art Media",
     "publisher": "Bandai",
     "difficulty": "playable",
@@ -28348,13 +28348,13 @@ export const games: Game[] = [
       "kanji": "走れへべれけ",
       "romaji": "Hashire Hebereke"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": true,
-    "releaseDate": "22-12-1994",
+    "releaseDate": "1994-12-22",
     "developer": "Sunsoft",
     "publisher": "Sunsoft",
     "difficulty": "playable",
@@ -28374,13 +28374,13 @@ export const games: Game[] = [
       "kanji": "本格将棋 風雲龍王",
       "romaji": "Honkaku Shougi: Fuuunji Ryuuou"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "22-12-1994",
+    "releaseDate": "1994-12-22",
     "developer": "Aisystem Tokyo",
     "publisher": "Virgin Interactive",
     "difficulty": "not-recommended",
@@ -28400,13 +28400,13 @@ export const games: Game[] = [
       "kanji": "麻雀倶楽部",
       "romaji": "Mahjong Club"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Mahjong",
     "japanExclusive": true,
-    "releaseDate": "22-12-1994",
+    "releaseDate": "1994-12-22",
     "developer": "Natsu System",
     "publisher": "Hect",
     "difficulty": "not-recommended",
@@ -28426,13 +28426,13 @@ export const games: Game[] = [
       "kanji": "ポコニャン! へんぽこりん冒険記",
       "romaji": "Poko-Nyan! Henpokorin Adventure"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": true,
-    "releaseDate": "22-12-1994",
+    "releaseDate": "1994-12-22",
     "developer": "Unknown",
     "publisher": "Toho",
     "difficulty": "playable",
@@ -28452,13 +28452,13 @@ export const games: Game[] = [
       "kanji": "パワー オブ ザ ハイアード",
       "romaji": "Power of the Hired"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy RPG",
     "japanExclusive": true,
-    "releaseDate": "22-12-1994",
+    "releaseDate": "1994-12-22",
     "developer": "NCS",
     "publisher": "NCS",
     "difficulty": "not-recommended",
@@ -28478,13 +28478,13 @@ export const games: Game[] = [
       "kanji": "ライズ オブ ザ ロボッツ",
       "romaji": "Rise of the Robots"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": false,
-    "releaseDate": "22-12-1994",
+    "releaseDate": "1994-12-22",
     "developer": "Mirage",
     "publisher": "Acclaim",
     "difficulty": "playable",
@@ -28504,13 +28504,13 @@ export const games: Game[] = [
       "kanji": "渓流王",
       "romaji": "Sun Sport Fishing: Keiryuu-Ou"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "22-12-1994",
+    "releaseDate": "1994-12-22",
     "developer": "Lenar",
     "publisher": "Imagineer",
     "difficulty": "not-recommended",
@@ -28530,13 +28530,13 @@ export const games: Game[] = [
       "kanji": "スーパーキャッスルズ",
       "romaji": "Super Castles"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": true,
-    "releaseDate": "22-12-1994",
+    "releaseDate": "1994-12-22",
     "developer": "Unknown",
     "publisher": "Victor Interactive",
     "difficulty": "not-recommended",
@@ -28556,13 +28556,13 @@ export const games: Game[] = [
       "kanji": "ウルトラベースボール実名編2",
       "romaji": "Ultra Baseball Jitsumeiban 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "22-12-1994",
+    "releaseDate": "1994-12-22",
     "developer": "Culture Brain",
     "publisher": "Culture Brain",
     "difficulty": "caution",
@@ -28582,13 +28582,13 @@ export const games: Game[] = [
       "kanji": "横山光輝三国志番外編",
       "romaji": "Yokoyama Mitsuteru: Sangokushi Bangi: Sugoroku Eiyuuki"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "22-12-1994",
+    "releaseDate": "1994-12-22",
     "developer": "Tose",
     "publisher": "Angel",
     "difficulty": "not-recommended",
@@ -28608,13 +28608,13 @@ export const games: Game[] = [
       "kanji": "幽☆遊☆白書 特別編",
       "romaji": "Yuu Yuu Hakusho: Tokubetsu Hen"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": true,
-    "releaseDate": "22-12-1994",
+    "releaseDate": "1994-12-22",
     "developer": "Namco",
     "publisher": "Namco",
     "difficulty": "playable",
@@ -28634,13 +28634,13 @@ export const games: Game[] = [
       "kanji": "エースをねらえ!",
       "romaji": "Aim for the Ace!"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "22-12-1993",
+    "releaseDate": "1993-12-22",
     "developer": "Nippon Telenet",
     "publisher": "Nippon Telenet",
     "difficulty": "caution",
@@ -28660,13 +28660,13 @@ export const games: Game[] = [
       "kanji": "スペースファンキーB.O.B.",
       "romaji": "Space Funky B.O.B."
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "22-12-1993",
+    "releaseDate": "1993-12-22",
     "developer": "Gray Matter",
     "publisher": "Electronic Arts",
     "difficulty": "playable",
@@ -28686,13 +28686,13 @@ export const games: Game[] = [
       "kanji": "ビンビン!ビンゴ",
       "romaji": "Bing Bing! Bingo"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "22-12-1993",
+    "releaseDate": "1993-12-22",
     "developer": "Copya Systems",
     "publisher": "KSS",
     "difficulty": "playable",
@@ -28712,13 +28712,13 @@ export const games: Game[] = [
       "kanji": "フラッシュバック",
       "romaji": "Flashback: The Quest for Identity"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "22-12-1993",
+    "releaseDate": "1993-12-22",
     "developer": "Delphine Software",
     "publisher": "U.S. Gold",
     "difficulty": "playable",
@@ -28738,13 +28738,13 @@ export const games: Game[] = [
       "kanji": "がんばれ大工の源さん",
       "romaji": "Ganbare Daiku no Gensan"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": true,
-    "releaseDate": "22-12-1993",
+    "releaseDate": "1993-12-22",
     "developer": "Irem",
     "publisher": "Irem",
     "difficulty": "playable",
@@ -28764,13 +28764,13 @@ export const games: Game[] = [
       "kanji": "がんばれゴエモン2",
       "romaji": "Ganbare Goemon 2: Kiteretsu Shougun McGuiness"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "22-12-1993",
+    "releaseDate": "1993-12-22",
     "developer": "Konami",
     "publisher": "Konami",
     "difficulty": "playable",
@@ -28790,13 +28790,13 @@ export const games: Game[] = [
       "kanji": "へべれけのポポーン",
       "romaji": "Hebereke's Popoon"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "22-12-1993",
+    "releaseDate": "1993-12-22",
     "developer": "Sunsoft",
     "publisher": "Sunsoft",
     "difficulty": "playable",
@@ -28816,13 +28816,13 @@ export const games: Game[] = [
       "kanji": "キング オブ ザ モンスターズ2",
       "romaji": "King of the Monsters 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": true,
-    "releaseDate": "22-12-1993",
+    "releaseDate": "1993-12-22",
     "developer": "Now Production",
     "publisher": "Takara",
     "difficulty": "playable",
@@ -28842,13 +28842,13 @@ export const games: Game[] = [
       "kanji": "トップレーサー2",
       "romaji": "Top Racer 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": false,
-    "releaseDate": "22-12-1993",
+    "releaseDate": "1993-12-22",
     "developer": "Gremlin Interactive",
     "publisher": "Kemco",
     "difficulty": "playable",
@@ -28868,13 +28868,13 @@ export const games: Game[] = [
       "kanji": "幽☆遊☆白書",
       "romaji": "Yuu Yuu Hakusho"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": true,
-    "releaseDate": "22-12-1993",
+    "releaseDate": "1993-12-22",
     "developer": "Namco",
     "publisher": "Namco",
     "difficulty": "playable",
@@ -28894,13 +28894,13 @@ export const games: Game[] = [
       "kanji": "ラッシングビート乱",
       "romaji": "Rushing Beat Ran: Fukusei Toshi"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Beat'em up",
     "japanExclusive": false,
-    "releaseDate": "22-12-1992",
+    "releaseDate": "1992-12-22",
     "developer": "Jaleco",
     "publisher": "Jaleco",
     "difficulty": "playable",
@@ -28920,13 +28920,13 @@ export const games: Game[] = [
       "kanji": "キキ・カイカイ",
       "romaji": "KiKi KaiKai: Nazo no Kuro Mantle"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "22-12-1992",
+    "releaseDate": "1992-12-22",
     "developer": "Natsume",
     "publisher": "Natsume",
     "difficulty": "playable",
@@ -28946,13 +28946,13 @@ export const games: Game[] = [
       "kanji": "ロードランナー",
       "romaji": "Road Runner vs. Wile E. Coyote"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Road_Runner's_Death_Valley_Rally.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "22-12-1992",
+    "releaseDate": "1992-12-22",
     "developer": "ICOM Simulations",
     "publisher": "Sunsoft",
     "difficulty": "playable",
@@ -28972,13 +28972,13 @@ export const games: Game[] = [
       "kanji": "少年アシベ",
       "romaji": "Shounen Ashibe"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "22-12-1992",
+    "releaseDate": "1992-12-22",
     "developer": "Nova Games",
     "publisher": "Takara",
     "difficulty": "playable",
@@ -28998,13 +28998,13 @@ export const games: Game[] = [
       "kanji": "岡本綾子とマッチプレーゴルフ",
       "romaji": "Okamoto Ayako to Match Play Golf"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "21-12-1994",
+    "releaseDate": "1994-12-21",
     "developer": "C.P. Brain",
     "publisher": "Tsukuda Original",
     "difficulty": "caution",
@@ -29024,13 +29024,13 @@ export const games: Game[] = [
       "kanji": "龍虎の拳2",
       "romaji": "Art of Fighting 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": true,
-    "releaseDate": "21-12-1994",
+    "releaseDate": "1994-12-21",
     "developer": "Monolith Corporation",
     "publisher": "Saurus",
     "difficulty": "playable",
@@ -29050,13 +29050,13 @@ export const games: Game[] = [
       "kanji": "46億年物語 はるかなるエデンへ",
       "romaji": "46 Okunen Monogatari: Harukanaru Eden e"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action RPG",
     "japanExclusive": false,
-    "releaseDate": "21-12-1992",
+    "releaseDate": "1992-12-21",
     "developer": "Almanic",
     "publisher": "Enix",
     "difficulty": "playable",
@@ -29076,13 +29076,13 @@ export const games: Game[] = [
       "kanji": "スーパー信長の野望 武将風雲録",
       "romaji": "Super Nobunaga no Yabou: Bushou Fuu'unroku"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": false,
-    "releaseDate": "21-12-1991",
+    "releaseDate": "1991-12-21",
     "developer": "Koei",
     "publisher": "Koei",
     "difficulty": "caution",
@@ -29102,13 +29102,13 @@ export const games: Game[] = [
       "kanji": "SDガンダム外伝 ナイトガンダム物語",
       "romaji": "Knight Gundam Monogatari"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "21-12-1991",
+    "releaseDate": "1991-12-21",
     "developer": "Tose",
     "publisher": "Angel",
     "difficulty": "not-recommended",
@@ -29128,13 +29128,13 @@ export const games: Game[] = [
       "kanji": "ファイナルファイト",
       "romaji": "Final Fight"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Final_Fight.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Beat'em up",
     "japanExclusive": false,
-    "releaseDate": "21-12-1990",
+    "releaseDate": "1990-12-21",
     "developer": "Capcom",
     "publisher": "Capcom",
     "difficulty": "playable",
@@ -29154,13 +29154,13 @@ export const games: Game[] = [
       "kanji": "グラディウスIII",
       "romaji": "Gradius III"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Gradius_III.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Shooter",
     "japanExclusive": false,
-    "releaseDate": "21-12-1990",
+    "releaseDate": "1990-12-21",
     "developer": "Konami",
     "publisher": "Konami",
     "difficulty": "playable",
@@ -29180,13 +29180,13 @@ export const games: Game[] = [
       "kanji": "パイロットウイングス",
       "romaji": "Pilotwings"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Pilotwings.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Flight Sim",
     "japanExclusive": false,
-    "releaseDate": "21-12-1990",
+    "releaseDate": "1990-12-21",
     "developer": "Nintendo EAD",
     "publisher": "Nintendo",
     "difficulty": "playable",
@@ -29206,13 +29206,13 @@ export const games: Game[] = [
       "kanji": "ボンバーマンビーダマン",
       "romaji": "Bomberman B-Daman"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Bomberman__B-Daman.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "20-12-1996",
+    "releaseDate": "1996-12-20",
     "developer": "A.I. Company",
     "publisher": "Hudson Soft",
     "difficulty": "playable",
@@ -29232,13 +29232,13 @@ export const games: Game[] = [
       "kanji": "キューオンパ",
       "romaji": "Cu-On-Pa"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "20-12-1996",
+    "releaseDate": "1996-12-20",
     "developer": "T&E Soft",
     "publisher": "T&E Soft",
     "difficulty": "playable",
@@ -29258,13 +29258,13 @@ export const games: Game[] = [
       "kanji": "G-O-D 目覚めよと呼ぶ声が聞こえ",
       "romaji": "G-O-D: Mezame yoto Yobu Koe ga Kikoe"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "20-12-1996",
+    "releaseDate": "1996-12-20",
     "developer": "Infinity",
     "publisher": "Imagineer",
     "difficulty": "not-recommended",
@@ -29284,13 +29284,13 @@ export const games: Game[] = [
       "kanji": "ドナルドのメイジマラード",
       "romaji": "Donald in Maui Mallard"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "20-12-1996",
+    "releaseDate": "1996-12-20",
     "developer": "Eurocom",
     "publisher": "Nintendo",
     "difficulty": "playable",
@@ -29310,13 +29310,13 @@ export const games: Game[] = [
       "kanji": "ミニ四駆シャイニングスコーピオン",
       "romaji": "Mini Yonku Shining Scorpion: Let's & Go!!"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": true,
-    "releaseDate": "20-12-1996",
+    "releaseDate": "1996-12-20",
     "developer": "KID",
     "publisher": "ASCII",
     "difficulty": "playable",
@@ -29336,13 +29336,13 @@ export const games: Game[] = [
       "kanji": "西陣パチンコ物語3",
       "romaji": "Nishijin Pachinko Monogatari 3"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "20-12-1996",
+    "releaseDate": "1996-12-20",
     "developer": "Soft Machine",
     "publisher": "KSS",
     "difficulty": "not-recommended",
@@ -29362,13 +29362,13 @@ export const games: Game[] = [
       "kanji": "ピノキオ",
       "romaji": "Pinocchio"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "20-12-1996",
+    "releaseDate": "1996-12-20",
     "developer": "Virgin Interactive",
     "publisher": "Nintendo",
     "difficulty": "playable",
@@ -29388,13 +29388,13 @@ export const games: Game[] = [
       "kanji": "ストリートファイターZERO 2",
       "romaji": "Street Fighter Zero 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Street_Fighter_Alpha_2.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": false,
-    "releaseDate": "20-12-1996",
+    "releaseDate": "1996-12-20",
     "developer": "Capcom",
     "publisher": "Capcom",
     "difficulty": "playable",
@@ -29414,13 +29414,13 @@ export const games: Game[] = [
       "kanji": "水木しげるの妖怪百鬼夜行",
       "romaji": "Mizuki Shigeru no Youkai Hyakkiyakou"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Adventure",
     "japanExclusive": true,
-    "releaseDate": "20-12-1995",
+    "releaseDate": "1995-12-20",
     "developer": "Unknown",
     "publisher": "KSS",
     "difficulty": "not-recommended",
@@ -29440,13 +29440,13 @@ export const games: Game[] = [
       "kanji": "ダンジョンマスター",
       "romaji": "Dungeon Master"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Dungeon_Master.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": false,
-    "releaseDate": "20-12-1991",
+    "releaseDate": "1991-12-20",
     "developer": "Software Heaven",
     "publisher": "JVC",
     "difficulty": "caution",
@@ -29466,13 +29466,13 @@ export const games: Game[] = [
       "kanji": "スーパーファイヤープロレスリング",
       "romaji": "Super Fire Pro Wrestling"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "20-12-1991",
+    "releaseDate": "1991-12-20",
     "developer": "Human Club",
     "publisher": "Human Entertainment",
     "difficulty": "playable",
@@ -29492,13 +29492,13 @@ export const games: Game[] = [
       "kanji": "ブレス オブ ファイアII",
       "romaji": "Breath of Fire II"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Breath_of_Fire_II.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": false,
-    "releaseDate": "02-12-1994",
+    "releaseDate": "1994-12-02",
     "developer": "Capcom",
     "publisher": "Capcom",
     "difficulty": "caution",
@@ -29518,13 +29518,13 @@ export const games: Game[] = [
       "kanji": "どかぽん3・2・1",
       "romaji": "Dokapon 3-2-1: Arashi wo Yobu Yujo"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "02-12-1994",
+    "releaseDate": "1994-12-02",
     "developer": "Asmik",
     "publisher": "Asmik",
     "difficulty": "not-recommended",
@@ -29544,13 +29544,13 @@ export const games: Game[] = [
       "kanji": "ザ・ラストバトル",
       "romaji": "The Last Battle"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/The_Last_Battle.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": true,
-    "releaseDate": "02-12-1994",
+    "releaseDate": "1994-12-02",
     "developer": "Atelier Double",
     "publisher": "Techiku",
     "difficulty": "playable",
@@ -29570,13 +29570,13 @@ export const games: Game[] = [
       "kanji": "制服伝説",
       "romaji": "Seifuku Densetsu: Pretty Fighter"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Seifuku_Densetsu__Pretty_Fighter.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": true,
-    "releaseDate": "02-12-1994",
+    "releaseDate": "1994-12-02",
     "developer": "Unknown",
     "publisher": "Imagineer",
     "difficulty": "playable",
@@ -29596,13 +29596,13 @@ export const games: Game[] = [
       "kanji": "ストリートレーサー",
       "romaji": "Street Racer"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": false,
-    "releaseDate": "02-12-1994",
+    "releaseDate": "1994-12-02",
     "developer": "Vivid Image",
     "publisher": "Ubisoft",
     "difficulty": "playable",
@@ -29622,13 +29622,13 @@ export const games: Game[] = [
       "kanji": "スーパー麻雀2",
       "romaji": "Super Mahjong 2: Honkaku 4 Nin Uchi!"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Mahjong",
     "japanExclusive": true,
-    "releaseDate": "02-12-1993",
+    "releaseDate": "1993-12-02",
     "developer": "Unknown",
     "publisher": "I'MAX",
     "difficulty": "not-recommended",
@@ -29648,13 +29648,13 @@ export const games: Game[] = [
       "kanji": "ボールブレットガン",
       "romaji": "Ball Bullet Gun: Survival Game Simulation"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "01-12-1995",
+    "releaseDate": "1995-12-01",
     "developer": "Betop",
     "publisher": "I'MAX",
     "difficulty": "playable",
@@ -29674,13 +29674,13 @@ export const games: Game[] = [
       "kanji": "爆球連発!!",
       "romaji": "Bakukyuu Renpatsu!! Super B-Daman"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "19-12-1997",
+    "releaseDate": "1997-12-19",
     "developer": "Amble",
     "publisher": "Hudson Soft",
     "difficulty": "playable",
@@ -29700,13 +29700,13 @@ export const games: Game[] = [
       "kanji": "すごろく銀河戦記",
       "romaji": "Sugoroku Ginga Senki"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "19-12-1996",
+    "releaseDate": "1996-12-19",
     "developer": "Bottom Up",
     "publisher": "Bottom Up",
     "difficulty": "not-recommended",
@@ -29726,13 +29726,13 @@ export const games: Game[] = [
       "kanji": "半熟英雄",
       "romaji": "Hanjuku Hero: Aa, Sekaiyo Hanjukunare...!"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": true,
-    "releaseDate": "19-12-1992",
+    "releaseDate": "1992-12-19",
     "developer": "Square",
     "publisher": "Square",
     "difficulty": "not-recommended",
@@ -29752,13 +29752,13 @@ export const games: Game[] = [
       "kanji": "ドラゴンクエストI・II",
       "romaji": "Dragon Quest I & II"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "18-12-1993",
+    "releaseDate": "1993-12-18",
     "developer": "Chunsoft",
     "publisher": "Enix",
     "difficulty": "not-recommended",
@@ -29778,13 +29778,13 @@ export const games: Game[] = [
       "kanji": "たたかえ原始人2",
       "romaji": "Tatakae Genshijin 2: Rookie no Bouken"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "18-12-1992",
+    "releaseDate": "1992-12-18",
     "developer": "Data East",
     "publisher": "Data East",
     "difficulty": "playable",
@@ -29804,13 +29804,13 @@ export const games: Game[] = [
       "kanji": "重装機兵ヴァルケン",
       "romaji": "Juusou Kihen Valken"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Cybernator.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "18-12-1992",
+    "releaseDate": "1992-12-18",
     "developer": "Masaya",
     "publisher": "Konami",
     "difficulty": "playable",
@@ -29830,13 +29830,13 @@ export const games: Game[] = [
       "kanji": "アメージングテニス",
       "romaji": "Amazing Tennis"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "18-12-1992",
+    "releaseDate": "1992-12-18",
     "developer": "Imagineering",
     "publisher": "Absolute",
     "difficulty": "playable",
@@ -29856,13 +29856,13 @@ export const games: Game[] = [
       "kanji": "フライングヒーロー",
       "romaji": "Flying Hero: Bugyuru no Daibouken"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "18-12-1992",
+    "releaseDate": "1992-12-18",
     "developer": "Sting",
     "publisher": "SOFEL",
     "difficulty": "playable",
@@ -29882,13 +29882,13 @@ export const games: Game[] = [
       "kanji": "SDガンダム外伝2",
       "romaji": "SD Gundam Gaiden 2: Entaku no Kishi"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "18-12-1992",
+    "releaseDate": "1992-12-18",
     "developer": "Tose",
     "publisher": "Yutaka",
     "difficulty": "not-recommended",
@@ -29908,13 +29908,13 @@ export const games: Game[] = [
       "kanji": "ステルス",
       "romaji": "Stealth"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "18-12-1992",
+    "releaseDate": "1992-12-18",
     "developer": "Axes Art Amuse",
     "publisher": "Hect",
     "difficulty": "playable",
@@ -29934,13 +29934,13 @@ export const games: Game[] = [
       "kanji": "スーパーF1ヒーロー",
       "romaji": "Super F1 Hero"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": true,
-    "releaseDate": "18-12-1992",
+    "releaseDate": "1992-12-18",
     "developer": "Aprinet",
     "publisher": "Varie",
     "difficulty": "playable",
@@ -29960,13 +29960,13 @@ export const games: Game[] = [
       "kanji": "スーパー日本物麻雀",
       "romaji": "Super Nichibutsu Mahjong"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Mahjong",
     "japanExclusive": true,
-    "releaseDate": "18-12-1992",
+    "releaseDate": "1992-12-18",
     "developer": "Unknown",
     "publisher": "Nichibutsu",
     "difficulty": "not-recommended",
@@ -29986,13 +29986,13 @@ export const games: Game[] = [
       "kanji": "スーパー大相撲",
       "romaji": "Super Oozumou: Nessen Ooichiban"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "18-12-1992",
+    "releaseDate": "1992-12-18",
     "developer": "Unknown",
     "publisher": "Namco",
     "difficulty": "caution",
@@ -30012,13 +30012,13 @@ export const games: Game[] = [
       "kanji": "スーパースターウォーズ",
       "romaji": "Super Star Wars"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "18-12-1992",
+    "releaseDate": "1992-12-18",
     "developer": "LucasArts",
     "publisher": "JVC",
     "difficulty": "playable",
@@ -30038,13 +30038,13 @@ export const games: Game[] = [
       "kanji": "スーパーテトリス2",
       "romaji": "Super Tetris 2 + Bombliss"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "18-12-1992",
+    "releaseDate": "1992-12-18",
     "developer": "Tose",
     "publisher": "Bullet-Proof",
     "difficulty": "playable",
@@ -30064,13 +30064,13 @@ export const games: Game[] = [
       "kanji": "レミングス",
       "romaji": "Lemmings"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": false,
-    "releaseDate": "18-12-1991",
+    "releaseDate": "1991-12-18",
     "developer": "Psygnosis",
     "publisher": "Sunsoft",
     "difficulty": "playable",
@@ -30090,13 +30090,13 @@ export const games: Game[] = [
       "kanji": "ザ・グレイトバトルIV",
       "romaji": "The Great Battle IV"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "17-12-1994",
+    "releaseDate": "1994-12-17",
     "developer": "Sun L",
     "publisher": "Banpresto",
     "difficulty": "playable",
@@ -30116,13 +30116,13 @@ export const games: Game[] = [
       "kanji": "アルカヘスト",
       "romaji": "Alcahest"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action RPG",
     "japanExclusive": true,
-    "releaseDate": "17-12-1993",
+    "releaseDate": "1993-12-17",
     "developer": "HAL Laboratory",
     "publisher": "Square",
     "difficulty": "playable",
@@ -30142,13 +30142,13 @@ export const games: Game[] = [
       "kanji": "ドラッキーの草野球",
       "romaji": "Zoo Ball"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "17-12-1993",
+    "releaseDate": "1993-12-17",
     "developer": "Zoom",
     "publisher": "Technōs",
     "difficulty": "playable",
@@ -30168,13 +30168,13 @@ export const games: Game[] = [
       "kanji": "ドラえもん2",
       "romaji": "Doraemon 2: Nobita no Toys Land Daibouken"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": true,
-    "releaseDate": "17-12-1993",
+    "releaseDate": "1993-12-17",
     "developer": "Pop House",
     "publisher": "Epoch",
     "difficulty": "playable",
@@ -30194,13 +30194,13 @@ export const games: Game[] = [
       "kanji": "ダウンタウン熱血べーすぼーる物語",
       "romaji": "Downtown Nekketsu Baseball Monogatari"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "17-12-1993",
+    "releaseDate": "1993-12-17",
     "developer": "Technōs",
     "publisher": "Technōs",
     "difficulty": "playable",
@@ -30220,13 +30220,13 @@ export const games: Game[] = [
       "kanji": "ドラゴンボールZ 超武闘伝2",
       "romaji": "Dragon Ball Z: Super Butōden 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Dragon_Ball_Z__Super_Butōden_2.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": true,
-    "releaseDate": "17-12-1993",
+    "releaseDate": "1993-12-17",
     "developer": "Tose",
     "publisher": "Bandai",
     "difficulty": "playable",
@@ -30246,13 +30246,13 @@ export const games: Game[] = [
       "kanji": "ホーリーストライカー",
       "romaji": "Holy Striker"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "17-12-1993",
+    "releaseDate": "1993-12-17",
     "developer": "Axes Art Amuse",
     "publisher": "DTMC",
     "difficulty": "playable",
@@ -30272,13 +30272,13 @@ export const games: Game[] = [
       "kanji": "ロックマンX",
       "romaji": "Rockman X"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Mega_Man_X.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "17-12-1993",
+    "releaseDate": "1993-12-17",
     "developer": "Capcom",
     "publisher": "Capcom",
     "difficulty": "playable",
@@ -30298,13 +30298,13 @@ export const games: Game[] = [
       "kanji": "ラッシングビート修羅",
       "romaji": "Rushing Beat Shura"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Beat'em up",
     "japanExclusive": false,
-    "releaseDate": "17-12-1993",
+    "releaseDate": "1993-12-17",
     "developer": "Jaleco",
     "publisher": "Jaleco",
     "difficulty": "playable",
@@ -30324,13 +30324,13 @@ export const games: Game[] = [
       "kanji": "スーパースターウォーズ 帝国の逆襲",
       "romaji": "Super Star Wars: The Empire Strikes Back"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "17-12-1993",
+    "releaseDate": "1993-12-17",
     "developer": "LucasArts",
     "publisher": "JVC",
     "difficulty": "playable",
@@ -30350,13 +30350,13 @@ export const games: Game[] = [
       "kanji": "ワンダラスマジック",
       "romaji": "Wondrous Magic"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "17-12-1993",
+    "releaseDate": "1993-12-17",
     "developer": "System Sacom",
     "publisher": "ASCII",
     "difficulty": "playable",
@@ -30376,13 +30376,13 @@ export const games: Game[] = [
       "kanji": "夢幻の如く",
       "romaji": "Yume Maboroshi no Gotoku"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "17-12-1993",
+    "releaseDate": "1993-12-17",
     "developer": "Tose",
     "publisher": "Intec",
     "difficulty": "not-recommended",
@@ -30402,13 +30402,13 @@ export const games: Game[] = [
       "kanji": "蒼き伝説シュート!",
       "romaji": "Aoki Densetsu Shoot!"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "16-12-1994",
+    "releaseDate": "1994-12-16",
     "developer": "Affect",
     "publisher": "KSS",
     "difficulty": "caution",
@@ -30428,13 +30428,13 @@ export const games: Game[] = [
       "kanji": "ビッグ一撃! パチスロ大攻略",
       "romaji": "Big Ichigeki! Pachi-Slot Daikouryaku"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "16-12-1994",
+    "releaseDate": "1994-12-16",
     "developer": "Syscom",
     "publisher": "Ask",
     "difficulty": "not-recommended",
@@ -30454,13 +30454,13 @@ export const games: Game[] = [
       "kanji": "美少女戦士セーラームーンS",
       "romaji": "Bishōjo Senshi Sailor Moon S"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": true,
-    "releaseDate": "16-12-1994",
+    "releaseDate": "1994-12-16",
     "developer": "Arc System Works",
     "publisher": "Angel",
     "difficulty": "playable",
@@ -30480,13 +30480,13 @@ export const games: Game[] = [
       "kanji": "ドラえもん3",
       "romaji": "Doraemon 3: Nobita to Toki no Hougyoku"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": true,
-    "releaseDate": "16-12-1994",
+    "releaseDate": "1994-12-16",
     "developer": "AIM",
     "publisher": "Epoch",
     "difficulty": "playable",
@@ -30506,13 +30506,13 @@ export const games: Game[] = [
       "kanji": "どっすん!岩石バトル",
       "romaji": "Dossun! Ganseki Battle"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "16-12-1994",
+    "releaseDate": "1994-12-16",
     "developer": "I'MAX",
     "publisher": "I'MAX",
     "difficulty": "playable",
@@ -30532,13 +30532,13 @@ export const games: Game[] = [
       "kanji": "フルパワー",
       "romaji": "Full Power"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Full_Throttle__All-American_Racing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": false,
-    "releaseDate": "16-12-1994",
+    "releaseDate": "1994-12-16",
     "developer": "Gremlin",
     "publisher": "GameTek",
     "difficulty": "playable",
@@ -30558,13 +30558,13 @@ export const games: Game[] = [
       "kanji": "がんばれゴエモン3",
       "romaji": "Ganbare Goemon 3"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "16-12-1994",
+    "releaseDate": "1994-12-16",
     "developer": "Konami",
     "publisher": "Konami",
     "difficulty": "playable",
@@ -30584,13 +30584,13 @@ export const games: Game[] = [
       "kanji": "祇園花",
       "romaji": "Gionbana"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Adventure",
     "japanExclusive": true,
-    "releaseDate": "16-12-1994",
+    "releaseDate": "1994-12-16",
     "developer": "Nichibutsu",
     "publisher": "Nichibutsu",
     "difficulty": "not-recommended",
@@ -30610,13 +30610,13 @@ export const games: Game[] = [
       "kanji": "花札王",
       "romaji": "Hanafuda Ou"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Card Game",
     "japanExclusive": true,
-    "releaseDate": "16-12-1994",
+    "releaseDate": "1994-12-16",
     "developer": "Electronics Application",
     "publisher": "Coconuts",
     "difficulty": "not-recommended",
@@ -30636,13 +30636,13 @@ export const games: Game[] = [
       "kanji": "必勝パチスロ",
       "romaji": "Hisshou Pachi-Slot Fun"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "16-12-1994",
+    "releaseDate": "1994-12-16",
     "developer": "Unknown",
     "publisher": "Pow",
     "difficulty": "not-recommended",
@@ -30662,13 +30662,13 @@ export const games: Game[] = [
       "kanji": "ミッキーの東京ディズニーランド大冒険",
       "romaji": "Mickey no Tokyo Disneyland Daibōken"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Mickey_no_Tokyo_Disneyland_Daibōken.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Adventure",
     "japanExclusive": true,
-    "releaseDate": "16-12-1994",
+    "releaseDate": "1994-12-16",
     "developer": "Graphic Research",
     "publisher": "Tomy",
     "difficulty": "playable",
@@ -30688,13 +30688,13 @@ export const games: Game[] = [
       "kanji": "NBAライブ95",
       "romaji": "NBA Live 95"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "16-12-1994",
+    "releaseDate": "1994-12-16",
     "developer": "Electronic Arts",
     "publisher": "EA Sports",
     "difficulty": "playable",
@@ -30714,13 +30714,13 @@ export const games: Game[] = [
       "kanji": "ナイジェルマンセル インディカー",
       "romaji": "Nigel Mansell Indy Car"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": false,
-    "releaseDate": "16-12-1994",
+    "releaseDate": "1994-12-16",
     "developer": "Gremlin",
     "publisher": "Acclaim",
     "difficulty": "playable",
@@ -30740,13 +30740,13 @@ export const games: Game[] = [
       "kanji": "スーパーフィッシング",
       "romaji": "Super Fishing: Big Fight"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "16-12-1994",
+    "releaseDate": "1994-12-16",
     "developer": "Geo Factory",
     "publisher": "Naxat Soft",
     "difficulty": "caution",
@@ -30766,13 +30766,13 @@ export const games: Game[] = [
       "kanji": "スーパー詰将棋1000",
       "romaji": "Super Tsume Shougi 1000"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "16-12-1994",
+    "releaseDate": "1994-12-16",
     "developer": "Unknown",
     "publisher": "Bottom Up",
     "difficulty": "not-recommended",
@@ -30792,13 +30792,13 @@ export const games: Game[] = [
       "kanji": "スーパーレッスルエンジェルス",
       "romaji": "Super Wrestle Angels"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Wrestling",
     "japanExclusive": true,
-    "releaseDate": "16-12-1994",
+    "releaseDate": "1994-12-16",
     "developer": "Unknown",
     "publisher": "Imagineer",
     "difficulty": "playable",
@@ -30818,13 +30818,13 @@ export const games: Game[] = [
       "kanji": "スキーパラダイス with スノーボード",
       "romaji": "Ski Paradise with Snowboard"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Tommy_Moe's_Winter_Extreme__Skiing_&_Snowboarding.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "16-12-1994",
+    "releaseDate": "1994-12-16",
     "developer": "Loriciel",
     "publisher": "Mindscape",
     "difficulty": "playable",
@@ -30844,13 +30844,13 @@ export const games: Game[] = [
       "kanji": "釣り名人",
       "romaji": "Umizuri Meijin: Suzuki Hen"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "16-12-1994",
+    "releaseDate": "1994-12-16",
     "developer": "A-Wave",
     "publisher": "Electronic Arts",
     "difficulty": "caution",
@@ -30870,13 +30870,13 @@ export const games: Game[] = [
       "kanji": "スーパースネーキー",
       "romaji": "Super Snakey"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": false,
-    "releaseDate": "16-12-1994",
+    "releaseDate": "1994-12-16",
     "developer": "Manley & Associates",
     "publisher": "Spectrum HoloByte",
     "difficulty": "playable",
@@ -30896,13 +30896,13 @@ export const games: Game[] = [
       "kanji": "アクトレイザー",
       "romaji": "ActRaiser"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/ActRaiser.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action RPG",
     "japanExclusive": false,
-    "releaseDate": "16-12-1990",
+    "releaseDate": "1990-12-16",
     "developer": "Quintet",
     "publisher": "Enix",
     "difficulty": "caution",
@@ -30922,13 +30922,13 @@ export const games: Game[] = [
       "kanji": "ポピュラス",
       "romaji": "Populous"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": false,
-    "releaseDate": "16-12-1990",
+    "releaseDate": "1990-12-16",
     "developer": "Bullfrog",
     "publisher": "Acclaim",
     "difficulty": "caution",
@@ -30948,13 +30948,13 @@ export const games: Game[] = [
       "kanji": "ドラえもん4",
       "romaji": "Doraemon 4: Nobita to Tsuki no Oukoku"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": true,
-    "releaseDate": "15-12-1995",
+    "releaseDate": "1995-12-15",
     "developer": "Agenda",
     "publisher": "Epoch",
     "difficulty": "playable",
@@ -30974,13 +30974,13 @@ export const games: Game[] = [
       "kanji": "GO!GO!アックマン3",
       "romaji": "Go Go Ackman 3"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "15-12-1995",
+    "releaseDate": "1995-12-15",
     "developer": "Aspect",
     "publisher": "Banpresto",
     "difficulty": "playable",
@@ -31000,13 +31000,13 @@ export const games: Game[] = [
       "kanji": "JBザスーパーベース",
       "romaji": "JB The Super Bass"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "15-12-1995",
+    "releaseDate": "1995-12-15",
     "developer": "Gaps",
     "publisher": "Naxat Soft",
     "difficulty": "caution",
@@ -31026,13 +31026,13 @@ export const games: Game[] = [
       "kanji": "もってけ王!どろぼう",
       "romaji": "Motteke Oh! Dorobou"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "15-12-1995",
+    "releaseDate": "1995-12-15",
     "developer": "Unknown",
     "publisher": "Data East",
     "difficulty": "playable",
@@ -31052,13 +31052,13 @@ export const games: Game[] = [
       "kanji": "日本物アーケードクラシックス2",
       "romaji": "Nichibutsu Arcade Classics 2: Heiankyo Alien"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "15-12-1995",
+    "releaseDate": "1995-12-15",
     "developer": "Syscom",
     "publisher": "Nichibutsu",
     "difficulty": "playable",
@@ -31078,13 +31078,13 @@ export const games: Game[] = [
       "kanji": "プリンセスメーカー",
       "romaji": "Princess Maker: Legend of Another World"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "15-12-1995",
+    "releaseDate": "1995-12-15",
     "developer": "Gainax",
     "publisher": "Takara",
     "difficulty": "not-recommended",
@@ -31104,13 +31104,13 @@ export const games: Game[] = [
       "kanji": "聖獣魔伝",
       "romaji": "Seijuu Maden: Beasts & Blades"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action RPG",
     "japanExclusive": true,
-    "releaseDate": "15-12-1995",
+    "releaseDate": "1995-12-15",
     "developer": "Unknown",
     "publisher": "Bullet-Proof",
     "difficulty": "playable",
@@ -31130,13 +31130,13 @@ export const games: Game[] = [
       "kanji": "商人よ大志を抱け!!",
       "romaji": "Shounin yo Taishi wo Idake!!"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "15-12-1995",
+    "releaseDate": "1995-12-15",
     "developer": "AIM",
     "publisher": "Bandai",
     "difficulty": "not-recommended",
@@ -31156,13 +31156,13 @@ export const games: Game[] = [
       "kanji": "スーパーブラックバス3",
       "romaji": "Super Black Bass 3"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "15-12-1995",
+    "releaseDate": "1995-12-15",
     "developer": "Unknown",
     "publisher": "Starfish",
     "difficulty": "caution",
@@ -31182,13 +31182,13 @@ export const games: Game[] = [
       "kanji": "テーマパーク",
       "romaji": "Theme Park"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": false,
-    "releaseDate": "15-12-1994",
+    "releaseDate": "1994-12-15",
     "developer": "Bullfrog",
     "publisher": "Ocean",
     "difficulty": "caution",
@@ -31208,13 +31208,13 @@ export const games: Game[] = [
       "kanji": "機動装甲隊オニキス",
       "romaji": "Kidou Soukou Daion"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "14-12-1992",
+    "releaseDate": "1992-12-14",
     "developer": "Jorudan",
     "publisher": "Vic Tokai",
     "difficulty": "playable",
@@ -31234,13 +31234,13 @@ export const games: Game[] = [
       "kanji": "ちびまる子ちゃん",
       "romaji": "Chibi Maruko-chan: Harikiri 365-Nichi no Maki"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Chibi_Maruko-chan__Mezase!_Minami_no_Island!!.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "13-12-1991",
+    "releaseDate": "1991-12-13",
     "developer": "Pop House",
     "publisher": "Epoch",
     "difficulty": "not-recommended",
@@ -31260,13 +31260,13 @@ export const games: Game[] = [
       "kanji": "スーパーフォーメーションサッカー",
       "romaji": "Super Formation Soccer"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Super_Soccer.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "13-12-1991",
+    "releaseDate": "1991-12-13",
     "developer": "Human",
     "publisher": "Nintendo",
     "difficulty": "playable",
@@ -31286,13 +31286,13 @@ export const games: Game[] = [
       "kanji": "スーパーわぎゃんランド",
       "romaji": "Super Wagyan Land"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Super_Wagan_Land.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": true,
-    "releaseDate": "13-12-1991",
+    "releaseDate": "1991-12-13",
     "developer": "Nova Games",
     "publisher": "Namco",
     "difficulty": "playable",
@@ -31312,13 +31312,13 @@ export const games: Game[] = [
       "kanji": "ラグーン",
       "romaji": "Lagoon"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action RPG",
     "japanExclusive": false,
-    "releaseDate": "12-12-1991",
+    "releaseDate": "1991-12-12",
     "developer": "Kemco",
     "publisher": "Kemco",
     "difficulty": "caution",
@@ -31338,13 +31338,13 @@ export const games: Game[] = [
       "kanji": "バトルサッカー",
       "romaji": "Battle Soccer: Field no Hasha"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "11-12-1992",
+    "releaseDate": "1992-12-11",
     "developer": "Pandora Box",
     "publisher": "Banpresto",
     "difficulty": "playable",
@@ -31364,13 +31364,13 @@ export const games: Game[] = [
       "kanji": "弁慶外伝",
       "romaji": "Benkei Gaiden: Suna no Shou"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "11-12-1992",
+    "releaseDate": "1992-12-11",
     "developer": "Sunsoft",
     "publisher": "Sunsoft",
     "difficulty": "not-recommended",
@@ -31390,13 +31390,13 @@ export const games: Game[] = [
       "kanji": "飛龍の拳S",
       "romaji": "Hiryuu no Ken S: Hyper Version"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": true,
-    "releaseDate": "11-12-1992",
+    "releaseDate": "1992-12-11",
     "developer": "Culture Brain",
     "publisher": "Culture Brain",
     "difficulty": "playable",
@@ -31416,13 +31416,13 @@ export const games: Game[] = [
       "kanji": "大相撲スピリット",
       "romaji": "Ōzumō Spirit"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "11-12-1992",
+    "releaseDate": "1992-12-11",
     "developer": "Unknown",
     "publisher": "Takara",
     "difficulty": "caution",
@@ -31442,13 +31442,13 @@ export const games: Game[] = [
       "kanji": "パチ夫くんスペシャル",
       "romaji": "Pachiokun Special"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "11-12-1992",
+    "releaseDate": "1992-12-11",
     "developer": "Marioette",
     "publisher": "Coconuts",
     "difficulty": "not-recommended",
@@ -31468,13 +31468,13 @@ export const games: Game[] = [
       "kanji": "サイコドリーム",
       "romaji": "Dream Probe"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "11-12-1992",
+    "releaseDate": "1992-12-11",
     "developer": "Riot",
     "publisher": "Telenet",
     "difficulty": "playable",
@@ -31494,13 +31494,13 @@ export const games: Game[] = [
       "kanji": "クールスポット",
       "romaji": "Cool Spot"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Cool_Spot.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "10-12-1993",
+    "releaseDate": "1993-12-10",
     "developer": "Virgin",
     "publisher": "Virgin",
     "difficulty": "playable",
@@ -31520,13 +31520,13 @@ export const games: Game[] = [
       "kanji": "競馬エイトスペシャル",
       "romaji": "Keiba Eight Special"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "10-12-1993",
+    "releaseDate": "1993-12-10",
     "developer": "C-Lab",
     "publisher": "Misawa",
     "difficulty": "not-recommended",
@@ -31546,13 +31546,13 @@ export const games: Game[] = [
       "kanji": "決戦!ドカポン王国IV",
       "romaji": "Kessen! Dokapon Okukoku IV: Densetsu no Yuusha Tachi"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "10-12-1993",
+    "releaseDate": "1993-12-10",
     "developer": "Unknown",
     "publisher": "Asmik",
     "difficulty": "not-recommended",
@@ -31572,13 +31572,13 @@ export const games: Game[] = [
       "kanji": "カービィのきらきらきっず",
       "romaji": "Kirby's Ghost Trap"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": false,
-    "releaseDate": "10-12-1993",
+    "releaseDate": "1993-12-10",
     "developer": "Compile",
     "publisher": "Nintendo",
     "difficulty": "playable",
@@ -31598,13 +31598,13 @@ export const games: Game[] = [
       "kanji": "プロック",
       "romaji": "Plok"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "10-12-1993",
+    "releaseDate": "1993-12-10",
     "developer": "Software Creations",
     "publisher": "Nintendo",
     "difficulty": "playable",
@@ -31624,13 +31624,13 @@ export const games: Game[] = [
       "kanji": "ロマンシング サガ2",
       "romaji": "Romancing SaGa 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Romancing_SaGa_2.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "10-12-1993",
+    "releaseDate": "1993-12-10",
     "developer": "Square",
     "publisher": "Square",
     "difficulty": "not-recommended",
@@ -31650,13 +31650,13 @@ export const games: Game[] = [
       "kanji": "Rタイプ3",
       "romaji": "R-Type III: The Third Lightning"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Shooter",
     "japanExclusive": false,
-    "releaseDate": "10-12-1993",
+    "releaseDate": "1993-12-10",
     "developer": "Tamtex",
     "publisher": "Irem",
     "difficulty": "playable",
@@ -31676,13 +31676,13 @@ export const games: Game[] = [
       "kanji": "ディメンショナルフォース",
       "romaji": "Dimensional Force"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Shooter",
     "japanExclusive": false,
-    "releaseDate": "10-12-1991",
+    "releaseDate": "1991-12-10",
     "developer": "Asmik",
     "publisher": "Asmik",
     "difficulty": "playable",
@@ -31702,13 +31702,13 @@ export const games: Game[] = [
       "kanji": "同級生2",
       "romaji": "Doukyuusei 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Adventure",
     "japanExclusive": true,
-    "releaseDate": "01-12-1997",
+    "releaseDate": "1997-12-01",
     "developer": "ELF",
     "publisher": "Banpresto",
     "difficulty": "not-recommended",
@@ -31728,13 +31728,13 @@ export const games: Game[] = [
       "kanji": "どかぽん外伝",
       "romaji": "Dokapon Gaiden: Honoo no Audition"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "01-12-1995",
+    "releaseDate": "1995-12-01",
     "developer": "Earthly Soft",
     "publisher": "Asmik",
     "difficulty": "not-recommended",
@@ -31754,13 +31754,13 @@ export const games: Game[] = [
       "kanji": "ビッグハートベースボール",
       "romaji": "Big Hurt Baseball"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "01-12-1995",
+    "releaseDate": "1995-12-01",
     "developer": "Iguana",
     "publisher": "Acclaim",
     "difficulty": "playable",
@@ -31780,13 +31780,13 @@ export const games: Game[] = [
       "kanji": "不思議のダンジョン2",
       "romaji": "Furai no Shiren"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "01-12-1995",
+    "releaseDate": "1995-12-01",
     "developer": "Chunsoft",
     "publisher": "Chunsoft",
     "difficulty": "not-recommended",
@@ -31806,13 +31806,13 @@ export const games: Game[] = [
       "kanji": "ロックマンX3",
       "romaji": "Rockman X3"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Mega_Man_X3.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "01-12-1995",
+    "releaseDate": "1995-12-01",
     "developer": "Minakuchi",
     "publisher": "Capcom",
     "difficulty": "playable",
@@ -31832,13 +31832,13 @@ export const games: Game[] = [
       "kanji": "おーちゃんのお絵かきロジック",
       "romaji": "O-Chan no Oekaki Logic"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "01-12-1995",
+    "releaseDate": "1995-12-01",
     "developer": "Game Studio",
     "publisher": "Sunsoft",
     "difficulty": "playable",
@@ -31858,13 +31858,13 @@ export const games: Game[] = [
       "kanji": "パチ夫くんスペシャル3",
       "romaji": "Pachiokun Special 3"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "01-12-1995",
+    "releaseDate": "1995-12-01",
     "developer": "Marioette",
     "publisher": "Coconuts",
     "difficulty": "not-recommended",
@@ -31884,13 +31884,13 @@ export const games: Game[] = [
       "kanji": "ボンブザル",
       "romaji": "Bombuzal"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": false,
-    "releaseDate": "01-12-1990",
+    "releaseDate": "1990-12-01",
     "developer": "Kemco",
     "publisher": "Kemco",
     "difficulty": "playable",
@@ -31910,13 +31910,13 @@ export const games: Game[] = [
       "kanji": "赤ずきんチャチャ",
       "romaji": "Akazukin Chacha"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "09-08-1996",
+    "releaseDate": "1996-08-09",
     "developer": "Landwarf",
     "publisher": "Tomy",
     "difficulty": "not-recommended",
@@ -31936,13 +31936,13 @@ export const games: Game[] = [
       "kanji": "牧場物語",
       "romaji": "Bokujou Monogatari"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Harvest_Moon.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": false,
-    "releaseDate": "09-08-1996",
+    "releaseDate": "1996-08-09",
     "developer": "Pack-In-Video",
     "publisher": "Natsume",
     "difficulty": "caution",
@@ -31962,13 +31962,13 @@ export const games: Game[] = [
       "kanji": "スーパーパワーリーグ4",
       "romaji": "Super Power League 4"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "09-08-1996",
+    "releaseDate": "1996-08-09",
     "developer": "Now Production",
     "publisher": "Hudson",
     "difficulty": "playable",
@@ -31988,13 +31988,13 @@ export const games: Game[] = [
       "kanji": "熱プロ野球",
       "romaji": "Hakunetsu Pro Yakyuu: Ganba League"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "09-08-1991",
+    "releaseDate": "1991-08-09",
     "developer": "Sting",
     "publisher": "Sony",
     "difficulty": "playable",
@@ -32014,13 +32014,13 @@ export const games: Game[] = [
       "kanji": "ファランクス",
       "romaji": "Phalanx: The Enforce Fighter A-144"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Phalanx.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Shooter",
     "japanExclusive": false,
-    "releaseDate": "07-08-1992",
+    "releaseDate": "1992-08-07",
     "developer": "Kemco",
     "publisher": "Kemco",
     "difficulty": "playable",
@@ -32040,13 +32040,13 @@ export const games: Game[] = [
       "kanji": "パイプドリーム",
       "romaji": "Pipe Dream"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Pipe_Dream.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": false,
-    "releaseDate": "07-08-1992",
+    "releaseDate": "1992-08-07",
     "developer": "Tose",
     "publisher": "Bullet-Proof",
     "difficulty": "playable",
@@ -32066,13 +32066,13 @@ export const games: Game[] = [
       "kanji": "初代熱血硬派",
       "romaji": "Shodai Nekketsu Kouha Kunio-kun"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Shodai__Nekketsu_Kōha_Kunio-kun.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Beat'em up",
     "japanExclusive": true,
-    "releaseDate": "07-08-1992",
+    "releaseDate": "1992-08-07",
     "developer": "Technōs",
     "publisher": "Technōs",
     "difficulty": "playable",
@@ -32092,13 +32092,13 @@ export const games: Game[] = [
       "kanji": "スピンディジーワールド",
       "romaji": "Spindizzy Worlds"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Spindizzy_Worlds.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": false,
-    "releaseDate": "07-08-1992",
+    "releaseDate": "1992-08-07",
     "developer": "ASCII",
     "publisher": "ASCII",
     "difficulty": "playable",
@@ -32118,13 +32118,13 @@ export const games: Game[] = [
       "kanji": "スーパーパン",
       "romaji": "Super Pang"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Super_Buster_Bros.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "07-08-1992",
+    "releaseDate": "1992-08-07",
     "developer": "Capcom",
     "publisher": "Capcom",
     "difficulty": "playable",
@@ -32144,13 +32144,13 @@ export const games: Game[] = [
       "kanji": "スーパー桃太郎電鉄II",
       "romaji": "Super Momotarō Dentetsu II"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "07-08-1992",
+    "releaseDate": "1992-08-07",
     "developer": "Make",
     "publisher": "Hudson",
     "difficulty": "not-recommended",
@@ -32170,13 +32170,13 @@ export const games: Game[] = [
       "kanji": "ヒューマンベースボール",
       "romaji": "Human Baseball"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "06-08-1993",
+    "releaseDate": "1993-08-06",
     "developer": "Human",
     "publisher": "Human",
     "difficulty": "playable",
@@ -32196,13 +32196,13 @@ export const games: Game[] = [
       "kanji": "Jリーグサッカープライムゴール",
       "romaji": "J.League Soccer Prime Goal"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "06-08-1993",
+    "releaseDate": "1993-08-06",
     "developer": "Namco",
     "publisher": "Namco",
     "difficulty": "playable",
@@ -32222,13 +32222,13 @@ export const games: Game[] = [
       "kanji": "くにおくんのドッジボール",
       "romaji": "Kunio-kun no Dodgeball da yo Zen'in Shūgō!!"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "06-08-1993",
+    "releaseDate": "1993-08-06",
     "developer": "Technōs",
     "publisher": "Technōs",
     "difficulty": "playable",
@@ -32248,13 +32248,13 @@ export const games: Game[] = [
       "kanji": "大仁田厚FMW",
       "romaji": "Onita Atsushi FMW"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Wrestling",
     "japanExclusive": true,
-    "releaseDate": "06-08-1993",
+    "releaseDate": "1993-08-06",
     "developer": "Marionette",
     "publisher": "Pony Canyon",
     "difficulty": "playable",
@@ -32274,13 +32274,13 @@ export const games: Game[] = [
       "kanji": "聖剣伝説2",
       "romaji": "Seiken Densetsu 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action RPG",
     "japanExclusive": false,
-    "releaseDate": "06-08-1993",
+    "releaseDate": "1993-08-06",
     "developer": "Square",
     "publisher": "Square",
     "difficulty": "caution",
@@ -32300,13 +32300,13 @@ export const games: Game[] = [
       "kanji": "ソードワールドSFC",
       "romaji": "Sword World SFC"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Sword_World_SFC.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "06-08-1993",
+    "releaseDate": "1993-08-06",
     "developer": "Unknown",
     "publisher": "T&E Soft",
     "difficulty": "not-recommended",
@@ -32326,13 +32326,13 @@ export const games: Game[] = [
       "kanji": "ジェノサイド2",
       "romaji": "Genocide 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "05-08-1994",
+    "releaseDate": "1994-08-05",
     "developer": "Bits Studios",
     "publisher": "Kemco",
     "difficulty": "playable",
@@ -32352,13 +32352,13 @@ export const games: Game[] = [
       "kanji": "Jリーグプライムゴール2",
       "romaji": "J.League Soccer Prime Goal 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "05-08-1994",
+    "releaseDate": "1994-08-05",
     "developer": "Unknown",
     "publisher": "Namco",
     "difficulty": "playable",
@@ -32378,13 +32378,13 @@ export const games: Game[] = [
       "kanji": "鬼神降臨伝ONI",
       "romaji": "Kishin Korinden Oni"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "05-08-1994",
+    "releaseDate": "1994-08-05",
     "developer": "Pandora Box",
     "publisher": "Banpresto",
     "difficulty": "playable",
@@ -32404,13 +32404,13 @@ export const games: Game[] = [
       "kanji": "魔法ポイポイポイっと!",
       "romaji": "Mahou Poi Poi Poitto!"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "05-08-1994",
+    "releaseDate": "1994-08-05",
     "developer": "Metro",
     "publisher": "Takara",
     "difficulty": "playable",
@@ -32430,13 +32430,13 @@ export const games: Game[] = [
       "kanji": "ピンボールピンボール",
       "romaji": "Pinball Dreams"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Pinball",
     "japanExclusive": false,
-    "releaseDate": "05-08-1994",
+    "releaseDate": "1994-08-05",
     "developer": "Spidersoft",
     "publisher": "GameTek",
     "difficulty": "playable",
@@ -32456,13 +32456,13 @@ export const games: Game[] = [
       "kanji": "スーパー花札",
       "romaji": "Super Hanafuda"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Card Game",
     "japanExclusive": true,
-    "releaseDate": "05-08-1994",
+    "releaseDate": "1994-08-05",
     "developer": "Use",
     "publisher": "I'MAX",
     "difficulty": "not-recommended",
@@ -32482,13 +32482,13 @@ export const games: Game[] = [
       "kanji": "スーパー高校野球",
       "romaji": "Super Kokou Yakyuu: Ichikyuu Jikkon"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "05-08-1994",
+    "releaseDate": "1994-08-05",
     "developer": "Unknown",
     "publisher": "I'MAX",
     "difficulty": "playable",
@@ -32508,13 +32508,13 @@ export const games: Game[] = [
       "kanji": "スーパーニンジャくん",
       "romaji": "Maru's Quest"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "05-08-1994",
+    "releaseDate": "1994-08-05",
     "developer": "Unknown",
     "publisher": "Jaleco",
     "difficulty": "playable",
@@ -32534,13 +32534,13 @@ export const games: Game[] = [
       "kanji": "動く絵 Ver. 2.0",
       "romaji": "Ugoku E Ver. 2.0: Aryol"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "05-08-1994",
+    "releaseDate": "1994-08-05",
     "developer": "Unknown",
     "publisher": "Altron",
     "difficulty": "playable",
@@ -32560,13 +32560,13 @@ export const games: Game[] = [
       "kanji": "Jリーグプライムゴール3",
       "romaji": "J.League Soccer Prime Goal 3"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "04-08-1995",
+    "releaseDate": "1995-08-04",
     "developer": "Namco",
     "publisher": "Ocean",
     "difficulty": "playable",
@@ -32586,13 +32586,13 @@ export const games: Game[] = [
       "kanji": "超魔法大陸WOZZ",
       "romaji": "Chō Mahou Tairiku WOZZ"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Chō_Mahō_Tairiku_Wozz.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "04-08-1995",
+    "releaseDate": "1995-08-04",
     "developer": "Red Company",
     "publisher": "Bullet-Proof",
     "difficulty": "not-recommended",
@@ -32612,13 +32612,13 @@ export const games: Game[] = [
       "kanji": "学校であった怖い話",
       "romaji": "Gakkou de atta Kowai Hanashi"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Gakkō_de_atta_Kowai_Hanashi.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Adventure",
     "japanExclusive": true,
-    "releaseDate": "04-08-1995",
+    "releaseDate": "1995-08-04",
     "developer": "Pandora Box",
     "publisher": "Banpresto",
     "difficulty": "not-recommended",
@@ -32638,13 +32638,13 @@ export const games: Game[] = [
       "kanji": "イナズマサーブだ!!",
       "romaji": "Inazuma Serve da!! Super Beach Volley"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "04-08-1995",
+    "releaseDate": "1995-08-04",
     "developer": "Unknown",
     "publisher": "Virgin",
     "difficulty": "playable",
@@ -32664,13 +32664,13 @@ export const games: Game[] = [
       "kanji": "へべれけのパズル",
       "romaji": "Hebereke no Oishii Puzzle: ha Irimasen ka"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "31-08-1994",
+    "releaseDate": "1994-08-31",
     "developer": "Unknown",
     "publisher": "Sunsoft",
     "difficulty": "playable",
@@ -32690,13 +32690,13 @@ export const games: Game[] = [
       "kanji": "サンリオ上海",
       "romaji": "Sanrio Shanghai"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "31-08-1994",
+    "releaseDate": "1994-08-31",
     "developer": "SAS Sakata",
     "publisher": "Character Soft",
     "difficulty": "playable",
@@ -32716,13 +32716,13 @@ export const games: Game[] = [
       "kanji": "ハイパーゾーン",
       "romaji": "HyperZone"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Shooter",
     "japanExclusive": false,
-    "releaseDate": "31-08-1991",
+    "releaseDate": "1991-08-31",
     "developer": "HAL Laboratory",
     "publisher": "HAL",
     "difficulty": "playable",
@@ -32742,13 +32742,13 @@ export const games: Game[] = [
       "kanji": "大戦略エキスパートWWII",
       "romaji": "Daisenryaku Expert WWII: War in Europe"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": true,
-    "releaseDate": "30-08-1996",
+    "releaseDate": "1996-08-30",
     "developer": "SystemSoft",
     "publisher": "ASCII",
     "difficulty": "not-recommended",
@@ -32768,13 +32768,13 @@ export const games: Game[] = [
       "kanji": "必殺パチンコ4",
       "romaji": "Hissatsu Pachinko Collection 4"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "30-08-1996",
+    "releaseDate": "1996-08-30",
     "developer": "Unknown",
     "publisher": "Sunsoft",
     "difficulty": "not-recommended",
@@ -32794,13 +32794,13 @@ export const games: Game[] = [
       "kanji": "本家SANKYO FEVER3",
       "romaji": "Honke Sankyo Fever: Jikkyou Simulation 3"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "30-08-1996",
+    "releaseDate": "1996-08-30",
     "developer": "Vistec",
     "publisher": "Boss",
     "difficulty": "not-recommended",
@@ -32820,13 +32820,13 @@ export const games: Game[] = [
       "kanji": "ナンバーズパラダイス",
       "romaji": "Numbers Paradise"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "30-08-1996",
+    "releaseDate": "1996-08-30",
     "developer": "ISCO",
     "publisher": "Acclaim",
     "difficulty": "playable",
@@ -32846,13 +32846,13 @@ export const games: Game[] = [
       "kanji": "スーパーテニス",
       "romaji": "Super Tennis World Circuit"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "30-08-1991",
+    "releaseDate": "1991-08-30",
     "developer": "Tokyo Shoseki",
     "publisher": "Nintendo",
     "difficulty": "playable",
@@ -32872,13 +32872,13 @@ export const games: Game[] = [
       "kanji": "パーラー!ミニ7",
       "romaji": "Parlor! Mini 7: Pachinko Jikki Simulation Game"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "29-08-1997",
+    "releaseDate": "1997-08-29",
     "developer": "Unknown",
     "publisher": "Telenet",
     "difficulty": "not-recommended",
@@ -32898,13 +32898,13 @@ export const games: Game[] = [
       "kanji": "CBキャラウォーズ",
       "romaji": "CB Chara Wars: Ushinawareta Gag"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "28-08-1992",
+    "releaseDate": "1992-08-28",
     "developer": "Almanic",
     "publisher": "Banpresto",
     "difficulty": "playable",
@@ -32924,13 +32924,13 @@ export const games: Game[] = [
       "kanji": "ウルトラベースボール実名版",
       "romaji": "Ultra Baseball Jitsumeiban"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "28-08-1992",
+    "releaseDate": "1992-08-28",
     "developer": "Culture Brain",
     "publisher": "Culture Brain",
     "difficulty": "playable",
@@ -32950,13 +32950,13 @@ export const games: Game[] = [
       "kanji": "MOTHER2",
       "romaji": "Mother 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/EarthBound.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": false,
-    "releaseDate": "27-08-1994",
+    "releaseDate": "1994-08-27",
     "developer": "Ape",
     "publisher": "Nintendo",
     "difficulty": "caution",
@@ -32976,13 +32976,13 @@ export const games: Game[] = [
       "kanji": "デストラクティブ",
       "romaji": "Destructive"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "27-08-1993",
+    "releaseDate": "1993-08-27",
     "developer": "Tose",
     "publisher": "Bandai",
     "difficulty": "playable",
@@ -33002,13 +33002,13 @@ export const games: Game[] = [
       "kanji": "樹庭戦記",
       "romaji": "Jutei Senki"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": true,
-    "releaseDate": "27-08-1993",
+    "releaseDate": "1993-08-27",
     "developer": "Tam Tam",
     "publisher": "Enix",
     "difficulty": "not-recommended",
@@ -33028,13 +33028,13 @@ export const games: Game[] = [
       "kanji": "マリオ&ワリオ",
       "romaji": "Mario & Wario"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "27-08-1993",
+    "releaseDate": "1993-08-27",
     "developer": "Game Freak",
     "publisher": "Nintendo",
     "difficulty": "playable",
@@ -33054,13 +33054,13 @@ export const games: Game[] = [
       "kanji": "MVPベースボール",
       "romaji": "MVP Baseball"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "27-08-1993",
+    "releaseDate": "1993-08-27",
     "developer": "Sculptured",
     "publisher": "LJN",
     "difficulty": "playable",
@@ -33080,13 +33080,13 @@ export const games: Game[] = [
       "kanji": "美少女戦士セーラームーン",
       "romaji": "Bishōjo Senshi Sailor Moon"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "27-08-1993",
+    "releaseDate": "1993-08-27",
     "developer": "Angel",
     "publisher": "Angel",
     "difficulty": "playable",
@@ -33106,13 +33106,13 @@ export const games: Game[] = [
       "kanji": "サラブレッドブリーダー",
       "romaji": "Thoroughbred Breeder"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "27-08-1993",
+    "releaseDate": "1993-08-27",
     "developer": "Hect",
     "publisher": "Hect",
     "difficulty": "not-recommended",
@@ -33132,13 +33132,13 @@ export const games: Game[] = [
       "kanji": "Xゾーン",
       "romaji": "X-Zone"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/X-Zone.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "27-08-1993",
+    "releaseDate": "1993-08-27",
     "developer": "Kemco",
     "publisher": "Kemco",
     "difficulty": "playable",
@@ -33158,13 +33158,13 @@ export const games: Game[] = [
       "kanji": "スーパーマリオカート",
       "romaji": "Super Mario Kart"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Super_Mario_Kart.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": false,
-    "releaseDate": "27-08-1992",
+    "releaseDate": "1992-08-27",
     "developer": "Nintendo EAD",
     "publisher": "Nintendo",
     "difficulty": "playable",
@@ -33184,13 +33184,13 @@ export const games: Game[] = [
       "kanji": "アップルシード",
       "romaji": "Appleseed: Oracle of Prometheus"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "26-08-1994",
+    "releaseDate": "1994-08-26",
     "developer": "Visit",
     "publisher": "Visit",
     "difficulty": "playable",
@@ -33210,13 +33210,13 @@ export const games: Game[] = [
       "kanji": "スーパードラッケン",
       "romaji": "Super Drakkhen"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Dragon_View.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action RPG",
     "japanExclusive": false,
-    "releaseDate": "26-08-1994",
+    "releaseDate": "1994-08-26",
     "developer": "Kemco",
     "publisher": "Kemco",
     "difficulty": "caution",
@@ -33236,13 +33236,13 @@ export const games: Game[] = [
       "kanji": "松村邦洋伝",
       "romaji": "Matsumura Kunihiro Den: Saikyou no Rekishi o Nurikaero!"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "26-08-1994",
+    "releaseDate": "1994-08-26",
     "developer": "Office Koukan",
     "publisher": "Shouei",
     "difficulty": "not-recommended",
@@ -33262,13 +33262,13 @@ export const games: Game[] = [
       "kanji": "おっす!!空手部",
       "romaji": "Ossu!! Karatebu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": true,
-    "releaseDate": "26-08-1994",
+    "releaseDate": "1994-08-26",
     "developer": "Culture Brain",
     "publisher": "Culture Brain",
     "difficulty": "playable",
@@ -33288,13 +33288,13 @@ export const games: Game[] = [
       "kanji": "パックマン2",
       "romaji": "Hello! Pac-Man"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "26-08-1994",
+    "releaseDate": "1994-08-26",
     "developer": "Namco",
     "publisher": "Namco",
     "difficulty": "playable",
@@ -33314,13 +33314,13 @@ export const games: Game[] = [
       "kanji": "横綱物語",
       "romaji": "Yokozuna Monogatari"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "26-08-1994",
+    "releaseDate": "1994-08-26",
     "developer": "Unknown",
     "publisher": "KSS",
     "difficulty": "caution",
@@ -33340,13 +33340,13 @@ export const games: Game[] = [
       "kanji": "コロンランド",
       "romaji": "Coron Land"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": true,
-    "releaseDate": "25-08-1995",
+    "releaseDate": "1995-08-25",
     "developer": "Aroma",
     "publisher": "Yumedia",
     "difficulty": "playable",
@@ -33366,13 +33366,13 @@ export const games: Game[] = [
       "kanji": "ヒューマングランプリIV",
       "romaji": "Human Grand Prix IV: F1 Dream Battle"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": true,
-    "releaseDate": "25-08-1995",
+    "releaseDate": "1995-08-25",
     "developer": "Human",
     "publisher": "Human",
     "difficulty": "playable",
@@ -33392,13 +33392,13 @@ export const games: Game[] = [
       "kanji": "実戦!バスフィッシング",
       "romaji": "Jissen! Bass Fishing Hisshouhou in USA"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Jimmy_Houston's_Bass_Tournament_U.S.A.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "25-08-1995",
+    "releaseDate": "1995-08-25",
     "developer": "Nexus",
     "publisher": "Sammy",
     "difficulty": "caution",
@@ -33418,13 +33418,13 @@ export const games: Game[] = [
       "kanji": "京楽産業パーラー!",
       "romaji": "Kyouraku Sanyou Maruhon Parlor! Parlor! 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "25-08-1995",
+    "releaseDate": "1995-08-25",
     "developer": "Unknown",
     "publisher": "Telenet",
     "difficulty": "not-recommended",
@@ -33444,13 +33444,13 @@ export const games: Game[] = [
       "kanji": "魔獣王",
       "romaji": "Majyūō"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "25-08-1995",
+    "releaseDate": "1995-08-25",
     "developer": "Prism Kikaku",
     "publisher": "KSS",
     "difficulty": "playable",
@@ -33470,13 +33470,13 @@ export const games: Game[] = [
       "kanji": "松方弘樹のスーパートローリング",
       "romaji": "Matsukata Hiroki no Super Trawling"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "25-08-1995",
+    "releaseDate": "1995-08-25",
     "developer": "Atelier Double",
     "publisher": "Tonkin House",
     "difficulty": "caution",
@@ -33496,13 +33496,13 @@ export const games: Game[] = [
       "kanji": "心理ゲーム3",
       "romaji": "The Shinri Game 3"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "25-08-1995",
+    "releaseDate": "1995-08-25",
     "developer": "Ukiyotei",
     "publisher": "Visit",
     "difficulty": "not-recommended",
@@ -33522,13 +33522,13 @@ export const games: Game[] = [
       "kanji": "古田敦也のプロ野球2",
       "romaji": "Furuta Atsuya no Simulation Pro Yakyuu 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "24-08-1996",
+    "releaseDate": "1996-08-24",
     "developer": "Hect",
     "publisher": "Hect",
     "difficulty": "playable",
@@ -33548,13 +33548,13 @@ export const games: Game[] = [
       "kanji": "初段森田将棋",
       "romaji": "Shodan Morita Shougi"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "23-08-1991",
+    "releaseDate": "1991-08-23",
     "developer": "Unknown",
     "publisher": "SETA",
     "difficulty": "not-recommended",
@@ -33574,13 +33574,13 @@ export const games: Game[] = [
       "kanji": "スーパー麻雀",
       "romaji": "Super Mahjong"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "22-08-1992",
+    "releaseDate": "1992-08-22",
     "developer": "Unknown",
     "publisher": "I'MAX",
     "difficulty": "not-recommended",
@@ -33600,13 +33600,13 @@ export const games: Game[] = [
       "kanji": "キン肉マン",
       "romaji": "Kinnikuman: Dirty Challenger"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": true,
-    "releaseDate": "21-08-1992",
+    "releaseDate": "1992-08-21",
     "developer": "Unknown",
     "publisher": "Yutaka",
     "difficulty": "playable",
@@ -33626,13 +33626,13 @@ export const games: Game[] = [
       "kanji": "スーパースラップショット",
       "romaji": "Super Slap Shot"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "20-08-1993",
+    "releaseDate": "1993-08-20",
     "developer": "Ringler Studios",
     "publisher": "Virgin",
     "difficulty": "playable",
@@ -33652,13 +33652,13 @@ export const games: Game[] = [
       "kanji": "大貝獣物語2",
       "romaji": "Daikaijuu Monogatari 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "02-08-1996",
+    "releaseDate": "1996-08-02",
     "developer": "AIM",
     "publisher": "Hudson",
     "difficulty": "not-recommended",
@@ -33678,13 +33678,13 @@ export const games: Game[] = [
       "kanji": "スーパーマリオ ヨッシーアイランド",
       "romaji": "Yoshi's Island"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Super_Mario_World_2__Yoshi's_Island.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "01-08-1995",
+    "releaseDate": "1995-08-01",
     "developer": "Nintendo EAD",
     "publisher": "Nintendo",
     "difficulty": "playable",
@@ -33704,13 +33704,13 @@ export const games: Game[] = [
       "kanji": "必勝777ファイターII",
       "romaji": "Pachi-Slot Maruhi Jouhou"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "19-08-1994",
+    "releaseDate": "1994-08-19",
     "developer": "Jorudan",
     "publisher": "VAP",
     "difficulty": "not-recommended",
@@ -33730,13 +33730,13 @@ export const games: Game[] = [
       "kanji": "ファイナルセットテニス",
       "romaji": "Final Set Tennis"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "12-08-1994",
+    "releaseDate": "1994-08-12",
     "developer": "Human",
     "publisher": "Human",
     "difficulty": "playable",
@@ -33756,13 +33756,13 @@ export const games: Game[] = [
       "kanji": "フリントストーン",
       "romaji": "The Treasure of Sierra Madrock"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "12-08-1994",
+    "releaseDate": "1994-08-12",
     "developer": "Taito",
     "publisher": "Taito",
     "difficulty": "playable",
@@ -33782,13 +33782,13 @@ export const games: Game[] = [
       "kanji": "レミングス2",
       "romaji": "The Tribes"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": false,
-    "releaseDate": "12-08-1994",
+    "releaseDate": "1994-08-12",
     "developer": "Psygnosis",
     "publisher": "Psygnosis",
     "difficulty": "playable",
@@ -33808,13 +33808,13 @@ export const games: Game[] = [
       "kanji": "ポパイ",
       "romaji": "Ijiwaru Majo Sea Hag no Maki"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "12-08-1994",
+    "releaseDate": "1994-08-12",
     "developer": "Technōs",
     "publisher": "Technōs",
     "difficulty": "playable",
@@ -33834,13 +33834,13 @@ export const games: Game[] = [
       "kanji": "新日本プロレスリング'94",
       "romaji": "Battlefield in Tokyo Dome"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "12-08-1994",
+    "releaseDate": "1994-08-12",
     "developer": "Unknown",
     "publisher": "Varie",
     "difficulty": "playable",
@@ -33860,13 +33860,13 @@ export const games: Game[] = [
       "kanji": "スーパーファイナルマッチテニス",
       "romaji": "Super Final Match Tennis"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Super_Final_Match_Tennis.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "12-08-1994",
+    "releaseDate": "1994-08-12",
     "developer": "Human",
     "publisher": "Human",
     "difficulty": "playable",
@@ -33886,13 +33886,13 @@ export const games: Game[] = [
       "kanji": "スーパー究極ハリキリスタジアム2",
       "romaji": "Super Kyuukyoku Harikiri Stadium 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "12-08-1994",
+    "releaseDate": "1994-08-12",
     "developer": "Now Production",
     "publisher": "Taito",
     "difficulty": "playable",
@@ -33912,13 +33912,13 @@ export const games: Game[] = [
       "kanji": "スーパー三國志",
       "romaji": "Super Sangokushi"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": true,
-    "releaseDate": "12-08-1994",
+    "releaseDate": "1994-08-12",
     "developer": "Koei",
     "publisher": "Koei",
     "difficulty": "not-recommended",
@@ -33938,13 +33938,13 @@ export const games: Game[] = [
       "kanji": "ワイルドガンズ",
       "romaji": "Wild Guns"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Wild_Guns.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Shooter",
     "japanExclusive": false,
-    "releaseDate": "12-08-1994",
+    "releaseDate": "1994-08-12",
     "developer": "Natsume",
     "publisher": "Natsume",
     "difficulty": "playable",
@@ -33964,13 +33964,13 @@ export const games: Game[] = [
       "kanji": "ワールドヒーローズ",
       "romaji": "World Heroes"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": false,
-    "releaseDate": "12-08-1993",
+    "releaseDate": "1993-08-12",
     "developer": "Sunsoft",
     "publisher": "Sunsoft",
     "difficulty": "playable",
@@ -33990,13 +33990,13 @@ export const games: Game[] = [
       "kanji": "ブラックソーン",
       "romaji": "Blackhawk"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "11-08-1995",
+    "releaseDate": "1995-08-11",
     "developer": "Blizzard",
     "publisher": "Interplay",
     "difficulty": "playable",
@@ -34016,13 +34016,13 @@ export const games: Game[] = [
       "kanji": "ブランディッシュ2",
       "romaji": "The Planet Buster"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action RPG",
     "japanExclusive": true,
-    "releaseDate": "11-08-1995",
+    "releaseDate": "1995-08-11",
     "developer": "Koei",
     "publisher": "Koei",
     "difficulty": "not-recommended",
@@ -34042,13 +34042,13 @@ export const games: Game[] = [
       "kanji": "ドナルドダックの魔法の帽子",
       "romaji": "Donald Duck no Mahou no Boushi"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": true,
-    "releaseDate": "11-08-1995",
+    "releaseDate": "1995-08-11",
     "developer": "Pop House",
     "publisher": "Epoch",
     "difficulty": "playable",
@@ -34068,13 +34068,13 @@ export const games: Game[] = [
       "kanji": "ゲームの達人",
       "romaji": "Game no Tatsujin"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "11-08-1995",
+    "releaseDate": "1995-08-11",
     "developer": "Affect",
     "publisher": "Sunsoft",
     "difficulty": "playable",
@@ -34094,13 +34094,13 @@ export const games: Game[] = [
       "kanji": "ファイティングベースボール",
       "romaji": "Fighting Baseball"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "11-08-1995",
+    "releaseDate": "1995-08-11",
     "developer": "Visual Concepts",
     "publisher": "EA Sports",
     "difficulty": "playable",
@@ -34120,13 +34120,13 @@ export const games: Game[] = [
       "kanji": "忍龍伝巴",
       "romaji": "Ninja Ryuukenden Tomoe"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "11-08-1995",
+    "releaseDate": "1995-08-11",
     "developer": "Tecmo",
     "publisher": "Tecmo",
     "difficulty": "playable",
@@ -34146,13 +34146,13 @@ export const games: Game[] = [
       "kanji": "スーパーぐっすんおよよ",
       "romaji": "Super Gussun Oyoyo"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "11-08-1995",
+    "releaseDate": "1995-08-11",
     "developer": "Kan's",
     "publisher": "Banpresto",
     "difficulty": "playable",
@@ -34172,13 +34172,13 @@ export const games: Game[] = [
       "kanji": "武宮正樹九段",
       "romaji": "Takemiya Masaki Kudan no Igo Taishou"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "11-08-1995",
+    "releaseDate": "1995-08-11",
     "developer": "Unknown",
     "publisher": "KSS",
     "difficulty": "not-recommended",
@@ -34198,13 +34198,13 @@ export const games: Game[] = [
       "kanji": "天地を喰らう",
       "romaji": "Sangokushi Gunyuuden"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": true,
-    "releaseDate": "11-08-1995",
+    "releaseDate": "1995-08-11",
     "developer": "Unknown",
     "publisher": "Capcom",
     "difficulty": "not-recommended",
@@ -34224,13 +34224,13 @@ export const games: Game[] = [
       "kanji": "ホームアローン",
       "romaji": "Home Alone"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "11-08-1992",
+    "releaseDate": "1992-08-11",
     "developer": "Imagineering",
     "publisher": "THQ",
     "difficulty": "playable",
@@ -34250,13 +34250,13 @@ export const games: Game[] = [
       "kanji": "スーパーパワーリーグ3",
       "romaji": "Super Power League 3"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "10-08-1995",
+    "releaseDate": "1995-08-10",
     "developer": "Now Production",
     "publisher": "Hudson",
     "difficulty": "playable",
@@ -34276,13 +34276,13 @@ export const games: Game[] = [
       "kanji": "スーパー競馬",
       "romaji": "Super Keiba"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "10-08-1993",
+    "releaseDate": "1993-08-10",
     "developer": "Unknown",
     "publisher": "I'MAX",
     "difficulty": "not-recommended",
@@ -34302,13 +34302,13 @@ export const games: Game[] = [
       "kanji": "コラムス",
       "romaji": "Columns"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "01-08-1999",
+    "releaseDate": "1999-08-01",
     "developer": "Marigul",
     "publisher": "Media Factory",
     "difficulty": "playable",
@@ -34328,13 +34328,13 @@ export const games: Game[] = [
       "kanji": "フネ太郎",
       "romaji": "Fune Tarou"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "01-08-1997",
+    "releaseDate": "1997-08-01",
     "developer": "Unknown",
     "publisher": "Victor",
     "difficulty": "not-recommended",
@@ -34354,13 +34354,13 @@ export const games: Game[] = [
       "kanji": "アクションパチ夫",
       "romaji": "Action Pachio"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "09-04-1993",
+    "releaseDate": "1993-04-09",
     "developer": "Coconuts",
     "publisher": "Coconuts",
     "difficulty": "playable",
@@ -34380,13 +34380,13 @@ export const games: Game[] = [
       "kanji": "NHLホッケー'94",
       "romaji": "NHL Hockey '94"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "08-04-1994",
+    "releaseDate": "1994-04-08",
     "developer": "EA",
     "publisher": "EA Sports",
     "difficulty": "playable",
@@ -34406,13 +34406,13 @@ export const games: Game[] = [
       "kanji": "紫炎",
       "romaji": "Shien: The Blade Chaser"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Shien's_Revenge.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "08-04-1994",
+    "releaseDate": "1994-04-08",
     "developer": "Almanic",
     "publisher": "Vic Tokai",
     "difficulty": "playable",
@@ -34432,13 +34432,13 @@ export const games: Game[] = [
       "kanji": "スーパー囲碁碁王",
       "romaji": "Super Igo Go Ou"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "08-04-1994",
+    "releaseDate": "1994-04-08",
     "developer": "Unknown",
     "publisher": "Naxat",
     "difficulty": "not-recommended",
@@ -34458,13 +34458,13 @@ export const games: Game[] = [
       "kanji": "太閤立身伝",
       "romaji": "Taikou Rishinden"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Taikō_Risshiden.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": true,
-    "releaseDate": "07-04-1993",
+    "releaseDate": "1993-04-07",
     "developer": "Unknown",
     "publisher": "Koei",
     "difficulty": "not-recommended",
@@ -34484,13 +34484,13 @@ export const games: Game[] = [
       "kanji": "黄龍の翼",
       "romaji": "Kouryuuki"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": false,
-    "releaseDate": "06-04-1994",
+    "releaseDate": "1994-04-06",
     "developer": "Koei",
     "publisher": "Koei",
     "difficulty": "caution",
@@ -34510,13 +34510,13 @@ export const games: Game[] = [
       "kanji": "実戦パチスロ必勝法",
       "romaji": "Yamasa Densetsu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "05-04-1996",
+    "releaseDate": "1996-04-05",
     "developer": "Unknown",
     "publisher": "Sammy",
     "difficulty": "not-recommended",
@@ -34536,13 +34536,13 @@ export const games: Game[] = [
       "kanji": "ルドラの秘宝",
       "romaji": "Rudra no Hihō"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Rudra_no_Hihō.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "05-04-1996",
+    "releaseDate": "1996-04-05",
     "developer": "Square",
     "publisher": "Square",
     "difficulty": "not-recommended",
@@ -34562,13 +34562,13 @@ export const games: Game[] = [
       "kanji": "エアーマネジメント",
       "romaji": "Air Management: Oozora ni Kakeru"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": false,
-    "releaseDate": "05-04-1992",
+    "releaseDate": "1992-04-05",
     "developer": "Koei",
     "publisher": "Koei",
     "difficulty": "caution",
@@ -34588,13 +34588,13 @@ export const games: Game[] = [
       "kanji": "オセロワールド",
       "romaji": "Othello World"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": false,
-    "releaseDate": "05-04-1992",
+    "releaseDate": "1992-04-05",
     "developer": "Dice",
     "publisher": "Tsukuda",
     "difficulty": "playable",
@@ -34614,13 +34614,13 @@ export const games: Game[] = [
       "kanji": "はるかなるオーガスタ",
       "romaji": "Harukanaru Augusta"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Harukanaru_Augusta.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "05-04-1991",
+    "releaseDate": "1991-04-05",
     "developer": "T&E Soft",
     "publisher": "T&E Soft",
     "difficulty": "playable",
@@ -34640,13 +34640,13 @@ export const games: Game[] = [
       "kanji": "ブレス オブ ファイア",
       "romaji": "Breath of Fire"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Breath_of_Fire.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": false,
-    "releaseDate": "03-04-1993",
+    "releaseDate": "1993-04-03",
     "developer": "Capcom",
     "publisher": "Square",
     "difficulty": "caution",
@@ -34666,13 +34666,13 @@ export const games: Game[] = [
       "kanji": "キャプテン翼4",
       "romaji": "Pro no Rival Tachi"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "03-04-1993",
+    "releaseDate": "1993-04-03",
     "developer": "Tecmo",
     "publisher": "Tecmo",
     "difficulty": "caution",
@@ -34692,13 +34692,13 @@ export const games: Game[] = [
       "kanji": "ウルティマ VI",
       "romaji": "The False Prophet"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": false,
-    "releaseDate": "03-04-1992",
+    "releaseDate": "1992-04-03",
     "developer": "Infinity",
     "publisher": "FCI",
     "difficulty": "caution",
@@ -34718,13 +34718,13 @@ export const games: Game[] = [
       "kanji": "ダークキングダム",
       "romaji": "Dark Kingdom"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Dark_Kingdom.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "29-04-1994",
+    "releaseDate": "1994-04-29",
     "developer": "Telenet",
     "publisher": "Telenet",
     "difficulty": "playable",
@@ -34744,13 +34744,13 @@ export const games: Game[] = [
       "kanji": "NBAジャム",
       "romaji": "NBA Jam"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "29-04-1994",
+    "releaseDate": "1994-04-29",
     "developer": "Iguana",
     "publisher": "Acclaim",
     "difficulty": "playable",
@@ -34770,13 +34770,13 @@ export const games: Game[] = [
       "kanji": "ナイスでショット",
       "romaji": "Nice de Shot"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "29-04-1994",
+    "releaseDate": "1994-04-29",
     "developer": "Magical",
     "publisher": "ASK",
     "difficulty": "playable",
@@ -34796,13 +34796,13 @@ export const games: Game[] = [
       "kanji": "新熱血硬派",
       "romaji": "Kunio-tachi no Banka"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Shodai__Nekketsu_Kōha_Kunio-kun.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "29-04-1994",
+    "releaseDate": "1994-04-29",
     "developer": "Almanic",
     "publisher": "Technōs",
     "difficulty": "playable",
@@ -34822,13 +34822,13 @@ export const games: Game[] = [
       "kanji": "ボールズ3D",
       "romaji": "3 Jigen Kakuto: Ballz"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": false,
-    "releaseDate": "28-04-1995",
+    "releaseDate": "1995-04-28",
     "developer": "PF.Magic",
     "publisher": "Accolade",
     "difficulty": "playable",
@@ -34848,13 +34848,13 @@ export const games: Game[] = [
       "kanji": "覇威正麻雀 龍牙",
       "romaji": "Haisei Mahjong Ryouga"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "28-04-1995",
+    "releaseDate": "1995-04-28",
     "developer": "Unknown",
     "publisher": "ASCII",
     "difficulty": "not-recommended",
@@ -34874,13 +34874,13 @@ export const games: Game[] = [
       "kanji": "Jリーグエキサイトステージ'95",
       "romaji": "J.League Excite Stage '95"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "28-04-1995",
+    "releaseDate": "1995-04-28",
     "developer": "A-Max",
     "publisher": "Epoch",
     "difficulty": "playable",
@@ -34900,13 +34900,13 @@ export const games: Game[] = [
       "kanji": "川のぬし釣り2",
       "romaji": "Kawa no Nushi Tsuri 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Kawa_no_Nushi_Tsuri_2.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "28-04-1995",
+    "releaseDate": "1995-04-28",
     "developer": "Unknown",
     "publisher": "Pack-In",
     "difficulty": "caution",
@@ -34926,13 +34926,13 @@ export const games: Game[] = [
       "kanji": "初段位認定",
       "romaji": "Shodan Pro Mahjong"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "28-04-1995",
+    "releaseDate": "1995-04-28",
     "developer": "Khaos",
     "publisher": "Gaps",
     "difficulty": "not-recommended",
@@ -34952,13 +34952,13 @@ export const games: Game[] = [
       "kanji": "シミュレーションプロ野球",
       "romaji": "Simulation Pro Yakyuu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "28-04-1995",
+    "releaseDate": "1995-04-28",
     "developer": "Hect",
     "publisher": "Hect",
     "difficulty": "caution",
@@ -34978,13 +34978,13 @@ export const games: Game[] = [
       "kanji": "ストーンプロテクターズ",
       "romaji": "Stone Protectors"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "28-04-1995",
+    "releaseDate": "1995-04-28",
     "developer": "Eurocom",
     "publisher": "Kemco",
     "difficulty": "playable",
@@ -35004,13 +35004,13 @@ export const games: Game[] = [
       "kanji": "スーパーパチンコ大戦",
       "romaji": "Super Pachinko Taisen"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "28-04-1995",
+    "releaseDate": "1995-04-28",
     "developer": "Unknown",
     "publisher": "Banpresto",
     "difficulty": "not-recommended",
@@ -35030,13 +35030,13 @@ export const games: Game[] = [
       "kanji": "タロットミステリー",
       "romaji": "Tarot Mystery"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "28-04-1995",
+    "releaseDate": "1995-04-28",
     "developer": "Ukiyotei",
     "publisher": "Visit",
     "difficulty": "not-recommended",
@@ -35056,13 +35056,13 @@ export const games: Game[] = [
       "kanji": "プラネッツチャンプTG3000",
       "romaji": "The Planet's Champ TG3000"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": false,
-    "releaseDate": "28-04-1995",
+    "releaseDate": "1995-04-28",
     "developer": "Gremlin",
     "publisher": "Kemco",
     "difficulty": "playable",
@@ -35082,13 +35082,13 @@ export const games: Game[] = [
       "kanji": "トゥルーライズ",
       "romaji": "True Lies"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "28-04-1995",
+    "releaseDate": "1995-04-28",
     "developer": "Beam Software",
     "publisher": "LJN",
     "difficulty": "playable",
@@ -35108,13 +35108,13 @@ export const games: Game[] = [
       "kanji": "ダイナマイト",
       "romaji": "The Las Vegas"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "28-04-1994",
+    "releaseDate": "1994-04-28",
     "developer": "Micro Factory",
     "publisher": "Virgin",
     "difficulty": "not-recommended",
@@ -35134,13 +35134,13 @@ export const games: Game[] = [
       "kanji": "フォーチュンクエスト",
       "romaji": "Dice wo Korogase"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "28-04-1994",
+    "releaseDate": "1994-04-28",
     "developer": "Natsume",
     "publisher": "Zamuse",
     "difficulty": "not-recommended",
@@ -35160,13 +35160,13 @@ export const games: Game[] = [
       "kanji": "平成イヌ物語バウ",
       "romaji": "Pop'n Smash!!"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "28-04-1994",
+    "releaseDate": "1994-04-28",
     "developer": "Unknown",
     "publisher": "Takara",
     "difficulty": "playable",
@@ -35186,13 +35186,13 @@ export const games: Game[] = [
       "kanji": "らんま1/2",
       "romaji": "Chougi Rambuhen"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Fighting",
     "japanExclusive": false,
-    "releaseDate": "28-04-1994",
+    "releaseDate": "1994-04-28",
     "developer": "Atelier Double",
     "publisher": "Shogakukan",
     "difficulty": "playable",
@@ -35212,13 +35212,13 @@ export const games: Game[] = [
       "kanji": "スーパーパチスロ麻雀",
       "romaji": "Super Pachi-Slot Mahjong"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Board Game",
     "japanExclusive": true,
-    "releaseDate": "28-04-1994",
+    "releaseDate": "1994-04-28",
     "developer": "Syscom",
     "publisher": "Nichibutsu",
     "difficulty": "not-recommended",
@@ -35238,13 +35238,13 @@ export const games: Game[] = [
       "kanji": "笑っていいとも!",
       "romaji": "Tamorinpic"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Party Game",
     "japanExclusive": true,
-    "releaseDate": "28-04-1994",
+    "releaseDate": "1994-04-28",
     "developer": "Athena",
     "publisher": "Athena",
     "difficulty": "not-recommended",
@@ -35264,13 +35264,13 @@ export const games: Game[] = [
       "kanji": "スーパーボンバーマン",
       "romaji": "Super Bomberman"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Super_Bomberman.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "28-04-1993",
+    "releaseDate": "1993-04-28",
     "developer": "Produce",
     "publisher": "Hudson",
     "difficulty": "playable",
@@ -35290,13 +35290,13 @@ export const games: Game[] = [
       "kanji": "スーパーダンクスター",
       "romaji": "Super Dunk Star"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "28-04-1993",
+    "releaseDate": "1993-04-28",
     "developer": "C-Lab",
     "publisher": "Sammy",
     "difficulty": "playable",
@@ -35316,13 +35316,13 @@ export const games: Game[] = [
       "kanji": "F-1グランプリ",
       "romaji": "F-1 Grand Prix"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Racing",
     "japanExclusive": true,
-    "releaseDate": "28-04-1992",
+    "releaseDate": "1992-04-28",
     "developer": "Video System",
     "publisher": "Video System",
     "difficulty": "playable",
@@ -35342,13 +35342,13 @@ export const games: Game[] = [
       "kanji": "上海II",
       "romaji": "Dragon's Eye"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": false,
-    "releaseDate": "28-04-1992",
+    "releaseDate": "1992-04-28",
     "developer": "Hot-B",
     "publisher": "Activision",
     "difficulty": "playable",
@@ -35368,13 +35368,13 @@ export const games: Game[] = [
       "kanji": "スーパーアレスタ",
       "romaji": "Super Aleste"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Space_Megaforce.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Shooter",
     "japanExclusive": false,
-    "releaseDate": "28-04-1992",
+    "releaseDate": "1992-04-28",
     "developer": "Compile",
     "publisher": "Toho",
     "difficulty": "playable",
@@ -35394,13 +35394,13 @@ export const games: Game[] = [
       "kanji": "拳闘王",
       "romaji": "Kentou-Ou World Champion"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": false,
-    "releaseDate": "28-04-1992",
+    "releaseDate": "1992-04-28",
     "developer": "Sting",
     "publisher": "SOFEL",
     "difficulty": "playable",
@@ -35420,13 +35420,13 @@ export const games: Game[] = [
       "kanji": "平和パチンコワールド3",
       "romaji": "Heiwa Pachinko World 3"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "26-04-1996",
+    "releaseDate": "1996-04-26",
     "developer": "Unknown",
     "publisher": "Shouei",
     "difficulty": "not-recommended",
@@ -35446,13 +35446,13 @@ export const games: Game[] = [
       "kanji": "一発逆転",
       "romaji": "Keiba Keirin Kyoutei"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "26-04-1996",
+    "releaseDate": "1996-04-26",
     "developer": "Electronics",
     "publisher": "Pow",
     "difficulty": "not-recommended",
@@ -35472,13 +35472,13 @@ export const games: Game[] = [
       "kanji": "Jリーグエキサイトステージ'96",
       "romaji": "J.League Excite Stage '96"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Sports",
     "japanExclusive": true,
-    "releaseDate": "26-04-1996",
+    "releaseDate": "1996-04-26",
     "developer": "A-Max",
     "publisher": "Epoch",
     "difficulty": "playable",
@@ -35498,13 +35498,13 @@ export const games: Game[] = [
       "kanji": "パーラー!ミニ",
       "romaji": "Pachinko Jikki Simulation Game"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "26-04-1996",
+    "releaseDate": "1996-04-26",
     "developer": "Unknown",
     "publisher": "Telenet",
     "difficulty": "not-recommended",
@@ -35524,13 +35524,13 @@ export const games: Game[] = [
       "kanji": "スーパー競艇2",
       "romaji": "Super Kyotei 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "26-04-1996",
+    "releaseDate": "1996-04-26",
     "developer": "Unknown",
     "publisher": "Nichibutsu",
     "difficulty": "not-recommended",
@@ -35550,13 +35550,13 @@ export const games: Game[] = [
       "kanji": "トイストーリー",
       "romaji": "Toy Story"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/Disney's_Toy_Story.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Platform",
     "japanExclusive": false,
-    "releaseDate": "26-04-1996",
+    "releaseDate": "1996-04-26",
     "developer": "Traveller's Tales",
     "publisher": "Disney",
     "difficulty": "playable",
@@ -35576,13 +35576,13 @@ export const games: Game[] = [
       "kanji": "シムシティ",
       "romaji": "SimCity"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/SimCity.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": false,
-    "releaseDate": "26-04-1991",
+    "releaseDate": "1991-04-26",
     "developer": "Nintendo",
     "publisher": "Nintendo",
     "difficulty": "caution",
@@ -35602,13 +35602,13 @@ export const games: Game[] = [
       "kanji": "プロ野球熱闘",
       "romaji": "Puzzle Stadium"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Puzzle",
     "japanExclusive": true,
-    "releaseDate": "25-04-1997",
+    "releaseDate": "1997-04-25",
     "developer": "Unknown",
     "publisher": "Coconuts",
     "difficulty": "playable",
@@ -35628,13 +35628,13 @@ export const games: Game[] = [
       "kanji": "まかまか",
       "romaji": "Maka Maka"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": true,
-    "releaseDate": "24-04-1992",
+    "releaseDate": "1992-04-24",
     "developer": "Office Koukan",
     "publisher": "Sigma",
     "difficulty": "playable",
@@ -35654,13 +35654,13 @@ export const games: Game[] = [
       "kanji": "スーパーバトルタンク",
       "romaji": "War in the Gulf"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Action",
     "japanExclusive": false,
-    "releaseDate": "23-04-1993",
+    "releaseDate": "1993-04-23",
     "developer": "Imagineering",
     "publisher": "Absolute",
     "difficulty": "playable",
@@ -35680,13 +35680,13 @@ export const games: Game[] = [
       "kanji": "竜騎兵団",
       "romaji": "Danzarubu"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Strategy",
     "japanExclusive": true,
-    "releaseDate": "23-04-1993",
+    "releaseDate": "1993-04-23",
     "developer": "Pandora Box",
     "publisher": "Yutaka",
     "difficulty": "not-recommended",
@@ -35706,13 +35706,13 @@ export const games: Game[] = [
       "kanji": "マーヘンアドベンチャーコットン",
       "romaji": "Cotton 100%"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Shooter",
     "japanExclusive": true,
-    "releaseDate": "22-04-1994",
+    "releaseDate": "1994-04-22",
     "developer": "Success",
     "publisher": "Datam",
     "difficulty": "playable",
@@ -35732,13 +35732,13 @@ export const games: Game[] = [
       "kanji": "宮路社長のパチンコ",
       "romaji": "Shouri Sengen 2"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Simulation",
     "japanExclusive": true,
-    "releaseDate": "21-04-1995",
+    "releaseDate": "1995-04-21",
     "developer": "Unknown",
     "publisher": "Planning Office",
     "difficulty": "not-recommended",
@@ -35758,13 +35758,13 @@ export const games: Game[] = [
       "kanji": "リジョイス",
       "romaji": "Aretha Ōkoku no Kanata"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "21-04-1995",
+    "releaseDate": "1995-04-21",
     "developer": "Japan Art Media",
     "publisher": "Yanoman",
     "difficulty": "not-recommended",
@@ -35784,13 +35784,13 @@ export const games: Game[] = [
       "kanji": "新聖刻",
       "romaji": "La Wares"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "RPG",
     "japanExclusive": true,
-    "releaseDate": "21-04-1995",
+    "releaseDate": "1995-04-21",
     "developer": "J-Force",
     "publisher": "Yutaka",
     "difficulty": "not-recommended",
@@ -35810,13 +35810,13 @@ export const games: Game[] = [
       "kanji": "蓬莱学園",
       "romaji": "Horai Gakuen no Bouken!"
     },
-    "coverUrl": "placeholder_url",
+    "coverUrl": "/images/missing.webp",
     "platforms": [
       "Super Nintendo"
     ],
     "genre": "Adventure",
     "japanExclusive": true,
-    "releaseDate": "19-04-1996",
+    "releaseDate": "1996-04-19",
     "developer": "Dynamite",
     "publisher": "J-Wing",
     "difficulty": "not-recommended",
