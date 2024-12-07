@@ -133,7 +133,7 @@ export const translations = {
     'home.gameOfTheDay': 'Juego del Día',
     'games.title': 'Juegos',
     'games.searchPlaceholder': 'Buscar juegos...',
-    'textComplexity': 'Complejidad del texto',
+    'textComplexity': 'Complejidad del Texto',
     'language.switch': 'Cambiar a Inglés',
     'voting.title': '¿No estás de acuerdo con esta clasificación?',
     'voting.description': 'Vota por el nivel de dificultad que consideres más apropiado. La clasificación se actualizará automáticamente después de 50 votos por una sola opción.',

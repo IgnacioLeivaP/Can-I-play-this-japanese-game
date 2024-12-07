@@ -1,6 +1,6 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
-import { ArrowLeft } from 'lucide-react';
+import { ArrowLeft, Shield, Sword, Skull } from 'lucide-react';
 import { useSwipeable } from 'react-swipeable';
 import { Game, GameDifficulty } from '@/types';
 import { useLanguage } from '@/contexts/LanguageContext';
@@ -8,13 +8,28 @@ import { Button } from '@/components/ui/Button';
 import { VotingSection } from '@/components/VotingSection';
 import { DifficultyBanner } from '@/components/DifficultyBanner';
 import { games } from '@/data/games';
+import { cn } from '@/lib/utils';
 
 export function GameDetails() {
   const { id } = useParams();
   const { t } = useLanguage();
   const navigate = useNavigate();
   const [gamesData, setGamesData] = useState(games);
+  const [isMobile, setIsMobile] = useState(false);
   const game = gamesData.find((g) => g.id === id);
+
+  useEffect(() => {
+    const checkIfMobile = () => {
+      setIsMobile(window.innerWidth <= 1024);
+    };
+
+    checkIfMobile();
+    window.addEventListener('resize', checkIfMobile);
+
+    return () => {
+      window.removeEventListener('resize', checkIfMobile);
+    };
+  }, []);
 
   const handleGoBack = () => {
     if (window.history.length > 2) {
@@ -26,9 +41,11 @@ export function GameDetails() {
 
   const swipeHandlers = useSwipeable({
     onSwipedRight: handleGoBack,
-    trackMouse: true,
+    trackMouse: false,
     preventScrollOnSwipe: true,
-    delta: 50
+    delta: 50,
+    swipeDuration: 500,
+    enabled: isMobile
   });
 
   if (!game) {
@@ -66,8 +83,30 @@ export function GameDetails() {
     });
   };
 
+  const getDifficultyIcon = (difficulty: GameDifficulty) => {
+    switch (difficulty) {
+      case 'playable':
+        return <Shield className="h-6 w-6 text-green-400" />;
+      case 'caution':
+        return <Sword className="h-6 w-6 text-yellow-400" />;
+      case 'not-recommended':
+        return <Skull className="h-6 w-6 text-red-400" />;
+    }
+  };
+
+  const getDifficultyStyle = (difficulty: GameDifficulty) => {
+    switch (difficulty) {
+      case 'playable':
+        return 'bg-green-500/10 dark:bg-green-500/20';
+      case 'caution':
+        return 'bg-yellow-500/10 dark:bg-yellow-500/20';
+      case 'not-recommended':
+        return 'bg-red-500/10 dark:bg-red-500/20';
+    }
+  };
+
   return (
-    <div {...swipeHandlers} className="px-4 py-8">
+    <div {...(isMobile ? swipeHandlers : {})} className="px-4 py-8">
       <div className="mx-auto max-w-4xl">
         <Button 
           variant="outline" 
@@ -126,8 +165,14 @@ export function GameDetails() {
               <p className="text-gray-700 dark:text-gray-300">{game.description}</p>
             </div>
 
-            <div className="mb-6 rounded-lg bg-gray-50 p-4 dark:bg-gray-700">
-              <h2 className="mb-2 text-xl font-semibold">{t('game.playabilityReason')}</h2>
+            <div className={cn(
+              "mb-6 rounded-lg p-4 relative",
+              getDifficultyStyle(game.difficulty)
+            )}>
+              <div className="flex justify-between items-start">
+                <h2 className="mb-2 text-xl font-semibold">{t('game.playabilityReason')}</h2>
+                {getDifficultyIcon(game.difficulty)}
+              </div>
               <p className="text-gray-700 dark:text-gray-300">{game.reason}</p>
             </div>
 

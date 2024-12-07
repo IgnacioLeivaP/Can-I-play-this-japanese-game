@@ -36,7 +36,7 @@ export interface Game {
   developer: string;
   publisher: string;
   difficulty: GameDifficulty;
-  textComplexity: TextComplexity;
+  textComplexity: number;
   description: string;
   reason: string;
   votes: GameVotes;
