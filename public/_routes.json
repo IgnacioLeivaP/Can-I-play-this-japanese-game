@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "description": "Routes configuration for SPA",
+  "routes": [
+    {
+      "pattern": "^/(?!.*\\.(?:js|css|svg|png|jpg|jpeg|gif|webp|ico|woff|woff2|eot|ttf|otf)$).*$",
+      "route": "/index.html"
+    }
+  ],
+  "include": ["/*"],
+  "exclude": [
+    "/manifest.json",
+    "/sw.js",
+    "/icons/*",
+    "/images/*"
+  ]
+}

@@ -1,0 +1,20 @@
+name = "can-i-play-this-japanese-game"
+type = "javascript"
+main = "src/index.ts"
+compatibility_date = "2024-12-16"
+
+[env.production]
+vars = { ENVIRONMENT = "production" }
+
+[build]
+command = "npm run build"
+cwd = "./"
+watch_paths = ["src/**/*.{ts,tsx,js,jsx,css}"]
+
+[[build.upload]]
+format = "service-worker"
+
+[build.upload.rules]
+type = "CompiledContentType"
+globs = ["**/*.js", "**/*.css"]
+fallthrough = true
